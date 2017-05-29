@@ -1,0 +1,9 @@
+## OpenLotus ColorSchemes
+
+OpenLotus.colors is Plasma 5 system colors. Place in ~/.local/share/color-schemes for single user or /usr/share/color-schemes for all users.  It would appear that in order for GTK apps to be correctlly colored, this file should be in /usr/share/color-schemes.
+
+openlotus.gpl is a standard color pallette i use for everything from gpick (a theme color design tool and color picker) to inkscape when i'm designing for OpenLotus elements. 
+
+GPLv3 -Use as-is with no warrany. If it blows up your microwave or fails to feed your cat resulting in injury,*  I'm not responsible.
+
+(they cant.. i'm just being silly) 

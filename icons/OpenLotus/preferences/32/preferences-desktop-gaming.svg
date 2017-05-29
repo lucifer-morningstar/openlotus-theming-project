@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15700 custom"
+   sodipodi:docname="preferences-desktop-joystick.svg">
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.859375"
+     inkscape:cx="31.399413"
+     inkscape:cy="11.170575"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4314"
+     inkscape:label="#preferences-desktop-joystick">
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="32"
+       width="32"
+       id="rect4264"
+       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773" />
+    <path
+       sodipodi:nodetypes="cccccccscccccccccccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path7761"
+       d="M 6.4985995,6.7044696 C 4.9076411,6.7450805 2.4383118,19.109716 3.4266113,22.219662 c 0.4807331,1.512739 2.0478603,3.081146 3.6351417,3.075852 2.1965494,-0.007 3.893387,-5.322868 4.643455,-5.377955 3.032901,-0.202845 5.832052,-0.186624 8.587612,0 0.716521,0.08867 2.446988,5.370624 4.643538,5.377955 1.587269,0.0058 3.154408,-1.563113 3.63513,-3.075852 0.996084,-3.134429 -1.490048,-15.6537001 -3.109434,-15.5138775 -6.085713,0.5254632 -13.625576,0.5205876 -18.9260086,0 -0.012451,-0.00116 -0.024902,-0.00116 -0.037469,-0.00116 z m 2.5415679,2.1776405 c 1.7610836,1.45e-5 3.1887206,1.4276509 3.1887346,3.1887349 3.2e-5,1.761116 -1.427619,3.188804 -3.1887346,3.188818 -1.7611484,3.1e-5 -3.1888489,-1.42767 -3.1888173,-3.188818 1.43e-5,-1.761116 1.4277014,-3.1887661 3.1888173,-3.1887349 z m 14.0236436,0 c 1.761084,1.37e-5 3.188722,1.4276509 3.188736,3.1887349 3.2e-5,1.761117 -1.427619,3.188804 -3.188736,3.188818 -1.761117,-1.4e-5 -3.188768,-1.427701 -3.188736,-3.188818 1.4e-5,-1.761084 1.427652,-3.1887212 3.188736,-3.1887349 z m -4.148794,5.5374249 c 0.378749,-1.2e-5 0.685789,0.307028 0.685777,0.685777 -3.3e-5,0.378718 -0.307059,0.685708 -0.685777,0.685696 -0.378718,1.3e-5 -0.685745,-0.306978 -0.685778,-0.685696 -1.2e-5,-0.37875 0.307028,-0.68579 0.685778,-0.685777 z m -6.114234,0.233588 c 0.88585,9e-6 1.603971,0.71813 1.60398,1.60398 -9e-6,0.88585 -0.71813,1.60397 -1.60398,1.603979 -0.885849,-9e-6 -1.60397,-0.71813 -1.603979,-1.603979 9e-6,-0.88585 0.718129,-1.603971 1.603979,-1.60398 z m 4.708387,1.172178 c 0.378749,-1.2e-5 0.685789,0.307028 0.685777,0.685777 1.2e-5,0.378749 -0.307028,0.685789 -0.685777,0.685777 -0.378718,-3.3e-5 -0.685708,-0.307059 -0.685696,-0.685777 -1.2e-5,-0.378718 0.306978,-0.685744 0.685696,-0.685777 z m 2.811601,0 c 0.378749,-1.2e-5 0.685789,0.307028 0.685777,0.685777 1.2e-5,0.378749 -0.307028,0.685789 -0.685777,0.685777 -0.378718,-3.3e-5 -0.685708,-0.307059 -0.685696,-0.685777 -1.2e-5,-0.378718 0.306978,-0.685744 0.685696,-0.685777 z m -1.405754,1.405835 c 0.37875,-1.2e-5 0.68579,0.307028 0.685777,0.685778 -3.3e-5,0.378718 -0.307059,0.685708 -0.685777,0.685696 -0.378718,1.3e-5 -0.685745,-0.306978 -0.685778,-0.685696 -1.3e-5,-0.37875 0.307028,-0.685791 0.685778,-0.685778 z"
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.03003789px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"
+       inkscape:label="#glyph" />
+  </g>
+</svg>

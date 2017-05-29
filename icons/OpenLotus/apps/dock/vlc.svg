@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15645 custom"
+   sodipodi:docname="vlc.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.25"
+     inkscape:cx="51.482501"
+     inkscape:cy="26.303396"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="vlc"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06666)">
+    <ellipse
+       style="fill:#000000;fill-opacity:0.41791286;stroke-width:0.32675928"
+       id="path4262"
+       cx="8.4666672"
+       cy="288.53333"
+       rx="8.4666672"
+       ry="8.4666681"
+       inkscape:label="base"
+       sodipodi:insensitive="true" />
+    <path
+       inkscape:label="glyph"
+       inkscape:connector-curvature="0"
+       id="rect4275"
+       d="m 8.4464062,284.29999 c -0.2296084,1.6e-4 -0.4182662,0.051 -0.428553,0.11549 h -0.0025 l -0.353651,1.04866 h 0.0074 c -0.00489,0.009 -0.00736,0.018 -0.0074,0.0271 0.00111,0.10998 0.3521364,0.19898 0.784655,0.19894 0.4325189,4e-5 0.7835428,-0.089 0.784656,-0.19894 -4.393e-4,-0.009 -0.00331,-0.0181 -0.0086,-0.0271 h 0.0049 l -0.352412,-1.03516 c 6.739e-4,-0.002 0.00111,-0.005 0.0013,-0.007 0.00137,-0.067 -0.1914243,-0.12156 -0.42981,-0.1216 z m -1.224261,2.67324 -0.467846,1.50546 c -0.011514,0.0223 -0.018484,0.0449 -0.02087,0.0675 l -0.0025,0.009 h 0.0012 c -4.807e-4,0.003 -8.808e-4,0.006 -0.0012,0.009 6.494e-4,0.29575 0.7684948,0.53539 1.71544,0.53538 0.9293765,-3.1e-4 1.6889248,-0.23172 1.7129808,-0.52188 h 0.0013 l -0.0013,-0.003 c 9.68e-4,-0.004 0.0018,-0.008 0.0025,-0.0116 -6.44e-4,-0.0355 -0.01257,-0.0709 -0.03561,-0.1056 l -0.4248708,-1.48456 h -0.03807 c -0.1260063,0.17841 -0.6319256,0.30552 -1.216889,0.30576 -0.5845047,-4.1e-4 -1.0897583,-0.12749 -1.215665,-0.30576 z m -1.41459,2.55657 c -0.147282,0 -0.242643,0.13091 -0.265237,0.20016 l -0.922185,2.35047 c -0.0362,0.11098 0.156263,0.20998 0.349964,0.20998 h 6.9931378 c 0.193701,0 0.386166,-0.0989 0.349966,-0.20998 l -0.922187,-2.35047 c -0.02259,-0.0692 -0.117949,-0.20016 -0.265235,-0.20016 h -0.737995 c 0.07742,0.0947 0.117267,0.19434 0.117877,0.29471 -3.38e-4,0.49582 -0.937624,0.89767 -2.0936448,0.89763 -1.1560205,4e-5 -2.0933058,-0.40181 -2.093644,-0.89763 0.00101,-0.1004 0.04127,-0.20002 0.119113,-0.29471 z"
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.25237992"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccsccssccscccccs" />
+  </g>
+</svg>

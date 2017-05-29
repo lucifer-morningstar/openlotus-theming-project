@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15640 custom"
+   sodipodi:docname="glyph-kodi.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.500001"
+     inkscape:cx="16.621911"
+     inkscape:cy="12.794693"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#ffffff;stroke-width:1.46987522"
+     d="m 11.740949,0.30800258 c -0.41067,-0.4106701 -1.071228,-0.4106701 -1.481898,10e-8 L 6.8506853,3.7163686 6.84967,13.550692 15.916653,4.4837075 Z m 5.775343,5.77534292 -5.104429,5.1044285 4.916654,4.916655 4.36348,-4.36348 c 0.41067,-0.410671 0.41067,-1.071228 0,-1.481899 z M 4.5882526,5.9788011 0.30800279,10.259051 c -0.4106703,0.41067 -0.4106698,1.071227 2e-7,1.481897 l 4.17570511,4.175706 0.1045448,-0.104545 z m 6.2239724,6.8086119 -4.7288793,4.728879 4.1757053,4.175705 c 0.41067,0.41067 1.071228,0.41067 1.481898,0 l 3.98793,-3.98793 z"
+     id="rect4261"
+     inkscape:connector-curvature="0"
+     inkscape:label="glyph" />
+</svg>

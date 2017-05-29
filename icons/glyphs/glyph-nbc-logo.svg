@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15698 custom"
+   sodipodi:docname="glyph-nbc-logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.29019608"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.681818"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     id="path3115"
+     d="M 3.5909709,1.2435054 C 3.2965159,1.2434948 2.9589758,1.4574277 2.975496,1.9150783 h 0.1640197 c 0,0 0.087993,3.666e-4 0.099908,0.041673 -0.064531,0.052701 -0.2402335,0.059352 -0.2169122,0.340862 L 3.2981928,4.148312 4.1594303,2.0977975 C 4.3356132,1.6399133 3.9654989,1.257335 3.6374521,1.2456425 c -0.015311,-0.0011 -0.030587,-0.00214 -0.046481,-0.00214 z m -1.4072578,0.00801 C 1.9026059,1.2572384 1.4802921,1.5919609 1.668146,2.1031401 L 2.5357947,4.1488464 2.8403265,1.9973554 C 2.9108528,1.4628018 2.5063381,1.2159009 2.1837131,1.2515195 Z M 1.1135776,2.0235344 C 0.9700171,2.0243648 0.82273268,2.0776067 0.69524689,2.1854172 0.45476624,2.403107 0.36699556,2.8966862 0.80049737,3.1850296 L 2.5299178,4.3716353 1.6916538,2.4504133 C 1.5818379,2.1670806 1.3528447,2.0221505 1.1135776,2.0235344 Z m 3.5892017,0.00534 C 4.4878797,2.0288453 4.2580205,2.1429257 4.1247031,2.4680441 L 3.3099467,4.3657583 5.038833,3.1732757 C 5.4373634,2.8905983 5.3730402,2.4381788 5.1499604,2.2148018 5.0564418,2.1096651 4.8846915,2.0288771 4.7027793,2.0288774 Z M 0.56916002,3.3266102 C 0.34057647,3.3442391 0.13969734,3.4933214 0.04451039,3.7433381 -0.08458417,4.2012752 0.23771138,4.5773279 0.64823145,4.5773279 H 2.6180717 L 0.9939018,3.4430803 C 0.85321028,3.3526812 0.70631016,3.3160328 0.56916002,3.3266102 Z m 4.62781578,0.00374 c -0.1134339,5.3e-5 -0.2333602,0.034384 -0.3515475,0.1127301 L 3.2217929,4.5773279 h 1.9992248 c 0.4101489,0 0.6733402,-0.4229476 0.5561712,-0.8110164 C 5.6987159,3.5223931 5.4664647,3.3306259 5.1969758,3.3303502 Z"
+     style="fill:#d0d0d0;fill-opacity:1;stroke-width:0.26458338"
+     inkscape:label="#glyph"
+     sodipodi:nodetypes="ccccccccccccccsccccsccccccscsccscccscc" />
+</svg>

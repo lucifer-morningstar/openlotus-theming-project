@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15698 custom"
+   sodipodi:docname="google-music.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.25"
+     inkscape:cx="51.482501"
+     inkscape:cy="26.303396"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="#google-music"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06666)">
+    <ellipse
+       style="fill:#000000;fill-opacity:0.41791286;stroke-width:0.32675928"
+       id="path4262"
+       cx="8.4666672"
+       cy="288.53333"
+       rx="8.4666672"
+       ry="8.4666681"
+       inkscape:label="#base"
+       sodipodi:insensitive="true" />
+    <path
+       inkscape:label="#glyph"
+       id="path4857"
+       d="m 8.4666677,284.2643 a 4.2690294,4.2690294 0 0 0 -4.2690296,4.26902 4.2690294,4.2690294 0 0 0 4.2690296,4.26903 4.2690294,4.2690294 0 0 0 4.2690293,-4.26903 4.2690294,4.2690294 0 0 0 -4.2690293,-4.26902 z m -0.2327051,1.2522 h 2.0678114 v 1.47733 H 8.9722508 v 3.33821 c 0,0.75334 -0.6645017,1.37349 -1.4326117,1.37349 -0.7533391,0 -1.3734875,-0.60538 -1.3734875,-1.37349 0,-0.75334 0.6053776,-1.37424 1.3734875,-1.37424 0.2511136,0 0.4875253,0.0744 0.6943235,0.19253 z"
+       style="fill:#ffffff;stroke-width:0.89261526;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

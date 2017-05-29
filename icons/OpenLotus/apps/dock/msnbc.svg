@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15698 custom"
+   sodipodi:docname="msnbc.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.25"
+     inkscape:cx="51.482501"
+     inkscape:cy="26.303396"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4316"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4316"
+     inkscape:label="#msnbc">
+    <ellipse
+       sodipodi:insensitive="true"
+       inkscape:label="#base"
+       ry="8.4666681"
+       rx="8.4666672"
+       cy="8.4666672"
+       cx="8.4666672"
+       id="path4262"
+       style="fill:#000000;fill-opacity:0.41791286;stroke-width:0.32675928" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3115"
+       d="M 9.665472,4.8952762 C 9.146786,4.8952564 8.552205,5.2720963 8.581305,6.0782463 h 0.288923 c 0,0 0.154996,6.615e-4 0.175993,0.0734 -0.113671,0.0928 -0.423176,0.1044501 -0.382095,0.6004401 l 0.485617,3.2600166 1.517082,-3.6119965 c 0.31035,-0.8065802 -0.341611,-1.4804901 -0.919472,-1.50109 -0.02697,-0.00101 -0.05389,-0.004 -0.08188,-0.004 z m -2.478904,0.013999 c -0.495174,0.0108 -1.239086,0.59968 -0.908178,1.5001299 L 7.806765,10.012962 8.343201,6.2230652 C 8.467441,5.2814652 7.754877,4.8465453 7.186568,4.9092854 Z m -1.885059,1.359911 c -0.252883,0.00101 -0.512327,0.0953 -0.736894,0.28517 -0.423611,0.3834502 -0.578221,1.2529102 0.185399,1.76082 L 7.796413,10.405423 6.3198,7.0211663 C 6.126357,6.5220563 5.722983,6.2667664 5.301509,6.2692162 Z m 6.322429,0.01 c -0.378546,-5e-5 -0.783448,0.20091 -1.018288,0.7736102 L 9.170444,10.395712 12.215903,8.2951549 c 0.702015,-0.4979498 0.588708,-1.2948899 0.195752,-1.68837 -0.164737,-0.18521 -0.467276,-0.32751 -0.787717,-0.32751 z M 4.342511,8.5651651 C 3.939857,8.5961651 3.586006,8.858815 3.418333,9.2992345 3.190932,10.105902 3.758659,10.768312 4.481795,10.768312 H 7.951697 L 5.0907,8.7696049 C 4.842869,8.6108962 4.584102,8.5463662 4.342511,8.5649862 Z m 8.151963,0.006 c -0.199816,1.098e-4 -0.411069,0.0606 -0.619256,0.1985799 L 9.01516,10.767732 h 3.521664 c 0.722481,0 1.186096,-0.74503 0.979702,-1.4286065 C 13.3783,8.9094557 12.969182,8.5716656 12.494474,8.5711651 Z"
+       style="fill:#d0d0d0;fill-opacity:1;stroke-width:0.26458338"
+       inkscape:label="#glyph"
+       sodipodi:nodetypes="ccccccccccccccsccccsccccccscsccscccscc" />
+  </g>
+</svg>

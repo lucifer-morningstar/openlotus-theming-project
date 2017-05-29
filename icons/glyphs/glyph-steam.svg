@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15640 custom"
+   sodipodi:docname="glyph-steam.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.081476"
+     inkscape:cx="16.201469"
+     inkscape:cy="12.794693"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.45833331;marker:none;shape-rendering:crispEdges;enable-background:accumulate"
+     id="path3907"
+     inkscape:connector-curvature="0"
+     d="m 18.877708,5.8592885 c -1.587721,0.07127 -2.823361,1.3793413 -2.844865,2.9566265 l -2.001565,2.773743 c -0.0337,1.9e-5 -0.06761,-0.0015 -0.101602,0 -0.408988,0.01836 -0.784656,0.150331 -1.107465,0.355608 L 4.4705019,8.3790252 C 4.2512913,7.3516045 3.3539431,6.5806648 2.265732,6.5806648 1.0134519,6.5806648 5.8939836e-7,7.5974322 5.8939836e-7,8.856556 5.8939836e-7,10.11568 1.0134519,11.142608 2.265732,11.142608 c 0.4493032,0 0.8671893,-0.138085 1.2192274,-0.365769 l 8.3313886,3.566241 c 0.227153,1.070054 1.193315,1.84878 2.316532,1.798361 1.200029,-0.05387 2.139332,-1.03487 2.164129,-2.225091 l 2.722941,-2.052366 c 0.04418,-3.4e-5 0.08751,0.002 0.132082,0 1.647509,-0.07395 2.919222,-1.483 2.844865,-3.1395111 C 21.922541,7.067963 20.525216,5.7853343 18.877708,5.8592885 Z m 0.0508,0.9449014 c 1.127973,-0.050633 2.082741,0.8267871 2.133648,1.960924 0.05091,1.1341373 -0.822789,2.0931751 -1.950765,2.1438081 -1.127972,0.05063 -2.082738,-0.826787 -2.133646,-1.960924 -0.05091,-1.1341369 0.82279,-2.093175 1.950763,-2.1438081 z M 2.0828479,7.0581955 c 0.060395,-0.00617 0.1208692,0 0.1828841,0 0.7362542,0 1.3679441,0.4419379 1.6459572,1.0769846 L 2.7737434,7.6474889 A 1.3006395,1.3006395 0 0 0 2.133649,7.5357262 1.3006395,1.3006395 0 0 0 1.7475601,10.035143 l 1.1785868,0.508011 c -0.2036661,0.08063 -0.4284952,0.121923 -0.6604149,0.121923 -0.9922434,0 -1.79836098,-0.8108545 -1.79836098,-1.808521 0,-0.9353122 0.70952218,-1.7058529 1.61547688,-1.7983605 z m 16.8659811,0.294647 c -0.827188,0.037131 -1.469926,0.7431243 -1.432592,1.574835 0.03733,0.8317108 0.737487,1.4798835 1.564674,1.4427525 C 19.9081,10.333299 20.550838,9.6273054 20.513504,8.7955946 20.47617,7.9638842 19.776017,7.315711 18.948829,7.3528425 Z m -4.998833,4.7041855 c 0.991255,-0.0445 1.834905,0.730568 1.879643,1.727239 0.04474,0.996671 -0.725824,1.845307 -1.717079,1.889803 -0.765987,0.03438 -1.440825,-0.418669 -1.727239,-1.087144 l 1.107465,0.46737 a 1.3006395,1.3006395 0 1 0 1.026183,-2.387654 l -1.137946,-0.487691 c 0.177747,-0.07012 0.367271,-0.112869 0.568973,-0.121923 z"
+     inkscape:label="steam" />
+</svg>

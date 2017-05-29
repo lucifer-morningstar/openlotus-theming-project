@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15697 custom"
+   sodipodi:docname="blender.svg">
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+    <style
+       id="current-color-scheme-7">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.2500004"
+     inkscape:cx="22.613485"
+     inkscape:cy="30.60679"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4314"
+     inkscape:label="#blender"
+     transform="scale(0.25)">
+    <path
+       style="opacity:0.6;fill:#ffffff;stroke:none;stroke-width:10.89785194;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 30.628346,6.4001742 a 3.5622358,3.5612532 0 0 0 -2.499129,1.057246 3.5622358,3.5612532 0 0 0 0.01671,5.0413998 l 8.755292,8.752892 H 12.394154 a 3.5622358,3.5612532 0 0 0 -2.5603565,1.07394 3.5622358,3.5612532 0 0 0 -1.0130106,2.498443 3.5622358,3.5612532 0 0 0 3.5566681,3.555689 h 12.4066 L 7.4571171,45.701942 a 3.5622358,3.5612532 0 0 0 -0.022344,5.041398 3.5622358,3.5612532 0 0 0 5.0650549,0 l 8.950118,-8.953213 a 18.157724,18.152716 0 0 0 5.159675,10.494567 18.157724,18.152716 0 0 0 25.681495,-0.0056 18.157724,18.152716 0 0 0 0.456406,-25.179161 3.5622358,3.5612532 0 0 0 -0.428583,-0.523061 L 33.194192,7.4573992 A 3.5622358,3.5612532 0 0 0 30.628267,6.4001512 Z M 39.61186,28.518894 a 10.93003,10.927016 0 0 1 7.564186,3.199565 10.93003,10.927016 0 0 1 0.0056,15.452499 10.93003,10.927016 0 0 1 -15.462329,0 10.93003,10.927016 0 0 1 0,-15.452499 10.93003,10.927016 0 0 1 7.892578,-3.199565 z m -0.166981,5.853812 a 5.0739637,5.072564 0 0 0 -5.07062,5.074786 5.0739637,5.072564 0 0 0 5.07062,5.069221 5.0739637,5.072564 0 0 0 5.076186,-5.069221 5.0739637,5.072564 0 0 0 -5.076186,-5.074786 z"
+       id="path4343"
+       inkscape:connector-curvature="0"
+       inkscape:label="#glyph" />
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="64"
+       width="64"
+       id="rect4266"
+       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773"
+       sodipodi:insensitive="true" />
+  </g>
+</svg>

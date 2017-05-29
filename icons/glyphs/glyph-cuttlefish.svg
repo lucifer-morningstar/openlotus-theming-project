@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15697 custom"
+   sodipodi:docname="glyph-cuttlefish.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.29019608"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.42008"
+     inkscape:cx="11.16791"
+     inkscape:cy="8.5957287"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="8.19044,5.70653"
+     inkscape:measure-end="5.89111,5.64932" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#ffffff;stroke-width:0.12528555"
+     d="M 2.9104167,-9.4237203e-8 C 1.5312038,2.6425763e-5 0.41314703,0.91854996 0.41314413,2.0515983 0.41394606,2.7107301 0.80018941,3.3294066 1.4513232,3.7145273 v 1.2120725 c 0,0.1501791 -0.147602,0.3206579 -0.2959646,0.3437565 C 1.0045845,5.2939295 0.90131321,5.435058 0.92446021,5.5858981 0.94830521,5.7366994 1.0897251,5.8397371 1.2405779,5.8162207 1.6791703,5.747917 2.0040973,5.3704403 2.0040973,4.9265998 V 3.9609725 c 0.076963,0.024676 0.1553691,0.046199 0.2349291,0.064491 v 1.5189768 c 2.654e-4,0.1525341 0.1238528,0.2761214 0.276387,0.2763871 0.1534331,0.001 0.2784266,-0.1229512 0.2786904,-0.2763871 v -1.44585 c 0.038722,0.00227 0.077504,0.00381 0.1163129,0.00461 0.039566,-3.833e-4 0.079117,-0.00154 0.1186162,-0.00345 v 1.444692 C 3.0292985,5.6969765 3.1528859,5.8205638 3.30542,5.8208295 3.4579541,5.8205638 3.5815414,5.6969765 3.581807,5.5444423 V 4.0271902 c 0.079548,-0.018101 0.1579532,-0.039433 0.2349291,-0.063915 v 0.9633244 c 0,0.4438406 0.3255029,0.8213508 0.7640951,0.889621 C 4.7312732,5.8390396 4.8719367,5.7361786 4.8957973,5.585898 4.9189637,5.4352505 4.8160151,5.2942097 4.6654747,5.2703563 4.5171125,5.2472902 4.370086,5.0767789 4.370086,4.9265998 V 3.7128 C 5.0204015,3.3279338 5.4063472,2.7100352 5.4076892,2.0515983 5.4076862,0.91854996 4.2896296,2.6425763e-5 2.9104167,-9.4237203e-8 Z M 1.4438376,0.78540001 c 0.3190239,-2.328e-5 0.5776265,0.38001659 0.577534,0.84873869 9.25e-5,0.468722 -0.2585101,0.848762 -0.577534,0.8487387 C 1.1248137,2.4829007 0.86621131,2.1028607 0.86630381,1.6341387 0.86621131,1.1654166 1.1248137,0.78537673 1.4438376,0.78540001 Z m 2.933158,0 C 4.6960198,0.78537662 4.9546222,1.1654165 4.9545297,1.6341387 4.9546222,2.1028608 4.6960198,2.4829008 4.3769956,2.4828774 4.0579718,2.4829005 3.7993693,2.1028607 3.7994619,1.6341387 3.7993693,1.1654166 4.0579718,0.78537684 4.3769956,0.78540001 Z M 2.9104167,3.2771446 C 3.0582055,3.2770951 3.177965,3.3318132 3.1775909,3.3992157 3.1772666,3.4663941 3.0577123,3.5207603 2.9104167,3.5207108 2.7631211,3.5207603 2.6435665,3.4663938 2.6432425,3.3992157 2.6428593,3.3318126 2.7626278,3.2770951 2.9104167,3.2771446 Z"
+     id="path4264"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccscccscccccccccccccscccscccccccccccccccccc"
+     inkscape:label="#glyph" />
+</svg>

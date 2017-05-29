@@ -1,0 +1,23 @@
+[ContrastEffect]
+contrast=0.2
+enabled=true
+saturation=1.7
+
+[Desktop Entry]
+Name=OpenLotus
+X-KDE-PluginInfo-Author=PixelPimps and CodePoets
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=breeze-dark
+X-KDE-PluginInfo-Email=slobeck@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=openlotus
+X-KDE-PluginInfo-Version=0.07.47
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultFileSuffix=.png
+defaultHeight=1080
+defaultWallpaperTheme=Next
+defaultWidth=1920

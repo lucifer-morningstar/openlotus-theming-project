@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15719 custom"
-   sodipodi:docname="22x22-icon.svg">
+   sodipodi:docname="printer.svg">
   <defs
      id="ol-defs">
     <style
@@ -236,14 +236,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="g4890"
-     inkscape:label="#"
-     sodipodi:insensitive="true">
+     inkscape:label="#printer"
+     sodipodi:insensitive="true"
+     transform="scale(1.0909091)">
     <rect
        style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
        id="rect4264"
@@ -252,5 +253,23 @@
        x="0"
        y="0"
        inkscape:label="#boundary" />
+    <g
+       id="g4319"
+       transform="matrix(2.7487472,0,0,2.7487472,3.0000004,3.0000004)"
+       inkscape:label="#1"
+       style="opacity:0.6">
+      <path
+         inkscape:label="#1"
+         inkscape:connector-curvature="0"
+         id="rect4916"
+         d="M 0.72760401,1.9999998e-8 V 1.3838947 H 5.0932294 V 1.9999997e-8 Z m 0,4.717541380000002 V 5.8208333 H 5.0932294 V 4.7175414 Z"
+         style="opacity:0.56198348;fill:#d0d0d0;stroke-width:2.88395786" />
+      <path
+         inkscape:label="#2"
+         inkscape:connector-curvature="0"
+         id="rect4918"
+         d="M 0.35966781,1.3838947 C 0.16044771,1.3838947 -9.0000002e-8,1.5438256 -9.0000002e-8,1.7430459 V 4.3578734 C -9.0000002e-8,4.5570935 0.16044771,4.7175413 0.35966781,4.7175413 H 5.4611654 c 0.19922,0 0.359668,-0.1604478 0.359668,-0.3596679 V 1.7430459 c 0,-0.1992203 -0.160448,-0.3591512 -0.359668,-0.3591512 z M 5.1784954,3.9000201 a 0.20814969,0.20814969 0 0 1 0.208256,0.2082562 0.20814969,0.20814969 0 0 1 -0.208256,0.2077392 0.20814969,0.20814969 0 0 1 -0.208256,-0.2077392 0.20814969,0.20814969 0 0 1 0.208256,-0.2082562 z"
+         style="fill:#ffffff;stroke-width:2.88395786" />
+    </g>
   </g>
 </svg>

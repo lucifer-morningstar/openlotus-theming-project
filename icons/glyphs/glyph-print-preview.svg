@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15719 custom"
-   sodipodi:docname="22x22-icon.svg">
+   sodipodi:docname="glyph-print-preview.svg">
   <defs
      id="ol-defs">
     <style
@@ -200,6 +200,51 @@
         color:#0039a9;                                                             
         stop-color:#0039a9;                                                        
       } </style>
+    <style
+       id="current-color-scheme-75">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -208,7 +253,7 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.081476"
+     inkscape:zoom="9.2500004"
      inkscape:cx="13.946372"
      inkscape:cy="12.794693"
      inkscape:document-units="px"
@@ -236,7 +281,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -253,4 +298,15 @@
        y="0"
        inkscape:label="#boundary" />
   </g>
+  <path
+     inkscape:connector-curvature="0"
+     id="rect4264-6"
+     d="M 19.531274,0 V 22 H 2.4687734 V 6.5527344 L 9.0234614,0 Z M 10.56057,9.4394532 c -3.4581966,-7e-7 -6.2617176,4.1054688 -6.2617176,4.1054688 0,0 2.80352,4.105468 6.2617176,4.105468 3.458199,10e-7 6.261719,-4.105468 6.261719,-4.105468 0,0 -2.803519,-4.1054699 -6.261719,-4.1054688 z m 0,1.2324218 a 2.8731991,2.8731991 0 0 1 2.873048,2.873047 2.8731991,2.8731991 0 0 1 -2.873048,2.871094 2.8731991,2.8731991 0 0 1 -2.8730466,-2.871094 2.8731991,2.8731991 0 0 1 2.8730466,-2.873047 z"
+     style="opacity:0.6;vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4273"
+     d="M 2.4687264,6.5527344 9.0234144,-4e-7 v 6.5527348 z"
+     style="vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square"
+     inkscape:label="#corner" />
 </svg>

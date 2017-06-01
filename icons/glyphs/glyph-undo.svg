@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15719 custom"
+   sodipodi:docname="glyph-undo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.37647059"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.323657"
+     inkscape:cx="13.708196"
+     inkscape:cy="13.774752"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="opacity:1;fill:#d0d0d0;stroke-width:4.59192562"
+     d="M 2.5946863,0 0.4090106,1.4992745 2.5767583,2.845985 2.581049,2.1141571 C 3.6267267,2.1114263 4.5485259,2.7996929 4.8444742,3.804157 5.0462425,4.4912879 4.9253532,5.2332407 4.515889,5.8208333 5.3014723,5.0589499 5.6006109,3.9236971 5.2925565,2.8733218 4.934838,1.6642794 3.8482125,0.81807613 2.590128,0.76882198 Z"
+     id="circle813"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccc"
+     inkscape:transform-center-x="-0.69306665"
+     inkscape:transform-center-y="-2.2954247" />
+</svg>

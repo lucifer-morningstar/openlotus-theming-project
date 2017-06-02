@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
-   viewBox="0 0 64 64"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15719 custom"
-   sodipodi:docname="64x64-icon.svg">
+   sodipodi:docname="computer.svg">
   <defs
      id="ol-defs">
     <style
@@ -108,6 +108,51 @@
         color:#0039a9;                                  
         stop-color:#0039a9;                             
       }</style>
+    <style
+       id="current-color-scheme-75">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -120,7 +165,7 @@
      inkscape:cx="22.613485"
      inkscape:cy="30.60679"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="g4302"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -148,12 +193,24 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773"
-     id="rect4266"
-     width="64"
-     height="64"
-     x="0"
-     y="0"
-     inkscape:label="#boundary" />
+  <g
+     id="g4302"
+     inkscape:label="#computer"
+     transform="scale(0.34375)">
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="64"
+       width="64"
+       id="rect4266"
+       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773" />
+    <path
+       inkscape:label="#1"
+       inkscape:connector-curvature="0"
+       id="rect4264"
+       d="m 10.765625,11.070312 c -1.5328867,0 -2.7656252,1.237 -2.7656252,2.769887 v 28.431817 c 0,1.532887 1.2327385,2.769888 2.7656252,2.769888 H 24.37642 v 3.306819 h -3.75 c -1.269404,0 -2.288352,1.018946 -2.288352,2.288352 0,1.269403 1.018948,2.292613 2.288352,2.292613 h 22.74716 c 1.269406,0 2.288352,-1.02321 2.288352,-2.292613 0,-1.269406 -1.018946,-2.288352 -2.288352,-2.288352 h -3.75 V 45.041904 H 53.230114 C 54.763001,45.041904 56,43.804903 56,42.272016 V 13.840199 c 0,-1.532887 -1.236999,-2.769887 -2.769886,-2.769887 z m 2.688732,3.766863 h 37.053636 c 1.101321,0 1.987887,0.886566 1.987887,1.987885 v 22.390111 c 0,1.101319 -0.886566,1.987885 -1.987887,1.987885 H 13.454357 c -1.101318,0 -1.987886,-0.886566 -1.987886,-1.987885 V 16.82506 c 0,-1.101319 0.886568,-1.987885 1.987886,-1.987885 z"
+       style="opacity:0.6;vector-effect:none;fill:#ffffff;stroke-width:3.25388432;stroke-linecap:square"
+       sodipodi:nodetypes="ssssccssssssccssssssssssssss" />
+  </g>
 </svg>

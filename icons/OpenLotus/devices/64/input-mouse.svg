@@ -9,17 +9,62 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15724 custom"
-   sodipodi:docname="glyph-page.svg">
+   sodipodi:docname="input-mouse.svg">
   <defs
      id="ol-defs">
     <style
        id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+    <style
+       id="current-color-scheme-7">      .ColorScheme-Text {
         color:#d0d0d0;
         stop-color:#d0d0d0;
       }
@@ -71,11 +116,11 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.081476"
-     inkscape:cx="23.72652"
-     inkscape:cy="17.927447"
+     inkscape:zoom="9.2500004"
+     inkscape:cx="22.613485"
+     inkscape:cy="30.60679"
      inkscape:document-units="px"
-     inkscape:current-layer="g4287"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -99,27 +144,26 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="g4287"
-     inkscape:label="#"
-     transform="translate(-2.46875)">
+     id="g4294"
+     inkscape:label="#input-mouse">
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="64"
+       width="64"
+       id="rect4266"
+       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773" />
     <path
-       id="rect4264"
-       d="M 5.2375,0 V 11 22 H 21.7 V 6.5527344 L 15.145312,0 Z"
-       style="opacity:0.6;vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square"
        inkscape:connector-curvature="0"
-       inkscape:label="#1"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4273"
-       d="M 21.7,6.5527344 15.145312,-4e-7 v 6.5527348 z"
-       style="vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square"
-       inkscape:label="#2"
-       sodipodi:nodetypes="cccc" />
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:3.27796555;stroke-linecap:square"
+       d="M 30.442112,8 C 22.515535,8.776596 16.361373,15.424469 16.361373,23.5618 v 1.451182 h 14.080739 z m 3.115776,0 V 25.012982 H 47.638627 V 23.5618 C 47.638627,15.424469 41.484465,8.776596 33.557888,8 Z M 16.361373,28.128758 V 40.361373 C 16.361373,49.02426 23.337111,56 32,56 40.662889,56 47.638627,49.02426 47.638627,40.361373 V 28.128758 Z"
+       id="rect4283"
+       inkscape:label="#1" />
   </g>
 </svg>

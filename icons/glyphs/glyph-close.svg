@@ -11,13 +11,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
    height="22"
-   viewBox="0 0 22 22"
+   viewBox="0 0 5.8208332 5.8208335"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15724 custom"
-   sodipodi:docname="glyph-page.svg">
+   inkscape:version="0.92+devel 15719 custom"
+   sodipodi:docname="glyph-close.svg">
   <defs
-     id="ol-defs">
+     id="defs2">
     <style
        id="current-color-scheme">      .ColorScheme-Text {
         color:#d0d0d0;
@@ -66,31 +66,26 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#002266"
+     pagecolor="#002466"
      bordercolor="#ffffff"
-     borderopacity="0.46666667"
-     inkscape:pageopacity="0"
+     borderopacity="0.29019608"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.081476"
-     inkscape:cx="23.72652"
-     inkscape:cy="17.927447"
+     inkscape:zoom="18.681818"
+     inkscape:cx="11"
+     inkscape:cy="11"
      inkscape:document-units="px"
-     inkscape:current-layer="g4287"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
+     units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:snap-page="true" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -99,27 +94,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g4287"
-     inkscape:label="#"
-     transform="translate(-2.46875)">
-    <path
-       id="rect4264"
-       d="M 5.2375,0 V 11 22 H 21.7 V 6.5527344 L 15.145312,0 Z"
-       style="opacity:0.6;vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square"
-       inkscape:connector-curvature="0"
-       inkscape:label="#1"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4273"
-       d="M 21.7,6.5527344 15.145312,-4e-7 v 6.5527348 z"
-       style="vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square"
-       inkscape:label="#2"
-       sodipodi:nodetypes="cccc" />
-  </g>
+  <path
+     style="opacity:1;fill:#ff0000;stroke-width:0.86237407;stroke-linejoin:round"
+     d="m 1.3229165,1.9579167 0.9525001,0.9524997 -0.9525003,0.9525002 0.6350002,0.635 0.9524999,-0.9524997 0.9525002,0.9524997 0.6349995,-0.635 L 3.5454169,2.9104169 4.4979169,1.957917 3.8629166,1.3229168 2.9104169,2.2754167 1.9579166,1.3229165 Z"
+     id="rect4268"
+     inkscape:connector-curvature="0"
+     inkscape:label="#" />
 </svg>

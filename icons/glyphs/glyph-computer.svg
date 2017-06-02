@@ -14,8 +14,8 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15724 custom"
-   sodipodi:docname="glyph-page.svg">
+   inkscape:version="0.92+devel 15719 custom"
+   sodipodi:docname="glyph-computer.svg">
   <defs
      id="ol-defs">
     <style
@@ -72,10 +72,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="13.081476"
-     inkscape:cx="23.72652"
-     inkscape:cy="17.927447"
+     inkscape:cx="16.621911"
+     inkscape:cy="12.794693"
      inkscape:document-units="px"
-     inkscape:current-layer="g4287"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -89,8 +89,7 @@
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:snap-page="true" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -99,27 +98,26 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="g4287"
+     id="g4292"
      inkscape:label="#"
-     transform="translate(-2.46875)">
+     transform="translate(-0.55273419,-4.3873045)">
     <path
+       inkscape:connector-curvature="0"
+       id="rect4284"
+       d="M 3.7531333,8.0473879 H 19.517239 c 0.468533,0 0.845727,0.3771941 0.845727,0.8457268 v 9.5250903 c 0,0.468532 -0.377194,0.845726 -0.845727,0.845726 H 3.7531333 c -0.468532,0 -0.845726,-0.377194 -0.845726,-0.845726 V 8.8931147 c 0,-0.4685327 0.377194,-0.8457268 0.845726,-0.8457268 z"
+       style="opacity:0.38461537;vector-effect:none;fill:#ffffff;stroke-width:1.54299998;stroke-linecap:square"
+       inkscape:label="#2" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;stroke-width:1.49136364;stroke-linecap:square"
+       d="M 1.2675781,2.8144531 C 0.56500512,2.8144531 -1e-8,3.3814113 0,4.0839844 V 17.115234 c 0,0.702573 0.56500512,1.269532 1.2675781,1.269532 h 6.2382813 v 1.515625 h -1.71875 c -0.5818105,0 -1.0488281,0.467017 -1.0488282,1.048828 C 4.7382812,21.531029 5.2052989,22 5.7871094,22 H 16.212891 c 0.581811,0 1.048828,-0.468971 1.048828,-1.050781 0,-0.581811 -0.467017,-1.048828 -1.048828,-1.048828 h -1.71875 v -1.515625 h 6.236328 C 21.433042,18.384766 22,17.817807 22,17.115234 V 4.0839844 C 22,3.3814113 21.433042,2.8144531 20.730469,2.8144531 Z M 3.2011719,5.0664062 H 18.964844 c 0.468533,0 0.845703,0.3771705 0.845703,0.8457032 V 15.4375 c 0,0.468532 -0.37717,0.845703 -0.845703,0.845703 H 3.2011719 c -0.468532,0 -0.8457032,-0.377171 -0.8457031,-0.845703 V 5.9121094 c 0,-0.4685327 0.3771712,-0.8457031 0.8457031,-0.8457032 z"
+       transform="translate(0.55273419,2.9800779)"
        id="rect4264"
-       d="M 5.2375,0 V 11 22 H 21.7 V 6.5527344 L 15.145312,0 Z"
-       style="opacity:0.6;vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square"
        inkscape:connector-curvature="0"
-       inkscape:label="#1"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4273"
-       d="M 21.7,6.5527344 15.145312,-4e-7 v 6.5527348 z"
-       style="vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square"
-       inkscape:label="#2"
-       sodipodi:nodetypes="cccc" />
+       inkscape:label="#1" />
   </g>
 </svg>

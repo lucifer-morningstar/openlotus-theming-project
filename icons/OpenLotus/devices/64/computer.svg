@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15719 custom"
-   sodipodi:docname="64x64-icon.svg">
+   sodipodi:docname="computer.svg">
   <defs
      id="ol-defs">
     <style
@@ -108,6 +108,51 @@
         color:#0039a9;                                  
         stop-color:#0039a9;                             
       }</style>
+    <style
+       id="current-color-scheme-75">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -144,16 +189,41 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773"
-     id="rect4266"
-     width="64"
-     height="64"
-     x="0"
-     y="0"
-     inkscape:label="#boundary" />
+  <g
+     id="g4302"
+     inkscape:label="#computer">
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="64"
+       width="64"
+       id="rect4266"
+       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773" />
+    <g
+       style="opacity:0.6"
+       id="g4292"
+       inkscape:label="#1"
+       transform="matrix(2.1818182,0,0,2.1818182,6.7940343,-1.5723009)">
+      <path
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="rect4284"
+         d="M 3.0518153,7.5219832 H 20.035199 c 0.504772,0 0.91114,0.4063683 0.91114,0.9111397 V 18.694933 c 0,0.504771 -0.406368,0.911139 -0.91114,0.911139 H 3.0518153 c -0.5047707,0 -0.9111389,-0.406368 -0.9111389,-0.911139 V 8.4331229 c 0,-0.5047714 0.4063682,-0.9111397 0.9111389,-0.9111397 z"
+         style="opacity:0.38461537;vector-effect:none;fill:#ffffff;stroke-width:1.54299998;stroke-linecap:square"
+         inkscape:label="#2" />
+      <path
+         sodipodi:nodetypes="ssssccssssssccssssssssssssss"
+         style="opacity:1;vector-effect:none;fill:#ffffff;stroke-width:1.49136364;stroke-linecap:square"
+         d="M 1.2675781,2.8144531 C 0.56500512,2.8144531 0,3.3814113 0,4.0839844 V 17.115234 c 0,0.702573 0.56500512,1.269532 1.2675781,1.269532 h 6.2382813 v 1.515625 h -1.71875 c -0.5818105,0 -1.0488281,0.467017 -1.0488282,1.048828 C 4.7382812,21.531029 5.2052989,22 5.7871094,22 H 16.212891 c 0.581811,0 1.048828,-0.468971 1.048828,-1.050781 0,-0.581811 -0.467017,-1.048828 -1.048828,-1.048828 h -1.71875 v -1.515625 h 6.236328 C 21.433042,18.384766 22,17.817807 22,17.115234 V 4.0839844 C 22,3.3814113 21.433042,2.8144531 20.730469,2.8144531 Z M 2.4999137,4.5409316 H 19.48283 c 0.504772,0 0.911115,0.4063428 0.911115,0.9111143 V 15.71418 c 0,0.504771 -0.406343,0.911114 -0.911115,0.911114 H 2.4999137 c -0.5047707,0 -0.9111142,-0.406343 -0.9111142,-0.911114 V 5.4520459 c 0,-0.5047715 0.4063436,-0.9111143 0.9111142,-0.9111143 z"
+         transform="translate(0.55273419,2.9800779)"
+         id="rect4264"
+         inkscape:connector-curvature="0"
+         inkscape:label="#1" />
+    </g>
+  </g>
 </svg>

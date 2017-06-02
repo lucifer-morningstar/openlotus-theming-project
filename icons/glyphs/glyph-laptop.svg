@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15719 custom"
+   sodipodi:docname="glyph-laptop.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.37647059"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.323657"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4311"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4311"
+     inkscape:label="#"
+     transform="translate(-2.5000001e-8,-6.7157645e-5)">
+    <rect
+       inkscape:label="#2"
+       transform="scale(-1,1)"
+       ry="0.10999493"
+       y="1.2204794"
+       x="-5.3745027"
+       height="2.7720969"
+       width="4.9281726"
+       id="rect4264"
+       style="fill:#d0d0d0;stroke:none;stroke-width:1.23204315;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       inkscape:label="#1"
+       sodipodi:nodetypes="csscc"
+       inkscape:connector-curvature="0"
+       id="rect4266"
+       d="m 0,4.4979274 c 0,0.1764923 0.2009731,0.3185785 0.4506083,0.3185785 h 4.9196169 c 0.2496371,0 0.4506082,-0.1420869 0.4506082,-0.3185785 z"
+       style="fill:#d0d0d0;stroke:none;stroke-width:1.83500004;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+</svg>

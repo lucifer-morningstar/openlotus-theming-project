@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15724 custom"
-   sodipodi:docname="glyph-drop.svg">
+   sodipodi:docname="glyph-eraser.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      borderopacity="0.37647059"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="37.227273"
+     inkscape:zoom="26.323657"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:document-units="px"
@@ -53,9 +53,10 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.36380208"
-     d="M 2.9104166,0 C 2.5564709,1.2387583 1.6900622,2.3036955 1.3081242,3.1562672 1.1744618,3.409754 1.0914062,3.6942574 1.0914062,4.0018229 c 0,1.0077325 0.8112779,1.8190104 1.8190104,1.8190104 1.0077324,0 1.8190105,-0.8112779 1.8190105,-1.8190104 0,-0.3075655 -0.083056,-0.5920689 -0.2167182,-0.8455557 C 4.1307713,2.3036955 3.2643585,1.2387583 2.9104166,0 Z"
-     id="path4836"
+     style="fill:#d0d0d0;stroke:none;stroke-width:0.12036788;stroke-linecap:round;stroke-linejoin:round"
+     d="M 4.1903109,0.22036216 C 3.9023392,-0.06760962 3.4440034,-0.07252988 3.1476314,0.20132739 L 5.6197473,2.6734433 C 5.8936048,2.3770714 5.8886845,1.9187358 5.6007127,1.630764 Z M 2.9706941,0.37403486 0.34457838,3.0001505 2.8209243,5.4764964 5.4470398,2.8503807 Z M 0.17469159,3.1799086 c -0.2458338,0.2966239 -0.23296758,0.7328678 0.0451194,1.0109547 l 1.41040196,1.410402 c 0.2780869,0.2780869 0.7143312,0.2909525 1.0109547,0.045119 z"
+     id="rect4264"
      inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sccssccccccsscc"
      inkscape:label="#" />
 </svg>

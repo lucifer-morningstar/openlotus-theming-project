@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15724 custom"
-   sodipodi:docname="glyph-drop.svg">
+   sodipodi:docname="glyph-ruler.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="0.37647059"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="37.227273"
+     inkscape:zoom="26.323657"
      inkscape:cx="11"
-     inkscape:cy="11"
+     inkscape:cy="11.01669"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -39,7 +39,8 @@
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,9 +54,9 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.36380208"
-     d="M 2.9104166,0 C 2.5564709,1.2387583 1.6900622,2.3036955 1.3081242,3.1562672 1.1744618,3.409754 1.0914062,3.6942574 1.0914062,4.0018229 c 0,1.0077325 0.8112779,1.8190104 1.8190104,1.8190104 1.0077324,0 1.8190105,-0.8112779 1.8190105,-1.8190104 0,-0.3075655 -0.083056,-0.5920689 -0.2167182,-0.8455557 C 4.1307713,2.3036955 3.2643585,1.2387583 2.9104166,0 Z"
-     id="path4836"
+     style="fill:#d0d0d0;stroke-width:0.57157356;stroke-linecap:round;stroke-linejoin:bevel"
+     d="M 1.9549214,-1.0000003e-8 0,1.9549214 3.865912,5.8208334 5.8208334,3.865912 5.322493,3.3675718 4.1813214,4.5087434 3.8298748,4.1572968 4.9710465,3.0161252 4.0636006,2.1086793 2.5146959,3.657584 2.1632495,3.3061373 3.712154,1.7572327 2.8047081,0.84978676 1.6635365,1.9909584 1.31209,1.6395119 2.4532616,0.49834023 Z"
+     id="rect4264"
      inkscape:connector-curvature="0"
      inkscape:label="#" />
 </svg>

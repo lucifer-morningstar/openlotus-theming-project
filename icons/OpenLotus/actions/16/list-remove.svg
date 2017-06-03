@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15700 custom"
+   inkscape:version="0.92+devel 15724 custom"
    sodipodi:docname="list-remove.svg">
   <defs
      id="ol-defs">
@@ -75,7 +75,7 @@
      inkscape:cx="16.621911"
      inkscape:cy="12.794693"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="g4295"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -86,7 +86,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -118,10 +118,10 @@
        style="vector-effect:none;fill:none;stroke-width:4.125;stroke-linecap:round"
        sodipodi:insensitive="true" />
     <path
-       style="opacity:1;fill:#ff0000;stroke-width:4.48162889;stroke-linejoin:round"
-       d="M 3.0000007,6.2000016 7.8000005,10.999999 2.9999999,15.8 l 3.2000003,3.199999 4.7999988,-4.799997 4.8,4.799997 L 18.999996,15.8 14.200001,11.000002 19,6.2000029 15.799999,3.0000026 l -4.799998,4.7999987 -4.8,-4.7999999 z"
+       style="opacity:1;fill:#ff0000;stroke-width:3.08112025;stroke-linejoin:round"
+       d="M 5.4999995,7.700001 8.7999998,10.999999 5.4999989,14.3 7.6999994,16.5 10.999999,13.200002 14.3,16.5 l 2.199998,-2.2 -3.299997,-3.299999 3.3,-3.3 L 14.3,5.5000009 11.000001,8.8 7.7,5.5 Z"
        id="rect4268"
        inkscape:connector-curvature="0"
-       inkscape:label="#glyph" />
+       inkscape:label="#1" />
   </g>
 </svg>

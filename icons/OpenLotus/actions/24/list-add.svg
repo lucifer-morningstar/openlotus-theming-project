@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15724 custom"
-   sodipodi:docname="media-playback-stop.svg">
+   sodipodi:docname="list-add.svg">
   <defs
      id="ol-defs">
     <style
@@ -72,10 +72,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="13.081476"
-     inkscape:cx="16.621911"
-     inkscape:cy="12.794693"
+     inkscape:cx="1.329771"
+     inkscape:cy="18.161163"
      inkscape:document-units="px"
-     inkscape:current-layer="g4295"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -105,8 +105,9 @@
   </metadata>
   <g
      id="g4295"
-     inkscape:label="#media-playback-stop"
-     transform="scale(0.72727273)">
+     inkscape:label="#list-add"
+     style="stroke-width:1.375"
+     transform="scale(1.0909091)">
     <rect
        inkscape:label="#boundary"
        y="0"
@@ -114,15 +115,13 @@
        height="22"
        width="22"
        id="rect4264"
-       style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
+       style="vector-effect:none;fill:none;stroke-width:4.125;stroke-linecap:round"
        sodipodi:insensitive="true" />
-    <rect
-       style="opacity:0.6;fill:#ffffff;stroke:none;stroke-width:3.9489243;stroke-linejoin:round"
-       id="rect4267"
-       width="10.134543"
-       height="10.530465"
-       x="5.9327278"
-       y="5.7933612"
+    <path
+       style="opacity:0.6;fill:#ffffff;stroke-width:3.08111596;stroke-linejoin:round"
+       d="M 9.6250004,5.5 V 9.625 H 5.5000002 v 2.750001 H 9.6250004 V 16.5 H 12.375001 V 12.375001 H 16.5 V 9.625 H 12.375001 V 5.5 Z"
+       id="rect4268"
+       inkscape:connector-curvature="0"
        inkscape:label="#glyph" />
   </g>
 </svg>

@@ -14,8 +14,8 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15698 custom"
-   sodipodi:docname="media-playback-skip-backward.svg">
+   inkscape:version="0.92+devel 15724 custom"
+   sodipodi:docname="media-skip-backward.svg">
   <defs
      id="ol-defs">
     <style
@@ -71,9 +71,9 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.859375"
-     inkscape:cx="31.399413"
-     inkscape:cy="11.170575"
+     inkscape:zoom="13.081476"
+     inkscape:cx="36.967308"
+     inkscape:cy="13.787046"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -86,7 +86,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -104,23 +104,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4294"
-     inkscape:label="#media-playback-skip-backward"
-     transform="scale(0.75)">
+     id="g4295"
+     inkscape:label="#media-skip-backward"
+     style="stroke-width:1.375"
+     transform="scale(1.0909091)">
     <rect
        inkscape:label="#boundary"
        y="0"
        x="0"
-       height="32"
-       width="32"
+       height="22"
+       width="22"
        id="rect4264"
-       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773"
+       style="vector-effect:none;fill:none;stroke-width:4.125;stroke-linecap:round"
        sodipodi:insensitive="true" />
     <path
+       style="opacity:0.6;fill:#ffffff;stroke-width:1.93557477;stroke-linecap:round;stroke-linejoin:round"
+       d="M 5.2255856,5 V 17 H 6.7255858 V 5 Z m 11.5488284,0 -9.5507813,6 9.5507813,6 z"
+       id="path4288"
        inkscape:connector-curvature="0"
-       style="opacity:0.6;fill:#ffffff;stroke-width:2.67636347;stroke-linecap:round;stroke-linejoin:round"
-       d="M 16,3.2 A 12.8,12.8 0 0 1 28.8,16 12.8,12.8 0 0 1 16,28.8 12.8,12.8 0 0 1 3.2,16 12.8,12.8 0 0 1 16,3.2 Z m 8.154546,4.306818 -9.759091,8.422728 9.759091,8.422726 z M 12.993182,7.647728 H 7.845455 v 16.845454 h 5.147727 z"
-       id="path4857"
        inkscape:label="#glyph" />
   </g>
 </svg>

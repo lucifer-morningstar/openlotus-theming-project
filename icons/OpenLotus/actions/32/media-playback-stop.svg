@@ -14,7 +14,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15698 custom"
+   inkscape:version="0.92+devel 15724 custom"
    sodipodi:docname="media-playback-stop.svg">
   <defs
      id="ol-defs">
@@ -71,9 +71,9 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.859375"
-     inkscape:cx="31.399413"
-     inkscape:cy="11.170575"
+     inkscape:zoom="18.363636"
+     inkscape:cx="28.580464"
+     inkscape:cy="13.830227"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -86,7 +86,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -104,22 +104,25 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4294"
-     inkscape:label="#media-playback-stop">
+     id="g4295"
+     inkscape:label="#media-playback-stop"
+     transform="scale(1.4545455)">
     <rect
        inkscape:label="#boundary"
        y="0"
        x="0"
-       height="32"
-       width="32"
+       height="22"
+       width="22"
        id="rect4264"
-       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773"
+       style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
        sodipodi:insensitive="true" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.6;fill:#ffffff;stroke-width:2.67636347;stroke-linecap:round;stroke-linejoin:round"
-       d="M 16,3.2 C 8.930754,3.2 3.2,8.9307556 3.2,16 3.2,23.069245 8.930754,28.8 16,28.8 23.069244,28.8 28.8,23.069245 28.8,16 28.8,8.9307556 23.069244,3.2 16,3.2 Z M 8.48409,8.4840913 H 23.515909 V 23.515909 H 8.48409 Z"
-       id="path4857"
+    <rect
+       style="opacity:0.6;fill:#ffffff;stroke:none;stroke-width:3.9489243;stroke-linejoin:round"
+       id="rect4267"
+       width="10.134543"
+       height="10.530465"
+       x="5.9327278"
+       y="5.7933612"
        inkscape:label="#glyph" />
   </g>
 </svg>

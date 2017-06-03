@@ -14,8 +14,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15700 custom"
-   sodipodi:docname="list-add.svg">
+   inkscape:version="0.92+devel 15724 custom"
+   sodipodi:docname="media-track-add-amarok.svg">
   <defs
      id="ol-defs">
     <style
@@ -75,7 +75,7 @@
      inkscape:cx="16.621911"
      inkscape:cy="12.794693"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="g4295"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -86,7 +86,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -118,8 +118,8 @@
        style="vector-effect:none;fill:none;stroke-width:4.125;stroke-linecap:round"
        sodipodi:insensitive="true" />
     <path
-       style="opacity:0.6;fill:#ffffff;stroke-width:4.48162317;stroke-linejoin:round"
-       d="m 9.0000006,3.0000004 v 6 H 3.0000004 V 13.000001 H 9.0000006 V 19 H 13.000001 V 13.000001 H 19 V 9.0000004 h -5.999999 v -6 z"
+       style="opacity:0.6;fill:#ffffff;stroke-width:3.08111596;stroke-linejoin:round"
+       d="M 9.6250004,5.5 V 9.625 H 5.5000002 v 2.750001 H 9.6250004 V 16.5 H 12.375001 V 12.375001 H 16.5 V 9.625 H 12.375001 V 5.5 Z"
        id="rect4268"
        inkscape:connector-curvature="0"
        inkscape:label="#glyph" />

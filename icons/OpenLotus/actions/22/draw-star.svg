@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15724 custom"
-   sodipodi:docname="kdenlive-select-tool.svg">
+   sodipodi:docname="draw-star.svg">
   <defs
      id="ol-defs">
     <style
@@ -208,8 +208,8 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.98097"
-     inkscape:cx="11"
+     inkscape:zoom="13.081476"
+     inkscape:cx="13.946372"
      inkscape:cy="12.794693"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
@@ -241,9 +241,8 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4878"
-     inkscape:label="edit-select"
-     transform="scale(1.0909091)">
+     id="g4279"
+     inkscape:label="#draw-star">
     <rect
        style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
        id="rect4264"
@@ -252,23 +251,23 @@
        x="0"
        y="0"
        inkscape:label="#boundary" />
-    <g
+    <path
        inkscape:label="#1"
-       id="g4872"
-       transform="matrix(0.87325601,0,0,0.86748676,1.1247748,1.8718935)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4264"
-         d="M 18.833055,2.97457 12.847087,17.848694 10.076966,14.08146 5.18386,18.97457 2.9948382,16.785549 7.9110586,11.869329 3.9589327,8.9605378 Z"
-         style="display:inline;opacity:0.6;fill:#d0d0d0;stroke:#ffffff;stroke-width:1.54376602;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:label="#2" />
-      <path
-         inkscape:label="#1"
-         style="fill:#000000;stroke-width:22.38914871"
-         d="M 18.833055,2.97457 12.847087,17.848694 10.076966,14.08146 5.18386,18.97457 2.9948382,16.785549 7.9110586,11.869329 3.9589327,8.9605378 Z"
-         id="path4868"
-         inkscape:connector-curvature="0"
-         sodipodi:insensitive="true" />
-    </g>
+       inkscape:transform-center-y="-0.79841712"
+       inkscape:transform-center-x="-0.0050767807"
+       d="M 15.925902,18.613281 10.9872,15.751915 6.0373588,18.593966 7.2325361,13.012771 3,9.1834338 8.6773621,8.5954308 11.011353,3.3867195 13.324978,8.6045089 19,9.2146854 14.752537,13.02746 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.5727496"
+       sodipodi:arg1="0.94443102"
+       sodipodi:r2="3.9535058"
+       sodipodi:r1="8.4117136"
+       sodipodi:cy="11.798417"
+       sodipodi:cx="10.994923"
+       sodipodi:sides="5"
+       id="path4275"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.87721616;stroke-linecap:square;stroke-linejoin:round"
+       sodipodi:type="star" />
   </g>
 </svg>

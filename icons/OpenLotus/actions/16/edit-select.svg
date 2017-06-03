@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15724 custom"
-   sodipodi:docname="edit-select.svg">
+   sodipodi:docname="kdenlive-select-tool.svg">
   <defs
      id="ol-defs">
     <style
@@ -208,9 +208,9 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.081476"
-     inkscape:cx="-5.6984647"
-     inkscape:cy="21.943591"
+     inkscape:zoom="22.98097"
+     inkscape:cx="11"
+     inkscape:cy="12.794693"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -255,12 +255,12 @@
     <g
        inkscape:label="#1"
        id="g4872"
-       transform="matrix(0.9003955,0,0,0.9003955,1.076639,1.2150391)">
+       transform="matrix(0.87325601,0,0,0.86748676,1.1247748,1.8718935)">
       <path
          inkscape:connector-curvature="0"
          id="path4264"
          d="M 18.833055,2.97457 12.847087,17.848694 10.076966,14.08146 5.18386,18.97457 2.9948382,16.785549 7.9110586,11.869329 3.9589327,8.9605378 Z"
-         style="display:inline;opacity:0.6;fill:#d0d0d0;stroke:#ffffff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:0.6;fill:#d0d0d0;stroke:#ffffff;stroke-width:1.54376602;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:label="#2" />
       <path
          inkscape:label="#1"

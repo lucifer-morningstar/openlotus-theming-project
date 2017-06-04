@@ -14,7 +14,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15675 custom"
+   inkscape:version="0.92+devel 15725 custom"
    sodipodi:docname="glyph-jump.svg">
   <defs
      id="ol-defs">
@@ -89,7 +89,14 @@
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false">
+    <sodipodi:guide
+       position="-38.527762,43.955285"
+       orientation="-0.70710678,0.70710678"
+       id="guide4921"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -98,7 +105,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,5 +113,6 @@
      inkscape:connector-curvature="0"
      style="vector-effect:none;fill:#ffffff;stroke-width:5.25630045;stroke-linecap:round"
      d="m 12.555081,0.37275952 0.10609,4.03120038 A 15.614714,14.802443 15 0 0 0.46833523,15.012377 a 15.614714,14.802443 15 0 0 -0.147142,6.614863 15.614714,14.802443 15 0 1 0.0479,-0.236124 A 15.614714,14.802443 15 0 1 12.825429,10.748479 l 0.13346,5.191279 4.520555,-4.010665 L 22,7.9184257 17.277543,4.1473035 Z"
-     id="ellipse4295" />
+     id="ellipse4295"
+     inkscape:label="#1" />
 </svg>

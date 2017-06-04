@@ -11,13 +11,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
-   viewBox="0 0 32 32"
+   viewBox="0 0 8.4666664 8.4666669"
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15725 custom"
-   sodipodi:docname="document-print.svg">
+   sodipodi:docname="document-import.svg">
   <defs
-     id="ol-defs">
+     id="defs2">
     <style
        id="current-color-scheme">      .ColorScheme-Text {
         color:#d0d0d0;
@@ -64,7 +64,7 @@
         stop-color:#0039a9;                             
       }</style>
     <style
-       id="current-color-scheme-7">      .ColorScheme-Text {
+       id="current-color-scheme-3">      .ColorScheme-Text {
         color:#d0d0d0;
         stop-color:#d0d0d0;
       }
@@ -109,8 +109,7 @@
         stop-color:#0039a9;                             
       }</style>
     <style
-       type="text/css"
-       id="current-color-scheme-6">      .ColorScheme-Text {
+       id="current-color-scheme-9">      .ColorScheme-Text {
         color:#d0d0d0;
         stop-color:#d0d0d0;
       }
@@ -139,78 +138,32 @@
         stop-color:#002466;
       }
       .ColorScheme-ButtonText {
-        color:#d0d0d0;                                                             
-        stop-color:#d0d0d0;                                                        
-      }                                                                            
-      .ColorScheme-ButtonBackground {                                              
-        color:#232323;                                                             
-        stop-color:#232323;                                                        
-      }                                                                            
-      .ColorScheme-ButtonHover {                                                   
-        color:#005cc7;                                                             
-        stop-color:#005cc7;                                                        
-      }                                                                            
-      .ColorScheme-ButtonFocus{                                                    
-        color:#0039a9;                                                             
-        stop-color:#0039a9;                                                        
-      } </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-5">      .ColorScheme-Text {
         color:#d0d0d0;
         stop-color:#d0d0d0;
       }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;                                                             
-        stop-color:#d0d0d0;                                                        
-      }                                                                            
-      .ColorScheme-ButtonBackground {                                              
-        color:#232323;                                                             
-        stop-color:#232323;                                                        
-      }                                                                            
-      .ColorScheme-ButtonHover {                                                   
-        color:#005cc7;                                                             
-        stop-color:#005cc7;                                                        
-      }                                                                            
-      .ColorScheme-ButtonFocus{                                                    
-        color:#0039a9;                                                             
-        stop-color:#0039a9;                                                        
-      } </style>
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#002266"
+     pagecolor="#002466"
      bordercolor="#ffffff"
-     borderopacity="0.46666667"
-     inkscape:pageopacity="0"
+     borderopacity="0.37647059"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.081476"
-     inkscape:cx="13.946372"
-     inkscape:cy="12.794693"
+     inkscape:zoom="18.613637"
+     inkscape:cx="33.679481"
+     inkscape:cy="17.57556"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -218,10 +171,6 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="0"
@@ -241,22 +190,42 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4890"
-     inkscape:label="#printer"
+     id="g4927"
+     inkscape:label="#document-import"
      transform="scale(1.4545455)">
+    <g
+       style="opacity:1"
+       id="g4287"
+       inkscape:label="#2"
+       transform="matrix(0.19242424,0,0,0.19242424,0.23399655,0.79375007)">
+      <path
+         id="rect4264"
+         d="M 5.2375,0 V 11 22 H 21.7 V 6.5527344 L 15.145312,0 Z"
+         style="opacity:0.29752066;vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square"
+         inkscape:connector-curvature="0"
+         inkscape:label="#1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4273"
+         d="M 21.7,6.5527344 15.145312,-4e-7 v 6.5527348 z"
+         style="opacity:0.62809915;vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square"
+         inkscape:label="#2"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       inkscape:label="#1"
+       inkscape:connector-curvature="0"
+       style="vector-effect:none;fill:#ccff00;fill-opacity:1;stroke-width:0.59938568;stroke-linecap:round"
+       d="M 2.3680208,4.7079128 2.3801178,4.2482275 A 1.68795,1.7805748 75 0 1 0.98974638,3.0385301 1.68795,1.7805748 75 0 1 0.97296748,2.284225 1.68795,1.7805748 75 0 0 0.97842928,2.3111508 1.68795,1.7805748 75 0 0 2.3988485,3.5247505 L 2.4140677,2.9327791 2.929555,3.3901227 3.4450423,3.8474665 2.9065317,4.2774946 Z"
+       id="ellipse4295" />
     <rect
-       style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
-       id="rect4264"
-       width="22"
-       height="22"
+       style="fill:none;stroke:none;stroke-width:0.10583334;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4948"
+       width="5.8208332"
+       height="5.8208332"
        x="0"
        y="0"
        inkscape:label="#boundary" />
-    <path
-       inkscape:connector-curvature="0"
-       id="rect4916"
-       d="M 5,3 V 5.6035156 H 17 V 3 Z M 3.9882812,6.8046875 C 3.4406756,6.8046875 3,7.2434094 3,7.7910156 v 7.1875004 c 0,0.547605 0.4406756,0.988281 0.9882812,0.988281 H 18.011719 C 18.559324,15.966797 19,15.526121 19,14.978516 V 7.7910156 C 19,7.2434094 18.559324,6.8046875 18.011719,6.8046875 Z M 17.193359,13.720703 a 0.57215088,0.57215088 0 0 1 0.04102,0 0.57215088,0.57215088 0 0 1 0.572266,0.572266 0.57215088,0.57215088 0 0 1 -0.572266,0.570312 0.57215088,0.57215088 0 0 1 -0.572266,-0.570312 0.57215088,0.57215088 0 0 1 0.53125,-0.572266 z M 5,17.167969 v 2.232422 h 12 v -2.232422 z"
-       style="opacity:0.6;fill:#d0d0d0;stroke-width:7.92727089"
-       inkscape:label="#1" />
   </g>
 </svg>

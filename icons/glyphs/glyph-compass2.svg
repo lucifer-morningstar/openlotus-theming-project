@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15729 custom"
+   sodipodi:docname="glyph-compass2.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30196078"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.5540862"
+     inkscape:cx="-10.881783"
+     inkscape:cy="33.712061"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>PixelPimps &amp; CodePoets</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:0.24218291"
+     d="M 2.956827,-2.3211382e-8 A 0.65840887,0.65840887 0 0 0 2.338546,0.43408128 c -0.017895,0.037397 -0.034348,0.07659 -0.047448,0.1197609 C 1.7911275,2.201418 0.77378192,5.8119238 0.77378182,5.8119238 c 0,0 1.86296978,-3.2362211 2.71285278,-4.7529312 0.00703,-0.012546 0.012505,-0.024836 0.018855,-0.037296 A 0.65840887,0.65840887 0 0 0 3.6153045,0.65847748 0.65840887,0.65840887 0 0 0 2.956827,-2.3211382e-8 Z M 2.957867,0.33358988 A 0.31746121,0.31746121 0 0 1 3.2752954,0.65101838 0.31746121,0.31746121 0 0 1 2.957867,0.96844678 0.31746121,0.31746121 0 0 1 2.6402313,0.65101838 0.31746121,0.31746121 0 0 1 2.957867,0.33358988 Z M 3.7396277,1.2129413 C 3.5608461,1.5319327 3.3247889,1.9473974 3.0844653,2.3701461 c 0.8822941,1.5678206 1.9625862,3.4506873 1.9625862,3.4506873 0,0 -0.7873243,-2.8059834 -1.3074238,-4.6078921 z"
+     id="path4276"
+     inkscape:label="#"
+     inkscape:connector-curvature="0" />
+</svg>

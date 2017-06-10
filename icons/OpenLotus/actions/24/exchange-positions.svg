@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3500002"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15739 custom"
+   sodipodi:docname="exchange-positions.svg">
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#f2f2f2;
+      }
+      </style>
+    <style
+       id="current-color-scheme-6">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.32156863"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="19.090909"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PixelPimps &amp; CodePoets</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4354"
+     inkscape:label="#exchange-pozitions"
+     transform="matrix(-1.0909091,0,0,-1.0909091,6.35,6.3499998)">
+    <path
+       inkscape:label="#2"
+       id="rect4285"
+       d="M 0.79375002,0.79374997 V 2.1189217 H 2.4312352 V 0.79374997 Z M 3.3895981,3.7019117 V 5.0270834 H 5.0270833 V 3.7019117 Z"
+       style="opacity:0.76499999;fill:#d0d0d0;stroke-width:0.19242424"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#1"
+       id="ellipse4295"
+       d="M 4.0867601,1.1785985 3.6286252,1.3477214 3.17049,1.5164684 l 0.2442887,0.4224314 0.2442885,0.4228071 0.142439,-0.39462 a 1.2614544,1.195834 3.3859699 0 1 0.6840082,1.133499 1.2614544,1.195834 3.3859699 0 1 -0.00226,0.019167 A 1.2614544,1.195834 3.3859699 0 0 4.6403555,2.6090022 1.2614544,1.195834 3.3859699 0 0 3.9758905,1.4848988 Z M 1.337574,2.7010802 a 1.2614544,1.195834 3.38597 0 0 -0.1570964,0.510751 1.2614544,1.195834 3.38597 0 0 0.664465,1.1241033 L 1.7340732,4.6422349 2.1922082,4.4731121 2.6503433,4.304365 2.4060547,3.8819336 2.1617661,3.4591263 2.0193271,3.8537465 A 1.2614544,1.195834 3.38597 0 1 1.335319,2.7202475 1.2614544,1.195834 3.38597 0 1 1.337574,2.7010802 Z"
+       style="vector-effect:none;fill:#00ff00;stroke-width:0.42463687;stroke-linecap:round"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:0.76499999;fill:none;stroke-width:0.26458332"
+       id="rect4356"
+       width="5.8208332"
+       height="5.8208332"
+       x="0"
+       y="0"
+       inkscape:label="#boundary" />
+  </g>
+</svg>

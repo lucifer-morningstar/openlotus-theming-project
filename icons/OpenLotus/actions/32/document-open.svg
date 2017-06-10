@@ -14,7 +14,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15700 custom"
+   inkscape:version="0.92+devel 15739 custom"
    sodipodi:docname="document-open.svg">
   <defs
      id="ol-defs">
@@ -86,7 +86,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -120,7 +120,7 @@
     <path
        inkscape:connector-curvature="0"
        id="rect4311"
-       d="m 3.5,3.8984375 c -0.4155,0 -0.75,0.3345 -0.75,0.75 v 1.3027344 0.00195 11.3984371 c 0,0.4155 0.3345,0.75 0.75,0.75 h 15 c 0.4155,0 0.75,-0.334499 0.75,-0.75 V 6.7011719 c 0,-0.4155 -0.3345,-0.75 -0.75,-0.75 h -6.222656 l -0.78125,-1.3125 C 11.283077,4.2819311 11.124484,3.8984375 10.708984,3.8984375 Z"
+       d="m 3.9830664,4.3558409 c -0.3887381,0 -0.7016933,0.3129552 -0.7016933,0.7016933 v 1.2188268 0.00182 10.664277 c 0,0.388738 0.3129552,0.701694 0.7016933,0.701694 H 18.016934 c 0.388738,0 0.701693,-0.312955 0.701693,-0.701694 V 6.9780544 c 0,-0.3887382 -0.312955,-0.7016934 -0.701693,-0.7016934 H 12.195072 L 11.464141,5.0483976 C 11.264844,4.7146341 11.116466,4.3558409 10.727728,4.3558409 Z"
        style="opacity:0.6;vector-effect:none;fill:#d0d0d0;stroke-width:0.68749994;stroke-linecap:round;stroke-linejoin:round"
        inkscape:label="#glyph" />
   </g>

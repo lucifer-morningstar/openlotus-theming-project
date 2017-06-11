@@ -1,13 +1,17 @@
 # openlotus-theming-project
 Linux unified desktop theming project.
 
-## draft doc. PLease don't refer to this doc for anything yet. I'm getting my thoughts and assets in an order that makes others acessing using and modifying them easy as it cn be. It's an outline, not even a draft yet. "These are not the docs you're looking for." -- Obi Wan Designer 
+## draft doc. 
+PLease don't refer to this doc for anything yet. I'm getting my thoughts and assets in an order that makes others acessing using and modifying them easy as it cn be. It's an outline, not even a draft yet. "These are not the docs you're looking for." -- Obi Wan Designer 
 
-## intro: short blurb about the overall rationale for the project
+## intro: 
+short blurb about the overall rationale for the project
 
-## the problem: visiblity, power consumtion, "busy-ness", eye strain, "visual ergonomics", design efficiency
+## the problem: 
+visiblity, power consumtion, "busy-ness", eye strain, "visual ergonomics", design efficiency
 
-## the solution: color, contrast, reductive shapes, minimalizing, elimination of unnecessary detail from small visual cues
+## the solution: 
+color, contrast, reductive shapes, minimalizing, elimination of unnecessary detail from small visual cues
 
 ## The active components: 
 Cairo-Dock theme

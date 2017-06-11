@@ -2,6 +2,14 @@
 
 Pre0.05
 
-Install from the "Themes" dialog inside Cairo-Dock. Just locate the OpenLotus-Smoke.tar.gz file click OK
 
+Cairo-Dock Theme using icons from the OpenLotus Theming Project
+
+To install:
+	
+* Open the Cairo Dock settings interface by right clicking on the dock and selecting cairo dock > configure.
+
+* Locate the Themes setting and either drag and drop the tar.gz file on to it or load it by clicking "load Theme"
+
+June 11 2017 * ADDED  a few new icons 
 

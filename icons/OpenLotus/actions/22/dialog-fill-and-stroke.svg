@@ -15,7 +15,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15724 custom"
+   inkscape:version="0.92+devel 15739 custom"
    sodipodi:docname="dialog-fill-and-stroke.svg">
   <defs
      id="ol-defs">
@@ -281,7 +281,7 @@
      inkscape:cx="13.946372"
      inkscape:cy="12.794693"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="g5089"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -305,7 +305,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -322,7 +322,7 @@
        inkscape:label="#boundary" />
     <g
        id="g5349"
-       transform="matrix(0.72727273,0,0,0.72727273,3,3)"
+       transform="matrix(0.63636364,0,0,0.63636364,4,4)"
        inkscape:label="#1">
       <g
          inkscape:label="#2"

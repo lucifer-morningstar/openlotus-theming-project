@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15724 custom"
+   inkscape:version="0.92+devel 15739 custom"
    sodipodi:docname="dialog-fill-and-stroke.svg">
   <defs
      id="ol-defs">
@@ -278,10 +278,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="13.081476"
-     inkscape:cx="13.946372"
+     inkscape:cx="1.2566725"
      inkscape:cy="12.794693"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="g5089"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -291,11 +291,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1302"
-     inkscape:window-height="986"
-     inkscape:window-x="140"
-     inkscape:window-y="65"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:snap-page="true" />
   <metadata
      id="metadata5">
@@ -305,13 +305,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="g5089"
-     inkscape:label="#dialog-fill-and-stroke">
+     inkscape:label="#dialog-fill-and-stroke"
+     transform="scale(0.72727273)">
     <rect
        style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
        id="rect4264"
@@ -322,7 +323,7 @@
        inkscape:label="#boundary" />
     <g
        id="g5349"
-       transform="matrix(0.72727273,0,0,0.72727273,3,3)"
+       transform="matrix(0.65597452,0,0,0.65597452,3.7842803,3.7842803)"
        inkscape:label="#1">
       <g
          inkscape:label="#2"

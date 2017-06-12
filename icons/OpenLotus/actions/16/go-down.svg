@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15700 custom"
+   inkscape:version="0.92+devel 15739 custom"
    sodipodi:docname="go-down.svg">
   <defs
      id="ol-defs">
@@ -75,7 +75,7 @@
      inkscape:cx="46.387459"
      inkscape:cy="16.099085"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="g4267"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -86,7 +86,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -120,9 +120,10 @@
     <path
        style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:3.78125;stroke-linejoin:round"
        inkscape:transform-center-y="3.1754278"
-       d="M 11.000001,16.302278 9e-7,0 H 22 Z"
+       d="M 11.000001,19.894456 9e-7,3.5921875 H 22 Z"
        id="path4270"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:label="#1" />
   </g>
 </svg>

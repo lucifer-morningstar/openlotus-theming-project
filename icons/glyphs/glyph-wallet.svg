@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15739 custom"
+   sodipodi:docname="glyph-wallet.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.32156863"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="19.090909"
+     inkscape:cx="31.229167"
+     inkscape:cy="7.4901763"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PixelPimps &amp; CodePoets</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke:none;stroke-width:0.50270832;stroke-linecap:round"
+     d="M 0.9255249,0.42556591 C 0.8409704,0.43387391 0.76582647,0.49151241 0.73897299,0.57801138 L 0.47542317,1.4265384 H 4.2074951 L 1.0118245,0.4343509 C 0.9829915,0.4253999 0.9537096,0.4227966 0.9255249,0.42556591 Z M 0.33951415,1.6875044 C 0.15150898,1.6875044 0,1.8384966 0,2.0265018 v 3.030306 C 0,5.244813 0.15150898,5.3963219 0.33951415,5.3963219 H 5.4813191 c 0.188005,0 0.3395142,-0.1515089 0.3395142,-0.3395141 V 4.280111 H 3.7785807 c -0.4174927,0 -0.7539591,-0.3364664 -0.7539591,-0.7539591 0,-0.4174926 0.3364664,-0.7534424 0.7539591,-0.7534424 H 5.8208333 V 2.0265018 c 0,-0.1880052 -0.1515092,-0.3389974 -0.3395142,-0.3389974 z m 3.44009995,1.547709 c -0.1601189,-2.17e-5 -0.2899264,0.1297858 -0.2899047,0.2899048 -2.2e-5,0.1601189 0.1297858,0.2899264 0.2899047,0.289905 0.160119,2.14e-5 0.2899268,-0.1297861 0.2899048,-0.289905 2.17e-5,-0.160119 -0.1297858,-0.2899265 -0.2899048,-0.2899048 z"
+     id="rect4294"
+     inkscape:connector-curvature="0"
+     inkscape:label="#" />
+</svg>

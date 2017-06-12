@@ -11,39 +11,37 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
    height="22"
-   viewBox="0 0 22 22"
+   viewBox="0 0 5.8208332 5.8208335"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15640 custom"
-   sodipodi:docname="info.svg">
+   inkscape:version="0.92+devel 15739 custom"
+   sodipodi:docname="glyph-info.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#002266"
+     pagecolor="#002466"
      bordercolor="#ffffff"
-     borderopacity="0.46666667"
-     inkscape:pageopacity="0"
+     borderopacity="0.32156863"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.081476"
-     inkscape:cx="16.621911"
-     inkscape:cy="12.794693"
+     inkscape:zoom="19.090909"
+     inkscape:cx="11"
+     inkscape:cy="11"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:showpageshadow="false"
-     borderlayer="true"
      units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,12 +51,33 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PixelPimps &amp; CodePoets</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#ffffff;stroke-width:1.98360932"
-     d="M 11 0 A 11 11 0 0 0 0 11 A 11 11 0 0 0 11 22 A 11 11 0 0 0 22 11 A 11 11 0 0 0 11 0 z M 11.056641 3.5566406 C 11.934584 3.5566185 12.650382 4.2744023 12.650391 5.1523438 C 12.650382 6.0302863 11.934583 6.748069 11.056641 6.7480469 C 10.17872 6.7480368 9.4609466 6.0302641 9.4609375 5.1523438 C 9.4609466 4.2744244 10.17872 3.5566507 11.056641 3.5566406 z M 7.96875 7.7753906 L 12.449219 7.7753906 L 12.449219 16.15625 L 14.03125 16.15625 C 14.595467 16.048836 15.179688 16.541978 15.179688 17.304688 C 15.179688 17.699958 15.027859 18.012899 14.796875 18.197266 C 14.565892 18.381628 14.285309 18.443359 14.033203 18.443359 L 7.9882812 18.443359 C 7.7309443 18.443359 7.4463432 18.378146 7.2128906 18.191406 C 6.979437 18.004669 6.8203125 17.689567 6.8203125 17.292969 C 6.8203125 16.898066 6.9762838 16.58644 7.2070312 16.402344 C 7.4377777 16.218249 7.7167147 16.157952 7.96875 16.15625 L 9.5683594 16.15625 L 9.5683594 10.076172 L 7.96875 10.076172 C 7.7016157 10.076172 7.4190396 10.010456 7.1914062 9.8203125 C 6.9637709 9.6301719 6.8203125 9.316994 6.8203125 8.9257812 C 6.8203125 8.5337608 6.9652819 8.2208689 7.1933594 8.03125 C 7.4214369 7.8416301 7.7041496 7.7753906 7.96875 7.7753906 z "
-     id="path4936"
-     inkscape:label="glyph" />
+     style="fill:#d0d0d0;stroke-width:0.40000001;stroke-linecap:round"
+     d="M 11 0 A 11 11 0 0 0 0 11 A 11 11 0 0 0 11 22 A 11 11 0 0 0 22 11 A 11 11 0 0 0 11 0 z M 12.394531 2.515625 C 12.895334 2.515625 13.315043 2.6878253 13.654297 3.0351562 C 14.001628 3.3824872 14.175781 3.8041497 14.175781 4.296875 C 14.175781 4.7896004 14.001628 5.2093096 13.654297 5.5566406 C 13.306966 5.9039714 12.887257 6.0761719 12.394531 6.0761719 C 11.909883 6.0761719 11.493815 5.9039714 11.146484 5.5566406 C 10.799154 5.2093096 10.625 4.7896004 10.625 4.296875 C 10.625 3.8041497 10.793559 3.3824872 11.132812 3.0351562 C 11.480144 2.6878253 11.901806 2.515625 12.394531 2.515625 z M 12.417969 8.0878906 L 13.144531 8.0878906 L 10.662109 16.703125 C 10.524792 17.19585 10.455078 17.518403 10.455078 17.671875 C 10.455078 17.760727 10.491755 17.845005 10.564453 17.925781 C 10.637151 17.998479 10.714148 18.035156 10.794922 18.035156 C 10.93224 18.035156 11.069715 17.974677 11.207031 17.853516 C 11.570517 17.554649 12.006745 17.013983 12.515625 16.230469 L 12.927734 16.472656 C 11.708037 18.597027 10.410279 19.660156 9.0371094 19.660156 C 8.5120743 19.660156 8.0923649 19.513445 7.7773438 19.222656 C 7.4704 18.92379 7.3164062 18.548041 7.3164062 18.095703 C 7.3164062 17.796837 7.3861197 17.417447 7.5234375 16.957031 L 9.2070312 11.166016 C 9.3685809 10.60867 9.4492187 10.188961 9.4492188 9.90625 C 9.4492188 9.7285467 9.3722215 9.5709115 9.21875 9.4335938 C 9.0652785 9.296276 8.8564005 9.2265625 8.5898438 9.2265625 C 8.4686822 9.2265625 8.3219707 9.2321462 8.1523438 9.2402344 L 8.3105469 8.7539062 L 12.417969 8.0878906 z "
+     transform="scale(0.26458333)"
+     id="path811"
+     inkscape:label="#" />
 </svg>

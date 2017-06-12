@@ -14,7 +14,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15700 custom"
+   inkscape:version="0.92+devel 15739 custom"
    sodipodi:docname="go-down.svg">
   <defs
      id="ol-defs">
@@ -71,9 +71,9 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.081476"
-     inkscape:cx="46.387459"
-     inkscape:cy="16.099085"
+     inkscape:zoom="17.854446"
+     inkscape:cx="34.702288"
+     inkscape:cy="18.758355"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -86,7 +86,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,8 +106,8 @@
   <g
      id="g4267"
      inkscape:label="#go-down"
-     style="fill:none;stroke-width:1.375"
-     transform="matrix(0.72727273,0,0,0.72727273,3,2.9999998)">
+     style="fill:none;stroke-width:1.890625"
+     transform="matrix(0.72727273,0,0,0.72727273,3,3.0000001)">
     <rect
        inkscape:label="#boundary"
        y="-4.125"
@@ -115,14 +115,15 @@
        height="30.25"
        width="30.25"
        id="rect4264"
-       style="vector-effect:none;fill:none;stroke-width:4.125;stroke-linecap:round"
+       style="vector-effect:none;fill:none;stroke-width:5.671875;stroke-linecap:round"
        sodipodi:insensitive="true" />
     <path
-       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:2.75;stroke-linejoin:round"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:3.78125;stroke-linejoin:round"
        inkscape:transform-center-y="3.1754278"
-       d="M 11.000001,16.302278 9e-7,0 H 22 Z"
+       d="M 11.000001,19.894456 9e-7,3.5921875 H 22 Z"
        id="path4270"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:label="#1" />
   </g>
 </svg>

@@ -14,8 +14,8 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15724 custom"
-   sodipodi:docname="color-fill.svg">
+   inkscape:version="0.92+devel 15740 custom"
+   sodipodi:docname="fill-color.svg">
   <defs
      id="ol-defs">
     <style
@@ -212,7 +212,7 @@
      inkscape:cx="13.946372"
      inkscape:cy="12.794693"
      inkscape:document-units="px"
-     inkscape:current-layer="g4304"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -253,11 +253,11 @@
        y="0"
        inkscape:label="#boundary" />
     <path
-       style="opacity:0.6;fill:#ffffff;stroke:none;stroke-width:0.88595062px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 20.451362,9.4836473 C 18.498027,8.429844 16.72915,8.2404612 15.222158,8.8799976 l 0.940626,0.9406269 c 1.070999,0.039719 2.058333,0.4668425 2.924912,1.1939655 z M 8.9856581,3.8120089 1.5486378,11.429056 8.3075713,18.187991 15.744593,10.570945 15.097306,9.9236571 14.464565,9.290916 Z"
-       id="path4266"
-       inkscape:connector-curvature="0"
        inkscape:label="#1"
-       sodipodi:nodetypes="cccccccccccc" />
+       sodipodi:nodetypes="ssccccccssccssssssssssccs"
+       inkscape:connector-curvature="0"
+       id="rect4264-5"
+       d="m 10.978043,2.3012951 c -3.7175002,0 -6.7446781,3.0271773 -6.7446783,6.7446798 v 0.6305574 h 0.04391 V 19.698705 H 17.766636 V 8.9072172 h -0.05093 C 17.640773,5.2540751 14.648725,2.3012951 10.978043,2.3012951 Z m 0,1.2611144 c 2.987964,3e-7 5.395752,2.3750928 5.469515,5.3448077 h -2.294967 v 2.4379868 c 0,0.884559 -0.71205,1.596609 -1.596608,1.596609 h -0.115676 c -0.88456,0 -1.59661,-0.71205 -1.59661,-1.596609 v -1.154915 c 0,-0.2863714 -0.231117,-0.5174909 -0.51749,-0.5174909 -0.28637,0 -0.5174905,0.2311163 -0.5174905,0.5174909 v 0.700741 c 0,0.502822 -0.404306,0.907129 -0.9071292,0.907129 -0.502822,0 -0.8871016,-0.404706 -0.9071291,-0.907129 V 8.9072172 H 5.5015038 C 5.5754668,5.9375023 7.990082,3.5624095 10.978043,3.5624095 Z"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.89929056;stroke-linecap:round" />
   </g>
 </svg>

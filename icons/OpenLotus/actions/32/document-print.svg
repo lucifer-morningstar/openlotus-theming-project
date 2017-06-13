@@ -14,7 +14,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15725 custom"
+   inkscape:version="0.92+devel 15740 custom"
    sodipodi:docname="document-print.svg">
   <defs
      id="ol-defs">
@@ -110,53 +110,13 @@
       }</style>
     <style
        type="text/css"
-       id="current-color-scheme-6">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
+       id="current-color-scheme-6">
+      .ColorScheme-Text {
+        color:#f2f2f2;
       }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;                                                             
-        stop-color:#d0d0d0;                                                        
-      }                                                                            
-      .ColorScheme-ButtonBackground {                                              
-        color:#232323;                                                             
-        stop-color:#232323;                                                        
-      }                                                                            
-      .ColorScheme-ButtonHover {                                                   
-        color:#005cc7;                                                             
-        stop-color:#005cc7;                                                        
-      }                                                                            
-      .ColorScheme-ButtonFocus{                                                    
-        color:#0039a9;                                                             
-        stop-color:#0039a9;                                                        
-      } </style>
+      </style>
     <style
-       type="text/css"
-       id="current-color-scheme-5">      .ColorScheme-Text {
+       id="current-color-scheme-75">      .ColorScheme-Text {
         color:#d0d0d0;
         stop-color:#d0d0d0;
       }
@@ -185,21 +145,21 @@
         stop-color:#002466;
       }
       .ColorScheme-ButtonText {
-        color:#d0d0d0;                                                             
-        stop-color:#d0d0d0;                                                        
-      }                                                                            
-      .ColorScheme-ButtonBackground {                                              
-        color:#232323;                                                             
-        stop-color:#232323;                                                        
-      }                                                                            
-      .ColorScheme-ButtonHover {                                                   
-        color:#005cc7;                                                             
-        stop-color:#005cc7;                                                        
-      }                                                                            
-      .ColorScheme-ButtonFocus{                                                    
-        color:#0039a9;                                                             
-        stop-color:#0039a9;                                                        
-      } </style>
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -208,9 +168,9 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.081476"
-     inkscape:cx="13.946372"
-     inkscape:cy="12.794693"
+     inkscape:zoom="11.234375"
+     inkscape:cx="8"
+     inkscape:cy="12.744623"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -241,22 +201,23 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4890"
-     inkscape:label="#printer"
-     transform="scale(1.4545455)">
+     id="g4301"
+     inkscape:label="#document-print"
+     transform="scale(2)">
     <rect
-       style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
-       id="rect4264"
-       width="22"
-       height="22"
-       x="0"
+       inkscape:label="#boundary"
        y="0"
-       inkscape:label="#boundary" />
+       x="0"
+       height="16"
+       width="16"
+       id="rect4264"
+       style="vector-effect:none;fill:none;stroke-width:2.18181825;stroke-linecap:round" />
     <path
+       style="opacity:0.6;vector-effect:none;fill:#ffffff;stroke:none;stroke-width:0.7321043;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 11.498162,14 c 0.797842,-0.163221 1.592766,-1.302445 1.592766,-2.909091 0,-1.6066469 -1.029014,-2.3381885 -1.592766,-2.9090908 C 10.884485,7.5603585 9.9053963,6.8793744 9.9053963,5.2727277 c 0,-1.6066465 0.7949227,-2.7458699 1.5927657,-2.9090912 l -6.9963242,-1e-7 C 3.7039953,2.5268578 2.9090717,3.6660812 2.9090717,5.2727277 c 0,1.6066467 0.9790885,2.2876308 1.5927661,2.9090905 0.5637527,0.5709023 1.592765,1.3024439 1.592765,2.9090908 0,1.606646 -0.7949237,2.74587 -1.592765,2.909091 z"
+       id="path4290"
        inkscape:connector-curvature="0"
-       id="rect4916"
-       d="M 5,3 V 5.6035156 H 17 V 3 Z M 3.9882812,6.8046875 C 3.4406756,6.8046875 3,7.2434094 3,7.7910156 v 7.1875004 c 0,0.547605 0.4406756,0.988281 0.9882812,0.988281 H 18.011719 C 18.559324,15.966797 19,15.526121 19,14.978516 V 7.7910156 C 19,7.2434094 18.559324,6.8046875 18.011719,6.8046875 Z M 17.193359,13.720703 a 0.57215088,0.57215088 0 0 1 0.04102,0 0.57215088,0.57215088 0 0 1 0.572266,0.572266 0.57215088,0.57215088 0 0 1 -0.572266,0.570312 0.57215088,0.57215088 0 0 1 -0.572266,-0.570312 0.57215088,0.57215088 0 0 1 0.53125,-0.572266 z M 5,17.167969 v 2.232422 h 12 v -2.232422 z"
-       style="opacity:0.6;fill:#d0d0d0;stroke-width:7.92727089"
+       sodipodi:nodetypes="csssccssscc"
        inkscape:label="#1" />
   </g>
 </svg>

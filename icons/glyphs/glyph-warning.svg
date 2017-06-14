@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel 15740 custom"
+   sodipodi:docname="glyph-warning.svg">
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.32156863"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="19.090909"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PixelPimps &amp; CodePoets</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#d0d0d0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.68389249;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="m 10.929688,1.2949219 c -0.453757,0.02336 -0.866128,0.2747417 -1.0937505,0.6679687 l -9.65625,16.7343754 c -0.5120225,0.893207 0.13060342,2.006764 1.1601563,2.009765 H 20.660156 c 1.029552,-0.003 1.672179,-1.116558 1.160156,-2.009765 L 12.164062,1.9628906 C 11.911147,1.5258103 11.433933,1.2676819 10.929688,1.2949219 Z m -0.03111,2.7407711 c 1.079993,0 2.046499,0.8723186 1.947792,1.9477926 l -0.788979,8.6115294 c -0.06147,0.669765 -0.516665,1.165538 -1.158813,1.165538 -0.64215,0 -1.0973439,-0.495774 -1.1588136,-1.165538 L 8.9485477,5.9834856 C 8.8498412,4.9080116 9.8185876,4.035693 10.898582,4.035693 Z m 0.0067,12.829879 c 0.836851,-7.1e-5 1.51527,0.678349 1.515198,1.5152 0.0013,0.837725 -0.677471,1.517511 -1.515198,1.517439 -0.838602,0.0013 -1.5187532,-0.678837 -1.5174404,-1.517439 -7.28e-5,-0.837728 0.6797144,-1.516511 1.5174404,-1.5152 z"
+     transform="scale(0.26458333)"
+     id="path4280"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccsccsccsccccc"
+     inkscape:label="#" />
+</svg>

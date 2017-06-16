@@ -37,7 +37,7 @@
      inkscape:cx="11.587015"
      inkscape:cy="11.490669"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="g4303"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
         <dc:creator>
@@ -103,6 +103,6 @@
        inkscape:connector-curvature="0"
        id="path4296"
        d="m 3.8347726,0.87707089 c 0.7950367,0 1.3665991,1.20787271 1.3665992,2.34137081 0,1.1334982 -0.8861288,1.7253208 -2.2302338,1.7253208 -1.3441051,0 -2.35167647,-0.6162984 -2.35167643,-1.7497965 3e-8,-1.133498 0.57680843,-2.31955144 1.34586263,-2.31689511 0.7690542,0.002656 1.5783849,0.87137691 1.5858161,1.79253451 0.00716,0.8872535 -1.2348058,0.8986195 -1.2187959,0 0.01601,-0.8986196 0.7073915,-1.79253451 1.5024282,-1.79253451 z"
-       style="opacity:1;fill:#d0d0d0;fill-opacity:0.41013022;fill-rule:nonzero;stroke:#d0d0d0;stroke-width:0.16664179;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:1;fill:#d0d0d0;fill-opacity:0.41013022;fill-rule:nonzero;stroke:none;stroke-width:0.16664179;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>

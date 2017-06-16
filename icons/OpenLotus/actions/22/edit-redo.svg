@@ -14,7 +14,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15719 custom"
+   inkscape:version="0.92+devel 15740 custom"
    sodipodi:docname="edit-redo.svg">
   <defs
      id="ol-defs">
@@ -110,96 +110,11 @@
       }</style>
     <style
        type="text/css"
-       id="current-color-scheme-6">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
+       id="current-color-scheme-6">
+      .ColorScheme-Text {
+        color:#f2f2f2;
       }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;                                                             
-        stop-color:#d0d0d0;                                                        
-      }                                                                            
-      .ColorScheme-ButtonBackground {                                              
-        color:#232323;                                                             
-        stop-color:#232323;                                                        
-      }                                                                            
-      .ColorScheme-ButtonHover {                                                   
-        color:#005cc7;                                                             
-        stop-color:#005cc7;                                                        
-      }                                                                            
-      .ColorScheme-ButtonFocus{                                                    
-        color:#0039a9;                                                             
-        stop-color:#0039a9;                                                        
-      } </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-5">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;                                                             
-        stop-color:#d0d0d0;                                                        
-      }                                                                            
-      .ColorScheme-ButtonBackground {                                              
-        color:#232323;                                                             
-        stop-color:#232323;                                                        
-      }                                                                            
-      .ColorScheme-ButtonHover {                                                   
-        color:#005cc7;                                                             
-        stop-color:#005cc7;                                                        
-      }                                                                            
-      .ColorScheme-ButtonFocus{                                                    
-        color:#0039a9;                                                             
-        stop-color:#0039a9;                                                        
-      } </style>
+      </style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -208,9 +123,9 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.081476"
-     inkscape:cx="13.946372"
-     inkscape:cy="12.794693"
+     inkscape:zoom="18.252194"
+     inkscape:cx="32.681354"
+     inkscape:cy="17.518574"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -241,24 +156,23 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4302"
-     inkscape:label="#edit-redo">
+     id="g4300"
+     inkscape:label="#edit-redo"
+     style="stroke-width:0.72727275"
+     transform="matrix(0,1.375,-1.375,0,22,0)">
     <rect
-       style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
-       id="rect4264"
-       width="22"
-       height="22"
-       x="0"
+       inkscape:label="#boundary"
        y="0"
-       inkscape:label="#boundary" />
+       x="0"
+       height="16"
+       width="16"
+       id="rect4264"
+       style="vector-effect:none;fill:none;stroke-width:1.58677685;stroke-linecap:round" />
     <path
-       inkscape:label="#1"
-       style="opacity:0.6;fill:#d0d0d0;stroke-width:12.62204266"
-       d="m 11.867861,3 6.00787,4.1211268 -5.95859,3.7017672 -0.01179,-2.0116103 C 9.0310469,8.8037737 6.4972539,10.695648 5.6837659,13.456666 5.1291559,15.345415 5.4614509,17.384856 6.5869639,19 4.4275939,16.905775 3.6053379,13.785252 4.4521019,10.898036 5.4353789,7.5746835 8.4222379,5.2486846 11.880395,5.1132974 Z"
-       id="circle813"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:1.09090912;stroke-linecap:square"
+       d="M 8,4.6335938 4,11.766406 h 8 z"
+       id="path4293"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:transform-center-x="0.50404854"
-       inkscape:transform-center-y="-1.6693998" />
+       inkscape:label="#1" />
   </g>
 </svg>

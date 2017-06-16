@@ -14,8 +14,8 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15724 custom"
-   sodipodi:docname="kdenlive-select-tool.svg">
+   inkscape:version="0.92+devel 15740 custom"
+   sodipodi:docname="edit-select.svg">
   <defs
      id="ol-defs">
     <style
@@ -208,11 +208,11 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.98097"
-     inkscape:cx="11"
-     inkscape:cy="12.794693"
+     inkscape:zoom="18.252194"
+     inkscape:cx="36.124353"
+     inkscape:cy="18.43668"
      inkscape:document-units="px"
-     inkscape:current-layer="g4878"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -242,32 +242,28 @@
   </metadata>
   <g
      id="g4878"
-     inkscape:label="edit-select">
+     inkscape:label="edit-select"
+     style="stroke-width:0.72727275">
     <rect
-       style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
+       style="vector-effect:none;fill:none;stroke-width:2.18181825;stroke-linecap:round"
        id="rect4264"
        width="22"
        height="22"
        x="0"
        y="0"
        inkscape:label="#boundary" />
-    <g
-       inkscape:label="#1"
-       id="g4872"
-       transform="matrix(0.87325601,0,0,0.86748676,1.1247748,1.8718935)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4264"
-         d="M 18.833055,2.97457 12.847087,17.848694 10.076966,14.08146 5.18386,18.97457 2.9948382,16.785549 7.9110586,11.869329 3.9589327,8.9605378 Z"
-         style="display:inline;opacity:0.6;fill:#d0d0d0;stroke:#ffffff;stroke-width:1.54376602;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:label="#2" />
-      <path
-         inkscape:label="#1"
-         style="fill:#000000;stroke-width:22.38914871"
-         d="M 18.833055,2.97457 12.847087,17.848694 10.076966,14.08146 5.18386,18.97457 2.9948382,16.785549 7.9110586,11.869329 3.9589327,8.9605378 Z"
-         id="path4868"
-         inkscape:connector-curvature="0"
-         sodipodi:insensitive="true" />
-    </g>
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#d0d0d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.30000007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 19.251474,2.7508085 17.29726,3.5313269 3.0184079,9.2279464 l 3.851345,2.8108646 -4.1216442,4.085656 3.151253,3.123739 4.1031763,-4.067351 2.714745,3.662945 z M 16.011241,5.96275 12.255592,15.217468 10.20904,12.459859 5.8993617,16.731907 5.2865714,16.124467 9.6163964,11.832448 6.6766819,9.6872708 Z"
+       id="path4279"
+       inkscape:connector-curvature="0"
+       inkscape:label="#2" />
+    <path
+       sodipodi:insensitive="true"
+       inkscape:connector-curvature="0"
+       id="path4868"
+       d="M 17.632237,4.3567457 12.486788,17.030687 10.105632,13.820703 5.8995905,17.990023 4.0179397,16.124802 8.2438503,11.93579 4.8466611,9.457268 Z"
+       style="display:inline;fill:#000000;stroke-width:14.17219448"
+       inkscape:label="#1" />
   </g>
 </svg>

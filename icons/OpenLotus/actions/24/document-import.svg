@@ -11,13 +11,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
    height="24"
-   viewBox="0 0 6.3499998 6.3500002"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15725 custom"
+   inkscape:version="0.92+devel 15740 custom"
    sodipodi:docname="document-import.svg">
   <defs
-     id="defs2">
+     id="ol-defs">
     <style
        id="current-color-scheme">      .ColorScheme-Text {
         color:#d0d0d0;
@@ -64,7 +64,7 @@
         stop-color:#0039a9;                             
       }</style>
     <style
-       id="current-color-scheme-3">      .ColorScheme-Text {
+       id="current-color-scheme-7">      .ColorScheme-Text {
         color:#d0d0d0;
         stop-color:#d0d0d0;
       }
@@ -109,61 +109,57 @@
         stop-color:#0039a9;                             
       }</style>
     <style
-       id="current-color-scheme-9">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
+       type="text/css"
+       id="current-color-scheme-6">
+      .ColorScheme-Text {
+        color:#f2f2f2;
       }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
+      </style>
+    <linearGradient
+       id="a"
+       y1="392.35999"
+       y2="365.35999"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       gradientTransform="translate(471.31814,349.93102)">
+      <stop
+         stop-color="#ffffff"
+         stop-opacity="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#ffffff"
+         stop-opacity=".2"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4314"
+       y1="392.35999"
+       y2="365.35999"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       gradientTransform="translate(309.57,152.44)">
+      <stop
+         stop-color="#ffffff"
+         stop-opacity="0"
+         id="stop4310" />
+      <stop
+         offset="1"
+         stop-color="#ffffff"
+         stop-opacity=".2"
+         id="stop4312" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#002466"
+     pagecolor="#002266"
      bordercolor="#ffffff"
-     borderopacity="0.37647059"
-     inkscape:pageopacity="1"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.613637"
-     inkscape:cx="33.679481"
-     inkscape:cy="17.57556"
+     inkscape:zoom="11.234375"
+     inkscape:cx="55.18265"
+     inkscape:cy="23.427212"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -171,6 +167,10 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="0"
@@ -190,42 +190,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4927"
+     id="g4330"
      inkscape:label="#document-import"
-     transform="scale(1.0909091)">
-    <g
-       style="opacity:1"
-       id="g4287"
-       inkscape:label="#2"
-       transform="matrix(0.19242424,0,0,0.19242424,0.23399655,0.79375007)">
-      <path
-         id="rect4264"
-         d="M 5.2375,0 V 11 22 H 21.7 V 6.5527344 L 15.145312,0 Z"
-         style="opacity:0.29752066;vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square"
-         inkscape:connector-curvature="0"
-         inkscape:label="#1"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4273"
-         d="M 21.7,6.5527344 15.145312,-4e-7 v 6.5527348 z"
-         style="opacity:0.62809915;vector-effect:none;fill:#d0d0d0;stroke-width:1.10000002;stroke-linecap:square"
-         inkscape:label="#2"
-         sodipodi:nodetypes="cccc" />
-    </g>
-    <path
-       inkscape:label="#1"
-       inkscape:connector-curvature="0"
-       style="vector-effect:none;fill:#ccff00;fill-opacity:1;stroke-width:0.59938568;stroke-linecap:round"
-       d="M 2.3680208,4.7079128 2.3801178,4.2482275 A 1.68795,1.7805748 75 0 1 0.98974638,3.0385301 1.68795,1.7805748 75 0 1 0.97296748,2.284225 1.68795,1.7805748 75 0 0 0.97842928,2.3111508 1.68795,1.7805748 75 0 0 2.3988485,3.5247505 L 2.4140677,2.9327791 2.929555,3.3901227 3.4450423,3.8474665 2.9065317,4.2774946 Z"
-       id="ellipse4295" />
+     transform="scale(1.5)"
+     style="stroke-width:0.66666669">
     <rect
-       style="fill:none;stroke:none;stroke-width:0.10583334;stroke-linecap:round;stroke-linejoin:round"
-       id="rect4948"
-       width="5.8208332"
-       height="5.8208332"
-       x="0"
+       inkscape:label="#boundary"
        y="0"
-       inkscape:label="#boundary" />
+       x="0"
+       height="16"
+       width="16"
+       id="rect4264"
+       style="vector-effect:none;fill:none;stroke-width:1.4545455;stroke-linecap:round" />
+    <path
+       style="color:#000000;opacity:0.6;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeee;stroke-width:0.52380979;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       d="M 3.2858666,2 V 14 H 6.7141337 12.714133 V 5 L 9.7141334,2 H 6.4371452 V 7.953125 C 6.4399252,8.3071 6.706384,8.577414 7.0603695,8.577414 H 7.9627133 V 6.899527 L 11.431463,9.160156 7.9627133,11.42185 V 9.880326 H 6.8643468 c -0.9322745,0 -1.6992187,-0.766944 -1.6992187,-1.699218 V 2 Z"
+       id="use15"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccscccccsscc"
+       inkscape:label="#" />
   </g>
 </svg>

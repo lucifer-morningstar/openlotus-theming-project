@@ -341,7 +341,7 @@
      inkscape:cx="53.46392"
      inkscape:cy="22.140852"
      inkscape:document-units="px"
-     inkscape:current-layer="g4287"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -360,8 +360,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid4303"
-       originx="0"
-       originy="7.2050781e-07" />
+       originx="-8.8817842e-16"
+       originy="1.7185547e-07" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -371,7 +371,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -379,9 +379,9 @@
      id="g4287"
      transform="matrix(1,0,0,-1,-10,19.005859)"
      inkscape:label="#format-join-node"
-     style="stroke-width:1">
+     style="stroke-width:1.375">
     <rect
-       style="vector-effect:none;fill:none;stroke-width:2.18181825;stroke-linecap:round"
+       style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
        id="rect4264"
        width="22"
        height="22"
@@ -389,23 +389,16 @@
        y="-2.9941406"
        inkscape:label="#boundary" />
     <path
-       style="opacity:0.4;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1"
+       style="opacity:0.4;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1.375"
        d="M 12.75,0.86253363 V 2.6500338 h 6.1875 V 0.86253363 Z m 10.3125,0 V 2.6500338 H 29.25 V 0.86253363 Z"
        id="path4295"
        inkscape:connector-curvature="0"
        inkscape:label="#3" />
     <path
-       style="opacity:0.78723402;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1"
+       style="opacity:0.78723402;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1.375"
        d="M 18.9375,-0.30590821 V 3.8190918 h 4.125 V -0.30590821 Z M 12.75,12.192627 v 4.125 h 4.125 v -4.125 z m 12.375,0 v 4.125 h 4.125 v -4.125 z"
        id="path4293"
        inkscape:connector-curvature="0"
        inkscape:label="#2" />
-    <path
-       id="path4276"
-       class="ColorScheme-Highlight"
-       d="M 16.999499,11.005859 21,5.0058588 25.000501,11.005859 Z"
-       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       inkscape:connector-curvature="0"
-       inkscape:label="#1" />
   </g>
 </svg>

@@ -230,9 +230,9 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.252194"
-     inkscape:cx="30.080238"
-     inkscape:cy="17.301299"
+     inkscape:zoom="12.90625"
+     inkscape:cx="45.509446"
+     inkscape:cy="27.420107"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -264,7 +264,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="stroke-width:0.91666669"
+     style="stroke-width:1.375"
      inkscape:label="#format-disconnect-node"
      transform="matrix(1.0909091,0,0,1.0909091,-10.909091,3.2663353)"
      id="g4287">
@@ -275,23 +275,16 @@
        height="22"
        width="22"
        id="rect4264-9"
-       style="display:inline;vector-effect:none;fill:none;stroke-width:2;stroke-linecap:round" />
+       style="display:inline;vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round" />
     <path
-       style="opacity:0.78723402;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.66666669"
+       style="opacity:0.78723402;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1"
        d="m 2,1.9550781 v 3 h 3 v -3 z m 9,0 v 3 h 3 v -3 z M 2,11.044922 v 3 h 3 v -3 z m 9,0 v 3 h 3 v -3 z"
        transform="matrix(1.375,0,0,1.375,10,-2.9941406)"
        id="path4293"
        inkscape:connector-curvature="0"
        inkscape:label="#2" />
     <path
-       inkscape:label="#1"
-       inkscape:connector-curvature="0"
-       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.91666669"
-       d="M 16.875,4.9124964 21,11.099222 25.125,4.9124964 Z"
-       class="ColorScheme-Highlight"
-       id="path4276" />
-    <path
-       style="opacity:0.65248228;fill:#d0d0d0;fill-opacity:0.69426419;stroke-width:1.19166648;stroke-linecap:square"
+       style="opacity:0.65248228;fill:#d0d0d0;fill-opacity:0.69426419;stroke-width:1.78749979;stroke-linecap:square"
        d="m 16.875,0.7940918 h 8.25 v 1.6662569 h -8.25 z"
        id="rect4874"
        inkscape:connector-curvature="0"

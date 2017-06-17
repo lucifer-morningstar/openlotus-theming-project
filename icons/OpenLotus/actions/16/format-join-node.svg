@@ -371,7 +371,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -400,12 +400,5 @@
        id="path4293"
        inkscape:connector-curvature="0"
        inkscape:label="#2" />
-    <path
-       id="path4276"
-       class="ColorScheme-Highlight"
-       d="M 16.999499,11.005859 21,5.0058588 25.000501,11.005859 Z"
-       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.37499988"
-       inkscape:connector-curvature="0"
-       inkscape:label="#1" />
   </g>
 </svg>

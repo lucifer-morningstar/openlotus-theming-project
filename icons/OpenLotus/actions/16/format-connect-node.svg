@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
    inkscape:version="0.92+devel 15740 custom"
@@ -230,9 +230,9 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.252194"
-     inkscape:cx="30.080238"
-     inkscape:cy="17.301299"
+     inkscape:zoom="9.126097"
+     inkscape:cx="63.363333"
+     inkscape:cy="35.02165"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -266,7 +266,7 @@
   <g
      style="stroke-width:1.375"
      inkscape:label="#format-connect-node"
-     transform="matrix(0.72727273,0,0,-0.72727273,-7.2727273,13.822443)"
+     transform="matrix(1.0909091,0,0,-1.0909091,-10.909091,20.733665)"
      id="g4287">
     <rect
        inkscape:label="#boundary"
@@ -283,13 +283,6 @@
        id="path4293"
        inkscape:connector-curvature="0"
        inkscape:label="#2" />
-    <path
-       inkscape:label="#1"
-       inkscape:connector-curvature="0"
-       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.375"
-       d="M 16.875,11.099222 21,4.9124964 25.125,11.099222 Z"
-       class="ColorScheme-Highlight"
-       id="path4276" />
     <path
        style="opacity:0.65248228;fill:#d0d0d0;fill-opacity:0.69426419;stroke-width:1.78749979;stroke-linecap:square"
        d="m 16.875,0.7940918 h 8.25 v 1.6662569 h -8.25 z"

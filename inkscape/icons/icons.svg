@@ -53063,7 +53063,7 @@
      inkscape:snap-grids="false"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-text-baseline="false"
-     inkscape:snap-page="false"
+     inkscape:snap-page="true"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:document-rotation="0"
@@ -67720,6 +67720,13 @@ inkscape:path-effect=&quot;#path-effect9860&quot; striped for faster load
        inkscape:label="#1"
        inkscape:connector-curvature="0" />
   </g>
+  <rect
+     style="opacity:0.2;fill:#002466;fill-opacity:1;stroke-width:1.39999998;stroke-linecap:square"
+     id="rect4435"
+     width="1250.1051"
+     height="539.74762"
+     x="-0.10510254"
+     y="0.25238037" />
   <g
      transform="matrix(1.375,0,0,1.375,841.19835,449.09246)"
      inkscape:label="#clonetiler_per_column_rotate"

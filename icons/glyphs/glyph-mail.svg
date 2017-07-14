@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16mm"
+   height="16mm"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel trunk-123-gfa70b9518d 2017-07-11 custom"
+   sodipodi:docname="glyph-mail.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.1685545"
+     inkscape:cx="57.985894"
+     inkscape:cy="27.970099"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:3.3592155"
+     d="M 0.005859375 6.7285156 L 0.005859375 45.734375 L 19.587891 26.152344 L 0.16992188 6.7285156 L 0.005859375 6.7285156 z M 6.2128906 6.7285156 L 30.232422 30.748047 L 54.251953 6.7285156 L 6.2128906 6.7285156 z M 60.302734 6.7285156 L 40.880859 26.154297 L 60.472656 45.746094 L 60.472656 6.7285156 L 60.302734 6.7285156 z M 22.609375 29.166016 L 1.5546875 50.220703 L 0 51.775391 L 0 53.744141 L 60.466797 53.744141 L 60.466797 51.775391 L 58.910156 50.220703 L 37.857422 29.166016 L 30.232422 36.783203 L 22.609375 29.166016 z "
+     transform="scale(0.26458333)"
+     id="path1395"
+     inkscape:label="#" />
+</svg>

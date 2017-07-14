@@ -14,7 +14,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15687 custom"
+   inkscape:version="0.92+devel trunk-123-gfa70b9518d 2017-07-11 custom"
    sodipodi:docname="folder-videos.svg">
   <defs
      id="ol-defs">
@@ -144,7 +144,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -163,8 +163,8 @@
        sodipodi:insensitive="true" />
     <path
        id="rect4264-5"
-       d="M 2.2,2.1999998 V 19.8 H 19.8 V 2.1999998 Z m 1.053125,1.2437504 h 2.7999998 v 2.8 H 3.253125 Z m 12.69375,0.028128 h 2.8 v 2.8 h -2.8 z M 9.6,3.4797182 h 2.8 v 2.8 H 9.6 Z M 3.253125,15.682813 h 2.7999998 v 2.8 H 3.253125 Z m 12.69375,0.02813 h 2.8 v 2.8 h -2.8 z M 9.6,15.720343 h 2.8 v 2.8 H 9.6 Z"
-       style="opacity:0.6;vector-effect:none;fill:#d0d0d0;stroke-width:0.88;stroke-linecap:square"
+       d="M 3,2.9999999 V 19 H 19 V 2.9999999 Z M 3.9573864,4.1306821 H 6.5028407 V 6.6761366 H 3.9573864 Z m 11.5397726,0.025571 h 2.545455 v 2.5454546 h -2.545455 z m -5.7698863,0.00713 H 12.272727 V 6.7088348 H 9.7272727 Z M 3.9573864,15.257103 h 2.5454543 v 2.545454 H 3.9573864 Z m 11.5397726,0.02557 h 2.545455 v 2.545455 h -2.545455 z m -5.7698863,0.0085 h 2.5454543 v 2.545454 H 9.7272727 Z"
+       style="opacity:0.6;vector-effect:none;fill:#d0d0d0;stroke-width:0.80000001;stroke-linecap:square"
        inkscape:connector-curvature="0"
        inkscape:label="#glyph" />
   </g>

@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15687 custom"
+   inkscape:version="0.92+devel trunk-123-gfa70b9518d 2017-07-11 custom"
    sodipodi:docname="folder.svg">
   <defs
      id="ol-defs">
@@ -117,8 +117,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="13.3125"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:cx="27.158905"
+     inkscape:cy="7.00334"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -163,16 +163,11 @@
        id="rect4266"
        style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773"
        sodipodi:insensitive="true" />
-    <g
-       inkscape:label="#glyph"
-       id="g4331"
-       transform="matrix(2.3272727,0,0,2.3272727,6.4000003,6.5368552)"
-       style="opacity:1">
-      <path
-         style="vector-effect:none;fill:#5e5e5e;stroke-width:0.58181816;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
-         d="M 2.1816406 2.4902344 C 1.8593134 2.4902344 1.5996094 2.7499384 1.5996094 3.0722656 L 1.5996094 4.0839844 L 1.5996094 4.6660156 L 1.5996094 8.8515625 L 1.5996094 12.927734 C 1.5996094 13.250062 1.8593134 13.509766 2.1816406 13.509766 L 13.818359 13.509766 C 14.140687 13.509766 14.400391 13.250062 14.400391 12.927734 L 14.400391 4.6660156 C 14.400391 4.3436884 14.140687 4.0839844 13.818359 4.0839844 L 8.9941406 4.0839844 L 8.3847656 3.0644531 C 8.2195165 2.7877088 8.0977179 2.4902344 7.7753906 2.4902344 L 2.1816406 2.4902344 z "
-         transform="matrix(1.71875,0,0,1.71875,-2.7500002,-2.808805)"
-         id="rect4311" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4311"
+       d="m 8.7265624,9.9609376 c -1.2893088,0 -2.3281248,1.0388164 -2.3281248,2.3281244 v 4.046876 2.328124 16.742188 16.304686 c 0,1.289312 1.038816,2.328128 2.3281248,2.328128 H 55.273436 c 1.289312,0 2.328128,-1.038816 2.328128,-2.328128 V 18.664062 c 0,-1.289308 -1.038816,-2.328124 -2.328128,-2.328124 H 35.976562 l -2.4375,-4.078126 c -0.660996,-1.106977 -1.14819,-2.2968744 -2.4375,-2.2968744 z"
+       style="vector-effect:none;fill:#5e5e5e;fill-opacity:1;stroke-width:2.32727265;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="#1" />
   </g>
 </svg>

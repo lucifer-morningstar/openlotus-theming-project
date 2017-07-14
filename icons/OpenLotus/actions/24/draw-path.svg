@@ -14,7 +14,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15724 custom"
+   inkscape:version="0.92+devel trunk-123-gfa70b9518d 2017-07-11 custom"
    sodipodi:docname="draw-path.svg">
   <defs
      id="ol-defs">
@@ -208,9 +208,9 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.081476"
-     inkscape:cx="3.5675816"
-     inkscape:cy="17.100853"
+     inkscape:zoom="18.500001"
+     inkscape:cx="4.8052047"
+     inkscape:cy="7.8836679"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -254,9 +254,10 @@
        inkscape:label="#boundary" />
     <path
        style="opacity:0.6;fill:#d0d0d0;stroke-width:1.04207551;stroke-linejoin:round"
-       d="M 4.27282,19 13.102978,16.124672 17.040439,9.6088337 19,7.6492733 14.350728,3 12.391166,4.9595617 5.8712317,8.8929278 3,17.72718 3.3622001,18.089379 8.8690354,12.582544 a 0.73867635,0.62431888 45 0 1 0.1256557,-0.62496 0.73867635,0.62431888 45 0 1 0.9645762,0.0791 0.73867635,0.62431888 45 0 1 0.079092,0.964579 0.73867635,0.62431888 45 0 1 -0.6249576,0.125657 l -5.506828,5.506834 z"
+       d="m 5.578284,17.680266 8.830157,-2.87533 3.286095,-6.7902216 -3.69498,-3.69498 -6.8228596,3.2534568 -2.8712324,8.8342518 0.2999619,0.299961 5.3350186,-5.335019 c -0.082834,-0.372955 -0.026726,-0.83205 0.2504115,-1.110674 0.441485,-0.4439464 1.145707,-0.4591024 1.571806,-0.03383 0.425278,0.426105 0.410119,1.130332 -0.03384,1.57181 -0.278588,0.277177 -0.742149,0.328818 -1.115108,0.245986 l -5.3350079,5.335008 z"
        id="rect4264-5"
        inkscape:connector-curvature="0"
-       inkscape:label="#1" />
+       inkscape:label="#1"
+       sodipodi:nodetypes="cccccccccccccc" />
   </g>
 </svg>

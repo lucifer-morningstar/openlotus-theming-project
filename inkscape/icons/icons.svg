@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="0.92+devel trunk-90-g42bf908b41 2017-07-06 custom"
+   inkscape:version="0.92+devel trunk-123-gfa70b9518d 2017-07-11 custom"
    sodipodi:docname="icons.svg"
    height="540"
    width="1250"
@@ -993,7 +993,7 @@
      inkscape:object-nodes="false"
      objecttolerance="11"
      inkscape:snap-bbox="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="false"
      inkscape:snap-global="true"
@@ -1010,7 +1010,7 @@
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:document-rotation="0"
-     inkscape:snap-others="false"
+     inkscape:snap-others="true"
      inkscape:snap-to-guides="false"
      bordercolor="#ffffff"
      borderopacity="0.19215686"
@@ -1079,6 +1079,13 @@ http://www.inkscape.org/</dc:description>
       </cc:License>
     </rdf:RDF>
   </metadata>
+  <rect
+     style="opacity:0.64099995;fill:#002466"
+     id="rect2834"
+     width="1251.8199"
+     height="538.01599"
+     x="-2.160244"
+     y="0.43820259" />
   <use
      xlink:href="#properties_fill"
      height="1250"

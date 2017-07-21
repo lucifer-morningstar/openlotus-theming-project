@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="16"
+     height="16"
+     viewBox="0 0 4.2333333 4.2333333"
+     version="1.1"
+     id="svg8"
+     inkscape:version="0.92+devel (fa9b7f7a5b, 2017-07-19, custom)"
+     sodipodi:docname="glyph-calendar.svg">
+    <defs
+         id="defs2" />
+    <sodipodi:namedview
+         id="base"
+         pagecolor="#002466"
+         bordercolor="#ffffff"
+         borderopacity="0.38039216"
+         inkscape:pageopacity="1"
+         inkscape:pageshadow="2"
+         inkscape:zoom="26.71875"
+         inkscape:cx="8"
+         inkscape:cy="7.9438596"
+         inkscape:document-units="px"
+         inkscape:current-layer="svg8"
+         inkscape:document-rotation="0"
+         showgrid="false"
+         inkscape:showpageshadow="false"
+         borderlayer="true"
+         inkscape:window-width="1920"
+         inkscape:window-height="1051"
+         inkscape:window-x="0"
+         inkscape:window-y="0"
+         inkscape:window-maximized="1"
+         units="px"
+         inkscape:snap-page="true"
+         inkscape:snap-grids="false"
+         inkscape:snap-to-guides="false"
+         inkscape:object-paths="true" />
+    <metadata
+         id="metadata5">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title />
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path
+         style="fill:#d0d0d0;stroke:none;stroke-width:1.29999995;stroke-opacity:1"
+         d="M 0 0 L 0 1.8769531 L 0 16 L 16 16 L 16 1.8769531 L 16 0 L 12.830078 0 L 12.830078 1.8769531 L 9.5859375 1.8769531 L 9.5859375 0 L 6.4140625 0 L 6.4140625 1.8769531 L 3.1699219 1.8769531 L 3.1699219 0 L 0 0 z M 3.1699219 4.0761719 L 5.9335938 4.0761719 L 5.9335938 6.8398438 L 3.1699219 6.8398438 L 3.1699219 4.0761719 z M 6.6210938 4.0761719 L 9.3808594 4.0761719 L 9.3808594 6.8398438 L 6.6210938 6.8398438 L 6.6210938 4.0761719 z M 10.068359 4.0761719 L 12.830078 4.0761719 L 12.830078 6.8398438 L 10.068359 6.8398438 L 10.068359 4.0761719 z M 3.1699219 7.5761719 L 5.9335938 7.5761719 L 5.9335938 10.339844 L 3.1699219 10.339844 L 3.1699219 7.5761719 z M 6.6210938 7.5761719 L 9.3808594 7.5761719 L 9.3808594 10.339844 L 6.6210938 10.339844 L 6.6210938 7.5761719 z M 10.068359 7.5761719 L 12.830078 7.5761719 L 12.830078 10.339844 L 10.068359 10.339844 L 10.068359 7.5761719 z M 3.1699219 11.074219 L 5.9335938 11.074219 L 5.9335938 13.837891 L 3.1699219 13.837891 L 3.1699219 11.074219 z M 6.6210938 11.074219 L 9.3808594 11.074219 L 9.3808594 13.837891 L 6.6210938 13.837891 L 6.6210938 11.074219 z M 10.068359 11.074219 L 12.830078 11.074219 L 12.830078 13.837891 L 10.068359 13.837891 L 10.068359 11.074219 z "
+         transform="scale(0.26458333)"
+         id="rect811" />
+</svg>

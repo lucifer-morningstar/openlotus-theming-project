@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="32"
+     height="32"
+     viewBox="0 0 32 32"
+     version="1.1"
+     id="svg8"
+     inkscape:version="0.92+devel (78cebbf91a, 2017-07-21, custom)"
+     sodipodi:docname="image-vnd.djvu.svg">
+    <defs
+         id="ol-defs">
+        <style
+             id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+        <style
+             id="current-color-scheme-7">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+        <linearGradient
+             gradientTransform="translate(471.31814,349.93102)"
+             x2="0"
+             gradientUnits="userSpaceOnUse"
+             y2="365.35999"
+             y1="392.35999"
+             id="a">
+            <stop
+                 id="stop2"
+                 stop-opacity="0"
+                 stop-color="#ffffff" />
+            <stop
+                 id="stop4"
+                 stop-opacity=".2"
+                 stop-color="#ffffff"
+                 offset="1" />
+        </linearGradient>
+        <linearGradient
+             gradientTransform="translate(309.57,152.44)"
+             x2="0"
+             gradientUnits="userSpaceOnUse"
+             y2="365.35999"
+             y1="392.35999"
+             id="linearGradient4314">
+            <stop
+                 id="stop4310"
+                 stop-opacity="0"
+                 stop-color="#ffffff" />
+            <stop
+                 id="stop4312"
+                 stop-opacity=".2"
+                 stop-color="#ffffff"
+                 offset="1" />
+        </linearGradient>
+        <style
+             id="current-color-scheme-75">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+    </defs>
+    <sodipodi:namedview
+         id="base"
+         pagecolor="#002266"
+         bordercolor="#ffffff"
+         borderopacity="0.46666667"
+         inkscape:pageopacity="0"
+         inkscape:pageshadow="2"
+         inkscape:zoom="6.4296875"
+         inkscape:cx="92.95449"
+         inkscape:cy="19.003024"
+         inkscape:document-units="px"
+         inkscape:current-layer="svg8"
+         inkscape:document-rotation="0"
+         showgrid="false"
+         inkscape:showpageshadow="false"
+         borderlayer="true"
+         units="px"
+         fit-margin-top="0"
+         fit-margin-left="0"
+         fit-margin-right="0"
+         fit-margin-bottom="0"
+         inkscape:window-width="1920"
+         inkscape:window-height="1051"
+         inkscape:window-x="0"
+         inkscape:window-y="0"
+         inkscape:window-maximized="1"
+         inkscape:snap-page="true" />
+    <metadata
+         id="metadata5">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g
+         id="g4338"
+         inkscape:label="#image-vnd.djvu"
+         style="stroke-width:2">
+        <rect
+             inkscape:label="#boundary"
+             y="0"
+             x="0"
+             height="32"
+             width="32"
+             id="rect4264"
+             style="fill:none;fill-opacity:0.74651441;stroke-width:47.23199844;stroke-opacity:0.3596773" />
+        <path
+             style="color:#000000;opacity:0.6;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeee;stroke-width:3.42857313;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+             d="M 13.142578,8 V 56 H 50.857422 V 20 l -12,-12 z m 19.449219,15.128906 1.404297,1.453125 -9.126953,9.455078 c -1.938932,2.008178 -1.938932,5.263307 0,7.271485 1.938944,2.008178 5.08254,2.008178 7.021484,0 l 8.425781,-8.726563 c 1.163366,-1.204906 1.163366,-3.158375 0,-4.363281 -1.163368,-1.204904 -3.049524,-1.204904 -4.21289,0 l -8.425782,8.726562 c -0.387788,0.401633 -0.387788,1.053445 0,1.455079 0.38779,0.401638 1.016509,0.401638 1.404297,0 l 7.722657,-8 1.404296,1.455078 -7.722656,7.998047 c -1.163366,1.204904 -3.049525,1.204906 -4.21289,0 -1.142128,-1.185326 -1.163037,-3.097038 -0.04688,-4.308594 l -0.0039,-0.002 8.476563,-8.779297 c 1.938966,-2.00817 5.08255,-2.00817 7.021484,0 1.917456,1.988618 1.936642,5.203884 0.04492,7.21875 l 0.0039,0.0039 -8.474609,8.777344 c -2.714512,2.811466 -7.115568,2.811466 -9.830078,0 -2.714534,-2.81144 -2.714524,-7.370187 0,-10.181641 z"
+             transform="scale(0.5)"
+             id="path4287"
+             inkscape:connector-curvature="0"
+             inkscape:label="#2" />
+    </g>
+</svg>

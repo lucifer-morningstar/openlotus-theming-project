@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15739 custom"
+   inkscape:version="0.92+devel trunk-123-gfa70b9518d 2017-07-11 custom"
    sodipodi:docname="text-x-generic.svg">
   <defs
      id="ol-defs">
@@ -108,13 +108,40 @@
         color:#0039a9;                                  
         stop-color:#0039a9;                             
       }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-6">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
+    <linearGradient
+       gradientTransform="translate(471.31814,349.93102)"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       y2="365.35999"
+       y1="392.35999"
+       id="a">
+      <stop
+         id="stop2"
+         stop-opacity="0"
+         stop-color="#ffffff" />
+      <stop
+         id="stop4"
+         stop-opacity=".2"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(309.57,152.44)"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       y2="365.35999"
+       y1="392.35999"
+       id="linearGradient4314">
+      <stop
+         id="stop4310"
+         stop-opacity="0"
+         stop-color="#ffffff" />
+      <stop
+         id="stop4312"
+         stop-opacity=".2"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -123,11 +150,11 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.46875"
-     inkscape:cx="8"
-     inkscape:cy="12.744623"
+     inkscape:zoom="6.4296875"
+     inkscape:cx="92.95449"
+     inkscape:cy="19.003024"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="g4338"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -151,26 +178,27 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="g4299"
-     inkscape:label="#text-x-generic">
+     id="g4338"
+     inkscape:label="#text-x-generic"
+     transform="scale(0.5)">
     <rect
        inkscape:label="#boundary"
        y="0"
        x="0"
-       height="16"
-       width="16"
+       height="32"
+       width="32"
        id="rect4264"
-       style="vector-effect:none;fill:none;stroke-width:2.18181825;stroke-linecap:round" />
+       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773" />
     <path
+       inkscape:label="#1"
+       d="m 19.47801,20.144195 h -9.084354 l -1.5919247,3.702957 q -0.588321,1.366979 -0.588321,2.041817 0,0.53641 0.501802,0.951695 0.519106,0.397981 2.2148517,0.519105 V 28 H 3.5414557 v -0.640231 q 1.4708006,-0.259551 1.903389,-0.674837 0.8824806,-0.830568 1.9553006,-3.374189 L 15.653929,4 h 0.605625 l 8.167268,19.518385 q 0.986301,2.35328 1.782264,3.062726 0.813264,0.69214 2.249458,0.778658 V 28 h -9.25739 v -0.640231 q 1.401588,-0.06922 1.886085,-0.467194 0.501803,-0.397983 0.501803,-0.968998 0,-0.761358 -0.692142,-2.405192 z M 18.993511,18.863734 15.0137,9.3813965 10.930064,18.863734 Z"
+       id="path4265"
        inkscape:connector-curvature="0"
-       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.94795096;stroke-linecap:round"
-       d="M 2.0000002,2 V 3.9070999 H 14 V 2 Z m 0,3.3630571 V 7.2720207 H 14 V 5.3630571 Z m 0,3.3649216 V 10.636942 H 14 V 8.7279787 Z M 6.4315042,12.0929 V 14 H 14 v -1.9071 z"
-       id="rect4941"
-       inkscape:label="#1" />
+       style="font-size:medium;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';opacity:0.6;fill:#d0d0d0;stroke-width:0.88594091" />
   </g>
 </svg>

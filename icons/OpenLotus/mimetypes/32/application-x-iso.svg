@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="32"
+     height="32"
+     viewBox="0 0 32 32"
+     version="1.1"
+     id="svg8"
+     inkscape:version="0.92+devel (572d1a9d8b, 2017-07-17, custom)"
+     sodipodi:docname="application-x-iso.svg">
+    <defs
+         id="ol-defs">
+        <style
+             id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+        <style
+             id="current-color-scheme-7">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+        <linearGradient
+             gradientTransform="translate(471.31814,349.93102)"
+             x2="0"
+             gradientUnits="userSpaceOnUse"
+             y2="365.35999"
+             y1="392.35999"
+             id="a">
+            <stop
+                 id="stop2"
+                 stop-opacity="0"
+                 stop-color="#ffffff" />
+            <stop
+                 id="stop4"
+                 stop-opacity=".2"
+                 stop-color="#ffffff"
+                 offset="1" />
+        </linearGradient>
+        <linearGradient
+             gradientTransform="translate(309.57,152.44)"
+             x2="0"
+             gradientUnits="userSpaceOnUse"
+             y2="365.35999"
+             y1="392.35999"
+             id="linearGradient4314">
+            <stop
+                 id="stop4310"
+                 stop-opacity="0"
+                 stop-color="#ffffff" />
+            <stop
+                 id="stop4312"
+                 stop-opacity=".2"
+                 stop-color="#ffffff"
+                 offset="1" />
+        </linearGradient>
+    </defs>
+    <sodipodi:namedview
+         id="base"
+         pagecolor="#002266"
+         bordercolor="#ffffff"
+         borderopacity="0.46666667"
+         inkscape:pageopacity="0"
+         inkscape:pageshadow="2"
+         inkscape:zoom="6.4296875"
+         inkscape:cx="67.13675"
+         inkscape:cy="19.003024"
+         inkscape:document-units="px"
+         inkscape:current-layer="svg8"
+         inkscape:document-rotation="0"
+         showgrid="false"
+         inkscape:showpageshadow="false"
+         borderlayer="true"
+         units="px"
+         fit-margin-top="0"
+         fit-margin-left="0"
+         fit-margin-right="0"
+         fit-margin-bottom="0"
+         inkscape:window-width="1920"
+         inkscape:window-height="1051"
+         inkscape:window-x="0"
+         inkscape:window-y="0"
+         inkscape:window-maximized="1"
+         inkscape:snap-page="true" />
+    <metadata
+         id="metadata5">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g
+         id="g4338"
+         inkscape:label="#application-x-iso">
+        <rect
+             inkscape:label="#boundary"
+             y="0"
+             x="0"
+             height="32"
+             width="32"
+             id="rect4264"
+             style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773" />
+        <path
+             style="color:#000000;opacity:0.6;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeee;stroke-width:1.71428657;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+             d="M 13.142578,8 V 56 H 50.857422 V 20 l -12,-12 z M 32,21.721875 C 38.394319,21.722122 43.577878,26.905681 43.578125,33.3 43.578956,39.695082 38.395082,44.879831 32,44.880078 25.604918,44.879831 20.421044,39.695082 20.421875,33.3 20.422122,26.905681 25.605681,21.722122 32,21.721875 Z m 0,7.960937 C 30.001775,29.68235 28.381475,31.301775 28.380859,33.3 28.380397,35.298988 30.001012,36.919603 32,36.919141 33.998988,36.919603 35.619603,35.298988 35.619141,33.3 35.618525,31.301775 33.998225,29.68235 32,29.682812 Z m 0,2.394532 C 32.675144,32.07761 33.22239,32.624856 33.222656,33.3 33.223469,33.975906 32.675907,34.524343 32,34.524609 31.324093,34.524343 30.776531,33.975906 30.777344,33.3 30.77761,32.624856 31.324856,32.07761 32,32.077344 Z"
+             transform="scale(0.5)"
+             id="path4287"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccccccccccccccc"
+             inkscape:label="#1" />
+    </g>
+</svg>

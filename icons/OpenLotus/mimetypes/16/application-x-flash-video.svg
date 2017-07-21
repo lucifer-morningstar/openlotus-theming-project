@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16mm"
+   height="16mm"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (bc9c9b4297, 2017-07-16, custom)"
+   sodipodi:docname="application-x-flash-video.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.0030303"
+     inkscape:cx="41.574803"
+     inkscape:cy="41.574803"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="true"
+     inkscape:measure-start="1.71097,29.6548"
+     inkscape:measure-end="1.71097,0">
+    <sodipodi:guide
+       position="12.153846,7.8461535"
+       orientation="0,1"
+       id="guide816"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g841"
+     inkscape:label="#application-x-flash-video">
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect837"
+       style="fill:none;stroke-width:0.66499996" />
+    <path
+       inkscape:label="#"
+       style="opacity:1;fill:#d0d0d0;fill-opacity:0.6;stroke-width:0.5289312"
+       inkscape:connector-curvature="0"
+       id="path26"
+       shape-rendering="auto"
+       fill="#ffffff"
+       text-rendering="auto"
+       color-interpolation="sRGB"
+       d="m 13.648699,2.3440475 v 2.3410584 c -2.390243,0.040782 -2.977886,2.3204072 -2.977886,2.3204072 h 1.803128 V 9.3465718 H 9.678539 C 7.997067,14.418494 4.127935,13.966796 4.127935,13.966796 v -2.341059 c 0,0 2.455297,0.445363 3.707808,-4.0246489 1.566165,-5.5913318 5.813484,-5.2565008 5.813484,-5.2565008"
+       color-rendering="auto"
+       image-rendering="auto"
+       color="#000000"
+       color-interpolation-filters="linearRGB"
+       opacity=".75" />
+  </g>
+</svg>

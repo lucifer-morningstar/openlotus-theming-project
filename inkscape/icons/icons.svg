@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="0.92+devel trunk-123-gfa70b9518d 2017-07-11 custom"
+   inkscape:version="0.92+devel (572d1a9d8b, 2017-07-17, custom)"
    sodipodi:docname="icons.svg"
    height="540"
    width="1250"
@@ -978,9 +978,9 @@
      inkscape:window-x="0"
      inkscape:window-height="1051"
      inkscape:window-width="1920"
-     inkscape:cy="225.95511"
-     inkscape:cx="682.99347"
-     inkscape:zoom="0.883822"
+     inkscape:cy="476.10695"
+     inkscape:cx="706.61819"
+     inkscape:zoom="2.4998261"
      gridtolerance="6"
      snaptogrid="false"
      showgrid="false"
@@ -993,7 +993,7 @@
      inkscape:object-nodes="false"
      objecttolerance="11"
      inkscape:snap-bbox="true"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="false"
      inkscape:snap-global="true"
@@ -1010,7 +1010,7 @@
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:document-rotation="0"
-     inkscape:snap-others="true"
+     inkscape:snap-others="false"
      inkscape:snap-to-guides="false"
      bordercolor="#ffffff"
      borderopacity="0.19215686"
@@ -1079,13 +1079,6 @@ http://www.inkscape.org/</dc:description>
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="opacity:1;fill:#002466;fill-opacity:0.91762918"
-     id="rect2834"
-     width="1251.8199"
-     height="538.01599"
-     x="-2.160244"
-     y="0.43820259" />
   <use
      xlink:href="#properties_fill"
      height="1250"
@@ -3874,7 +3867,7 @@ inkscape:path-effect=&quot;#path-effect9860&quot; striped for faster load
        style="opacity:0.78723402;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1.375" />
   </g>
   <g
-     id="node-join-segement"
+     id="node-join-segment"
      transform="matrix(1,0,0,-1,545.9823,68.08866)"
      inkscape:label="#node_join_segment"
      style="stroke-width:1.375">

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16mm"
+   height="16mm"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (bc9c9b4297, 2017-07-16, custom)"
+   sodipodi:docname="glyph-flash-movie.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.1685545"
+     inkscape:cx="30.23622"
+     inkscape:cy="30.23622"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:2.05217075"
+     d="M 0 7.5585938 L 0 52.914062 L 60.472656 52.914062 L 60.472656 7.5585938 L 0 7.5585938 z M 44.056641 12.642578 C 44.417562 12.637234 44.617188 12.652344 44.617188 12.652344 L 44.617188 19.740234 C 37.379653 19.863719 35.599609 26.765625 35.599609 26.765625 L 41.058594 26.765625 L 41.058594 33.853516 L 32.595703 33.853516 C 27.504286 49.211053 15.787109 47.84375 15.787109 47.84375 L 15.787109 40.755859 C 15.787109 40.755859 23.223083 42.103339 27.015625 28.568359 C 31.165114 13.75436 41.530194 12.679989 44.056641 12.642578 z M 4.828125 12.652344 L 12.748047 12.652344 L 12.748047 20.572266 L 4.828125 20.572266 L 4.828125 12.652344 z M 47.417969 12.652344 L 55.337891 12.652344 L 55.337891 20.572266 L 47.417969 20.572266 L 47.417969 12.652344 z M 4.6796875 26.275391 L 12.597656 26.275391 L 12.597656 34.195312 L 4.6796875 34.195312 L 4.6796875 26.275391 z M 47.269531 26.275391 L 55.1875 26.275391 L 55.1875 34.195312 L 47.269531 34.195312 L 47.269531 26.275391 z M 4.6191406 39.900391 L 12.539062 39.900391 L 12.539062 47.818359 L 4.6191406 47.818359 L 4.6191406 39.900391 z M 47.208984 39.900391 L 55.128906 39.900391 L 55.128906 47.818359 L 47.208984 47.818359 L 47.208984 39.900391 z "
+     transform="scale(0.26458333)"
+     id="rect816"
+     inkscape:label="#" />
+</svg>

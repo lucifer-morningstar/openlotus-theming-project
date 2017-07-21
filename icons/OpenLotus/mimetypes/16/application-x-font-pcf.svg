@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (1871f5fd98, 2017-07-15, custom)"
+   sodipodi:docname="application-x-font-pcf.svg">
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+    <style
+       id="current-color-scheme-7">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+    <linearGradient
+       gradientTransform="translate(471.31814,349.93102)"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       y2="365.35999"
+       y1="392.35999"
+       id="a">
+      <stop
+         id="stop2"
+         stop-opacity="0"
+         stop-color="#ffffff" />
+      <stop
+         id="stop4"
+         stop-opacity=".2"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(309.57,152.44)"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       y2="365.35999"
+       y1="392.35999"
+       id="linearGradient4314">
+      <stop
+         id="stop4310"
+         stop-opacity="0"
+         stop-color="#ffffff" />
+      <stop
+         id="stop4312"
+         stop-opacity=".2"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.909091"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4338"
+     inkscape:label="#application-x-font-pcf"
+     transform="scale(0.5)">
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="32"
+       width="32"
+       id="rect4264"
+       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773" />
+    <path
+       style="color:#000000;opacity:0.6;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeee;stroke-width:1.64597249;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       d="m 14.917103,4.3636362 c -2.485909,3e-7 -4.412327,0.5790896 -5.7881765,1.7402721 -1.37585,1.1611816 -2.067596,2.4372667 -2.067596,3.8242343 0,0.7257384 0.180486,1.2991364 0.540085,1.7184504 0.375232,0.419316 0.850833,0.627371 1.429314,0.627371 0.594117,0 1.0751715,-0.202362 1.4347705,-0.60555 0.375231,-0.403189 0.561906,-0.976584 0.561906,-1.7184501 l -0.0491,-1.4020372 c 0,-0.7096114 0.300568,-1.3392327 0.894686,-1.8875677 0.57848,-0.5483368 1.360838,-0.8237652 2.345819,-0.8237652 1.297679,0 2.279082,0.4158714 2.951372,1.2383755 0.687925,0.822503 1.031071,2.3348741 1.031071,4.5443467 v 0.872864 c -3.689781,1.386965 -6.33196,2.561991 -7.926694,3.529641 -1.5791015,0.967653 -2.6867725,2.001998 -3.3277935,3.098667 -0.469038,0.79025 -0.703746,1.723532 -0.703746,2.804076 1e-6,1.709517 0.475601,3.086902 1.429314,4.13519 0.969348,1.048288 2.197102,1.57661 3.6823945,1.57661 0.953713,0 1.85615,-0.202365 2.700423,-0.605547 0.562847,-0.274177 1.941614,-1.291668 4.146101,-3.049568 0.01564,1.322457 0.250351,2.25574 0.703746,2.804074 0.453403,0.548337 1.066916,0.823765 1.833014,0.823765 1.594734,0 3.267884,-1.208711 5.018966,-3.627839 V 22.62831 c -0.938078,0.96765 -1.575607,1.552435 -1.903935,1.762093 -0.187617,0.1129 -0.404492,0.174573 -0.654648,0.174573 -0.234514,0 -0.44521,-0.08421 -0.632824,-0.245492 -0.171975,-0.161277 -0.298257,-0.476086 -0.376424,-0.943782 -0.07818,-0.483826 -0.114575,-1.782449 -0.114575,-3.895153 V 11.95755 c 0,-2.1449603 -0.1441,-3.5617262 -0.425519,-4.2552098 C 21.211294,6.6379243 20.531192,5.856472 19.608747,5.3565188 18.389246,4.6952903 16.824533,4.3636362 14.917103,4.3636362 Z m 3.284152,9.6015008 v 8.444957 c -1.938696,1.612751 -3.497952,2.422196 -4.686189,2.422196 -0.875539,0 -1.651707,-0.382183 -2.323998,-1.140178 -0.67229,-0.77412 -1.009249,-1.741088 -1.009249,-2.902271 0,-0.919269 0.264912,-1.768095 0.796488,-2.542217 0.53158,-0.77412 1.416187,-1.516191 2.651324,-2.225803 0.687925,-0.403185 2.210789,-1.089032 4.571624,-2.056684 z"
+       id="path827"
+       inkscape:connector-curvature="0"
+       inkscape:label="#1" />
+  </g>
+</svg>

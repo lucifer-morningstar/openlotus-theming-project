@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="16"
+     height="16"
+     viewBox="0 0 16 16"
+     version="1.1"
+     id="svg8"
+     inkscape:version="0.92+devel (78cebbf91a, 2017-07-21, custom)"
+     sodipodi:docname="application-dicom.svg">
+    <defs
+         id="ol-defs">
+        <style
+             id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+        <style
+             id="current-color-scheme-7">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+        <linearGradient
+             gradientTransform="translate(471.31814,349.93102)"
+             x2="0"
+             gradientUnits="userSpaceOnUse"
+             y2="365.35999"
+             y1="392.35999"
+             id="a">
+            <stop
+                 id="stop2"
+                 stop-opacity="0"
+                 stop-color="#ffffff" />
+            <stop
+                 id="stop4"
+                 stop-opacity=".2"
+                 stop-color="#ffffff"
+                 offset="1" />
+        </linearGradient>
+        <linearGradient
+             gradientTransform="translate(309.57,152.44)"
+             x2="0"
+             gradientUnits="userSpaceOnUse"
+             y2="365.35999"
+             y1="392.35999"
+             id="linearGradient4314">
+            <stop
+                 id="stop4310"
+                 stop-opacity="0"
+                 stop-color="#ffffff" />
+            <stop
+                 id="stop4312"
+                 stop-opacity=".2"
+                 stop-color="#ffffff"
+                 offset="1" />
+        </linearGradient>
+    </defs>
+    <sodipodi:namedview
+         id="base"
+         pagecolor="#002266"
+         bordercolor="#ffffff"
+         borderopacity="0.46666667"
+         inkscape:pageopacity="0"
+         inkscape:pageshadow="2"
+         inkscape:zoom="33.363636"
+         inkscape:cx="13.803367"
+         inkscape:cy="11.340924"
+         inkscape:document-units="px"
+         inkscape:current-layer="svg8"
+         inkscape:document-rotation="0"
+         showgrid="false"
+         inkscape:showpageshadow="false"
+         borderlayer="true"
+         units="px"
+         fit-margin-top="0"
+         fit-margin-left="0"
+         fit-margin-right="0"
+         fit-margin-bottom="0"
+         inkscape:window-width="1920"
+         inkscape:window-height="1051"
+         inkscape:window-x="0"
+         inkscape:window-y="0"
+         inkscape:window-maximized="1"
+         inkscape:snap-page="true" />
+    <metadata
+         id="metadata5">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g
+         id="g4338"
+         inkscape:label="#application-dicom"
+         style="stroke-width:4"
+         transform="scale(0.5)">
+        <rect
+             inkscape:label="#boundary"
+             y="0"
+             x="0"
+             height="32"
+             width="32"
+             id="rect4264"
+             style="fill:none;fill-opacity:0.74651441;stroke-width:94.46399689;stroke-opacity:0.3596773" />
+        <path
+             inkscape:label="#"
+             id="rect843"
+             d="M 4.363636,4.3636366 V 21.480113 c 0.633989,-0.613215 1.20587,-1.210762 1.605114,-1.715908 0.416922,-0.527516 0.739563,-0.996693 0.653409,-1.5 -0.195059,-1.139525 -0.727939,-2.850566 0.375,-3.886364 0.517145,-0.48563 1.228237,-0.772539 1.917614,-0.806818 0.689376,-0.03428 1.356655,0.18223 1.795454,0.704545 0.0585,0.06965 0.114966,0.146664 0.164773,0.227273 0.665399,1.077037 0.99818,1.714709 1.539773,2.28125 0.531189,0.576309 1.148914,0.949786 2.181817,1.681819 0.07723,0.05484 0.147205,0.113405 0.213069,0.176136 0.987168,0.941772 0.702201,2.730765 -0.332387,3.701703 -1.103328,1.035382 -2.778461,0.397259 -3.903408,0.130683 -0.496869,-0.117744 -0.987005,0.174016 -1.539773,0.556817 -1.503542,1.041235 -3.410801,2.993229 -4.670455,4.321024 v 0.28409 h 23.272727 v -8.84659 c -1.45895,-0.224303 -2.984647,-0.420946 -4.039773,-0.403409 -0.672281,0.01116 -1.238774,0.05788 -1.573863,0.443182 C 21.264055,19.70189 20.275597,21.198139 18.775568,21 17.368961,20.814146 16.093452,19.528155 16.34659,18.1875 c 0.01693,-0.08936 0.04022,-0.180315 0.07102,-0.269886 0.412559,-1.196895 0.696941,-1.858456 0.792613,-2.636363 0.109819,-0.776036 0.0076,-1.489842 -0.07954,-2.752842 -0.0065,-0.09453 -0.007,-0.18771 0,-0.278409 0.09113,-1.190317 1.30217,-2.034493 2.545455,-2.102273 0.177611,-0.0097 0.355429,-0.0034 0.531249,0.01989 1.499956,0.198707 2.068113,1.897893 2.573863,2.9375 0.223381,0.459173 0.757154,0.652469 1.40341,0.838069 0.885614,0.254333 2.164282,0.440877 3.451704,0.596591 V 4.3636366 Z m 9.59375,5.7784094 c 0.432736,-0.03823 0.809908,0.01795 1.045454,0.210227 0.942185,0.769099 0.899296,4.932909 -0.181818,5.323864 -1.081113,0.390955 -4.080958,-2.920341 -4.017045,-3.798296 0.04793,-0.658466 1.855202,-1.6211 3.153409,-1.735795 z"
+             style="opacity:0.6;fill:#d0d0d0;stroke-width:3.4000001"
+             inkscape:connector-curvature="0" />
+    </g>
+</svg>

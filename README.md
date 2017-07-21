@@ -14,17 +14,21 @@ visiblity, power consumtion, "busy-ness", eye strain, "visual ergonomics", desig
 color, contrast, reductive shapes, minimalizing, elimination of unnecessary detail from small visual cues
 
 ## The active components: 
-Cairo-Dock theme
-Qt Curve Theme
-Plasma Theme 
-general linux icon set
-color scheme
-GTK+3 theme
-Splash and bootscreens
-Wallpapers
+[component]			[status]		[link]
+Inkscape icons.svg theme file	complete		https://goo.gl/GziVha
+Cairo-Dock theme		complete
+Qt Curve Theme			alpha
+Plasma Theme 			devel
+general linux icon set		devel
+color scheme			complete
+GTK+3 theme			alpha
+Bootsplash			complete		
+Wallpapers			alpha
+
 ## The components not yet started
 Gnome 3+ DE theme / Icon set
 GTK+2 theme (currently handled by QtCurve) 
+
 ## Contributors
 just me, Grady Broyles aka PixelPimp a/o Slobeck
 you, perhaps? Hit me up at slobeck@gmail.com

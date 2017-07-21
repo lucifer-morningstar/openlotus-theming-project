@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16mm"
+   height="16mm"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (bc9c9b4297, 2017-07-16, custom)"
+   sodipodi:docname="glyph-docker.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.337109"
+     inkscape:cx="30.23622"
+     inkscape:cy="30.23622"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#d0d0d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53965741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 5.4071145,3.13676 V 4.8189618 H 7.0893262 V 3.13676 Z m 2.1586287,0 v 1.6822018 h 1.682214 V 3.13676 Z m 4.5976288,1.3849636 c -0.565493,0.3875744 -0.825575,1.0892956 -0.649276,1.7517944 0.178266,0.6619888 0.754165,1.1399401 1.437683,1.1931342 0.228418,0.6460795 0.838851,1.078363 1.52411,1.0793216 C 15.161149,8.545003 15.771579,8.1127317 16,7.4666522 15.771579,6.820593 15.161149,6.3883095 14.475889,6.3873509 14.148974,6.3883503 13.830024,6.4883135 13.561,6.6740441 13.670325,6.3655062 13.683542,6.0310852 13.598958,5.7148782 13.420958,5.0535624 12.846101,4.5757744 12.16338,4.5217236 Z m 0.788407,2.9449286 H -1.9999948e-7 C -2.1999995e-6,11.043199 2.8993523,12.86324 6.4758892,12.86324 c 3.5765348,0 6.4758898,-1.820041 6.4758898,-5.3965878 z M 2.6350443,5.3038071 V 6.986029 H 4.317258 V 5.3038071 Z m 2.1586311,0 V 6.986029 H 6.4758892 V 5.3038071 Z m 2.1586288,0 V 6.986029 h 1.682214 V 5.3038071 Z m 2.158629,0 V 6.986029 H 10.793147 V 5.3038071 Z M 2.6982857,8.5459738 A 0.5396574,0.5396574 0 0 1 3.2379445,9.0856245 0.5396574,0.5396574 0 0 1 2.6982857,9.6252955 0.5396574,0.5396574 0 0 1 2.1586289,9.0856245 0.5396574,0.5396574 0 0 1 2.6982857,8.5459738 Z"
+     id="rect40"
+     inkscape:label="#" />
+</svg>

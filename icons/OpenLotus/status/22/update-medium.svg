@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="16"
+     height="16"
+     viewBox="0 0 4.2333333 4.2333333"
+     version="1.1"
+     id="svg8"
+     inkscape:version="0.92+devel (c0065a33f9, 2017-07-22, custom)"
+     sodipodi:docname="update-medium.svg">
+    <defs
+         id="defs2" />
+    <sodipodi:namedview
+         id="base"
+         pagecolor="#002466"
+         bordercolor="#ffffff"
+         borderopacity="0.38039216"
+         inkscape:pageopacity="1"
+         inkscape:pageshadow="2"
+         inkscape:zoom="27.375"
+         inkscape:cx="14.465615"
+         inkscape:cy="11.10997"
+         inkscape:document-units="px"
+         inkscape:current-layer="g850"
+         inkscape:document-rotation="0"
+         showgrid="false"
+         inkscape:showpageshadow="false"
+         borderlayer="true"
+         inkscape:window-width="1920"
+         inkscape:window-height="1051"
+         inkscape:window-x="0"
+         inkscape:window-y="0"
+         inkscape:window-maximized="1"
+         units="px"
+         inkscape:snap-page="true"
+         inkscape:snap-grids="false"
+         inkscape:snap-to-guides="false"
+         inkscape:object-paths="true" />
+    <metadata
+         id="metadata5">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g
+         id="g850"
+         inkscape:label="#update-medium">
+        <rect
+             inkscape:label="#boundary"
+             y="0"
+             x="0"
+             height="4.2333331"
+             width="4.2333331"
+             id="rect846"
+             style="opacity:0.98999999;fill:none;stroke:none;stroke-width:0.63499999;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+             style="fill:#ff6600;stroke-width:0.54571873"
+             d="M 1.4482456,3.7041666 V 2.2082242 H 0.86220975 L 1.4892715,1.3686955 2.1166667,0.52916666 2.7440619,1.3686955 3.3711236,2.2082242 H 2.7720795 v 1.4959424 z"
+             id="rect4261"
+             inkscape:connector-curvature="0"
+             inkscape:label="#1" />
+    </g>
+</svg>

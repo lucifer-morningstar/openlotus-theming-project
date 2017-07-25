@@ -2,61 +2,62 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 5.8208332 5.8208335"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92+devel 15700 custom"
-   sodipodi:docname="glyph-keyboard.svg">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#002466"
-     bordercolor="#ffffff"
-     borderopacity="0.29019608"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="37.363636"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg8"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     units="px"
-     inkscape:showpageshadow="false"
-     borderlayer="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1054"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="opacity:0.98999999;fill:#d0d0d0;stroke-width:0.26458332"
-     d="M -2.5000002e-8,1.4370182 V 4.3838151 H 5.8208334 V 1.4370182 Z M 0.18190097,2.1282422 H 0.72760409 V 2.6739453 H 0.18190097 Z m 0.72760421,0 H 1.4552083 V 2.6739453 H 0.90950518 Z m 0.72760412,0 H 2.1828125 V 2.6739453 H 1.6371093 Z m 0.7276042,0 H 2.9104166 V 2.6739453 H 2.3647135 Z m 0.7276042,0 H 3.6380209 V 2.6739453 H 3.0923177 Z m 0.7276042,0 H 4.365625 V 2.6739453 H 3.8199219 Z m 0.7276042,0 H 5.6389323 V 2.6739453 H 4.5475261 Z M 0.18190097,2.8558464 H 1.0914062 V 3.4015495 H 0.18190097 Z m 1.09140623,0 H 1.8190103 V 3.4015495 H 1.2733072 Z m 0.7276043,0 H 2.5466146 V 3.4015495 H 2.0009115 Z m 0.7276041,0 H 3.2742187 V 3.4015495 H 2.7285156 Z m 0.7276042,0 H 4.0018229 V 3.4015495 H 3.4561198 Z m 0.7276042,0 H 4.7294271 V 3.4015495 H 4.183724 Z m 0.7276041,0 H 5.6389323 V 3.4015495 H 4.9113281 Z M 0.18190097,3.5834505 H 0.7276041 V 4.1291536 H 0.18190097 Z m 0.72760421,0 H 1.4552083 V 4.1291536 H 0.90950518 Z m 0.72760412,0 H 3.4561198 V 4.1291536 H 1.6371093 Z m 2.7285157,0 H 4.9113281 V 4.1291536 H 4.365625 Z M 3.6380209,3.7653516 H 4.183724 v 0.363802 H 3.6380209 Z m 1.4552083,0 h 0.5457031 v 0.363802 H 5.0932292 Z"
-     id="rect4688"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-     inkscape:label="#glyph" />
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="16"
+     height="16"
+     viewBox="0 0 4.2333333 4.2333333"
+     version="1.1"
+     id="svg8"
+     inkscape:version="0.92+devel (c0065a33f9, 2017-07-22, custom)"
+     sodipodi:docname="glyph-keyboard.svg">
+    <defs
+         id="defs2" />
+    <sodipodi:namedview
+         id="base"
+         pagecolor="#002466"
+         bordercolor="#ffffff"
+         borderopacity="0.38039216"
+         inkscape:pageopacity="1"
+         inkscape:pageshadow="2"
+         inkscape:zoom="54.75"
+         inkscape:cx="8"
+         inkscape:cy="8"
+         inkscape:document-units="px"
+         inkscape:current-layer="svg8"
+         inkscape:document-rotation="0"
+         showgrid="false"
+         inkscape:showpageshadow="false"
+         borderlayer="true"
+         inkscape:window-width="1920"
+         inkscape:window-height="1051"
+         inkscape:window-x="0"
+         inkscape:window-y="0"
+         inkscape:window-maximized="1"
+         units="px" />
+    <metadata
+         id="metadata5">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <path
+         inkscape:connector-curvature="0"
+         style="fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M -2e-8,1.190625 H 4.2333333 V 3.0427083 H 3.175 1.0583334 -2e-8 Z M 0.26458331,1.4552083 V 1.7197917 H 0.79375 V 1.4552083 Z m 0.79375009,0 V 1.7197917 H 1.5875 V 1.4552083 Z m 0.7937499,0 V 1.7197917 H 2.3812501 V 1.4552083 Z m 0.79375,0 V 1.7197917 H 3.175 V 1.4552083 Z m 0.79375,0 V 1.7197917 H 3.96875 V 1.4552083 Z M 0.26458331,1.9843751 V 2.2489584 H 0.79375 V 1.9843751 Z m 0.79375009,0 V 2.2489584 H 1.5875 V 1.9843751 Z m 0.7937499,0 V 2.2489584 H 2.3812501 V 1.9843751 Z m 0.79375,0 V 2.2489584 H 3.175 V 1.9843751 Z m 0.79375,0 V 2.2489584 H 3.96875 V 1.9843751 Z M 0.26458331,2.5135417 V 2.778125 H 0.79375 V 2.5135417 Z m 0.79375009,0 V 2.778125 H 3.175 V 2.5135417 Z m 2.3812499,0 V 2.778125 H 3.96875 V 2.5135417 Z"
+         class="ColorScheme-Text"
+         id="path827"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:label="#1" />
 </svg>

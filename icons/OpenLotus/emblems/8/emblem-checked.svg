@@ -14,7 +14,7 @@
    viewBox="0 0 8 8"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15687 custom"
+   inkscape:version="0.92+devel (c0065a33f9, 2017-07-22, custom)"
    sodipodi:docname="emblem-checked.svg">
   <defs
      id="ol-defs">
@@ -89,7 +89,10 @@
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -102,10 +105,23 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle
-     style="vector-effect:none;fill:#37b800;stroke-linecap:round;stroke-linejoin:round"
-     id="path4283"
-     cx="2.3227661"
-     cy="5.6772337"
-     r="2.3227661" />
+  <g
+     id="g820"
+     inkscape:label="#emblem-checked">
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       id="rect816"
+       style="fill:none" />
+    <path
+       style="vector-effect:none;fill:#37b800;stroke-width:0.86104232;stroke-linecap:round;stroke-linejoin:round"
+       d="M 4,2 C 2.8954305,2 2,2.8954305 2,4 2,5.1045695 2.8954305,6 4,6 5.1045695,6 6,5.1045695 6,4 6,2.8954305 5.1045695,2 4,2 Z"
+       id="path4283"
+       inkscape:connector-curvature="0"
+       inkscape:label="#1"
+       sodipodi:nodetypes="sssss" />
+  </g>
 </svg>

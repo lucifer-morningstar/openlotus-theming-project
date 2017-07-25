@@ -14,8 +14,8 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel trunk-123-gfa70b9518d 2017-07-11 custom"
-   sodipodi:docname="glyph-bookmark\.svg">
+   inkscape:version="0.92+devel (4546dc857e, 2017-07-25, custom)"
+   sodipodi:docname="glyph-bookmark.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -47,12 +47,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="opacity:0.6;fill:#d0d0d0;stroke-width:1.84638846"
+     style="opacity:1;fill:#d0d0d0;stroke-width:1.84638846"
      d="M 5.4608345,6.5e-8 H 16.539166 V 14.77111 L 11.000001,22 5.4608345,14.77111 Z"
      id="rect8"
      inkscape:connector-curvature="0"

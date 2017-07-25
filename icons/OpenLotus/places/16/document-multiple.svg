@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel trunk-123-gfa70b9518d 2017-07-11 custom"
+   inkscape:version="0.92+devel (c0065a33f9, 2017-07-22, custom)"
    sodipodi:docname="document-multiple.svg">
   <defs
      id="defs2">
@@ -191,11 +191,10 @@
        id="rect812"
        style="opacity:0.64099995;fill:none;stroke-width:0.26458332" />
     <path
-       inkscape:connector-curvature="0"
-       inkscape:label="#1"
+       style="color:#000000;opacity:0.6;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#d0d0d0;stroke-width:1.10861599;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;fill-opacity:1"
+       d="M 6.405926,2 H 9.5980841 V 6.4059263 H 14 V 9.5940738 H 9.598084 V 14 H 6.405926 V 9.5940738 H 1.9999999 V 6.4059263 H 6.405926 Z"
        id="use15"
-       transform="scale(0.26458333)"
-       d="M 12.943359,7.0605469 V 52.416016 H 25.902344 48.580078 V 18.400391 L 37.240234,7.0605469 Z m 15.50586,15.0664061 h 4.664062 v 6.4375 h 6.431641 v 4.658203 h -6.431641 v 6.4375 h -4.664062 v -6.4375 h -6.4375 v -4.658203 h 6.4375 z"
-       style="color:#000000;opacity:0.6;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeee;stroke-width:1.61979914;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
+       inkscape:connector-curvature="0"
+       inkscape:label="#1" />
   </g>
 </svg>

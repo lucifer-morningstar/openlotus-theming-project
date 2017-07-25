@@ -14,8 +14,8 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15700 custom"
-   sodipodi:docname="preferences-desktop-baloo.svg">
+   inkscape:version="0.92+devel (c0065a33f9, 2017-07-22, custom)"
+   sodipodi:docname="baloo.svg">
   <defs
      id="ol-defs">
     <style
@@ -131,7 +131,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -162,8 +162,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path4284"
-       d="M 26.116814,5.9281819 C 22.470819,2.2893457 16.512011,2.2912104 12.866016,5.9300419 9.7126941,9.0771707 9.2908161,13.947317 11.591936,17.560691 l -7.7976649,7.782353 a 2.0290294,2.0250455 0 0 0 0,2.863848 2.0290294,2.0250455 0 0 0 2.869481,0 l 7.8014009,-7.786083 c 3.436513,2.162523 7.986427,1.818194 11.13792,-0.928513 a 1.5610914,1.5580263 0 0 0 0.511872,-0.339339 1.5610914,1.5580263 0 0 0 0.343737,-0.514599 1.5610914,1.5580263 0 0 0 0.0019,-0.0057 c 3.198512,-3.663879 3.148782,-9.2188294 -0.34375,-12.7045033 z m -2.208156,2.2038196 c 2.452858,2.4480405 2.452858,6.3709675 0,8.8190075 -2.452855,2.448042 -6.383501,2.44804 -8.836356,0 -2.452857,-2.44804 -2.452857,-6.370967 0,-8.8190072 2.452857,-2.4480403 6.383501,-2.4480403 8.836356,-3e-7 z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.68048716;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 25.484494,6.5576804 C 22.066377,3.1462752 16.480001,3.1480233 13.061884,6.5594242 10.105648,9.5098547 9.7101373,14.075612 11.867435,17.463146 l -7.310303,7.295948 a 1.902213,1.8984781 0 0 0 0,2.684855 1.902213,1.8984781 0 0 0 2.6901355,0 l 7.3138055,-7.299445 c 3.221728,2.027363 7.487267,1.704555 10.441789,-0.87048 a 1.4635216,1.4606481 0 0 0 0.479879,-0.31813 1.4635216,1.4606481 0 0 0 0.322254,-0.482436 1.4635216,1.4606481 0 0 0 0.0018,-0.0053 C 28.805397,15.033275 28.758775,9.8255147 25.48453,6.5576989 Z M 23.41435,8.623759 c 2.299552,2.295036 2.299552,5.972776 0,8.267811 -2.299549,2.295037 -5.984526,2.295035 -8.284075,0 -2.299551,-2.295035 -2.299551,-5.972775 0,-8.2678107 2.299551,-2.2950353 5.984526,-2.2950353 8.284075,-3e-7 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.512954;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        inkscape:label="#1" />
   </g>
 </svg>

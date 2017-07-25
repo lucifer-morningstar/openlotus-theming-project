@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92+devel (0526f3edb8, 2017-07-23, custom)"
    sodipodi:docname="16x16-icon.svg">
   <defs
      id="ol-defs">
@@ -392,6 +392,65 @@
         color:#0039a9;                                  
         stop-color:#0039a9;                             
       }</style>
+    <style
+       type="text/css"
+       id="current-color-scheme-67">
+      .ColorScheme-Text {
+        color:#f2f2f2;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-675">
+      .ColorScheme-Text {
+        color:#f2f2f2;
+      }
+      </style>
+    <style
+       id="current-color-scheme-753">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -400,7 +459,7 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.234375"
+     inkscape:zoom="15.887805"
      inkscape:cx="21.060465"
      inkscape:cy="13.588541"
      inkscape:document-units="px"
@@ -423,7 +482,11 @@
      guidecolor="#f4ff00"
      guideopacity="0.42745098"
      guidehicolor="#4fff00"
-     guidehiopacity="0.49803922" />
+     guidehiopacity="0.49803922">
+    <inkscape:grid
+       type="xygrid"
+       id="grid855" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -443,5 +506,5 @@
      height="16"
      width="16"
      id="rect4264-9"
-     style="vector-effect:none;fill:none;stroke-width:2.18181825;stroke-linecap:round" />
+     style="vector-effect:none;fill:none;stroke-width:1.58677685;stroke-linecap:round" />
 </svg>

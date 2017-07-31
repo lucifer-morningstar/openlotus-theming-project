@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (b8837397f6, 2017-07-27, custom)"
+   sodipodi:docname="glyph-converseen.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.415999"
+     inkscape:cx="10.094581"
+     inkscape:cy="7.9162778"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m 2.2774566,7e-7 c 0.5210624,0.4498194 0.651334,0.90576 0.651334,1.6222252 L 3.1425144,1.0685853 C 3.3675227,1.28981 3.5208778,1.5829247 3.5658834,1.9112461 3.5824464,2.1637181 3.5412244,2.3872302 3.4760934,2.5826276 3.7418816,2.4133962 4.0775823,2.2200096 4.2212788,1.9112461 4.125366,0.8896013 3.3041735,0.0781202 2.2774566,7e-7 Z M 1.9112441,0.0120527 C 0.8895993,0.1079657 0.0781195,0.9291461 0,1.9558577 0.4498247,1.4347952 0.9057454,1.3045422 1.622208,1.3045422 L 1.0685846,1.0908169 C 1.2898107,0.8658099 1.5829227,0.712468 1.9112441,0.6674664 2.1637095,0.6509024 2.3872269,0.6921074 2.582627,0.7572394 2.4133981,0.4914483 2.2200115,0.1557477 1.9112441,0.0120527 Z M 0.7572573,1.6507043 C 0.4914675,1.8199331 0.155747,2.0133184 0.0120531,2.3220858 0.1079671,3.3437307 0.929161,4.1552143 1.9558754,4.2333325 1.4348129,3.7835091 1.3045413,3.3275686 1.3045413,2.611106 L 1.0908162,3.164744 C 0.8658132,2.9435232 0.7124673,2.6504046 0.667467,2.3220858 0.650903,2.0696151 0.692126,1.846107 0.7572573,1.6507043 Z M 4.2333332,2.2774559 C 3.7835111,2.798517 3.3275878,2.9287912 2.6111239,2.9287912 L 3.164746,3.142515 C 2.9435239,3.3675246 2.6504079,3.5208771 2.3220851,3.565884 2.0696158,3.582447 1.8461037,3.541225 1.6507036,3.476091 1.8199338,3.7418781 2.0133191,4.0775841 2.3220851,4.221278 3.3437287,4.1253653 4.155211,3.3041741 4.2333332,2.2774559 Z"
+     fill="#ecf0f1"
+     fill-rule="evenodd"
+     id="path14"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.26458332;fill:#d0d0d0;fill-opacity:1"
+     inkscape:label="#converseen" />
+</svg>

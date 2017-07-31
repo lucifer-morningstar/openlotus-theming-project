@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (b8837397f6, 2017-07-27, custom)"
+   sodipodi:docname="glyph-notebook.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.415999"
+     inkscape:cx="10.094581"
+     inkscape:cy="7.9162778"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="font-variation-settings:normal;vector-effect:none;fill:#d0d0d0;stroke:none;stroke-width:0.39687496;stroke-linecap:round;stroke-miterlimit:26.70000076"
+     d="m 0,0 c 0,0.24908041 0,0.4981608 0,0.74724121 0.13966417,0 0.27932835,0 0.41899252,0 0,0.13832057 0,0.27664119 0,0.41496169 -0.13966417,0 -0.27932835,0 -0.41899252,0 0,0.2490805 0,0.4981608 0,0.7472413 0.13966417,0 0.27932835,0 0.41899252,0 0,0.1381483 0,0.2762966 0,0.4144449 -0.13966417,0 -0.27932835,0 -0.41899252,0 0,0.2490804 0,0.4981609 0,0.7472413 0.13966417,0 0.27932835,0 0.41899252,0 0,0.1383204 0,0.2766412 0,0.4149616 -0.13966417,0 -0.27932835,0 -0.41899252,0 0,0.2490803 0,0.4981609 0,0.7472413 1.4111111,0 2.8222223,0 4.2333333,0 0,-1.411111 0,-2.8222222 0,-4.2333333 C 2.8222223,0 1.4111111,0 0,0 Z"
+     id="rect811"
+     inkscape:connector-curvature="0" />
+</svg>

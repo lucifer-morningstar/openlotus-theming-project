@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (d0390b9f4f, 2017-07-31, custom)"
+   sodipodi:docname="glyph-mixer.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.415999"
+     inkscape:cx="7.4581305"
+     inkscape:cy="10.249234"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="font-variation-settings:normal;vector-effect:none;fill:#d0d0d0;stroke-width:1.58399999;stroke-linecap:square"
+     d="M 1.4882812 0 C 0.66328754 -1.4802974e-16 1.8434271e-17 0.66328754 0 1.4882812 L 0 14.511719 C -1.4802974e-16 15.336713 0.66328754 16 1.4882812 16 L 14.511719 16 C 15.336713 16 16 15.336713 16 14.511719 L 16 1.4882812 C 16 0.66328754 15.336713 1.8434271e-17 14.511719 0 L 1.4882812 0 z M 2.5664062 1.9765625 L 3.7402344 1.9765625 C 3.8672405 1.9765625 3.96875 2.078072 3.96875 2.2050781 L 3.96875 8.6699219 C 3.96875 8.7969291 3.8672397 8.8984375 3.7402344 8.8984375 L 2.5664062 8.8984375 C 2.4394001 8.8984375 2.3359375 8.7969291 2.3359375 8.6699219 L 2.3359375 2.2050781 C 2.3359375 2.078072 2.4394001 1.9765625 2.5664062 1.9765625 z M 7.3515625 1.9765625 L 8.6484375 1.9765625 C 8.7413421 1.9765625 8.8164062 2.0516263 8.8164062 2.1445312 L 8.8164062 8.7304688 C 8.8164062 8.8233733 8.7413421 8.8984375 8.6484375 8.8984375 L 7.3515625 8.8984375 C 7.2586579 8.8984375 7.1835941 8.8233733 7.1835938 8.7304688 L 7.1835938 2.1445312 C 7.1835938 2.0516267 7.2586579 1.9765625 7.3515625 1.9765625 z M 12.195312 1.9765625 L 13.498047 1.9765625 C 13.589432 1.9765625 13.664065 2.0492406 13.664062 2.140625 L 13.664062 8.734375 C 13.664064 8.8257602 13.589432 8.8984375 13.498047 8.8984375 L 12.195312 8.8984375 C 12.103927 8.8984375 12.03125 8.8257602 12.03125 8.734375 L 12.03125 2.140625 C 12.03125 2.0492406 12.103927 1.9765625 12.195312 1.9765625 z M 5.40625 11.699219 L 5.9355469 11.699219 C 6.0451796 11.699219 6.1347656 11.786852 6.1347656 11.896484 L 6.1347656 12.199219 L 13.460938 12.199219 C 13.572679 12.199219 13.664062 12.288649 13.664062 12.400391 L 13.664062 13.628906 C 13.664064 13.740648 13.572679 13.830078 13.460938 13.830078 L 6.1347656 13.830078 L 6.1347656 14.128906 C 6.1347656 14.238539 6.0451796 14.326172 5.9355469 14.326172 L 5.40625 14.326172 C 5.2966172 14.326172 5.2070315 14.238539 5.2070312 14.128906 L 5.2070312 13.830078 L 2.5390625 13.830078 C 2.4273215 13.830078 2.3359375 13.740648 2.3359375 13.628906 L 2.3359375 12.400391 C 2.3359375 12.288649 2.4273215 12.19922 2.5390625 12.199219 L 5.2070312 12.199219 L 5.2070312 11.896484 C 5.2070312 11.786852 5.2966172 11.699219 5.40625 11.699219 z "
+     id="rect811"
+     inkscape:label="#"
+     transform="scale(0.26458333)" />
+</svg>

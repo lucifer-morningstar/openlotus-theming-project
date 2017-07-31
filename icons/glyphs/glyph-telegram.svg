@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (4546dc857e, 2017-07-25, custom)"
+   sodipodi:docname="glyph-telegram.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="a"
+       y1="543.79999"
+       y2="503.79999"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.10583333,0,0,0.10583333,-41.997849,-51.20949)">
+      <stop
+         stop-color="#197cf1"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#20bcfa"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.415999"
+     inkscape:cx="10.094581"
+     inkscape:cy="7.9162778"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#d0d0d0;stroke-width:0.74083328;stroke-opacity:0.55"
+     d="M 2.1166666,0 C 0.94403331,0 -2.5e-8,0.9440333 -2.5e-8,2.1166666 c 0,1.1726333 0.944033335,2.1166666 2.116666625,2.1166666 1.1726332,0 2.1166666,-0.9440333 2.1166666,-2.1166666 C 4.2333332,0.9440333 3.2892999,0 2.1166666,0 Z m 0.712928,1.2695866 c 0.04953,0.00307 0.063831,0.00815 0.087643,0.030799 0.035666,0.033972 0.051528,0.081088 0.044649,0.1314648 -0.00741,0.054187 -0.6082225,1.7515399 -0.6306592,1.7815965 -0.047625,0.064029 -0.1284172,0.085078 -0.1878955,0.048989 l -2.117e-4,4.12e-4 C 2.0871341,3.2288767 2.0514749,3.1699689 1.8958998,2.8554322 1.8098575,2.6813364 1.727868,2.5268098 1.7137921,2.5118873 1.698023,2.4951656 1.5681622,2.4260482 1.3743814,2.3314332 0.99147635,2.1444257 0.95270167,2.1148056 0.95270167,2.0089723 c 0,-0.049424 0.0240224,-0.096571 0.0618051,-0.1213362 C 1.0275244,1.8791694 1.4278123,1.7356892 1.9041682,1.5688958 2.7410981,1.2761608 2.7724396,1.2660934 2.8295896,1.269586 Z"
+     id="rect14"
+     inkscape:label="#" />
+</svg>

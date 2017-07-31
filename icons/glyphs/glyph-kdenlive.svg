@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (b8837397f6, 2017-07-27, custom)"
+   sodipodi:docname="glyph-kdenlive.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.415999"
+     inkscape:cx="10.094581"
+     inkscape:cy="7.9162778"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="opacity:1;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 5.7441406 0 L 7.796875 2.7382812 L 7.8105469 16 L 8.6152344 16 L 8.6152344 2.734375 L 10.666016 0 L 5.7441406 0 z M 2.7910156 3.6914062 L 2.7910156 5.6542969 L 5.6738281 5.6542969 L 5.6738281 3.6914062 L 2.7910156 3.6914062 z M 11.136719 4.3085938 C 10.91892 4.3208016 10.684999 4.5194385 10.685547 4.7402344 L 10.675781 11.259766 C 10.675781 11.554183 11.09184 11.809668 11.330078 11.634766 L 15.820312 8.3652344 C 16.060105 8.1924911 16.059557 7.7867907 15.820312 7.6132812 L 11.339844 4.3652344 C 11.280044 4.3218945 11.209351 4.3045576 11.136719 4.3085938 z M 0 7.2246094 L 0 9.1855469 L 5.6738281 9.1855469 L 5.6738281 7.2246094 L 0 7.2246094 z M 1.640625 10.755859 L 1.640625 12.71875 L 5.6738281 12.71875 L 5.6738281 10.755859 L 1.640625 10.755859 z "
+     transform="scale(0.26458333)"
+     id="path1447"
+     inkscape:label="#" />
+</svg>

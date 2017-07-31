@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48.149998"
+   height="48"
+   viewBox="0 0 48.149998 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (b8837397f6, 2017-07-27, custom)"
+   sodipodi:docname="homebank.svg">
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+    <linearGradient
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-6.2614532,-3.5675298)"
+       gradientUnits="userSpaceOnUse"
+       y2="10"
+       x2="22"
+       y1="44.542"
+       x1="35.050999"
+       id="linearGradient4233"
+       xlink:href="#linearGradient4227" />
+    <linearGradient
+       id="linearGradient4227">
+      <stop
+         id="stop7"
+         offset="0"
+         style="stop-color:#ffdc69;stop-opacity:1" />
+      <stop
+         id="stop9"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.859375"
+     inkscape:cx="31.6838"
+     inkscape:cy="21.027627"
+     inkscape:document-units="px"
+     inkscape:current-layer="g855"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g855"
+     inkscape:label="#homebank">
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="48"
+       width="48.149998"
+       id="rect4264"
+       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773" />
+    <path
+       inkscape:label="#1"
+       id="path849"
+       d="M 24.074219,6 A 18,18 0 0 0 6.0742188,24 18,18 0 0 0 24.074219,42 a 18,18 0 0 0 18,-18 18,18 0 0 0 -18,-18 z m 0,4.699219 L 35.376953,22 H 33.638672 V 33.300781 H 14.511719 V 22 h -1.738281 z m -0.869141,6.953125 v 1.777344 c -0.91547,0.07741 -1.566107,0.296242 -2.029297,0.763671 -0.595913,0.601356 -0.568747,1.377396 -0.560547,1.822266 -2.46e-4,0.555154 0.09503,1.049306 0.330078,1.466797 0.236658,0.420358 0.617967,0.725023 1.001954,0.890625 0.432296,0.186426 0.852029,0.237447 1.257812,0.248047 v 1.726562 h -2.607422 v 1.738282 h 2.607422 v 1.738281 h 1.740234 v -1.75 c 0.508066,-0.01175 0.994769,-0.05929 1.47461,-0.298828 0.372859,-0.186196 0.714068,-0.529711 0.896484,-0.9375 0.182407,-0.407787 0.238835,-0.852175 0.240235,-1.359375 v -0.002 c 0,-0.561096 -0.09855,-1.058056 -0.335938,-1.478515 -0.237386,-0.420421 -0.617634,-0.726208 -1.001953,-0.892578 -0.438233,-0.189714 -0.862184,-0.23969 -1.273438,-0.25 v -1.72461 c 0.98318,1.9e-5 2.232682,6e-5 2.607422,0 v -1.738281 c -0.374738,6.1e-5 -1.624306,2e-5 -2.607422,0 v -1.740234 z m 0,3.535156 v 1.677734 c -0.257731,-0.01424 -0.46142,-0.04181 -0.568359,-0.08789 -0.103516,-0.04464 -0.127268,-0.06571 -0.173828,-0.148438 -0.04659,-0.08273 -0.112329,-0.265759 -0.111329,-0.61914 v -0.0078 -0.0098 c -0.0079,-0.433252 0.01143,-0.524619 0.06055,-0.574219 0.03423,-0.03452 0.261875,-0.157409 0.792969,-0.230469 z m 1.740234,3.423828 c 0.263629,0.01471 0.474419,0.04243 0.583985,0.08984 0.104482,0.04523 0.129944,0.06573 0.177734,0.15039 0.04779,0.08466 0.111328,0.270165 0.111328,0.625 -0.0016,0.358947 -0.05365,0.569471 -0.08984,0.650391 -0.03636,0.08138 -0.02154,0.06257 -0.08398,0.09375 -0.07383,0.03687 -0.343188,0.06951 -0.699219,0.09375 z"
+       style="font-variation-settings:normal;opacity:0.6;vector-effect:none;fill:#d0d0d0;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:26.70000076"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

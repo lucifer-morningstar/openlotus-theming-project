@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (4546dc857e, 2017-07-25, custom)"
+   sodipodi:docname="glyph-bitcoin.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.415999"
+     inkscape:cx="10.094581"
+     inkscape:cy="7.9162778"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+     d="m 1.4993056,0 v 0.7055555 c -0.086729,0.00353 -0.2459261,0 -0.3290066,0 H 0.61736112 v 0.3527777 c 0,0 0.30318353,-0.00529 0.2983452,0 C 1.0780296,1.0558632 1.1297214,1.173707 1.1465277,1.2522921 V 2.998611 c -0.00622,0.049663 -9.333e-4,0.1728611 -0.1143772,0.1763888 0.00524,0.00459 -0.41478938,0 -0.41478938,0 V 3.5277776 H 1.1913139 c 0.09705,-0.00353 0.2142377,0 0.3079916,0 v 0.7055556 l 0.3527778,-0.00655 V 3.5277776 h 0.3472656 l 0.011024,0.7055556 h 0.352778 L 2.5521267,3.5277776 c 1.0638454,0 1.0638454,-0.5291666 1.0638454,-0.7940944 0,-0.2642389 -0.1118709,-0.6166796 -0.5291666,-0.6170166 0.2409068,3.351e-4 0.3527778,-0.3980224 0.3527778,-0.7055556 0,-0.39804 -0.3527778,-0.7055555 -0.8819444,-0.7055555 V 0 H 2.2048611 v 0.7055555 c -0.1053477,0 -0.2458257,-0.00388 -0.3527777,0 V 0 Z m 0.3527778,1.0583332 c 0.3527777,0 0.8820055,6.8e-6 0.8819443,0.4409723 6.12e-5,0.4410009 -0.5291666,0.4409722 -0.8819443,0.4409722 z m 0,1.2347222 c 0.7055555,2.21e-5 1.0584066,6.8e-6 1.0583332,0.4409722 7.34e-5,0.441001 -0.3527777,0.4409722 -1.0583332,0.4409722 z"
+     id="path20"
+     inkscape:label="#" />
+</svg>

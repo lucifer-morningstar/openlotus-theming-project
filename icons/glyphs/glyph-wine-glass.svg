@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (b8837397f6, 2017-07-27, custom)"
+   sodipodi:docname="glyph-wine-glass.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="45.254834"
+     inkscape:cx="8.0505088"
+     inkscape:cy="7.4854434"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="1.8145784,1.9380933"
+       orientation="0,1"
+       id="guide839"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d0d0d0;stroke-width:0.39687499;stroke-linecap:round;stroke-miterlimit:26.70000076"
+     d="M 1.2287112,3.2e-7 C 0.96863045,0.63430081 0.76193335,1.3208841 0.76193335,1.6697879 c 0,0.5725818 0.35707065,1.0572444 0.85976655,1.2535842 0.1104204,0.043128 0.3132453,0.1261129 0.349876,0.2628216 v 0.744523 c 0,0.095528 -0.8539628,0.1442617 -0.8539628,0.1442617 -0.04445,0.00752 -0.08208,0.035895 -0.08208,0.079592 0,0.043699 0.036991,0.078763 0.08208,0.078763 h 2.0063981 c 0.04509,0 0.081251,-0.035064 0.081251,-0.078763 0,-0.043699 -0.036833,-0.072069 -0.081251,-0.079592 C 2.8365934,4.0407649 2.2617574,4.0313568 2.2617574,3.9298873 V 3.1861932 c 0,-0.1074121 0.2508141,-0.2221829 0.3656288,-0.2686251 C 3.122068,2.71747 3.4713999,2.2365873 3.4713999,1.6697874 3.4713999,1.3208836 3.2647031,0.63430033 3.0046223,-1.7e-7 Z"
+     id="path825"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csscccssssccssscc"
+     inkscape:label="#" />
+</svg>

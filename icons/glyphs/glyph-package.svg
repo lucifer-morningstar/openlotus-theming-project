@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16mm"
-   height="16mm"
-   viewBox="0 0 16 16"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (572d1a9d8b, 2017-07-17, custom)"
+   inkscape:version="0.92+devel (b8837397f6, 2017-07-27, custom)"
    sodipodi:docname="glyph-package.svg">
   <defs
      id="defs2" />
@@ -28,7 +28,7 @@
      inkscape:zoom="7.1685545"
      inkscape:cx="7.0795292"
      inkscape:cy="30.23622"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
@@ -41,7 +41,8 @@
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
      inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true" />
+     inkscape:snap-intersection-paths="true"
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -55,8 +56,8 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="opacity:0.93199978;fill:#d0d0d0;stroke-width:0.30000001"
-     d="m 2.5233315,0 -2.52336,4.1253016 h 7.690486 V 0 Z m 6.066813,0 V 4.1253016 H 16.000028 L 13.476668,0 Z M -2.85e-5,5.0249876 V 16.166943 H 16.000029 V 5.0249876 Z"
+     style="opacity:0.93199978;fill:#d0d0d0;stroke-width:0.29999998"
+     d="M 0.66763662,-0.02207747 5e-8,1.0694046 H 2.034767 v -1.09148207 z m 1.60517168,0 V 1.0694046 H 4.2333329 L 3.5656963,-0.02207747 Z M 5e-8,1.3074456 V 4.2554107 H 4.2333331 V 1.3074456 Z"
      id="rect9"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccc"

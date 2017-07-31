@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (b8837397f6, 2017-07-27, custom)"
+   sodipodi:docname="glyph-phonon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.415999"
+     inkscape:cx="8.6423554"
+     inkscape:cy="9.4592324"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-page="true"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     id="rect1444"
+     d="M 0.64957274,0 C 0.28964093,0 0,0.28964093 0,0.64957274 V 3.5837606 C 0,3.9436905 0.28964093,4.2333333 0.64957274,4.2333333 H 3.5837606 c 0.3599317,0 0.6495727,-0.2896428 0.6495727,-0.6495727 V 0.64957274 C 4.2333333,0.28964093 3.9436923,0 3.5837606,0 Z M 2.1166666,0.52916666 a 1.5874999,1.5874999 0 0 1 1.5875,1.58749994 1.5874999,1.5874999 0 0 1 -1.5875,1.5875 1.5874999,1.5874999 0 0 1 -1.58749994,-1.5875 A 1.5874999,1.5874999 0 0 1 2.1166666,0.52916666 Z M 2.990515,1.1942423 c -0.011314,-0.00115 -0.023648,0.00158 -0.035657,0.00723 -0.048037,0.022773 -0.3585603,0.1896525 -0.5431193,0.1896525 -0.1993872,0 -0.4908332,-0.1669149 -0.7751465,-0.1669149 -0.2843114,0 -0.4541563,0.167396 -0.4836914,0.1901693 -0.029535,0.022773 -0.047779,0.1097689 0.040824,0.083199 0.088603,-0.026568 0.16199,-0.026355 0.3023071,-0.026355 0.1403171,0 0.4772586,0.1974039 0.8164876,0.1974039 0.3397061,0 0.6235175,-0.2699458 0.6862629,-0.3648356 0.047059,-0.071256 0.025662,-0.1061693 -0.00827,-0.1095542 z m 0.4743897,0.7115845 c -0.011314,-0.00115 -0.023646,0.00158 -0.035657,0.00723 -0.048037,0.022773 -0.3585585,0.1896524 -0.5431194,0.1896524 -0.1993871,0 -0.4908351,-0.1669148 -0.7751465,-0.1669148 -0.2843132,0 -0.4541582,0.1673959 -0.4836914,0.1901692 -0.029535,0.022773 -0.047777,0.109767 0.040824,0.083199 0.088603,-0.02657 0.1625049,-0.026355 0.3028239,-0.026355 0.1403171,0 0.4767419,0.197404 0.8159708,0.197404 0.3397044,0 0.6240344,-0.2694291 0.6867798,-0.3643189 0.047059,-0.071256 0.025154,-0.1066861 -0.00878,-0.1100708 z M 2.7533203,2.617928 c -0.011314,-0.00115 -0.023646,0.00106 -0.035657,0.00672 -0.048036,0.022773 -0.3585601,0.1896525 -0.5431192,0.1896525 v 5.292e-4 c -0.1993872,0 -0.4908351,-0.166915 -0.7751464,-0.166915 -0.2843133,0 -0.4541583,0.1668793 -0.48369143,0.1896525 -0.0295351,0.022773 -0.0482957,0.1098865 0.0403076,0.083199 0.0886033,-0.02657 0.16302163,-0.026355 0.30334063,-0.026355 0.1403171,0 0.4762232,0.1979207 0.8154541,0.1979207 0.3397043,0 0.6240325,-0.2699459 0.6867798,-0.3648355 0.047059,-0.071256 0.025662,-0.1061674 -0.00827,-0.109554 z"
+     style="font-variation-settings:normal;vector-effect:none;fill:#d0d0d0;stroke-width:0.4497917"
+     inkscape:label="#" />
+</svg>

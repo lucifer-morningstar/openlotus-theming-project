@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48.149998"
+   height="48"
+   viewBox="0 0 48.149998 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (b8837397f6, 2017-07-27, custom)"
+   sodipodi:docname="libreoffice-main.svg">
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+    <linearGradient
+       id="a"
+       y1="392.35999"
+       y2="365.35999"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       gradientTransform="translate(471.31814,349.93102)">
+      <stop
+         stop-color="#ffffff"
+         stop-opacity="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#ffffff"
+         stop-opacity=".2"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4314"
+       y1="392.35999"
+       y2="365.35999"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       gradientTransform="translate(309.57,152.44)">
+      <stop
+         stop-color="#ffffff"
+         stop-opacity="0"
+         id="stop4310" />
+      <stop
+         offset="1"
+         stop-color="#ffffff"
+         stop-opacity=".2"
+         id="stop4312" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.859375"
+     inkscape:cx="31.6838"
+     inkscape:cy="21.027627"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="#libreoffice-main"
+     id="g854"
+     transform="matrix(8.5039373,0,0,8.5039373,6.074998,5.9999999)"
+     style="stroke-width:0.44444445">
+    <rect
+       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61600113;stroke-opacity:0.3596773"
+       id="rect4264"
+       width="5.6444449"
+       height="5.6444445"
+       x="-0.7055558"
+       y="-0.70555562"
+       inkscape:label="#boundary" />
+    <path
+       style="color:#000000;opacity:0.6;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeee;stroke-width:0.78571475;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       d="m 9.9316406,6 v 36 h 10.2871094 18 V 16.349609 L 27.867188,6 Z m 14.2246094,10.619141 2.662109,5.570312 6.097657,0.966797 -4.47461,4.251953 0.964844,6.097656 -5.427734,-2.941406 -5.5,2.802735 1.121093,-6.072266 -4.365234,-4.365234 6.119141,-0.808594 z"
+       transform="matrix(0.11759259,0,0,0.11759259,-0.71437474,-0.70555552)"
+       id="use15"
+       inkscape:connector-curvature="0"
+       inkscape:label="#" />
+    <path
+       style="fill:#00ff00;stroke:none;stroke-width:0.11759259px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3.7797616,0.93512166 V 0 H 2.8446398 Z"
+       id="path850"
+       inkscape:connector-curvature="0"
+       inkscape:label="#1" />
+  </g>
+</svg>

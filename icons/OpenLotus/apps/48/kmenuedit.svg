@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48.149998"
+   height="48"
+   viewBox="0 0 48.149998 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (f96dc7e339, 2017-07-28, custom)"
+   sodipodi:docname="kmenuedit.svg">
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+    <style
+       id="current-color-scheme-7">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+    <style
+       id="current-color-scheme-75">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.859375"
+     inkscape:cx="31.6838"
+     inkscape:cy="27.406602"
+     inkscape:document-units="px"
+     inkscape:current-layer="g846"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g846"
+     inkscape:label="#kmenuedit">
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="48"
+       width="48.149998"
+       id="rect4264"
+       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="rect814"
+       d="M 11.401171,6 C 8.4503163,6 6.0749989,8.375317 6.0749989,11.326172 V 36.673828 C 6.0749989,39.624682 8.4503163,42 11.401171,42 h 25.347656 c 2.950854,0 5.326172,-2.375318 5.326172,-5.326172 V 11.326172 C 42.074999,8.375317 39.699681,6 36.748827,6 Z m 16.486816,5.806641 2.15625,0.373535 0.175781,2.213378 a 5.8060408,5.8060408 0 0 1 1.025391,0.653321 l 2.078613,-0.792481 1.262696,1.791504 -1.439942,1.686035 a 5.8060408,5.8060408 0 0 1 0.263672,1.193848 l 2.027344,0.906738 -0.373535,2.160645 -2.214844,0.172852 a 5.8060408,5.8060408 0 0 1 -0.65332,1.02832 l 0.79248,2.077148 -1.792968,1.261231 -1.681641,-1.437012 a 5.8060408,5.8060408 0 0 1 -1.195313,0.263672 l -0.909668,2.024414 -2.15625,-0.375 -0.17578,-2.211914 a 5.8060408,5.8060408 0 0 1 -1.029786,-0.651856 l -2.074218,0.788087 -1.264161,-1.788575 1.437012,-1.686035 a 5.8060408,5.8060408 0 0 1 -0.262207,-1.190918 l -2.025879,-0.911133 0.373535,-2.159179 2.216308,-0.171387 a 5.8060408,5.8060408 0 0 1 0.650391,-1.028321 l -0.789551,-2.080077 1.792969,-1.259766 1.68457,1.437012 a 5.8060408,5.8060408 0 0 1 1.192383,-0.262208 z m -0.238769,5.520996 a 2.2692363,2.2692363 0 0 0 -2.236817,1.880859 2.2692363,2.2692363 0 0 0 1.847168,2.625 2.2692363,2.2692363 0 0 0 2.623536,-1.850098 2.2692363,2.2692363 0 0 0 -1.848633,-2.623535 2.2692363,2.2692363 0 0 0 -0.385254,-0.03223 z m -8.919434,5.897461 1.792969,0.339843 0.114258,1.842774 a 4.8371792,4.8371792 0 0 1 0.851074,0.5625 l 1.73877,-0.632813 1.02539,1.511719 -1.224609,1.385742 a 4.8371792,4.8371792 0 0 1 0.205078,0.993164 l 1.677246,0.786621 -0.344238,1.792969 -1.839844,0.114258 a 4.8371792,4.8371792 0 0 1 -0.561035,0.851074 l 0.628418,1.73877 -1.508789,1.023925 -1.385742,-1.221679 a 4.8371792,4.8371792 0 0 1 -0.994629,0.206543 l -0.785156,1.672851 -1.792969,-0.339843 -0.117188,-1.842774 a 4.8371792,4.8371792 0 0 1 -0.84668,-0.559571 l -1.740234,0.629883 -1.025391,-1.511718 1.22461,-1.385742 a 4.8371792,4.8371792 0 0 1 -0.203613,-0.9917 l -1.680176,-0.788086 0.342773,-1.792968 1.842774,-0.115723 a 4.8371792,4.8371792 0 0 1 0.5625,-0.84668 l -0.629883,-1.741699 1.505859,-1.02539 1.388672,1.224609 a 4.8371792,4.8371792 0 0 1 0.993164,-0.203613 z m 13.584961,3.489258 1.942383,0.780761 -0.237305,1.473633 a 3.5172366,3.5172366 0 0 1 0.285645,0.316406 3.5172366,3.5172366 0 0 1 0.240234,0.353027 l 1.485351,0.121583 0.294434,2.071288 -1.393067,0.528809 a 3.5172366,3.5172366 0 0 1 -0.317871,0.792481 l 0.637208,1.346191 -1.646485,1.290527 -1.151367,-0.940429 a 3.5172366,3.5172366 0 0 1 -0.846679,0.117187 l -0.848145,1.227539 -1.942383,-0.779297 0.237305,-1.473633 a 3.5172366,3.5172366 0 0 1 -0.285645,-0.316406 3.5172366,3.5172366 0 0 1 -0.240234,-0.353027 l -1.485352,-0.121582 -0.294433,-2.071289 1.393066,-0.528808 a 3.5172366,3.5172366 0 0 1 0.317871,-0.792481 l -0.637207,-1.346192 1.646484,-1.290527 1.151367,0.938965 a 3.5172366,3.5172366 0 0 1 0.846681,-0.117188 z m -13.885254,1.104492 a 1.8905659,1.8905659 0 0 0 -1.067871,0.32666 1.8905659,1.8905659 0 0 0 -0.500977,2.626465 1.8905659,1.8905659 0 0 0 2.626465,0.500976 1.8905659,1.8905659 0 0 0 0.499512,-2.626465 1.8905659,1.8905659 0 0 0 -1.555664,-0.827636 1.8905659,1.8905659 0 0 1 -0.0015,0 z m 13.163086,2.061035 a 1.5751775,1.5751775 0 0 0 -1.026855,0.333984 1.5751775,1.5751775 0 0 0 -0.268067,2.211914 1.5751775,1.5751775 0 0 0 2.21045,0.269531 1.5751775,1.5751775 0 0 0 0.268065,-2.213379 1.5751775,1.5751775 0 0 0 -1.183593,-0.60205 z"
+       style="font-variation-settings:normal;opacity:0.6;vector-effect:none;fill:#d0d0d0;stroke-width:0.60000002" />
+  </g>
+</svg>

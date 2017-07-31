@@ -14,7 +14,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15649 custom"
+   inkscape:version="0.92+devel (f96dc7e339, 2017-07-28, custom)"
    sodipodi:docname="clipgrab.svg">
   <defs
      id="defs2" />
@@ -29,7 +29,7 @@
      inkscape:cx="59.548936"
      inkscape:cy="25.547838"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="g12734"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -52,13 +52,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="g12734"
-     inkscape:label="clipgrab"
+     inkscape:label="#clipgrab"
      transform="scale(0.75)">
     <rect
        inkscape:label="boundary"
@@ -69,21 +69,19 @@
        width="64"
        id="rect12728"
        style="opacity:0.6;fill:none;stroke:none;stroke-width:1.19396269" />
-    <g
-       inkscape:label="glyph"
-       transform="matrix(2.9316037,0,0,2.9316037,-2.0900745,1.0545627)"
-       id="g8207"
-       style="opacity:0.6">
-      <path
-         style="fill:#ffffff;stroke-width:0.51700002"
-         d="M 8.4126531,2.4366643 A 8.7333412,8.7333412 0 0 0 2.895075,10.555805 8.7333412,8.7333412 0 0 0 11.627497,19.288227 8.7333412,8.7333412 0 0 0 19.979059,13.108539 8.2821493,8.4018812 0 0 1 16.029841,14.13393 8.2821493,8.4018812 0 0 1 7.7485906,5.7315862 8.2821493,8.4018812 0 0 1 8.4126531,2.4366643 Z"
-         id="path8199"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.6;fill:#d0d0d0;stroke-width:0.51700002"
-         d="M 11.627496,1.8233833 A 8.7333412,8.7333412 0 0 0 8.412652,2.4405708 8.2821493,8.4018812 0 0 0 7.74859,5.7335395 8.2821493,8.4018812 0 0 0 16.02984,14.13393 8.2821493,8.4018812 0 0 0 19.979059,13.108539 8.7333412,8.7333412 0 0 0 20.361871,10.555805 8.7333412,8.7333412 0 0 0 11.627496,1.8233833 Z"
-         id="circle8195"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       style="opacity:0.6;fill:#ffffff;stroke-width:1.13672936"
+       d="M 14.972656,7.0644531 A 19.202021,19.202021 0 0 0 4.7988281,24 19.202021,19.202021 0 0 0 23.998047,43.199219 19.202021,19.202021 0 0 0 41.568359,31.683594 c -2.481684,1.103314 -5.165661,1.688084 -7.888671,1.693359 h -0.002 c -10.88743,-0.0012 -19.724612,-8.979045 -19.726562,-19.988281 8.67e-4,-2.153586 0.350107,-4.2878044 1.021484,-6.3242189 z"
+       transform="scale(1.3333333)"
+       id="path8199"
+       inkscape:connector-curvature="0"
+       inkscape:label="#" />
+    <path
+       style="opacity:0.3;fill:#d0d0d0;stroke-width:1.13672936"
+       d="m 23.998047,4.8007812 a 19.202021,19.202021 0 0 0 -5.162109,0.7324219 l -0.50586,1.203125 c -0.883956,2.1023423 -1.340897,4.3654169 -1.341797,6.6523439 0.0017,9.391617 7.466756,16.950122 16.689453,16.951172 2.776695,-0.0058 5.507163,-0.714648 7.947266,-2.064453 l 1.228516,-0.679688 A 19.202021,19.202021 0 0 0 43.201172,24 19.202021,19.202021 0 0 0 23.998047,4.8007812 Z"
+       transform="scale(1.3333333)"
+       id="path821"
+       inkscape:connector-curvature="0"
+       inkscape:label="#" />
   </g>
 </svg>

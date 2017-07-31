@@ -14,7 +14,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15739 custom"
+   inkscape:version="0.92+devel (4546dc857e, 2017-07-25, custom)"
    sodipodi:docname="22x22-icon.svg">
   <defs
      id="ol-defs">
@@ -246,15 +246,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="display:none;vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
+     style="display:inline;vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
      d="M 0,0 H 22 V 22 H 0 Z"
      id="rect4264"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc"
-     inkscape:label="#boundary" />
+     inkscape:label="#boundary"
+     sodipodi:insensitive="true" />
 </svg>

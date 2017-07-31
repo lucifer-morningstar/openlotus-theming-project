@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48.149998"
+   height="48"
+   viewBox="0 0 48.149998 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (f96dc7e339, 2017-07-28, custom)"
+   sodipodi:docname="qelectrotech.svg">
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+    <style
+       id="current-color-scheme-7">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002266"
+     bordercolor="#ffffff"
+     borderopacity="0.46666667"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.859375"
+     inkscape:cx="31.6838"
+     inkscape:cy="27.406602"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g846"
+     inkscape:label="#qelectrotech"
+     transform="matrix(0.75,0,0,0.75,6.0186022,6)"
+     style="stroke-width:1.33333337">
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="48"
+       width="48.149998"
+       id="rect4264"
+       style="fill:none;fill-opacity:0.74651441;stroke-width:31.48799896;stroke-opacity:0.3596773" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="rect814"
+       d="M 4.8007812,0 C 2.1415811,0 0,2.1415811 0,4.8007812 V 43.199219 C 0,45.858419 2.1415811,48 4.8007812,48 H 43.349609 c 2.6592,0 4.800782,-2.141581 4.800782,-4.800781 V 4.8007812 C 48.150391,2.1415811 46.008809,0 43.349609,0 Z M 18.361698,10.252995 c 2.287341,0 4.104739,1.652681 4.589586,3.797529 h 3.212734 v -2.53241 H 38.31394 v 2.53241 h 3.360279 v 20.775429 h -4.844571 c -0.48483,2.145103 -2.303205,3.797529 -4.589584,3.797529 -2.287474,0 -4.104882,-1.652554 -4.589585,-3.797529 h -2.275288 c -0.37746,0.728242 -1.07552,1.265121 -1.950845,1.265121 -1.25359,0 -2.276346,-1.022779 -2.276346,-2.276348 0,-1.253692 1.022756,-2.280687 2.276346,-2.280687 0.874621,0 1.57091,0.540061 1.948675,1.26729 h 2.277458 c 0.484922,-2.144977 2.303292,-3.797529 4.589585,-3.797529 2.28734,0 4.10474,1.65268 4.589584,3.797529 h 2.819946 V 16.075148 H 38.31394 v 2.532409 H 26.164018 v -2.532409 h -3.212734 c -0.484833,2.145103 -2.303206,3.797529 -4.589586,3.797529 -2.287475,0 -4.104882,-1.652553 -4.589584,-3.797529 H 9.8772576 v 8.102841 h 2.5324094 v 2.024627 H 5.3202236 v -2.024627 h 2.532409 V 14.050524 h 5.9194814 c 0.484921,-2.144975 2.303292,-3.797529 4.589584,-3.797529 z m 0,2.024625 c -0.37828,0 -0.70058,0.167089 -1.032927,0.303802 l 1.032927,1.037269 1.032929,-1.035099 C 19.062108,12.446628 18.740225,12.27762 18.361698,12.27762 Z m -2.480329,1.753374 c -0.136763,0.332284 -0.303801,0.654565 -0.303801,1.032927 0,0.377347 0.167603,0.69898 0.303801,1.030759 l 1.030759,-1.032929 z m 4.960658,0 -1.030757,1.030757 1.032926,1.035099 C 20.980962,15.764438 21.148,15.442155 21.148,15.063921 c 0,-0.378615 -0.169043,-0.700517 -0.305973,-1.032927 z m -2.480329,2.480329 -1.030757,1.032927 c 0.33177,0.136077 0.653311,0.303803 1.030757,0.303803 0.378281,0 0.700581,-0.167092 1.032929,-0.303803 z M 6.5875132,26.708229 h 4.5570338 v 2.026795 H 9.8772576 v 4.066305 h 1.4731164 c 0.377769,-0.727231 1.074056,-1.26729 1.948676,-1.26729 0.43439,1e-6 0.788478,0.203946 1.126238,0.412303 l 6.965754,-4.03406 1.011227,1.768563 -6.844232,3.94509 c 0.005,0.06253 0.01953,0.125495 0.01953,0.188791 0,1.253569 -1.024927,2.276348 -2.278517,2.276348 -0.875324,0 -1.573386,-0.536879 -1.950846,-1.265121 H 7.8526326 V 28.735024 H 6.5875132 v -1.644873 z m 25.6525508,4.320195 c -1.542995,0 -2.784131,1.243238 -2.784131,2.786302 0,1.542939 1.241136,2.784131 2.784131,2.784131 1.542995,0 2.786301,-1.241192 2.786301,-2.784131 0,-1.543063 -1.243306,-2.786302 -2.786301,-2.786302 z m -18.941014,2.53241 c -0.143898,0 -0.251722,0.109972 -0.251722,0.253892 0,0.143298 0.107815,0.251722 0.251722,0.251722 0.143904,0 0.253892,-0.107914 0.253892,-0.251722 0,-0.144559 -0.109994,-0.253892 -0.253892,-0.253892 z m 10.125296,0 c -0.143897,0 -0.251722,0.109972 -0.251722,0.253892 0,0.143298 0.107815,0.251722 0.251722,0.251722 0.143904,0 0.256062,-0.107914 0.256062,-0.251722 0,-0.144559 -0.112159,-0.253892 -0.256062,-0.253892 z"
+       style="font-variation-settings:normal;opacity:0.6;vector-effect:none;fill:#d0d0d0;stroke-width:5.20000029;stroke-miterlimit:5.5"
+       sodipodi:nodetypes="ssssssssssccccccccsccsssccsccccccccsccccccccccsscccscsccccccscccscccccccccccccssccccccsssssssssssssss" />
+  </g>
+</svg>

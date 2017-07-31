@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (b8837397f6, 2017-07-27, custom)"
+   sodipodi:docname="glyph-mpv.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.415999"
+     inkscape:cx="10.094581"
+     inkscape:cy="7.9162778"
+     inkscape:document-units="px"
+     inkscape:current-layer="g826"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g826"
+     inkscape:label="#">
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="path811"
+       transform="scale(0.26458333)"
+       d="M 8,0 A 8,8 0 0 0 0,8 8,8 0 0 0 8,16 8,8 0 0 0 16,8 8,8 0 0 0 8,0 Z M 8,3.1601562 A 4.8394611,4.8394611 0 0 1 12.839844,8 4.8394611,4.8394611 0 0 1 8,12.839844 4.8394611,4.8394611 0 0 1 3.1601562,8 4.8394611,4.8394611 0 0 1 8,3.1601562 Z"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d0d0d0;stroke-width:2;stroke-linecap:round;stroke-miterlimit:26.70000076" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="path816"
+       d="M 2.856185,2.1166666 1.6417312,2.8178318 V 1.4155014 Z"
+       inkscape:transform-center-x="-0.20240892"
+       style="font-variation-settings:normal;vector-effect:none;fill:#d0d0d0;stroke-width:0.52916664;stroke-linecap:round;stroke-miterlimit:26.70000076" />
+  </g>
+</svg>

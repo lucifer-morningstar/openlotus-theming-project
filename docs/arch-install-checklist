@@ -1,0 +1,117 @@
+SETUP ---
+1: ping something to check connection
+
+2: timedatectl set-ntp true
+
+3: partition disk (I like fdisk) - I use a 16G swap for when im compiling.. just in case
+
+4: format the partition you'll use for / .. mkfs.ext4 (I'm not adventurous) 
+
+5: mount it on /mnt
+
+6: make your swap with mkswap
+
+7: format the rest of you partitions that are PERTINENT to the install
+	this represents the first time I blew it by trying to be cute with all my other volumes.
+	What I found out was that it's best to only mount the volumes you'll actually need for pacstrap right now.
+
+	So.. I'm my case thats
+	/
+	/boot
+	/home
+	
+	7b (optional) Check the partitions with lsblk just to be sure you did it right
+
+
+8: edit the mirrorlist the fun way: install 'reflector' with pacman 
+	pacman -Sy reflector
+
+	8a: run it
+	reflector --verbose --latest 6 --country 'United States' --sort rate --save /etc/pacman.d/mirrorlist
+
+	8b: refresh the repos: pacman -Syy
+
+9: deal with the keys
+	pacman-key --init
+	pacman-key --populate archlinux
+	pacman-key --refresh-keys
+
+10: install the base and base-devel groups with 
+	pacstrap /mnt base base-devel
+
+11: generate fstab
+	genfstab -U /mnt > /mnt/etc/fstab
+
+	11a: optionally, review the fstab with cat and fix it with vim or whatever if you find an 
+	error. I never have, but i always cat it to check b/c it's mentioned in the wiki
+
+12: chroot into the new install: arch-chroot /mnt
+
+13: set up locales and keymaps and shiz
+	ln -svf /usr/share/zoneinfo/Americas/New_York /etc/localtime
+
+	assuming you're using American English keyboard and lang settings
+	set the locale:
+	echo 'en_US.UTF-8 UTF-8' > /etc/locale.gen
+	and generate: 
+	locale-gen
+	echo 'LANG=en_US.UTF.8' > /etc/locale.conf  
+
+	apparently this is optional: echo 'KEYMAP=US' > /etc/vconsole.conf
+	but I always do it in the interest of thoughoughness.
+
+14: set the hostname and edit /etc/hosts
+	echo '<your_host_name>' > /etc/hostname
+
+* NOTE: at this point, i install vim though vi and nano or emacs is fine
+
+15: edit /etc/hosts by adding:
+	127.0.1.1 <your_host_name>.localdomain	<your_host_name>
+
+16: set the root password: passwd
+
+17: make your user: useradd -m -g users -G wheel -s /bin/bash <your_user_name>
+
+18: set the password for that user: passwd <your_user_name>
+
+19: edit the sudoers file if you want your uswer to be able to sudo.  Use visudo and insert:
+	 <user_name> ALL=(ALL) ALL
+	and uncomment the line allwing wheel to use sudo if that's appropo
+
+20: install your video driver
+	pacman -Sy xf86-video-ati or x86-video-nvidia or xf86-video-intel
+
+21: install xorg meta-package: pacman -Sy xorg
+
+22: install a display manager sddm, gdm or whatevs (i use sddm b/c im a Qt fanboi.. there's a joke in there somewhere)
+
+23: enable it: systemctl enable <your_dm>
+
+* NOTE: if you use a DE like Gnome or Plasma, you dont need to worry about installing  multimedia, it comes in those DE's
+
+24: install desktop environments or whatever you use for GUI. I use Plasma so..
+	pacman -Sy kde-applications-meta plasma-meta 
+
+25: enable NetworkManager: systemctl enable NetworkManager.service
+
+26: install grub and intel-ucode (if you're using an intel cpu) 
+    pacman -Sy grub intel-ucode
+    26a run grub-install 
+    grub-install --target=i386-pc /dev/sda (or whatever your boot drive is.. OMIT patition #)
+    configure grub
+        26b optionally  use vim to edit /etc/default/grub to change the delay seconds (I go 0) 
+            also one can add "loglevel=0" after "quiet" like: GRUB_CMDLINE_LINUX_DEFAULT="quiet loglevel=0"
+            if you'd like a "silent boot" --it silences things like acpi errors and stuff. 
+    run grub-mkconfig -o /boot/grub/grub.cfg
+    
+
+27: exit chroot with: exit
+
+28 reboot
+
+DONE! 
+
+after log in, mount your other volumes and edit fstab manually. (every time i try to short-cut this with 
+some clever trick, it never ends well.
+
+

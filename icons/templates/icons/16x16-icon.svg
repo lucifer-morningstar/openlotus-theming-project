@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (4546dc857e, 2017-07-25, custom)"
+   inkscape:version="0.92+devel (d0390b9f4f, 2017-07-31, custom)"
    sodipodi:docname="16x16-icon.svg">
   <defs
      id="ol-defs">
@@ -451,6 +451,51 @@
         color:#0039a9;                                  
         stop-color:#0039a9;                             
       }</style>
+    <style
+       id="current-color-scheme-7535">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -459,7 +504,7 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="54.75"
+     inkscape:zoom="27.375"
      inkscape:cx="8"
      inkscape:cy="8"
      inkscape:document-units="px"

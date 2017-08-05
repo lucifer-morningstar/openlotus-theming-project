@@ -1,14 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="draw-polyline.svg"
+   inkscape:version="0.92+devel (ab74a354e7, 2017-08-02, custom)"
+   width="22"
+   height="22">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     inkscape:document-rotation="0"
+     borderopacity="0.24313725"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     id="namedview8"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-page="true"
+     inkscape:zoom="45.9375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#f2f2f2;
       }
       </style>
   </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-	d="m4 4v1 10 1h4v4h1 11 .992188l.007812-.007812-8.292969-8.292969-2.707031-2.707031v-3.992188-1h-5m0 1h4v4 .40625l3 3 6.59375 6.59375h-9.59375v-4h-1-3" transform="translate(-.99999-.99999)"
-    class="ColorScheme-Text"
-    />  
+  <g
+     id="g822"
+     inkscape:label="#draw-polyline"
+     transform="scale(1.375)">
+    <path
+       inkscape:label="#"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path4"
+       d="m 2,2 v 9 h 3 v 3 h 9 L 6,6 V 2 Z"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:label="#boundary"
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect818"
+       style="fill:none;stroke-width:1.29999995" />
+  </g>
 </svg>

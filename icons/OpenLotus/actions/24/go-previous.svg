@@ -14,7 +14,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15700 custom"
+   inkscape:version="0.92+devel (ab74a354e7, 2017-08-02, custom)"
    sodipodi:docname="go-previous.svg">
   <defs
      id="ol-defs">
@@ -86,7 +86,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,7 +106,7 @@
   <g
      id="g4267"
      inkscape:label="#go-previous"
-     style="fill:none;stroke-width:0.91666669"
+     style="fill:none;stroke-width:1.375"
      transform="scale(1.0909091)">
     <rect
        inkscape:label="#boundary"
@@ -115,24 +115,24 @@
        height="22"
        width="22"
        id="rect4264"
-       style="vector-effect:none;fill:none;stroke-width:2.75;stroke-linecap:round"
+       style="vector-effect:none;fill:none;stroke-width:4.125;stroke-linecap:round"
        sodipodi:insensitive="true" />
     <path
        sodipodi:type="star"
-       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:1.83333337;stroke-linejoin:round"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:2.75;stroke-linejoin:round"
        id="path4270"
        sodipodi:sides="3"
-       sodipodi:cx="-13.309401"
+       sodipodi:cx="-12.587713"
        sodipodi:cy="11"
-       sodipodi:r1="9.2376041"
-       sodipodi:r2="4.6188021"
+       sodipodi:r1="6.350853"
+       sodipodi:r2="3.1754265"
        sodipodi:arg1="0"
        sodipodi:arg2="1.0471976"
        inkscape:flatsided="true"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m -4.0717964,11 -13.8564066,8 0,-15.9999999 z"
-       inkscape:transform-center-x="2.3093993"
+       d="m -6.2368603,11 -9.5262797,5.5 0,-11 z"
+       inkscape:transform-center-x="1.587712"
        inkscape:label="#glyph"
        transform="scale(-1,1)" />
   </g>

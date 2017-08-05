@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15739 custom"
+   inkscape:version="0.92+devel (d0390b9f4f, 2017-07-31, custom)"
    sodipodi:docname="go-down.svg">
   <defs
      id="ol-defs">
@@ -99,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,9 +118,9 @@
        style="vector-effect:none;fill:none;stroke-width:5.671875;stroke-linecap:round"
        sodipodi:insensitive="true" />
     <path
-       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:3.78125;stroke-linejoin:round"
-       inkscape:transform-center-y="3.1754278"
-       d="M 11.000001,19.894456 9e-7,3.5921875 H 22 Z"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:3.78125024;stroke-linejoin:round"
+       inkscape:transform-center-y="2.1831067"
+       d="M 11,16.603905 3.4374999,5.3960947 H 18.5625 Z"
        id="path4270"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"

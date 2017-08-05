@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
+   width="31.999998"
+   height="31.999998"
+   viewBox="0 0 31.999998 31.999998"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15739 custom"
+   inkscape:version="0.92+devel (ab74a354e7, 2017-08-02, custom)"
    sodipodi:docname="go-down.svg">
   <defs
      id="ol-defs">
@@ -71,9 +71,9 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.854446"
-     inkscape:cx="34.702288"
-     inkscape:cy="18.758355"
+     inkscape:zoom="13.081476"
+     inkscape:cx="46.387459"
+     inkscape:cy="16.099084"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -107,7 +107,7 @@
      id="g4267"
      inkscape:label="#go-down"
      style="fill:none;stroke-width:1.890625"
-     transform="matrix(1.0578512,0,0,1.0578512,4.3636364,4.3636361)">
+     transform="matrix(1.0578512,0,0,1.0578512,4.3636362,4.3636362)">
     <rect
        inkscape:label="#boundary"
        y="-4.125"
@@ -118,9 +118,9 @@
        style="vector-effect:none;fill:none;stroke-width:5.671875;stroke-linecap:round"
        sodipodi:insensitive="true" />
     <path
-       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:3.78125;stroke-linejoin:round"
-       inkscape:transform-center-y="3.1754278"
-       d="M 11.000001,19.894456 9e-7,3.5921875 H 22 Z"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:3.78125024;stroke-linejoin:round"
+       inkscape:transform-center-y="2.1831067"
+       d="M 11,16.603905 3.4374999,5.3960947 H 18.5625 Z"
        id="path4270"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"

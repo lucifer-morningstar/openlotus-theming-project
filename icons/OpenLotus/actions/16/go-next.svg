@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15700 custom"
+   inkscape:version="0.92+devel (d0390b9f4f, 2017-07-31, custom)"
    sodipodi:docname="go-next.svg">
   <defs
      id="ol-defs">
@@ -86,7 +86,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,23 +106,33 @@
   <g
      id="g4267"
      inkscape:label="#go-next"
-     style="fill:none;stroke-width:1.890625"
-     transform="matrix(0,-0.52892562,0.52892562,0,2.181818,13.818182)">
+     style="fill:none;stroke-width:1.375"
+     transform="scale(0.72727273)">
     <rect
        inkscape:label="#boundary"
-       y="-4.125"
-       x="-4.125"
-       height="30.25"
-       width="30.25"
+       y="0"
+       x="0"
+       height="22"
+       width="22"
        id="rect4264"
-       style="vector-effect:none;fill:none;stroke-width:5.671875;stroke-linecap:round"
+       style="vector-effect:none;fill:none;stroke-width:4.125;stroke-linecap:round"
        sodipodi:insensitive="true" />
     <path
-       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:3.78125;stroke-linejoin:round"
-       inkscape:transform-center-y="3.1754278"
-       d="M 11.000001,16.302278 9e-7,0 H 22 Z"
+       sodipodi:type="star"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:2.75;stroke-linejoin:round"
        id="path4270"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:sides="3"
+       sodipodi:cx="9.4122868"
+       sodipodi:cy="11"
+       sodipodi:r1="6.350853"
+       sodipodi:r2="3.1754265"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 15.76314,11 -9.5262797,5.5 0,-11 z"
+       inkscape:transform-center-x="-1.587712"
+       inkscape:label="#glyph" />
   </g>
 </svg>

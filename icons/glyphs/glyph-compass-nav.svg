@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16mm"
-   height="16mm"
-   viewBox="0 0 16 16"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (e773125514, 2017-08-01, custom)"
+   inkscape:version="0.92+devel (ab74a354e7, 2017-08-02, custom)"
    sodipodi:docname="glyph-compass-nav.svg">
   <defs
      id="defs2" />
@@ -28,20 +28,21 @@
      inkscape:zoom="10.137867"
      inkscape:cx="56.05412"
      inkscape:cy="27.302424"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
      inkscape:snap-grids="false"
-     inkscape:snap-to-guides="false" />
+     inkscape:snap-to-guides="false"
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -55,8 +56,9 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#d0d0d0;stroke-width:0.99999994"
-     d="M 30.236328 0 A 30.23622 30.23622 0 0 0 0 30.236328 A 30.23622 30.23622 0 0 0 30.236328 60.472656 A 30.23622 30.23622 0 0 0 60.472656 30.236328 A 30.23622 30.23622 0 0 0 30.236328 0 z M 48.316406 12.15625 L 38.59375 38.59375 L 12.15625 48.316406 L 21.878906 21.878906 L 48.316406 12.15625 z M 30.316406 24.837891 A 5.3987588 5.3987588 0 0 0 26.419922 26.419922 A 5.3987588 5.3987588 0 0 0 26.419922 34.052734 A 5.3987588 5.3987588 0 0 0 34.052734 34.052734 A 5.3987588 5.3987588 0 0 0 34.052734 26.419922 A 5.3987588 5.3987588 0 0 0 30.316406 24.837891 z "
-     transform="scale(0.26458333)"
-     id="path13" />
+     style="fill:#d0d0d0;stroke-width:0.07000409"
+     d="M 2.1166667,5.6000066e-5 A 2.1166591,2.1166591 0 0 0 0,2.1167226 2.1166591,2.1166591 0 0 0 2.1166667,4.2333892 2.1166591,2.1166591 0 0 0 4.2333334,2.1167226 2.1166591,2.1166591 0 0 0 2.1166667,5.6000066e-5 Z M 3.3823462,0.85104318 2.7017204,2.7017762 0.85098723,3.382402 1.5316129,1.5316689 Z M 2.1222725,1.7388099 a 0.37793521,0.37793521 0 0 0 -0.2727699,0.1107487 0.37793521,0.37793521 0 0 0 0,0.534328 0.37793521,0.37793521 0 0 0 0.5343281,0 0.37793521,0.37793521 0 0 0 0,-0.534328 0.37793521,0.37793521 0 0 0 -0.2615582,-0.1107487 z"
+     id="path13"
+     inkscape:connector-curvature="0"
+     inkscape:label="#" />
 </svg>

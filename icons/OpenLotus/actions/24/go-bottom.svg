@@ -14,7 +14,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15700 custom"
+   inkscape:version="0.92+devel (ab74a354e7, 2017-08-02, custom)"
    sodipodi:docname="go-bottom.svg">
   <defs
      id="ol-defs">
@@ -86,7 +86,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,7 +106,7 @@
   <g
      id="g4267"
      inkscape:label="#go-bottom"
-     style="fill:none;stroke-width:0.91666669"
+     style="fill:none;stroke-width:1.375"
      transform="scale(1.0909091)">
     <rect
        inkscape:label="#boundary"
@@ -115,11 +115,11 @@
        height="22"
        width="22"
        id="rect4264"
-       style="vector-effect:none;fill:none;stroke-width:2.75;stroke-linecap:round"
+       style="vector-effect:none;fill:none;stroke-width:4.125;stroke-linecap:round"
        sodipodi:insensitive="true" />
     <path
-       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:1.83333313;stroke-linejoin:round"
-       d="m 3,3 8,12 8,-12 z m 0,14 v 2 h 16 v -2 z"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:2.74999976;stroke-linejoin:round"
+       d="M 5.5,5.5 11,13.75 16.5,5.5 Z m 0,9.625 V 16.5 h 11 v -1.375 z"
        id="path4270"
        inkscape:connector-curvature="0"
        inkscape:label="#1"

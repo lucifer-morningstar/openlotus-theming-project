@@ -14,7 +14,7 @@
    viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (f96dc7e339, 2017-07-28, custom)"
+   inkscape:version="0.92+devel (7f3bd2b258, 2017-08-07, custom)"
    sodipodi:docname="glyph-calendar.svg">
   <defs
      id="defs2" />
@@ -25,9 +25,9 @@
      borderopacity="0.38039216"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="36.415999"
-     inkscape:cx="10.094581"
-     inkscape:cy="7.9162778"
+     inkscape:zoom="25.25"
+     inkscape:cx="7.970297"
+     inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -35,9 +35,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -53,9 +53,9 @@
     </rdf:RDF>
   </metadata>
   <path
+     style="font-variation-settings:normal;vector-effect:none;fill:#d0d0d0;stroke:none;stroke-width:0.39687499;stroke-linecap:round;stroke-miterlimit:26.70000076"
+     d="M 0.21152883,0 C 0.09426549,0 -3.5e-8,0.0942655 -3.5e-8,0.21152885 V 4.0218045 c 0,0.117264 0.094266295,0.2115287 0.211528865,0.2115287 H 4.0211153 c 0.117264,0 0.2122179,-0.094264 0.2122179,-0.2115287 V 0.21152885 C 4.2333332,0.09426552 4.1383782,0 4.0211153,0 H 3.4857475 V 0.4189236 H 3.070958 V 0 H 2.3233723 V 0.4189236 H 1.9092719 V 0 H 1.1616862 V 0.4189236 H 0.74689663 V 0 Z"
+     id="rect811-3"
      inkscape:connector-curvature="0"
-     style="font-variation-settings:normal;vector-effect:none;fill:#d0d0d0;stroke:none;stroke-width:0.39687496;stroke-linecap:round;stroke-miterlimit:26.70000076"
-     d="M 7.4364035e-8,-4.3301271e-8 C 3.7436404e-7,1.4111107 -1.2563596e-7,2.8222222 7.4364035e-8,4.2333332 1.4111108,4.2333329 2.8222222,4.2333335 4.2333332,4.2333332 V -4.3301271e-8 H 3.4860919 C 3.4860925,0.13966416 3.4860919,0.27943136 3.4860919,0.41909566 H 3.0711303 V -4.3301271e-8 H 2.3238891 V 0.41909566 H 1.9094442 c 0,-0.1396643 3e-7,-0.2794315 0,-0.419095703301271 H 1.162203 C 1.1622027,0.13966416 1.1622035,0.27943136 1.162203,0.41909566 c -0.1383202,-3e-7 -0.27664093,8e-7 -0.41496166,0 2.7e-7,-0.1396635 -2.6e-7,-0.2794323 0,-0.419095703301271 z M 0.49816075,1.2536701 H 1.328601 V 2.0841104 H 0.49816075 Z m 1.18855805,0 H 2.5171591 V 2.0841104 H 1.6867188 Z m 1.1885577,0 H 3.7057167 V 2.0841104 H 2.8752765 Z M 0.49816075,2.4494627 H 1.328601 V 3.279903 H 0.49816075 Z m 1.18855805,0 H 2.5171591 V 3.279903 H 1.6867188 Z"
-     id="rect811"
      inkscape:label="#" />
 </svg>

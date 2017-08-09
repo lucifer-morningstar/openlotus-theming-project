@@ -14,7 +14,7 @@
    viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (b8837397f6, 2017-07-27, custom)"
+   inkscape:version="0.92+devel (7f3bd2b258, 2017-08-07, custom)"
    sodipodi:docname="glyph-notebook.svg">
   <defs
      id="defs2" />
@@ -25,9 +25,9 @@
      borderopacity="0.38039216"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="36.415999"
-     inkscape:cx="10.094581"
-     inkscape:cy="7.9162778"
+     inkscape:zoom="25.25"
+     inkscape:cx="7.970297"
+     inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -35,15 +35,16 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-page="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
      inkscape:snap-grids="false"
-     inkscape:snap-to-guides="false"
-     inkscape:object-paths="true" />
+     inkscape:snap-to-guides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -57,8 +58,9 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="font-variation-settings:normal;vector-effect:none;fill:#d0d0d0;stroke:none;stroke-width:0.39687496;stroke-linecap:round;stroke-miterlimit:26.70000076"
-     d="m 0,0 c 0,0.24908041 0,0.4981608 0,0.74724121 0.13966417,0 0.27932835,0 0.41899252,0 0,0.13832057 0,0.27664119 0,0.41496169 -0.13966417,0 -0.27932835,0 -0.41899252,0 0,0.2490805 0,0.4981608 0,0.7472413 0.13966417,0 0.27932835,0 0.41899252,0 0,0.1381483 0,0.2762966 0,0.4144449 -0.13966417,0 -0.27932835,0 -0.41899252,0 0,0.2490804 0,0.4981609 0,0.7472413 0.13966417,0 0.27932835,0 0.41899252,0 0,0.1383204 0,0.2766412 0,0.4149616 -0.13966417,0 -0.27932835,0 -0.41899252,0 0,0.2490803 0,0.4981609 0,0.7472413 1.4111111,0 2.8222223,0 4.2333333,0 0,-1.411111 0,-2.8222222 0,-4.2333333 C 2.8222223,0 1.4111111,0 0,0 Z"
-     id="rect811"
-     inkscape:connector-curvature="0" />
+     style="fill:#d0d0d0;stroke-width:1.66048288"
+     d="M 0 0 L 0 2.5917969 L 1.6777344 2.5917969 L 1.6777344 4.46875 L 0 4.46875 L 0 7.0605469 L 1.6777344 7.0605469 L 1.6777344 8.9394531 L 0 8.9394531 L 0 11.53125 L 1.6777344 11.53125 L 1.6777344 13.408203 L 0 13.408203 L 0 16 L 2.2792969 16 L 3.9257812 16 L 15.400391 16 C 15.732789 16 16 15.732793 16 15.400391 L 16 0.59960938 C 16 0.26720936 15.732789 0 15.400391 0 L 3.9257812 0 L 2.2792969 0 L 0 0 z "
+     transform="scale(0.26458333)"
+     id="rect812"
+     inkscape:label="#" />
 </svg>

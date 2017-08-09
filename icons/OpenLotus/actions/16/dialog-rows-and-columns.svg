@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92+devel (e9504dc345, 2017-08-06, custom)"
    sodipodi:docname="dialog-rows-and-columns.svg">
   <defs
      id="ol-defs">
@@ -146,10 +146,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.46875"
-     inkscape:cx="8"
+     inkscape:cx="7.9332406"
      inkscape:cy="12.744623"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="dialog-rows-and-columns"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -177,7 +177,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -196,7 +196,7 @@
     <path
        id="rect4390"
        d="m 2.0214844,2 v 3.4199219 h 4.703125 V 2 Z M 9.2851563,2 V 7.3222656 H 13.978516 V 2 Z M 2,8.6757812 V 14 H 6.703125 V 8.6757812 Z M 9.3066407,10.580078 V 14 H 14 v -3.419922 z"
-       style="opacity:0.98999999;fill:#d0d0d0;stroke-width:2.10488892;stroke-linecap:square"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:2.10488892;stroke-linecap:square"
        inkscape:connector-curvature="0"
        inkscape:label="#1" />
   </g>

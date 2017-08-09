@@ -14,7 +14,7 @@
    viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (b8837397f6, 2017-07-27, custom)"
+   inkscape:version="0.92+devel (7f3bd2b258, 2017-08-07, custom)"
    sodipodi:docname="glyph-filezilla.svg">
   <defs
      id="defs2">
@@ -42,7 +42,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="36.415999"
-     inkscape:cx="10.094581"
+     inkscape:cx="10.05339"
      inkscape:cy="7.9162778"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
@@ -51,9 +51,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -64,15 +64,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#d0d0d0;fill-opacity:1;stroke-width:0.26458332"
-     fill="url(#a)"
-     d="M 0.79375,1.32315e-4 0,3.7042988 H 0.79375 L 1.1379729,2.1167989 H 3.0866291 L 1.3229166,3.7042988 1.8520833,4.2334655 C 2.6458333,3.7042988 3.4395832,4.6567988 4.2333332,3.8630488 L 4.0745832,3.2277843 3.8364582,3.4132572 C 3.4768895,3.6198968 3.1816145,3.387328 2.7619853,3.3232988 L 3.9687499,2.1165343 4.2333332,1.3227843 H 1.3229166 L 1.4552083,0.79361768 H 3.4395832 L 3.7041665,-1.32285e-4 Z"
-     id="path31"
-     inkscape:connector-curvature="0"
-     inkscape:label="#" />
+     style="fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.29472154;stroke-linecap:round"
+     d="M 0.79354441,-2.0000001e-8 H 3.7045774 L 3.4397886,0.79354438 H 1.4555166 L 1.3231222,1.3231222 h 2.910211 L 3.9685444,2.1166665 2.7621923,3.3230183 c 0.4196392,0.064031 0.7143801,0.2971008 1.0739573,0.090456 L 4.0746244,3.2276287 4.2333332,3.8632867 C 3.4395642,4.6570556 2.6456468,3.7041534 1.8518777,4.2333332 L 1.3231222,3.7045774 3.0870112,2.1166665 H 1.1380988 L 0.79354441,3.7045774 H -1e-8 Z"
+     id="rect823"
+     inkscape:connector-curvature="0" />
 </svg>

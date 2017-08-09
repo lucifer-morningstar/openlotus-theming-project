@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keys
+   name="My custom shortcuts">
+  <bind
+     key="y"
+     modifiers="Ctrl"
+     action="DialogAlignDistribute"
+     display="true" />
+  <bind
+     key="Y"
+     modifiers="Ctrl"
+     action="DialogAlignDistribute" />
+</keys>

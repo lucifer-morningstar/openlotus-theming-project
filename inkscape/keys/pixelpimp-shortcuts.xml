@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keys
+   name="My custom shortcuts">
+  <bind
+     key="f"
+     modifiers="Ctrl,Shift"
+     action="DialogFillStroke"
+     display="true" />
+  <bind
+     key="F"
+     modifiers="Ctrl,Shift"
+     action="DialogFillStroke" />
+  <bind
+     key="y"
+     modifiers="Ctrl,Shift"
+     action="DialogAlignDistribute"
+     display="true" />
+  <bind
+     key="Y"
+     modifiers="Ctrl,Shift"
+     action="DialogAlignDistribute" />
+  <bind
+     key="o"
+     modifiers="Ctrl,Shift"
+     action="DialogObjects"
+     display="true" />
+  <bind
+     key="O"
+     modifiers="Ctrl,Shift"
+     action="DialogObjects" />
+</keys>

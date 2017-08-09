@@ -1,13 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (7f3bd2b258, 2017-08-07, custom)"
+   sodipodi:docname="games-solve.svg">
+  <defs
+     id="defs2">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#f2f2f2;
       }
       </style>
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="m8 2c-3.314 0-6 2.686-6 6 0 3.314 2.686 6 6 6 3.314 0 6-2.686 6-6 0-3.314-2.686-6-6-6m0 1c1.713 0 3.222.865 4.123 2.178l-4.662 4.49-2.77-2.668-.691.666 3.461 3.334.693-.666 4.449-4.287c.255.6.396 1.26.396 1.953 0 2.761-2.239 5-5 5-2.761 0-5-2.239-5-5 0-2.761 2.239-5 5-5"
-     class="ColorScheme-Text"
-     />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="50.5"
+     inkscape:cx="7.940594"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="g866"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g866"
+     inkscape:label="#games-solve">
+    <path
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0"
+       id="rect811"
+       d="M 0,0 H 4.2333332 V 4.2333332 H 0 Z"
+       style="fill:none;stroke-width:0.25454992;stroke-linecap:round" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="path860"
+       d="M 2.1166666,0.52916658 A 1.5874999,1.5874999 0 0 0 0.52916661,2.1166665 1.5874999,1.5874999 0 0 0 2.1166666,3.7041666 1.5874999,1.5874999 0 0 0 3.7041666,2.1166665 1.5874999,1.5874999 0 0 0 3.5615396,1.4634764 C 3.0042001,2.0151886 2.4466319,2.5664409 1.889807,3.1186725 1.5187508,2.7619419 1.1889558,2.3657793 0.84129225,1.9869587 L 1.2381672,1.5931843 1.896525,2.3233723 C 2.3440329,1.8806544 2.7915497,1.4379845 3.2390787,0.99528793 A 1.5874999,1.5874999 0 0 0 2.1166666,0.52916658 Z"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.38079518" />
+  </g>
 </svg>

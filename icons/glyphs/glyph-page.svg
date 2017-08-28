@@ -9,73 +9,40 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 5.8208332 5.8208335"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15739 custom"
+   inkscape:version="0.92+devel (305337db3c, 2017-08-09, custom)"
    sodipodi:docname="glyph-page.svg">
   <defs
-     id="defs2">
-    <linearGradient
-       id="a"
-       y1="392.35999"
-       y2="365.35999"
-       gradientUnits="userSpaceOnUse"
-       x2="0"
-       gradientTransform="translate(471.31814,349.93102)">
-      <stop
-         stop-color="#ffffff"
-         stop-opacity="0"
-         id="stop2" />
-      <stop
-         offset="1"
-         stop-color="#ffffff"
-         stop-opacity=".2"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4314"
-       y1="392.35999"
-       y2="365.35999"
-       gradientUnits="userSpaceOnUse"
-       x2="0"
-       gradientTransform="translate(309.57,152.44)">
-      <stop
-         stop-color="#ffffff"
-         stop-opacity="0"
-         id="stop4310" />
-      <stop
-         offset="1"
-         stop-color="#ffffff"
-         stop-opacity=".2"
-         id="stop4312" />
-    </linearGradient>
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#002466"
      bordercolor="#ffffff"
-     borderopacity="0.32156863"
+     borderopacity="0.38039216"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.363636"
-     inkscape:cx="11"
-     inkscape:cy="11"
+     inkscape:zoom="50.5"
+     inkscape:cx="7.940594"
+     inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
-     units="px"
-     inkscape:pagecheckerboard="false"
-     borderlayer="true"
      inkscape:showpageshadow="false"
+     borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -84,34 +51,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>PixelPimps &amp; CodePoets</dc:title>
-          </cc:Agent>
-        </dc:creator>
+        <dc:title />
       </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
     </rdf:RDF>
   </metadata>
   <path
+     style="fill:#d0d0d0;stroke-width:0.29102027"
+     d="M 0.49085726,0 V 4.2333332 H 3.7424759 V 1.2987787 L 2.4436972,0 Z"
+     id="rect812"
      inkscape:connector-curvature="0"
-     d="M 0.62366057,5.8208335 V 2.736646e-7 H 3.7419656 L 5.1971713,1.4552059 V 5.8208335 H 2.2867599 Z"
-     id="use15"
-     style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeee;stroke-width:0.20788699;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
      inkscape:label="#" />
 </svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (260139f747, 2017-08-10, custom)"
+   sodipodi:docname="glyph-auto-heal.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.504388"
+     inkscape:cx="7.958909"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:1.97904575"
+     d="M 11.623047 0 C 10.50513 4.7244096e-08 9.3876825 0.42872379 8.53125 1.2851562 L 14.714844 7.4667969 C 16.427708 5.7539326 16.429616 2.9980215 14.716797 1.2851562 C 13.860317 0.42872368 12.740964 -4.7244096e-08 11.623047 0 z M 7.9140625 1.9023438 L 1.9023438 7.9140625 L 8.0859375 14.095703 L 14.095703 8.0859375 L 7.9140625 1.9023438 z M 9.0644531 5.6210938 L 9.1582031 7.2597656 L 10.443359 8.2832031 L 8.9140625 8.8789062 L 8.3359375 10.416016 L 7.296875 9.1464844 L 5.6582031 9.0722656 L 6.5449219 7.6914062 L 6.1074219 6.109375 L 7.6953125 6.5253906 L 9.0644531 5.6210938 z M 1.2851562 8.53125 C -0.42770882 10.244115 -0.42770859 13.003932 1.2851562 14.716797 C 2.9980219 16.429663 5.7539318 16.427756 7.4667969 14.714844 L 1.2851562 8.53125 z "
+     transform="scale(0.26458333)"
+     id="rect811" />
+</svg>

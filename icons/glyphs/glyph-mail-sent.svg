@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16mm"
-   height="16mm"
-   viewBox="0 0 16 16"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel trunk-123-gfa70b9518d 2017-07-11 custom"
+   inkscape:version="0.92+devel (7f48eea3d0, 2017-08-15, custom)"
    sodipodi:docname="glyph-mail-sent.svg">
   <defs
      id="defs2" />
@@ -26,19 +26,20 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="11.889714"
-     inkscape:cx="30.23622"
+     inkscape:cx="30.110061"
      inkscape:cy="30.23622"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -55,10 +56,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-281)">
+     transform="translate(0,-292.76667)">
     <path
-       style="opacity:1;fill:#d0d0d0;stroke-width:0.37834841"
-       d="M 1.0722334,281 2.4503971,287.88786 9.0641047,289 2.567892,290.09218 1.0722334,297 14.927767,289 Z"
+       style="opacity:1;fill:#d0d0d0;stroke-width:0.10010468"
+       d="m 0.283695,292.76667 0.3646391,1.82241 1.7498769,0.29425 -1.7187897,0.28898 L 0.283695,297 3.9496382,294.88333 Z"
        id="path814"
        inkscape:connector-curvature="0" />
   </g>

@@ -1,11 +1,10 @@
 [Icon Theme]
 Name=OpenLotus
-Comment=Pimpin' Plasma
+Comment=Default Plasma 5 Theme for Dark themes
 DisplayDepth=32
-Inherits=breeze-dark
+Inherits=hicolor
 Example=folder
 FollowsColorScheme=true
-
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256
 ToolbarDefault=22
@@ -14,7 +13,7 @@ MainToolbarDefault=22
 MainToolbarSizes=16,22,32,48
 SmallDefault=16
 SmallSizes=16,22,32,48
-PanelDefault=32
+PanelDefault=48
 PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
@@ -87,14 +86,6 @@ Context=Applications
 Type=Scalable
 MinSize=64
 MaxSize=256
-
-#dock - Scalable - For Cairo Dock !!!!ONLY!!!!
-[apps/dock]
-Size=64
-Context=Applications
-Type=Scalable
-MinSize=24
-MaxSize=256x256
 
 #32x32 - Fixed size - For System Settings icons >!!!ONLY!!!< - Scalable to the following sizes: 32x32 (default), 64x64, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
 [preferences/32]

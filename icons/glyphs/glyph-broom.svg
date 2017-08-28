@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (262af300f2, 2017-08-19, custom)"
+   sodipodi:docname="glyph-broom.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="28.674218"
+     inkscape:cx="11.563635"
+     inkscape:cy="4.0244475"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:2.16700006"
+     d="M 7.3144531 0 C 6.868341 -7.4014869e-17 6.5097656 0.35857536 6.5097656 0.8046875 L 6.5097656 2.6289062 C 5.1659061 3.0118366 3.1796875 4.761805 3.1796875 6.4101562 L 3.1796875 8.2636719 L 12.820312 8.2636719 L 12.820312 6.4101562 C 12.820312 4.761805 10.834094 3.0118366 9.4902344 2.6289062 L 9.4902344 0.8046875 C 9.4902344 0.35857536 9.131659 -7.4014868e-17 8.6855469 0 L 7.3144531 0 z M 3.1816406 9.59375 C 3.17606 12.409134 2.6525247 15.64375 2.0996094 16 L 8.2109375 16 L 11.742188 16 C 12.295103 15.64375 12.818638 12.409134 12.824219 9.59375 L 3.1816406 9.59375 z "
+     transform="scale(0.26458333)"
+     id="rect813" />
+</svg>

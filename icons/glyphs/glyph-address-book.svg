@@ -14,7 +14,7 @@
    viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (d0390b9f4f, 2017-07-31, custom)"
+   inkscape:version="0.92+devel (305337db3c, 2017-08-09, custom)"
    sodipodi:docname="glyph-address-book.svg">
   <defs
      id="defs2">
@@ -72,7 +72,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="36.415999"
-     inkscape:cx="10.094581"
+     inkscape:cx="10.05339"
      inkscape:cy="7.9162778"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
@@ -81,9 +81,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-page="true"
@@ -98,13 +98,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="font-variation-settings:normal;vector-effect:none;fill:#d0d0d0;stroke:none;stroke-width:1.49999988;stroke-linecap:round;stroke-miterlimit:26.70000076"
-     d="M 0 0 L 0 2.8242188 L 1.5839844 2.8242188 L 1.5839844 4.3925781 L 0 4.3925781 L 0 7.2167969 L 1.5839844 7.2167969 L 1.5839844 8.7832031 L 0 8.7832031 L 0 11.607422 L 1.5839844 11.607422 L 1.5839844 13.175781 L 0 13.175781 L 0 16 L 16 16 L 16 0 L 0 0 z M 8.5488281 2.0488281 A 2.2116712 2.2116712 0 0 1 10.759766 4.2597656 A 2.2116712 2.2116712 0 0 1 8.75 6.4609375 C 10.513828 6.555852 12.121902 7.7057876 12.994141 9.5371094 L 12.994141 13.945312 L 4.1035156 13.945312 L 4.1035156 9.4394531 C 4.990073 7.6570793 6.5799208 6.5456214 8.3164062 6.4589844 A 2.2116712 2.2116712 0 0 1 6.3359375 4.2597656 A 2.2116712 2.2116712 0 0 1 8.5488281 2.0488281 z "
+     style="fill:#d0d0d0;stroke-width:1.10000002"
+     d="M 0 0 L 0 2.8242188 L 1.5839844 2.8242188 L 1.5839844 4.3925781 L 0 4.3925781 L 0 7.2167969 L 1.5839844 7.2167969 L 1.5839844 8.7832031 L 0 8.7832031 L 0 11.607422 L 1.5839844 11.607422 L 1.5839844 13.175781 L 0 13.175781 L 0 16 L 15.105469 16 C 15.601352 16 16 15.601351 16 15.105469 L 16 0.89453125 C 16 0.39864837 15.601352 0 15.105469 0 L 0 0 z M 8.5488281 2.0488281 A 2.2116712 2.2116712 0 0 1 10.759766 4.2597656 A 2.2116712 2.2116712 0 0 1 8.75 6.4609375 C 10.513828 6.555852 12.121902 7.7057875 12.994141 9.5371094 L 12.994141 13.945312 L 4.1035156 13.945312 L 4.1035156 9.4394531 C 4.990073 7.6570793 6.5799208 6.5456214 8.3164062 6.4589844 A 2.2116712 2.2116712 0 0 1 6.3359375 4.2597656 A 2.2116712 2.2116712 0 0 1 8.5488281 2.0488281 z "
      transform="scale(0.26458333)"
-     id="rect811" />
+     id="rect816" />
 </svg>

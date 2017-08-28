@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="16" viewBox="0 0 4.2333332 4.2333332" width="16" xmlns="http://www.w3.org/2000/svg">
+	<sodipodi:namedview/>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:format>image/svg+xml			</dc:format>
+			<dc:type/>
+			<dc:title/>
+		</cc:Work>
+	</rdf:RDF>
+</metadata>
+<g fill="#d0d0d0">
+	<path d="M 2.9986111 0 H 4.2333332 V 1.2347222 H 2.9986111 Z"/>
+	<path d="M 1.4993056 0 H 2.7340277 V 1.2347222 H 1.4993056 Z"/>
+	<path d="M 0 0 H 1.2347221 V 1.2347222 H 0 Z"/>
+	<path d="M 2.9986111 2.998611 H 4.2333332 V 4.2333332 H 2.9986111 Z"/>
+	<path d="M 1.4993056 2.998611 H 2.7340277 V 4.2333332 H 1.4993056 Z"/>
+	<path d="M 0 2.998611 H 1.2347221 V 4.2333332 H 0 Z"/>
+	<path d="M 2.9986111 1.4993055 H 4.2333332 V 2.7340277 H 2.9986111 Z"/>
+	<path d="M 1.4993056 1.4993055 H 2.7340277 V 2.7340277 H 1.4993056 Z"/>
+	<path d="M 0 1.4993055 H 1.2347221 V 2.7340277 H 0 Z"/>
+</g>
+</svg>

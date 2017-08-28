@@ -1,64 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 4.2333332 4.2333332"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92+devel (ab74a354e7, 2017-08-02, custom)"
-   sodipodi:docname="glyph-compass-nav.svg">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#002466"
-     bordercolor="#ffffff"
-     borderopacity="0.38039216"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="10.137867"
-     inkscape:cx="56.05412"
-     inkscape:cy="27.302424"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg8"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:showpageshadow="false"
-     borderlayer="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
-     inkscape:snap-page="true"
-     inkscape:snap-grids="false"
-     inkscape:snap-to-guides="false"
-     units="px" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="fill:#d0d0d0;stroke-width:0.07000409"
-     d="M 2.1166667,5.6000066e-5 A 2.1166591,2.1166591 0 0 0 0,2.1167226 2.1166591,2.1166591 0 0 0 2.1166667,4.2333892 2.1166591,2.1166591 0 0 0 4.2333334,2.1167226 2.1166591,2.1166591 0 0 0 2.1166667,5.6000066e-5 Z M 3.3823462,0.85104318 2.7017204,2.7017762 0.85098723,3.382402 1.5316129,1.5316689 Z M 2.1222725,1.7388099 a 0.37793521,0.37793521 0 0 0 -0.2727699,0.1107487 0.37793521,0.37793521 0 0 0 0,0.534328 0.37793521,0.37793521 0 0 0 0.5343281,0 0.37793521,0.37793521 0 0 0 0,-0.534328 0.37793521,0.37793521 0 0 0 -0.2615582,-0.1107487 z"
-     id="path13"
-     inkscape:connector-curvature="0"
-     inkscape:label="#" />
+<svg height="16" viewBox="0 0 4.2333332 4.2333332" width="16" xmlns="http://www.w3.org/2000/svg">
+	<sodipodi:namedview/>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:format>image/svg+xml			</dc:format>
+			<dc:type/>
+			<dc:title/>
+		</cc:Work>
+	</rdf:RDF>
+</metadata>
+<path d="M 2.1166667 .000056 A 2.1166591 2.1166591 0 0 0 0 2.1167226 A 2.1166591 2.1166591 0 0 0 2.1166667 4.2333892 A 2.1166591 2.1166591 0 0 0 4.2333334 2.1167226 A 2.1166591 2.1166591 0 0 0 2.1166667 .000056 Z M 3.3823462 .85104318 L 2.7017204 2.7017762 L .85098723 3.382402 L 1.5316129 1.5316689 Z M 2.1222725 1.7388099 a .37793521 .37793521 0 0 0 -.2727699 .1107487 a .37793521 .37793521 0 0 0 0 .534328 a .37793521 .37793521 0 0 0 .5343281 0 a .37793521 .37793521 0 0 0 0 -.534328 a .37793521 .37793521 0 0 0 -.2615582 -.1107487 z" fill="#d0d0d0" stroke-width=".070004"/>
 </svg>

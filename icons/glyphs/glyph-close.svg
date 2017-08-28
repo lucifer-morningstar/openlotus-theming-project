@@ -1,24 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg
+<svg:svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 5.8208332 5.8208335"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15719 custom"
+   inkscape:version="0.92+devel (305337db3c, 2017-08-09, custom)"
    sodipodi:docname="glyph-close.svg">
-  <defs
+  <svg:defs
      id="defs2">
     <style
+       id="current-color-scheme"
+       type="text/css">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#0059a9;
+        stop-color:#0059a9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#3e3e3e;
+        stop-color:#2e2e2e;
+      }
+      .ColorScheme-ButtonHover {
+        color:#0059a9;
+        stop-color:#0059a9;                                                                         
+      }                                                                                             
+      .ColorScheme-ButtonFocus{                                                                     
+        color:#0039a9;                                                                              
+        stop-color:#0039a9;
+      }</style>
+    <svg:style
        id="current-color-scheme">      .ColorScheme-Text {
         color:#d0d0d0;
         stop-color:#d0d0d0;
@@ -62,31 +107,31 @@
       .ColorScheme-ButtonFocus{                         
         color:#0039a9;                                  
         stop-color:#0039a9;                             
-      }</style>
-  </defs>
+      }</svg:style>
+  </svg:defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#002466"
      bordercolor="#ffffff"
-     borderopacity="0.29019608"
+     borderopacity="0.38039216"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.681818"
-     inkscape:cx="11"
-     inkscape:cy="11"
+     inkscape:zoom="25.25"
+     inkscape:cx="7.8217823"
+     inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
-     units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
-  <metadata
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px" />
+  <svg:metadata
      id="metadata5">
     <rdf:RDF>
       <cc:Work
@@ -97,11 +142,11 @@
         <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
-  </metadata>
-  <path
-     style="opacity:1;fill:#ff0000;stroke-width:0.86237407;stroke-linejoin:round"
-     d="m 1.3229165,1.9579167 0.9525001,0.9524997 -0.9525003,0.9525002 0.6350002,0.635 0.9524999,-0.9524997 0.9525002,0.9524997 0.6349995,-0.635 L 3.5454169,2.9104169 4.4979169,1.957917 3.8629166,1.3229168 2.9104169,2.2754167 1.9579166,1.3229165 Z"
-     id="rect4268"
+  </svg:metadata>
+  <svg:path
+     style="fill:#d0d0d0;stroke-width:0.30348951"
+     d="M 1.1945596,1.5420644 1.7691619,2.1166668 1.1945596,2.691269 1.5420643,3.0387737 2.1166666,2.4641715 2.6912689,3.0387737 3.0387737,2.6912687 2.4641715,2.1166665 3.0387738,1.5420643 2.6912691,1.1945596 2.1166668,1.7691618 1.5420644,1.1945595 Z"
+     id="rect816"
      inkscape:connector-curvature="0"
      inkscape:label="#" />
-</svg>
+</svg:svg>

@@ -2,64 +2,59 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:cc="http://creativecommons.org/ns#"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-     width="16"
-     height="16"
-     viewBox="0 0 4.2333333 4.2333333"
-     version="1.1"
-     id="svg8"
-     inkscape:version="0.92+devel (78cebbf91a, 2017-07-21, custom)"
-     sodipodi:docname="glyph-phone.svg">
-    <defs
-         id="defs2" />
-    <sodipodi:namedview
-         id="base"
-         pagecolor="#002466"
-         bordercolor="#ffffff"
-         borderopacity="0.38039216"
-         inkscape:pageopacity="1"
-         inkscape:pageshadow="2"
-         inkscape:zoom="27.28125"
-         inkscape:cx="8"
-         inkscape:cy="7.9450172"
-         inkscape:document-units="px"
-         inkscape:current-layer="svg8"
-         inkscape:document-rotation="0"
-         showgrid="false"
-         inkscape:showpageshadow="false"
-         borderlayer="true"
-         inkscape:window-width="1920"
-         inkscape:window-height="1051"
-         inkscape:window-x="0"
-         inkscape:window-y="0"
-         inkscape:window-maximized="1"
-         units="px"
-         inkscape:snap-page="true"
-         inkscape:snap-grids="false"
-         inkscape:snap-to-guides="false"
-         inkscape:object-paths="true" />
-    <metadata
-         id="metadata5">
-        <rdf:RDF>
-            <cc:Work
-                 rdf:about="">
-                <dc:format>image/svg+xml</dc:format>
-                <dc:type
-                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                <dc:title></dc:title>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <path
-         style="opacity:0.98999999;fill:#d0d0d0;stroke-width:1.70000005"
-         d="M 4.0703125 0 C 3.6186922 7.4014868e-17 3.2558594 0.36283272 3.2558594 0.81445312 L 3.2558594 15.185547 C 3.2558594 15.637167 3.6186922 16 4.0703125 16 L 11.929688 16 C 12.381307 16 12.744141 15.637167 12.744141 15.185547 L 12.744141 0.81445312 C 12.744141 0.36283272 12.381308 0 11.929688 0 L 4.0703125 0 z M 8 1.0253906 A 0.60594471 0.60594471 0 0 1 8.6054688 1.6328125 A 0.60594471 0.60594471 0 0 1 8 2.2382812 A 0.60594471 0.60594471 0 0 1 7.3945312 1.6328125 A 0.60594471 0.60594471 0 0 1 8 1.0253906 z M 6.7207031 14.394531 L 9.2792969 14.394531 C 9.4404068 14.394531 9.5703125 14.52248 9.5703125 14.683594 C 9.5703125 14.844704 9.4404106 14.974609 9.2792969 14.974609 L 6.7207031 14.974609 C 6.5595932 14.974609 6.4296875 14.844707 6.4296875 14.683594 C 6.4296875 14.522484 6.5595894 14.394531 6.7207031 14.394531 z "
-         transform="scale(0.26458333)"
-         id="rect811"
-         inkscape:label="#" />
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (d0930c9bda, 2017-08-13, custom)"
+   sodipodi:docname="glyph-phone.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="20.275734"
+     inkscape:cx="22.83385"
+     inkscape:cy="7.2624734"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:2.16700006"
+     d="M 0.88867188,5.3339844 H 3.5566406 c 0.8892571,1.5e-6 0.8886719,0.8886718 0.8886719,0.8886718 V 6.6660156 C 4.4453133,7.4046219 5.0387379,7.9999985 5.7773438,8 h 4.4453122 c 0.738605,-1.1e-6 1.332031,-0.5953819 1.332032,-1.3339844 V 6.2226562 c 0,10e-8 -5.9e-4,-0.8886699 0.888671,-0.8886718 h 2.667969 C 16.000595,5.3339848 16,6.2226562 16,6.2226562 v 1.3925782 c -1.081233,1.82387 -3.049554,3.0507816 -5.332031,3.0507816 H 5.3320312 C 3.0495548,10.666016 1.0812449,9.4390829 0,7.6152344 V 6.2226562 c 0,10e-8 -5.9291521e-4,-0.8886677 0.88867188,-0.8886718 z"
+     transform="scale(0.26458333)"
+     id="rect812" />
 </svg>

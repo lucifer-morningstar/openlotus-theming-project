@@ -1,112 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92+devel 15687 custom"
-   sodipodi:docname="glyph-lock.svg">
-  <defs
-     id="ol-defs">
-    <style
-       id="current-color-scheme">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#002266"
-     bordercolor="#ffffff"
-     borderopacity="0.46666667"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="13.081476"
-     inkscape:cx="16.621911"
-     inkscape:cy="12.794693"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg8"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:showpageshadow="false"
-     borderlayer="true"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     sodipodi:nodetypes="ssccccccssssccss"
-     inkscape:label="#glyph"
-     inkscape:connector-curvature="0"
-     id="path5601;fill#fffff"
-     d="M 11,0 C 7.7217558,0 5.0825926,2.6391637 5.0825926,5.9174074 V 8.4832261 H 2.123889 V 22 H 19.876111 V 8.4832261 H 16.917407 V 5.9174074 C 16.917407,2.6391637 14.278244,0 11,0 Z m 0,2.9587038 c 1.639121,0 2.958704,1.3195818 2.958704,2.9587036 V 8.4832261 H 8.0412963 V 5.9174074 C 8.0412963,4.2782856 9.360879,2.9587038 11,2.9587038 Z"
-     style="opacity:1;fill:#d0d0d0" />
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+	<sodipodi:namedview/>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:format>image/svg+xml			</dc:format>
+			<dc:type/>
+			<dc:title/>
+		</cc:Work>
+	</rdf:RDF>
+</metadata>
+<path d="M 8 0 C 5.6158224 0 3.6964309 1.9193917 3.6964309 4.3035691 V 6.1696189 H 1.5446465 V 16 H 14.455354 V 6.1696189 H 12.30357 V 4.3035691 C 12.30357 1.9193917 10.384178 0 8 0 Z m 0 2.1517845 c 1.1920875 0 2.151785 .9596959 2.151785 2.1517846 V 6.1696189 H 5.8482154 V 4.3035691 C 5.8482154 3.1114804 6.807912 2.1517845 8 2.1517845 Z" fill="#d0d0d0" stroke-width=".727273"/>
 </svg>

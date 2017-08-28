@@ -9,51 +9,37 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 5.8208332 5.8208335"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15725 custom"
+   inkscape:version="0.92+devel (305337db3c, 2017-08-09, custom)"
    sodipodi:docname="glyph-floppy.svg">
   <defs
-     id="defs2">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#002466"
      bordercolor="#ffffff"
-     borderopacity="0.37647059"
+     borderopacity="0.38039216"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.613637"
-     inkscape:cx="11"
-     inkscape:cy="11.080586"
+     inkscape:zoom="25.8125"
+     inkscape:cx="8"
+     inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:measure-start="0,-0.00134268"
-     inkscape:measure-end="0.0107717,17.4601"
-     inkscape:snap-page="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true" />
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -62,14 +48,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="display:inline;fill:#d0d0d0;stroke-width:0.40171358;stroke-linecap:round;stroke-linejoin:round"
-     d="M 5.5,0 0,5.5 V 22 H 22.160156 V 0 Z m 1,0.984375 h 10.108984 v 6.78125 H 6.5 Z m 4.903125,1 v 4.7441406 h 4.170703 V 1.984375 Z M 4.1710293,14.250301 H 18.181263 V 20.8 H 4.1710293 Z"
-     transform="scale(0.26458333)"
+     style="display:inline;fill:#d0d0d0;stroke-width:0.0770196;stroke-linecap:round;stroke-linejoin:round"
+     d="M 1.0506846,0 2.5e-8,1.0583334 V 4.2333332 H 4.2333332 V 0 Z m 0.1910335,0.1894176 h 1.931155 v 1.3048768 h -1.931155 z m 0.9366616,0.1924243 v 0.9128876 h 0.796744 V 0.3818419 Z M 0.7968066,2.7421032 h 2.676425 v 1.260321 h -2.676425 z"
      id="rect823"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccccccc"

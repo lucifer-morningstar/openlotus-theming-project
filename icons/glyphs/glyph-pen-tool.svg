@@ -14,7 +14,7 @@
    viewBox="0 0 4.2333332 4.2333335"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (4546dc857e, 2017-07-25, custom)"
+   inkscape:version="0.92+devel (555a04a4d0, 2017-08-15, custom)"
    sodipodi:docname="glyph-pen-tool.svg">
   <defs
      id="defs2" />
@@ -26,7 +26,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="26.323658"
-     inkscape:cx="8.8351801"
+     inkscape:cx="8.7781971"
      inkscape:cy="4.7938515"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
@@ -36,9 +36,9 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -53,8 +53,10 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#d0d0d0;stroke-width:0.32222003;stroke-linejoin:round"
-     d="M 3.4670303,4.347e-5 3.1041806,0.36289319 1.1211138,1.0553405 4.352e-5,3.871171 0.06545153,3.9365786 1.6725139,2.3295162 a 0.38337505,0.38337505 0 0 1 0.088794,-0.4008521 0.38337505,0.38337505 0 0 1 0.5097436,-0.028136 c 0.012327,0.00794 0.025741,0.013337 0.036539,0.024121 0.00961,0.00962 0.014209,0.021663 0.021559,0.032521 A 0.38337505,0.38337505 0 0 1 2.3035727,2.4709294 0.38337505,0.38337505 0 0 1 1.9027206,2.5597234 L 0.29565825,4.1667857 0.36216246,4.2332899 3.1768968,3.1111235 3.8704401,1.1291528 4.2332898,0.76630301 Z"
+     style="fill:#d0d0d0;stroke-width:0.37801725;stroke-linejoin:round"
+     d="M 3.3343845,-1.19e-6 1.0079198,0.81235374 1.4999997e-8,3.8085073 0.07673459,3.8852416 1.6548038,2.3071726 C 1.59559,2.143467 1.6361655,1.9602916 1.7589731,1.8369062 1.9209354,1.6754813 2.178242,1.6612791 2.3569863,1.8038981 c 0.014459,0.00931 0.030199,0.015646 0.042866,0.028298 0.011274,0.011286 0.016671,0.025414 0.025293,0.038151 C 2.5714151,2.0491488 2.5584439,2.3096839 2.39514,2.4730736 2.2717541,2.5958828 2.088579,2.6364577 1.9248743,2.5772452 L 0.34680546,4.1553138 0.42482496,4.2333345 3.4196926,3.2241273 4.2333333,0.89894871 Z"
      id="rect4264"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccc"
+     inkscape:label="#" />
 </svg>

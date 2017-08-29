@@ -14,7 +14,7 @@
    viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (7f3bd2b258, 2017-08-07, custom)"
+   inkscape:version="0.92+devel (01e32517f0, 2017-08-26, custom)"
    sodipodi:docname="16x16-icon.svg">
   <defs
      id="defs2" />
@@ -25,9 +25,9 @@
      borderopacity="0.38039216"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.137867"
-     inkscape:cx="1.8536815"
-     inkscape:cy="0.14928292"
+     inkscape:zoom="40.551468"
+     inkscape:cx="4.2885559"
+     inkscape:cy="7.9030552"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
-	<sodipodi:namedview/>
-	<metadata>
-		<rdf:RDF>
-			<cc:Work>
-				<dc:format>image/svg+xml			</dc:format>
-			<dc:type/>
-			<dc:title/>
-		</cc:Work>
-	</rdf:RDF>
-</metadata>
-<path d="M 8 0 C 5.6158224 0 3.6964309 1.9193917 3.6964309 4.3035691 V 6.1696189 H 1.5446465 V 16 H 14.455354 V 6.1696189 H 12.30357 V 4.3035691 C 12.30357 1.9193917 10.384178 0 8 0 Z m 0 2.1517845 c 1.1920875 0 2.151785 .9596959 2.151785 2.1517846 V 6.1696189 H 5.8482154 V 4.3035691 C 5.8482154 3.1114804 6.807912 2.1517845 8 2.1517845 Z" fill="#d0d0d0" stroke-width=".727273"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><sodipodi:namedview/><metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type/><dc:title/></cc:Work></rdf:RDF></metadata><path d="m8 0c-2.3841776 0-4.3035691 1.9193917-4.3035691 4.3035691v1.8660498h-2.1517844v9.8303811h12.9107075v-9.8303811h-2.151784v-1.8660498c0-2.3841774-1.919392-4.3035691-4.30357-4.3035691zm0 2.1517845c1.1920875 0 2.151785.9596959 2.151785 2.1517846v1.8660498h-4.3035696v-1.8660498c0-1.1920887.9596966-2.1517846 2.1517846-2.1517846z" fill="#d0d0d0" stroke-width=".727273"/></svg>

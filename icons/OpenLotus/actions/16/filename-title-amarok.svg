@@ -1,23 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      </style>
-  </defs>
-<g transform="translate(-421.71-531.79)">
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="m424.71 545.79v-12h10v9l-3 3zm1-1h5v-3h3v-7h-8z"
-     class="ColorScheme-Text"
-     />
-  <path 
-        style="fill:currentColor;fill-opacity:1;stroke:none"
-        d="m426.71 535.79h6v2h-6z"
-        class="ColorScheme-Highlight"
-        />
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (01e32517f0, 2017-08-26, custom)"
+   sodipodi:docname="filename-title-amarok.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.137867"
+     inkscape:cx="9.6343734"
+     inkscape:cy="-0.83645373"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g888"
+     inkscape:label="#filename-title-amarok">
+    <rect
+       style="fill:none;stroke-width:0.20485653"
+       id="rect811"
+       width="4.2333331"
+       height="4.2333331"
+       x="4.4595339e-08"
+       y="4.4595335e-08"
+       inkscape:label="#boundary" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="rect812"
+       d="M 0.89730987,3.7041667 V 0.9318078 H 3.3360232 v 1.7982749 l -0.9740834,0.974084 z"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.21826519"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#00ff00;stroke-width:0.19843748"
+       d="M 0.89730987,0.5291671 H 3.3360232 V 0.9318076 H 0.89730987 Z"
+       id="rect837"
+       inkscape:connector-curvature="0"
+       inkscape:label="#" />
+  </g>
 </svg>

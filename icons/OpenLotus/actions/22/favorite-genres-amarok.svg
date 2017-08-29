@@ -1,14 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-    d="M 11 3 C 8.96332 3 7.0914194 3.438765 5.7246094 4.328125 C 4.3578094 5.217485 3.49827 6.5661419 3.5 8.3574219 C 3.509 10.381802 4.8196538 12.992563 6.4023438 15.126953 C 7.1936738 16.194143 8.054885 17.143384 8.859375 17.833984 C 9.663835 18.524584 10.407001 18.96287 10.994141 19 L 11 19 L 11.005859 19 C 11.592999 18.9628 12.336165 18.524584 13.140625 17.833984 C 13.945095 17.143384 14.806306 16.194143 15.597656 15.126953 C 17.180356 12.992563 18.49032 10.381802 18.5 8.3574219 C 18.501 6.5661419 17.642181 5.217485 16.275391 4.328125 C 14.908591 3.438765 13.03668 3 11 3 z M 11 5.6660156 L 12.25 8.3027344 L 15.072266 8.7324219 L 13.015625 10.773438 L 13.482422 13.666016 L 10.960938 12.291016 L 8.4257812 13.650391 L 8.9257812 10.759766 L 6.890625 8.7050781 L 9.7226562 8.2910156 L 11 5.6660156 z "
-    class="ColorScheme-Text"
-    />  
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208331 5.8208331"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (01e32517f0, 2017-08-26, custom)"
+   sodipodi:docname="favorite-genres-amarok.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.137867"
+     inkscape:cx="1.7057212"
+     inkscape:cy="0.14928212"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g839"
+     inkscape:label="#favorite-genres-amarok"
+     transform="scale(1.375)">
+    <rect
+       inkscape:label="#boundary"
+       y="4.4595335e-08"
+       x="4.4595339e-08"
+       height="4.2333331"
+       width="4.2333331"
+       id="rect811"
+       style="fill:none;stroke-width:0.20485653" />
+    <path
+       inkscape:label="#"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.25340462"
+       d="m 2.1094743,0.6157482 c -0.6880532,0.0031 -1.37440911,0.1466753 -1.53082025,0.421834 -0.3128223,0.5503176 0.93622975,2.580054 1.53617115,2.580054 0.5999415,0 1.8630776,-2.0049598 1.5361711,-2.580054 -0.1634532,-0.2875471 -0.853469,-0.424931 -1.541522,-0.421834 z m 0.0049,0.519489 L 2.3533838,1.614594 2.8835746,1.689508 2.5014321,2.0645208 2.594182,2.592036 2.1192844,2.3450002 1.6461705,2.5960492 1.7344613,2.0676421 1.3496381,1.6953046 1.8793831,1.616378 Z"
+       id="path811"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

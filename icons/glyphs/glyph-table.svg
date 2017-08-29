@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg height="16" viewBox="0 0 4.2333332 4.2333332" width="16" xmlns="http://www.w3.org/2000/svg">
-	<sodipodi:namedview/>
-	<metadata>
-		<rdf:RDF>
-			<cc:Work>
-				<dc:format>image/svg+xml			</dc:format>
-			<dc:type/>
-			<dc:title/>
-		</cc:Work>
-	</rdf:RDF>
-</metadata>
-<path d="M 0 0 V 2.5433594 H 4.8222656 V 0 Z" fill="#0f0" stroke-width="2.2142" transform="scale(.26458333)"/>
-<path d="M 5.8476562 0 L 5.8476562 2.5429688 L 10.154297 2.5429688 L 10.154297 0 L 5.8476562 0 z M 11.177734 0 L 11.177734 2.5429688 L 16 2.5429688 L 16 0 L 11.177734 0 z M 0 3.5683594 L 0 9.0429688 L 4.8222656 9.0429688 L 4.8222656 3.5683594 L 0 3.5683594 z M 5.8476562 3.5683594 L 5.8476562 9.0429688 L 10.154297 9.0429688 L 10.154297 3.5683594 L 5.8476562 3.5683594 z M 11.177734 3.5683594 L 11.177734 9.0429688 L 16 9.0429688 L 16 3.5683594 L 11.177734 3.5683594 z M 0 10.027344 L 0 16 L 4.8222656 16 L 4.8222656 10.027344 L 0 10.027344 z M 5.8476562 10.027344 L 5.8476562 16 L 10.154297 16 L 10.154297 10.027344 L 5.8476562 10.027344 z M 11.177734 10.027344 L 11.177734 16 L 16 16 L 16 10.027344 L 11.177734 10.027344 z" fill="#d0d0d0" stroke-width="2.2142" transform="scale(.26458333)"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg height="16" viewBox="0 0 4.2333332 4.2333332" width="16" xmlns="http://www.w3.org/2000/svg"><sodipodi:namedview/><metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type/><dc:title/></cc:Work></rdf:RDF></metadata><path d="m0 0v2.5433594h4.8222656v-2.5433594z" fill="#0f0" stroke-width="2.2142" transform="scale(.26458333)"/><path d="m5.8476562 0v2.5429688h4.3066408v-2.5429688zm5.3300778 0v2.5429688h4.822266v-2.5429688zm-11.177734 3.5683594v5.4746094h4.8222656v-5.4746094zm5.8476562 0v5.4746094h4.3066408v-5.4746094zm5.3300778 0v5.4746094h4.822266v-5.4746094zm-11.177734 6.4589846v5.972656h4.8222656v-5.972656zm5.8476562 0v5.972656h4.3066408v-5.972656zm5.3300778 0v5.972656h4.822266v-5.972656z" fill="#d0d0d0" stroke-width="2.2142" transform="scale(.26458333)"/></svg>

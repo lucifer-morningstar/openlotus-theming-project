@@ -1,13 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 5 4 L 5 5 L 6 5 L 6 7 L 5 7 L 5 8 L 8 8 L 8 7 L 7 7 L 7 5 L 8 5 L 8 4 L 5 4 z M 11 4 L 11 5 L 20 5 L 20 4 L 11 4 z M 11 6 L 11 7 L 17 7 L 17 6 L 11 6 z M 4 10 L 4 11 L 5 11 L 5 13 L 4 13 L 4 14 L 9 14 L 9 13 L 8 13 L 8 11 L 9 11 L 9 10 L 4 10 z M 11 10 L 11 11 L 20 11 L 20 10 L 11 10 z M 6 11 L 7 11 L 7 13 L 6 13 L 6 11 z M 11 12 L 11 13 L 13 13 L 13 12 L 11 12 z M 11 16 L 11 17 L 20 17 L 20 16 L 11 16 z M 11 18 L 11 19 L 17 19 L 17 18 L 11 18 z M 18 19 L 18 20 L 20 20 L 20 19 L 18 19 z "
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499997 6.3499997"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
+   sodipodi:docname="format-list-ordered.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.337109"
+     inkscape:cx="4.2515654"
+     inkscape:cy="7.9030541"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g872"
+     inkscape:label="#format-list-ordered"
+     transform="scale(1.5)"
+     style="stroke-width:0.66666663">
+    <rect
+       inkscape:label="#boundary"
+       y="4.4595335e-08"
+       x="4.4595339e-08"
+       height="4.2333331"
+       width="4.2333331"
+       id="rect811"
+       style="fill:none;stroke-width:0.13657102" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="path838"
+       transform="scale(0.26458333)"
+       d="M 6.6582031,3.3105469 V 4.4570312 H 14 V 3.3105469 Z m 0,4.0371093 V 8.4941406 H 14 V 7.3476562 Z m 0,4.0371098 v 1.148437 H 14 v -1.148437 z"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.88666666" />
+    <path
+       inkscape:label="#"
+       id="circle836"
+       d="M 1.3862959,1.0274829 A 0.40581602,0.40581602 0 0 1 0.98047984,1.4332989 0.40581602,0.40581602 0 0 1 0.57466382,1.0274829 0.40581602,0.40581602 0 0 1 0.98047984,0.62166685 0.40581602,0.40581602 0 0 1 1.3862959,1.0274829"
+       style="fill:#ff0000;stroke-width:0.23459724"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="circle840"
+       d="M 1.363412,2.0958405 A 0.40581602,0.40581602 0 0 1 0.957596,2.5016565 0.40581602,0.40581602 0 0 1 0.55177999,2.0958405 0.40581602,0.40581602 0 0 1 0.957596,1.6900244 0.40581602,0.40581602 0 0 1 1.363412,2.0958405"
+       style="fill:#ff6600;stroke-width:0.23459724"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="path812"
+       d="M 1.3407987,3.1641982 A 0.40581602,0.40581602 0 0 1 0.93498272,3.5700142 0.40581602,0.40581602 0 0 1 0.5291667,3.1641982 0.40581602,0.40581602 0 0 1 0.93498272,2.7583821 0.40581602,0.40581602 0 0 1 1.3407987,3.1641982"
+       style="fill:#ffb900;stroke-width:0.23459724"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

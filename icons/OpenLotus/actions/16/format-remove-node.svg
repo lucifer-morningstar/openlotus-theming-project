@@ -11,403 +11,35 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
-   viewBox="0 0 16 16"
+   viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
-   id="svg8"
-   inkscape:version="0.92+devel 15740 custom"
+   id="main"
+   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
    sodipodi:docname="format-remove-node.svg">
   <defs
-     id="ol-defs">
-    <style
-       id="current-color-scheme">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-    <style
-       id="current-color-scheme-7">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-6">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-    <style
-       id="current-color-scheme-3"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      </style>
-    <style
-       id="current-color-scheme-753">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-    <style
-       id="current-color-scheme-7-5">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-    <style
-       id="current-color-scheme-6-6"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-    <style
-       id="current-color-scheme-75">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-    <style
-       id="current-color-scheme-7-3">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-6-5">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-    <style
-       id="current-color-scheme-3-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      </style>
-    <style
-       id="current-color-scheme-67">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-  </defs>
+     id="ol-defs" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#002266"
+     pagecolor="#002466"
      bordercolor="#ffffff"
-     borderopacity="0.46666667"
-     inkscape:pageopacity="0"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="25.8125"
-     inkscape:cx="26.414836"
-     inkscape:cy="4.255753"
+     inkscape:zoom="40.551468"
+     inkscape:cx="4.2515659"
+     inkscape:cy="7.9030552"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="main"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
-     inkscape:snap-page="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4303"
-       originx="-8.8817842e-16"
-       originy="5.4685547e-07" />
-  </sodipodi:namedview>
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -421,30 +53,26 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4287"
-     transform="matrix(0.72727273,0,0,-0.72727273,-7.2727273,13.822443)"
-     inkscape:label="#format-remove-node"
-     style="stroke-width:1.375">
-    <rect
-       style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
-       id="rect4264"
-       width="22"
-       height="22"
-       x="10"
-       y="-2.9941406"
-       inkscape:label="#boundary" />
+     id="g824"
+     inkscape:label="#format-remove-node">
     <path
-       style="opacity:0.4;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1.375"
-       d="M 11.697947,7.112109 V 8.8996092 H 18.9375 V 7.112109 Z m 11.364553,0 v 1.7875002 h 7.239553 V 7.112109 Z"
-       id="path4295"
        inkscape:connector-curvature="0"
-       inkscape:label="#3"
-       sodipodi:nodetypes="cccccccccc" />
+       inkscape:label="#boundary"
+       id="rect811"
+       d="M 4.4595339e-8,4.4595335e-8 H 4.2333332 V 4.2333332 H 4.4595339e-8 Z"
+       style="fill:none;stroke-width:0.20485653" />
     <path
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.375"
-       d="m 18.9375,5.9433591 v 4.1249999 h 4.125 V 5.9433591 Z"
-       id="path4307"
+       inkscape:label="#"
        inkscape:connector-curvature="0"
-       inkscape:label="#!" />
+       id="rect812"
+       transform="scale(0.26458333)"
+       d="m 2,7.5 v 1 h 4.5 v -1 z m 7.5,0 v 1 H 14 v -1 z"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:1.33000004" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="rect814"
+       d="m 1.7197916,1.7197916 h 0.79375 v 0.79375 h -0.79375 z"
+       style="fill:#ff0000;stroke-width:0.35189584" />
   </g>
 </svg>

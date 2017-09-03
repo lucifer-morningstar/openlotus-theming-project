@@ -1,14 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-    d="M 6 3 L 6 10 C 6 12.77 8.23 15 11 15 C 13.77 15 16 12.77 16 10 L 16 3 L 14 3 L 14 11 C 14 12.108 13.108 13 12 13 C 10.892 13 10 12.108 10 11 L 10 3 L 6 3 z M 4 18 L 4 19 L 18 19 L 18 18 L 4 18 z "
-    class="ColorScheme-Text"
-    />  
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208331 5.8208331"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
+   sodipodi:docname="format-text-underline.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="17.810252"
+     inkscape:cx="7.9157787"
+     inkscape:cy="7.9999998"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g835"
+     inkscape:label="#format-text-underline"
+     transform="scale(1.375)"
+     style="stroke-width:0.72727275">
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:label="#boundary"
+       id="rect811"
+       d="M 4.4595339e-8,4.4595335e-8 H 4.2333332 V 4.2333332 H 4.4595339e-8 Z"
+       style="fill:none;stroke-width:0.14898656" />
+    <path
+       d="m 2.5782463,0.5994485 v -0.070282 h 0.9117621 v 0.070282 h -0.096875 q -0.1519604,0 -0.2336391,0.1272668 -0.03989,0.058885 -0.03989,0.2735287 v 1.0447276 q 0,0.3874989 -0.07788,0.6021429 -0.07598,0.2127446 -0.302021,0.3666045 -0.2241415,0.1519603 -0.6116405,0.1519603 -0.4216901,0 -0.6401331,-0.1462618 Q 1.2694875,2.8731556 1.1783113,2.6262201 1.1175271,2.4571641 1.1175271,1.9917854 V 0.9850479 q 0,-0.237438 -0.066483,-0.3115187 Q 0.98646128,0.5994485 0.84019945,0.5994485 H 0.74332472 V 0.5291672 H 1.8564344 v 0.070281 h -0.098774 q -0.1595584,0 -0.2279406,0.1006737 -0.047488,0.068382 -0.047488,0.2849257 V 2.107655 q 0,0.1500608 0.026593,0.3438102 0.028493,0.1937496 0.1006738,0.3020214 0.072182,0.1082716 0.207046,0.1785533 0.1367643,0.070281 0.3343129,0.070281 0.2526341,0 0.452082,-0.1101713 0.1994484,-0.1101709 0.2716296,-0.2811263 0.07408,-0.1728549 0.07408,-0.5831479 V 0.9850479 q 0,-0.2412371 -0.053186,-0.3020212 -0.07408,-0.083578 -0.2203425,-0.083578 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';opacity:0.6;fill:#d0d0d0;stroke-width:0.19242424"
+       id="path823"
+       inkscape:connector-curvature="0"
+       inkscape:label="#" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect826"
+       d="M 0.52916666,3.4395834 H 3.7041665 V 3.7041667 H 0.52916666 Z"
+       style="fill:#ffb900;stroke-width:0.33289394;stroke-linecap:square"
+       inkscape:label="#" />
+  </g>
 </svg>

@@ -14,7 +14,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
    sodipodi:docname="format-text-direction-horizontal.svg">
   <defs
      id="ol-defs">
@@ -63,69 +63,6 @@
         color:#0039a9;                                  
         stop-color:#0039a9;                             
       }</style>
-    <style
-       id="current-color-scheme-7">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-6">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-    <linearGradient
-       id="linearGradient6524">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0"
-         id="stop6526" />
-      <stop
-         style="stop-color:#e2e1e1;stop-opacity:1"
-         offset="1"
-         id="stop6528" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -134,11 +71,11 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.252194"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="9.2500004"
+     inkscape:cx="10.880611"
+     inkscape:cy="0.22798651"
      inkscape:document-units="px"
-     inkscape:current-layer="g4388"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -149,15 +86,11 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
-     inkscape:snap-page="true"
-     guidecolor="#f4ff00"
-     guideopacity="0.42745098"
-     guidehicolor="#4fff00"
-     guidehiopacity="0.49803922" />
+     inkscape:snap-page="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -171,28 +104,40 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4388"
-     inkscape:label="#format-text-horizontal"
-     transform="matrix(-1.5,0,0,1.5,24,0)">
+     id="g4267"
+     inkscape:label="#format-text-direction-horizontal"
+     style="fill:none;stroke-width:0.66666669"
+     transform="scale(1.0909091)">
     <rect
-       style="opacity:0.98999999;fill:none;fill-opacity:1;stroke-width:1.20000005;stroke-linecap:square"
-       id="rect4390"
-       width="16"
-       height="16"
-       x="0"
+       inkscape:label="#boundary"
        y="0"
-       inkscape:label="#boundary" />
+       x="0"
+       height="22"
+       width="22"
+       id="rect4264"
+       style="vector-effect:none;fill:none;stroke-width:2;stroke-linecap:round" />
     <path
-       inkscape:label="#2"
-       d="M 12.071698,10.142157 H 10.28331 L 9.5724003,8.292678 H 6.3177572 L 5.645724,10.142157 H 3.9017692 L 7.0731007,2 H 8.8115013 Z M 9.0447693,6.9208401 7.922863,3.8994665 6.8231703,6.9208401 Z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:37.84999847;font-family:Arial;-inkscape-font-specification:'Arial Bold';opacity:0.6;fill:#d0d0d0;stroke-width:1.06636703"
-       id="path4374"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.98999999;fill:#00ff00;fill-opacity:1;stroke-width:0.8980099;stroke-linecap:square"
-       d="m 13.986732,11.126484 -3.396769,1.436271 3.39677,1.437244 z m -4.3273237,1e-6 -3.3967689,1.43627 L 9.6594083,14 Z m -4.2493715,-2e-6 -3.39677,1.436272 3.3967703,1.437244 z"
-       id="path4473"
        inkscape:connector-curvature="0"
+       id="path4271"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:37.84999847;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';opacity:0.6;fill:#d0d0d0;stroke-width:1.42222214"
+       d="M 13.233334,13.661112 H 7.4000001 l -1.0222223,2.377777 q -0.3777777,0.877779 -0.3777777,1.311112 0,0.344444 0.3222221,0.611112 0.3333334,0.255555 1.4222223,0.333332 v 0.411111 H 3.0000001 v -0.411111 q 0.9444444,-0.166667 1.222222,-0.433333 0.5666668,-0.533333 1.2555557,-2.166667 L 10.777778,3.2944444 h 0.388889 l 5.244444,12.5333326 q 0.633333,1.511112 1.144445,1.966668 0.522223,0.444444 1.444444,0.5 v 0.411111 h -5.944444 v -0.411111 q 0.9,-0.04444 1.211111,-0.3 0.322221,-0.255555 0.322221,-0.622223 0,-0.488888 -0.444443,-1.544445 z M 12.922223,12.83889 10.366667,6.7500005 7.7444445,12.83889 Z"
        inkscape:label="#1" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ff00;stroke-width:1.58583331;stroke-linecap:square"
+       id="path834"
+       sodipodi:sides="3"
+       sodipodi:cx="10.376471"
+       sodipodi:cy="16.477701"
+       sodipodi:r1="2.4941154"
+       sodipodi:r2="1.2470576"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 12.870586,16.477701 -3.7411731,2.159967 0,-4.319934 z"
+       inkscape:transform-center-x="-0.45347556"
+       inkscape:label="#" />
   </g>
 </svg>

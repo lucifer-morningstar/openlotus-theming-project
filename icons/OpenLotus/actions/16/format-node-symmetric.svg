@@ -11,148 +11,36 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
-   viewBox="0 0 16 16"
+   viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15740 custom"
+   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
    sodipodi:docname="format-node-symmetric.svg">
   <defs
-     id="ol-defs">
-    <style
-       id="current-color-scheme">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-    <style
-       id="current-color-scheme-7">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-6">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-    <style
-       id="current-color-scheme-3"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      </style>
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#002266"
+     pagecolor="#002466"
      bordercolor="#ffffff"
-     borderopacity="0.46666667"
-     inkscape:pageopacity="0"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.46875"
-     inkscape:cx="8"
-     inkscape:cy="12.744623"
+     inkscape:zoom="40.551468"
+     inkscape:cx="4.2515659"
+     inkscape:cy="7.9030552"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-page="true" />
+     units="px"
+     inkscape:object-paths="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -166,35 +54,35 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4312"
+     id="g836"
      inkscape:label="#format-node-symmetric">
     <rect
        inkscape:label="#boundary"
-       y="0"
-       x="0"
-       height="16"
-       width="16"
-       id="rect4264"
-       style="vector-effect:none;fill:none;stroke-width:2.18181825;stroke-linecap:round" />
-    <rect
-       inkscape:label="#3"
-       y="6.75"
-       x="6.3750005"
-       height="3.25"
-       width="3.25"
-       id="rect4289"
-       style="opacity:0.6;fill:#00ff00;fill-opacity:1;stroke-width:1.08225;stroke-linecap:square" />
+       y="4.4595335e-08"
+       x="4.4595339e-08"
+       height="4.2333331"
+       width="4.2333331"
+       id="rect811"
+       style="fill:none;stroke-width:0.20485653" />
     <path
-       inkscape:label="#2"
-       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke-width:1.08225;stroke-linecap:square"
-       d="M 1.5,7.1562497 V 9.5937498 H 3.9375 V 7.1562497 Z m 10.5625,0 V 9.5937498 H 14.5 V 7.1562497 Z"
-       id="rect4291"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:label="#1"
        inkscape:connector-curvature="0"
-       id="rect4295"
-       d="m 3.9373171,7.9687498 v 0.8125 h 2.4375 v -0.8125 z m 5.6875002,0 v 0.8125 h 2.4374997 v -0.8125 z"
-       style="opacity:0.6;fill:#00ff00;fill-opacity:0.69426419;stroke-width:1.08225;stroke-linecap:square" />
+       id="rect812"
+       d="M 0.52916665,2.6441268 V 3.2394394 H 1.1244791 V 2.6441268 Z m 2.57968745,0 V 3.2394394 H 3.7041666 V 2.6441268 Z"
+       style="opacity:0.7;fill:#d0d0d0;stroke-width:0.35189584" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;stroke-width:0.35189584"
+       d="M 1.7197917,2.5449082 H 2.5135415 V 3.3386581 H 1.7197917 Z"
+       id="path815" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect822"
+       d="M 1.1244791,2.8425644 V 3.0410018 H 1.7197917 V 2.8425644 Z m 1.3890625,0 V 3.0410018 H 3.1088541 V 2.8425644 Z"
+       style="opacity:0.4;fill:#d0d0d0;stroke-width:0.35189584" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect828"
+       d="M 1.4826386,0.89467505 V 1.1583812 h 1.268056 V 0.89467505 Z m 0,0.58406795 v 0.2637062 h 1.268056 V 1.478743 Z"
+       style="fill:#ffb900;stroke-width:0.35189584" />
   </g>
 </svg>

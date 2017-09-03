@@ -1,1 +1,62 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg height="22" viewBox="0 0 5.8208332 5.8208335" width="22" xmlns="http://www.w3.org/2000/svg"><sodipodi:namedview/><metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type/><dc:title/></cc:Work></rdf:RDF></metadata><path d="m2.6687323.00000002c-.0038 0-.5247696.34414026-1.1577178.76458593l-1.15068728.76458605v1.1870124c0 .6531667.003387 1.1875982.007617 1.1875982.004223 0 .52519261-.3445323 1.15771778-.7657575l1.1501009-.765758v-1.1864265c0-.65238663-.00322-1.18584058-.0070306-1.18584058zm.4927332.0339812c-.00378 0-.00724.52529457-.00703 1.16709218l.0006 1.1665062 1.1495157.769273c.6320814.4229655 1.150645.7698592 1.1524449.7698592.00192.00051.00351-.5257784.00351-1.1694358v-1.1700212l-1.1460098-.76692949c-.6303865-.42161561-1.1492512-.76634372-1.1530308-.76634409zm-.2115061 2.73434738c-.0344166.0014059-2.30470326 1.5332638-2.29141435 1.5461625.00657584.0063264.51642085.3493403 1.13311055.7616566.6166896.4123163 1.1247491.7476655 1.1290091.7446657.1919876-.1244298 2.2805264-1.5375057 2.2826263-1.5444051.0045086-.0149388-2.2280437-1.5080797-2.2533316-1.5080797z" fill="#d0d0d0"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="default"
+   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
+   sodipodi:docname="glyph-draw-cube.svg">
+  <defs
+     id="defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.4"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.371805"
+     inkscape:cx="7.9587593"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="default" />
+  <metadata
+     id="meta-min">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.16362299"
+     d="m 1.9409073,4.2333333 c -0.00276,0 -0.3816507,-0.2502837 -0.8419767,-0.5560624 L 0.26206698,3.1212083 V 2.2579266 c 0,-0.4750304 0.002467,-0.8637079 0.005547,-0.8637079 0.003067,0 0.38195819,0.2505689 0.84197662,0.5569145 l 0.8364322,0.556915 v 0.8628555 c 0,0.4744632 -0.00235,0.8624296 -0.00512,0.8624296 z m 0.3583514,-0.024713 c -0.00275,0 -0.00527,-0.3820324 -0.00512,-0.8487944 L 2.2945831,2.5114575 3.1305946,1.9519863 C 3.5902901,1.644375 3.9674273,1.3920886 3.9687364,1.3920886 c 0.00141,-3.704e-4 0.00253,0.3823844 0.00253,0.8504989 V 3.0935117 L 3.1378266,3.6512787 C 2.6793637,3.9579081 2.3020075,4.2086196 2.2992587,4.2086203 Z M 2.1454361,2.2200036 C 2.1204055,2.2189782 0.46928804,1.1049026 0.47895271,1.0955218 0.48373971,1.0909218 0.85453147,0.84145609 1.3030332,0.54158946 1.7515347,0.24172307 2.1210327,-0.00216693 2.1241308,1.4540478e-5 2.2637583,0.09050924 3.7826954,1.1182005 3.7842226,1.1232182 3.7875026,1.1340849 2.1638273,2.2200035 2.1454361,2.2200036 Z"
+     id="path6"
+     inkscape:label="#" />
+</svg>

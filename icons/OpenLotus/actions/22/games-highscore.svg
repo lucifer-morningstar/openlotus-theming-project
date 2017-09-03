@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208331 5.8208331"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
+   sodipodi:docname="games-highscore.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="40.551468"
+     inkscape:cx="4.1405957"
+     inkscape:cy="7.903055"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g839"
+     inkscape:label="#games-highscore"
+     transform="scale(1.375)"
+     style="stroke-width:0.72727275">
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:label="#boundary"
+       id="rect811"
+       d="M 4.4595339e-8,4.4595335e-8 H 4.2333332 V 4.2333332 H 4.4595339e-8 Z"
+       style="fill:none;stroke-width:0.14898656" />
+    <path
+       inkscape:label="#"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.33289394;stroke-linecap:square"
+       d="m 2.116667,0.692259 c -0.1032734,4.43e-5 -0.1869819,0.083753 -0.1870262,0.1870262 -3.71e-5,0.082924 0.054512,0.1559808 0.1340297,0.179504 L 1.5569563,2.778951 0.83107584,1.8462138 c 0.045546,-0.03547 0.0721695,-0.089978 0.0721432,-0.1477063 -4.428e-5,-0.1032733 -0.0837528,-0.1869818 -0.1870261,-0.1870261 -0.10327334,4.43e-5 -0.18698188,0.083753 -0.18702613,0.1870261 4.425e-5,0.1032733 0.0837527,0.186982 0.18702613,0.1870262 0.004905,-3.5e-5 0.009812,-2.632e-4 0.0147022,-6.838e-4 L 0.86116381,3.5410742 H 3.3721698 L 3.5024385,1.8848499 c 0.00489,4.206e-4 0.00979,6.488e-4 0.014702,6.838e-4 0.1032732,-4.43e-5 0.1869817,-0.083753 0.1870259,-0.1870262 -4.43e-5,-0.1032733 -0.083753,-0.1869817 -0.1870261,-0.1870261 -0.1032732,4.44e-5 -0.1869816,0.083753 -0.187026,0.1870261 -2.6e-5,0.057728 0.026597,0.1122365 0.072143,0.1477063 L 2.6763779,2.778951 2.1693215,1.0584473 C 2.2488536,1.0350848 2.3035341,0.9621775 2.3036932,0.8792852 2.3036489,0.7760118 2.2199403,0.6923033 2.116667,0.692259 Z"
+       id="path811"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+  </g>
+</svg>

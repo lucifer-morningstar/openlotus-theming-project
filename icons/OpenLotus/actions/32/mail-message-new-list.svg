@@ -1,14 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 2 5 L 2 24.683594 L 2 27 L 19 27 L 19 26 L 3 26 L 3 25.111328 L 3.4296875 24.683594 L 12.785156 15.541016 L 16 18.683594 L 19.214844 15.541016 L 21 17.285156 L 21 15.888672 L 19.929688 14.841797 L 28.976562 6 L 29 6 L 29 18 L 30 18 L 30 5 L 2 5 z M 3 6 L 3.0234375 6 L 12.070312 14.841797 L 3 23.707031 L 3 6 z M 4.453125 6 L 27.546875 6 L 16 17.285156 L 4.453125 6 z M 21 20 L 21 21 L 30 21 L 30 20 L 21 20 z M 21 23 L 21 24 L 30 24 L 30 23 L 21 23 z M 21 26 L 21 27 L 30 27 L 30 26 L 21 26 z "
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (9279f97481, 2017-09-04, custom)"
+   sodipodi:docname="mail-message-new-list.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.58365"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="7.8789262"
+     inkscape:cy="8.0000016" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g848"
+     inkscape:label="#mail-message-new-list"
+     transform="scale(2)"
+     style="stroke-width:0.5">
+    <path
+       style="fill:none;stroke:none;stroke-width:0.5"
+       d="M -4.9999999e-8,-2e-7 H 16 V 16 h -16.00000005 z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="rect842"
+       d="M 3.999349,3 C 3.4453489,3 3,3.4453489 3,3.999349 v 8.001302 C 3,12.554651 3.4453489,13 3.999349,13 h 8.001302 C 12.554651,13 13,12.554651 13,12.000651 V 3.999349 C 13,3.4453489 12.554651,3 12.000651,3 Z M 5.1988932,4.6666666 C 5.4917611,4.6670857 5.7290731,4.9043977 5.7294921,5.1972656 5.7299711,5.490769 5.4923966,5.7290722 5.1988932,5.7294921 4.904754,5.7299723 4.6661865,5.4914049 4.6666666,5.1972656 4.6670865,4.9037621 4.9053898,4.6661875 5.1988932,4.6666666 Z M 6.8141276,4.8489583 H 11.333333 V 5.5455729 H 6.8141276 Z M 5.1988932,7.4694009 c 0.2928679,4.191e-4 0.5301799,0.2377311 0.5305989,0.530599 -4.19e-4,0.292868 -0.237731,0.53018 -0.5305989,0.530599 C 4.9053898,8.531078 4.6670865,8.2935034 4.6666666,7.9999999 4.6670865,7.7064964 4.9053898,7.4689219 5.1988932,7.4694009 Z M 6.8141276,7.650065 H 11.333333 V 8.3483073 H 6.8141276 Z m -1.6152344,2.620442 c 0.292868,4.2e-4 0.53018,0.237731 0.5305989,0.5306 4.791e-4,0.293503 -0.2370954,0.531806 -0.5305989,0.532226 -0.2941393,4.8e-4 -0.5327068,-0.238087 -0.5322266,-0.532226 4.198e-4,-0.293504 0.2387231,-0.531079 0.5322266,-0.5306 z m 1.6152344,0.182292 h 4.5192054 v 0.696615 H 6.8141276 Z"
+       style="fill:#00ff00;stroke-width:1.31649995;stroke-linecap:square" />
+  </g>
 </svg>

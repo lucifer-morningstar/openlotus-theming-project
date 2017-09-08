@@ -1,22 +1,126 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (039bd1db37, 2017-09-02, custom)"
+   sodipodi:docname="insert-footnote.svg">
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#0039a9;
+        stop-color:#0039a9;
       }
-      </style>
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
   </defs>
-  <path 
-        style="fill:currentColor;fill-opacity:1;stroke:none"
-        d="M 2 2 L 2 9 L 2 11 L 2 14 L 11 14 L 11 13 L 3 13 L 3 11 L 3 9 L 3 3 L 13 3 L 13 7 L 14 7 L 14 2 L 2 2 z M 4 4 L 4 5 L 11 5 L 11 4 L 4 4 z M 4 6 L 4 7 L 9 7 L 9 6 L 4 6 z M 4 9 L 4 10 L 10 10 L 10 9 L 4 9 z "
-        class="ColorScheme-Text"
-        />
-  <path 
-        style="fill:currentColor;fill-opacity:1;stroke:none"
-        d="M 13 8 L 12 10 L 13 10 L 13 14 L 14 14 L 14 8 L 13 8 z M 4 11 L 4 12 L 8 12 L 8 11 L 4 11 z "
-        class="ColorScheme-Highlight"
-        />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.337109"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="10.470729"
+     inkscape:cy="22.011193" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g862"
+     inkscape:label="#insert-footnote"
+     style="stroke-width:1">
+    <path
+       style="fill:none;stroke-width:0.20485653"
+       d="M -5.5e-8,-3e-8 H 4.2333333 V 4.2333332 H -5.5e-8 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="path852"
+       d="M 0.52916667,0.52916666 V 1.0237101 H 3.7041665 V 0.52916666 Z m 0,0.89348554 V 1.9171956 H 3.7041665 V 1.4226522 Z m 0,0.8934855 V 2.8106812 H 3.7041665 V 2.3161377 Z"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:1"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       inkscape:label="#"
+       style="fill:#ffb900;stroke-width:1"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path839"
+       d="M 0.52916677,3.2096231 V 3.7041666 H 3.7041664 V 3.2096231 Z" />
+  </g>
 </svg>

@@ -1,13 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="kr_combine.svg"
+   inkscape:version="0.92+devel (9279f97481, 2017-09-04, custom)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     inkscape:document-rotation="0"
+     borderopacity="0.23137255"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview8"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="45.9375"
+     inkscape:cx="7.9673469"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:object-paths="true"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#f2f2f2;
       }
       </style>
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 2 3 L 2 4 L 6 4 L 6 12 L 2 12 L 2 13 L 7 13 L 7 9 L 10 9 L 10 10.5 L 14 8 L 10 5.5 L 10 7 L 7 7 L 7 3 L 6 3 L 2 3 z "
-     class="ColorScheme-Text"
-     />
+  <g
+     id="g828"
+     inkscape:label="#kr_combine">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:none;stroke-width:2.6329999;stroke-linecap:square"
+       d="M -9.9999999e-8,-1.5e-7 H 16 V 16 H -9.9999999e-8 Z"
+       id="rect830"
+       inkscape:label="#boundary" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="rect817"
+       d="m 2,3 v 1 h 4 v 8 H 2 v 1 H 7 V 3 Z"
+       style="opacity:0.4;fill:#d0d0d0;stroke-width:2.6329999;stroke-linecap:square" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="path824"
+       d="M 14,8 9.9999997,5.5 V 7 H 7 V 9.0000001 H 9.9999997 V 10.5 Z"
+       style="opacity:0.7;fill:#d0d0d0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
 </svg>

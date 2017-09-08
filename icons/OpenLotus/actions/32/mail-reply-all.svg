@@ -1,14 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="mail-reply-all.svg"
+   inkscape:version="0.92+devel (9279f97481, 2017-09-04, custom)"
+   width="32"
+   height="32">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     inkscape:document-rotation="0"
+     borderopacity="0.38431373"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="11.484375"
+     inkscape:cx="5.959002"
+     inkscape:cy="6.962955"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-page="true" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#f2f2f2;
       }
       </style>
   </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 5 5 L 5 9 L 2 13 L 2 16 L 3 16 L 3 14 L 5 14 L 5.7871094 14 L 16 19.570312 L 26.212891 14 L 27 14 L 29 14 L 29 26 L 14 26 L 14 27 L 30 27 L 30 26 L 30 13 L 27 9 L 27 5 L 5 5 z M 6 6 L 26 6 L 26 12.974609 L 16 18.429688 L 6 12.974609 L 6 6 z M 8 8 L 8 9 L 24 9 L 24 8 L 8 8 z M 8 11 L 8 12 L 17 12 L 17 11 L 8 11 z M 7 18.064453 L 2 22.013672 L 7 25.960938 L 7 23 L 7 21.025391 L 7 21 L 7 18.064453 z M 8 21.025391 L 8 23 L 10 23 L 10 21.025391 L 8 21.025391 z M 11 21.025391 L 11 23 L 13 23 L 13 21.025391 L 11 21.025391 z "
-     class="ColorScheme-Text"
-     />
+  <g
+     id="g846"
+     inkscape:label="#mail-reply-all"
+     transform="matrix(1.9999999,0,0,1.9999999,1.9999999e-6,8.9999996e-7)"
+     style="stroke-width:0.5">
+    <path
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0"
+       id="rect840"
+       d="M -1e-6,-4.5e-7 H 16 V 16 H -1e-6 Z"
+       style="fill:none;stroke:none;stroke-width:1.31650019;stroke-linecap:square" />
+    <path
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.5"
+       d="M 6.9995117,4.9223631 2,7.9999998 6.9995117,11.077637 V 9.6918938 L 4.25,7.9999998 6.9995117,6.3081052 Z m 3.3750003,0 L 5.375,7.9999998 10.374512,11.077637 V 9.0004878 H 14 V 6.9995115 h -3.625488 z"
+       id="path834"
+       inkscape:connector-curvature="0"
+       inkscape:label="#" />
+  </g>
 </svg>

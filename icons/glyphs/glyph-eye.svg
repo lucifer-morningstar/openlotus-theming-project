@@ -1,1 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg height="16" viewBox="0 0 4.2333332 4.2333332" width="16" xmlns="http://www.w3.org/2000/svg"><sodipodi:namedview/><metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type/><dc:title/></cc:Work></rdf:RDF></metadata><path d="m2.1166666.90597848c-1.168899 0-2.1166666 1.21068812-2.1166666 1.21068812s.9477677 1.2106881 2.1166666 1.2106881c1.1688988 0 2.1166666-1.2106881 2.1166666-1.2106881s-.9477674-1.21068812-2.1166666-1.21068812zm0 .37869272a.83195509.83195509 0 0 1  .8319955.8319954.83195509.83195509 0 0 1 -.8319955.8319955.83195509.83195509 0 0 1 -.8319954-.8319955.83195509.83195509 0 0 1  .8319954-.8319954z" fill="#d0d0d0" stroke-width=".15875"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg856"
+   sodipodi:docname="glyph-eye.svg"
+   inkscape:version="0.92+devel (9279f97481, 2017-09-04, custom)">
+  <defs
+     id="defs858" />
+  <sodipodi:namedview
+     id="namedview850"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:zoom="45.9375"
+     inkscape:cx="7.9673469"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg856" />
+  <metadata
+     id="metadata852">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 8,3.4241708 C 3.5821139,3.4241708 0,8 0,8 0,8 3.5821143,12.575829 8,12.575829 12.417885,12.575829 16,8 16,8 16,8 12.417887,3.4241708 8,3.4241708 Z M 8,4.8554503 A 3.1443973,3.1443973 0 0 1 11.14455,7.9999999 3.1443973,3.1443973 0 0 1 8,11.14455 3.1443973,3.1443973 0 0 1 4.8554504,7.9999999 3.1443973,3.1443973 0 0 1 8,4.8554503 Z"
+     fill="#d0d0d0"
+     stroke-width=".15875"
+     id="path854"
+     inkscape:connector-curvature="0" />
+</svg>

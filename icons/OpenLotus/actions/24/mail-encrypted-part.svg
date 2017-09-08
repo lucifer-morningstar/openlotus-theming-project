@@ -1,13 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 2 4 L 2 5 L 2 13 L 2 19 L 2 19.414062 L 2 20 L 3 20 L 9 20 L 15 20 L 15 19 L 9 19 L 3 19 L 3 18.414062 L 3.4628906 17.951172 L 9.7304688 11.683594 L 11.183594 13.134766 L 11.998047 13.949219 L 12 13.949219 L 12.816406 13.134766 L 14.269531 11.683594 L 15.585938 13 L 17 13 L 14.976562 10.976562 L 20.728516 5.2226562 L 20.951172 5 L 21 5 L 21 5.2226562 L 21 13 L 22 13 L 22 4 L 21.951172 4 L 21 4 L 20.537109 4 L 3.4628906 4 L 3 4 L 2 4 z M 3 5 L 3.0488281 5 L 3.2714844 5.2226562 L 9.0234375 10.976562 L 3 17 L 3 13 L 3 5.2226562 L 3 5 z M 4.4628906 5 L 19.537109 5 L 12 12.537109 L 4.4628906 5 z M 19.5 14 C 18.669 14 18 14.669 18 15.5 L 18 17 L 17 17 L 17 20 L 22 20 L 22 17 L 21 17 L 21 15.5 C 21 14.669 20.331 14 19.5 14 z M 19.5 15 C 19.777 15 20 15.223 20 15.5 L 20 17 L 19 17 L 19 15.5 C 19 15.223 19.223 15 19.5 15 z M 18 18 L 21 18 L 21 19 L 18 19 L 18 18 z "
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.000002"
+   height="24"
+   viewBox="0 0 24.000002 24"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (9279f97481, 2017-09-04, custom)"
+   sodipodi:docname="mail-encrypted-part.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.58365"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="7.919284"
+     inkscape:cy="8.0000002" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g875"
+     inkscape:label="#mail-encrypted-part"
+     transform="scale(1.5)"
+     style="stroke-width:0.66666669">
+    <path
+       style="fill:none;stroke:none;stroke-width:0.66666669"
+       d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       style="opacity:0.421875"
+       inkscape:connector-curvature="0"
+       d="M 2.0011632,2.6675928 V 10.407791 L 5.8869582,6.5219951 2.0337192,2.6675928 Z m 1.2317032,0 4.7663588,4.7663584 4.7663568,-4.7663584 z m 10.7334146,0 L 10.112265,6.5223827 14,10.410116 V 2.6675928 Z M 6.4865322,7.1200184 2.3085072,11.298043 2,11.606551 v 0.390672 H 13.998838 V 11.606551 L 13.689942,11.298043 9.5123052,7.1200184 7.9992252,8.6315482 Z"
+       fill="#d0d0d0"
+       stroke-width=".235159"
+       id="path835" />
+    <path
+       inkscape:label="#"
+       style="fill:#ffb900"
+       inkscape:connector-curvature="0"
+       d="m 12.184432,8.8324072 c -0.67055,0 -1.210379,0.539828 -1.210379,1.2103788 v 0.524826 h -0.605189 v 2.764795 H 14 v -2.764795 h -0.605189 v -0.524826 c 0,-0.6705508 -0.539829,-1.2103788 -1.210379,-1.2103788 z m 0,0.605189 c 0.335274,0 0.605189,0.269915 0.605189,0.6051898 v 0.524826 h -1.210378 v -0.524826 c 0,-0.3352748 0.269914,-0.6051898 0.605189,-0.6051898 z"
+       fill="#d0d0d0"
+       stroke-width=".727273"
+       id="path865" />
+  </g>
 </svg>

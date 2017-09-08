@@ -14,8 +14,8 @@
    viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
-   sodipodi:docname="format-list-ordered.svg">
+   inkscape:version="0.92+devel (039bd1db37, 2017-09-02, custom)"
+   sodipodi:docname="insert-tableofcontents.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="0.38039216"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="40.551468"
-     inkscape:cx="4.2515659"
-     inkscape:cy="7.9030552"
+     inkscape:zoom="28.674218"
+     inkscape:cx="15.834762"
+     inkscape:cy="7.8287829"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -35,9 +35,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -54,7 +54,7 @@
   </metadata>
   <g
      id="g872"
-     inkscape:label="#format-list-ordered">
+     inkscape:label="#insert-tableofcontents">
     <rect
        inkscape:label="#boundary"
        y="4.4595335e-08"

@@ -1,13 +1,163 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (df5ad324d0, 2017-09-05, custom)"
+   sodipodi:docname="media-repeat-playlist-amarok.svg">
+  <svg:defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
       }
-      </style>
-  </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 3 2 A 1 1 0 0 0 2 3 A 1 1 0 0 0 3 4 A 1 1 0 0 0 4 3 A 1 1 0 0 0 3 2 z M 5 2 L 5 3 L 7 3 L 13 3 L 13 2 L 7 2 L 5 2 z M 5 4 L 5 5 L 7 5 L 11 5 L 11 4 L 7 4 L 5 4 z M 12 7 L 12 8 L 7 8 C 5.89201 8 5 8.89201 5 10 L 6 10 C 6 9.446 6.446 9 7 9 L 11 9 L 12 9 L 12 10 L 14 8.5 L 12 7 z M 3 8 A 1 1 0 0 0 2 9 A 1 1 0 0 0 3 10 A 1 1 0 0 0 4 9 A 1 1 0 0 0 3 8 z M 7 11 L 5 12.5 L 7 14 L 7 13 L 12 13 C 13.10799 13 14 12.10799 14 11 L 13 11 C 13 11.554 12.554 12 12 12 L 8 12 L 7 12 L 7 11 z "
-     class="ColorScheme-Text"
-     />
-</svg>
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#0059a9;
+        stop-color:#0059a9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#3e3e3e;
+        stop-color:#2e2e2e;
+      }
+      .ColorScheme-ButtonHover {
+        color:#0059a9;
+        stop-color:#0059a9;                                                                         
+      }                                                                                             
+      .ColorScheme-ButtonFocus{                                                                     
+        color:#0039a9;                                                                              
+        stop-color:#0039a9;
+      }</style>
+    <svg:style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</svg:style>
+  </svg:defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="25.25"
+     inkscape:cx="7.7623764"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="g843"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     units="px" />
+  <svg:metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g
+     id="g843"
+     inkscape:label="#media-repeat-playlist-amarok">
+    <svg:path
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0"
+       id="rect811"
+       d="M 0,0 H 4.2333332 V 4.2333332 H 0 Z"
+       style="fill:none;stroke-width:0.25454992;stroke-linecap:round" />
+    <svg:path
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.75000006"
+       d="M 4.1582031,2 C 4.0603776,2 3.9824219,2.0799126 3.9824219,2.1777344 V 3.4609375 H 12.017578 V 2.1777344 C 12.017578,2.0799089 11.939619,2 11.841797,2 Z M 3.0996094,4.0664062 c -0.1106192,0 -0.1992188,0.090553 -0.1992188,0.2011719 V 5.5371094 H 13.099609 V 4.2675781 c 0,-0.1106192 -0.0886,-0.2011718 -0.199218,-0.2011719 H 12.330078 12.017578 3.9824219 3.6445312 Z M 2.1972656,6.1425781 C 2.0880127,6.1425781 2,6.2286396 2,6.3378906 V 13.802734 C 2,13.911989 2.0880123,14 2.1972656,14 H 13.802734 C 13.911989,14 14,13.911985 14,13.802734 V 6.3398438 C 14,6.2305927 13.911985,6.1425781 13.802734,6.1425781 H 13.644531 13.099609 2.9003906 2.2988281 Z M 7.9140318,7.553125 v 0.4654867 h 1.7726996 c 1.1807986,0 2.1489396,0.9681412 2.1489396,2.1489393 v 0.132996 c -10e-7,0.539735 -0.03455,0.664473 -0.292242,1.095469 l -0.918724,-0.551235 c 0.129074,-0.215863 0.136496,-0.267623 0.136496,-0.544234 v -0.132996 c 0,-0.6051493 -0.46932,-1.0762197 -1.0744696,-1.0762197 H 7.9140318 V 9.5568181 L 6.249829,8.5558465 Z M 4.4876291,8.9093365 5.4571016,9.4273218 C 5.3336924,9.6147365 5.1561101,9.9209932 5.1561101,10.167551 v 0.132996 c 0,0.605149 0.4675704,1.076219 1.0727195,1.076219 H 8.0032793 V 10.90778 l 1.8794466,1.002721 -1.8794466,1.002722 V 12.447736 H 6.2288296 c -1.1807978,0 -2.147189,-0.966392 -2.147189,-2.147189 v -0.132996 c 0,-0.4810934 0.1593398,-0.8836448 0.4059885,-1.2582145 z"
+       transform="scale(0.26458333)"
+       id="rect811-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccsssssccssccccsssssssssccccsccsscccsssccccccssscccccsssc" />
+  </svg:g>
+</svg:svg>

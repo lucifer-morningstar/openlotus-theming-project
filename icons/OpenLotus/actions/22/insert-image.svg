@@ -1,14 +1,128 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208331 5.8208331"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (039bd1db37, 2017-09-02, custom)"
+   sodipodi:docname="insert-image.svg">
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
       }
-      </style>
+      .ColorScheme-Background {
+        color:#212121;
+        stop-color:#212121;
+      }
+      .ColorScheme-Highlight {
+        color:#0039a9;
+        stop-color:#0039a9;
+      }
+      .ColorScheme-ViewText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ViewBackground {
+        color:#19191b;
+        stop-color:#19191b;
+      }
+      .ColorScheme-ViewHover {
+        color:#005cc7;
+        stop-color:#005cc7;
+      }
+      .ColorScheme-ViewFocus{
+        color:#002466;
+        stop-color:#002466;
+      }
+      .ColorScheme-ButtonText {
+        color:#d0d0d0;
+        stop-color:#d0d0d0;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#232323;
+        stop-color:#232323;                             
+      }                                                 
+      .ColorScheme-ButtonHover {                        
+        color:#005cc7;                                  
+        stop-color:#005cc7;                             
+      }                                                 
+      .ColorScheme-ButtonFocus{                         
+        color:#0039a9;                                  
+        stop-color:#0039a9;                             
+      }</style>
   </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 3 3 L 3 4 L 3 19 L 4 19 L 15 19 L 12 16 L 15 13 L 17 13 L 16 12 L 14 10 L 10 14 L 9 13 L 4.1484375 17.851562 L 4 18 L 4 4 L 18 4 L 18 12 L 19 12 L 19 4 L 19 3 L 4 3 L 3 3 z M 7 5 C 5.892 5 5 5.892 5 7 C 5 8.108 5.892 9 7 9 C 8.108 9 9 8.108 9 7 C 9 5.892 8.108 5 7 5 z M 16 14 L 16 16 L 14 16 L 14 17 L 16 17 L 16 19 L 17 19 L 17 17 L 19 17 L 19 16 L 17 16 L 17 14 L 16 14 z "
-     class="ColorScheme-Text"
-     />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="20.275734"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="4.0666161"
+     inkscape:cy="7.9030554" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g855"
+     inkscape:label="#insert-image"
+     transform="scale(1.375)"
+     style="stroke-width:0.72727275">
+    <path
+       style="fill:none;stroke-width:0.14898656"
+       d="M -5.5e-8,-3e-8 H 4.2333333 V 4.2333332 H -5.5e-8 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       style="opacity:0.60499998"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       d="M 1.0887214,0.52916665 C 1.3979517,0.52915525 1.6493051,0.78058255 1.6492933,1.089904 1.6493051,1.3992253 1.3979517,1.6496347 1.0887214,1.6496232 0.77949063,1.6496347 0.52915503,1.3992253 0.52916665,1.089904 0.52915503,0.78058255 0.77949063,0.52915525 1.0887214,0.52916665 Z M 2.7014304,1.7316218 3.7041666,2.8147635 V 3.7041666 H 0.52916665 V 2.8147635 L 1.437255,1.9434832 1.9700618,2.3877303 Z"
+       fill="#d0d0d0"
+       stroke-width=".253038"
+       id="path839" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="rect846"
+       d="m 3.0894755,0.52916665 v 0.3709076 H 2.7185678 V 1.1438578 H 3.0894755 V 1.5147655 H 3.3332589 V 1.1438578 H 3.7041666 V 0.90007425 H 3.3332589 v -0.3709076 z"
+       style="fill:#00ff00;stroke-width:0.33289394;stroke-linecap:square" />
+  </g>
 </svg>

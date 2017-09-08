@@ -11,59 +11,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
-   viewBox="0 0 4.2333332 4.2333332"
+   viewBox="0 0 16 16"
    version="1.1"
    id="main"
-   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
+   inkscape:version="0.92+devel (4754229fb9, 2017-09-06, custom)"
    sodipodi:docname="16x16-icon.svg">
   <defs
-     id="ol-defs">
-    <style
-       id="current-color-scheme">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-  </defs>
+     id="ol-defs" />
   <sodipodi:namedview
      id="base"
      pagecolor="#002466"
@@ -71,7 +25,7 @@
      borderopacity="0.30"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="40.551468"
+     inkscape:zoom="37.1673"
      inkscape:document-units="px"
      inkscape:current-layer="main"
      inkscape:document-rotation="0"
@@ -84,8 +38,8 @@
      inkscape:window-y="26"
      inkscape:window-maximized="1"
      units="px"
-     inkscape:cx="4.1036059"
-     inkscape:cy="7.9030552" />
+     inkscape:cx="7.8789257"
+     inkscape:cy="8" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -102,6 +56,11 @@
      inkscape:connector-curvature="0"
      inkscape:label="#boundary"
      id="boundary"
-     d="M -5.5e-8,-3e-8 H 4.2333333 V 4.2333332 H -5.5e-8 Z"
-     style="fill:none;stroke-width:0.20485653" />
+     d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z"
+     style="fill:none;stroke:none" />
+  <path
+     d="m 7.9999998,2 a 0.87730079,1.0598979 0 0 0 -0.8774414,1.0576171 0.87730079,1.0598979 0 0 0 0.00439,0.092285 C 5.1851099,3.5506345 3.7343748,5.2607346 3.7343748,7.324707 v 3.322266 c 0,0.269308 -0.1083963,0.527342 -0.2988281,0.717773 -0.1904317,0.190432 -0.4469971,0.298828 -0.7163085,0.298828 -0.2525295,0 -0.4584961,0.203037 -0.4584961,0.455567 0,0.25253 0.2059651,0.458496 0.4584961,0.458496 H 6.5776365 A 1.4219754,1.4219754 0 0 0 7.9999998,14 1.4219754,1.4219754 0 0 0 9.4223631,12.577637 h 3.8583989 c 0.25253,-2e-6 0.458496,-0.205967 0.458496,-0.458496 0,-0.252531 -0.205967,-0.455568 -0.458496,-0.455567 -0.269311,0 -0.525878,-0.108396 -0.716309,-0.298828 -0.190432,-0.190431 -0.298828,-0.448464 -0.298828,-0.717773 V 7.324707 c 0,-2.0639724 -1.450739,-3.7740725 -3.3925784,-4.1748047 A 0.87730079,1.0598979 0 0 0 8.8774412,3.0576171 0.87730079,1.0598979 0 0 0 7.9999998,2 Z M 8.0468748,5.224121 8.5463865,6.7094726 9.9731441,6.0605468 9.2773435,7.465332 10.743652,8.0161129 9.2583006,8.5156249 9.9072266,9.9423829 8.503906,9.2451169 7.9531248,10.712891 7.4536131,9.2275389 6.0268553,9.8764649 6.722656,8.4716799 5.2563475,7.9208983 6.741699,7.4213866 6.0927732,5.9946289 7.4960935,6.6918945 Z"
+     id="path835"
+     style="fill:#ffb900;stroke-width:1"
+     inkscape:connector-curvature="0" />
 </svg>

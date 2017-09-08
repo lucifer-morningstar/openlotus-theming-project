@@ -1,22 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 4 L 4 20 L 13 20 L 13 19 L 11 19 L 11 17 L 13 17 L 13 16 L 11 16 L 11 14 L 13 14 L 13 13 L 11 13 L 11 11 L 13 11 L 13 13 L 14 13 L 14 11 L 16 11 L 16 13 L 17 13 L 17 11 L 19 11 L 19 13 L 20 13 L 20 4 L 4 4 z M 5 5 L 7 5 L 8 5 L 10 5 L 10 10 L 5 10 L 5 8 L 5 7 L 5 5 z M 11 5 L 13 5 L 13 7 L 11 7 L 11 5 z M 14 5 L 16 5 L 16 7 L 14 7 L 14 5 z M 17 5 L 19 5 L 19 7 L 17 7 L 17 5 z M 11 8 L 13 8 L 13 10 L 11 10 L 11 8 z M 14 8 L 16 8 L 16 10 L 14 10 L 14 8 z M 17 8 L 19 8 L 19 10 L 17 10 L 17 8 z M 5 11 L 7 11 L 7 13 L 5 13 L 5 11 z M 8 11 L 10 11 L 10 13 L 8 13 L 8 11 z M 5 14 L 7 14 L 7 16 L 5 16 L 5 14 z M 8 14 L 10 14 L 10 16 L 8 16 L 8 14 z M 17 15 L 17 17 L 15 17 L 15 18 L 17 18 L 17 20 L 18 20 L 18 18 L 20 18 L 20 17 L 18 17 L 18 15 L 17 15 z M 5 17 L 7 17 L 7 19 L 5 19 L 5 17 z M 8 17 L 10 17 L 10 19 L 8 19 L 8 17 z "
-     class="ColorScheme-Text"
-     />
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 5 5 L 5 8 L 5 10 L 10 10 L 10 8 L 10 5 L 8 5 L 5 5 z "
-     class="ColorScheme-Highlight"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.000002"
+   height="24"
+   viewBox="0 0 6.3500003 6.3499997"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (039bd1db37, 2017-09-02, custom)"
+   sodipodi:docname="insert-table.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="20.275734"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="7.8926672"
+     inkscape:cy="13.210445" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g871"
+     inkscape:label="#insert-table"
+     transform="scale(1.5)"
+     style="stroke-width:0.66666669">
+    <path
+       style="fill:none;stroke-width:0.13657102"
+       d="M -5.5e-8,-3e-8 H 4.2333333 V 4.2333332 H -5.5e-8 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="path854"
+       d="M 0.52916663,0.52916665 V 1.0337871 H 1.486085 V 0.52916665 Z m 1.16039427,0 V 1.0337871 H 2.54416 V 0.52916665 Z m 1.0576873,0 V 1.0337871 H 3.7041666 V 0.52916665 Z M 0.52916663,1.2372631 V 2.3236308 H 1.486085 V 1.2372631 Z m 1.16039427,0 V 2.3236308 H 2.54416 V 1.2372631 Z m 1.0576873,0 V 2.3236308 H 3.7041666 V 1.2372631 Z M 0.52916663,2.5189677 V 3.7041666 H 1.486085 V 2.5189677 Z m 1.16039427,0 V 3.7041666 H 2.54416 V 2.5189677 Z m 1.0576873,0 V 3.7041666 H 3.7041666 V 2.5189677 Z"
+       style="fill:#00ff00;stroke-width:0.17638889"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

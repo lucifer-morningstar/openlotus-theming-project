@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (9279f97481, 2017-09-04, custom)"
+   sodipodi:docname="glyph-cell-phone.svg">
+  <defs
+     id="defs834" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.28125"
+     inkscape:cx="7.9429251"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 4.0703121,-5e-8 c -0.451621,0 -0.8151043,0.3634838 -0.8151043,0.8151042 V 15.184896 C 3.2552078,15.636516 3.6186911,16 4.0703121,16 h 7.8593759 c 0.451621,0 0.815104,-0.363484 0.815104,-0.815104 V 0.81510415 C 12.744792,0.36348375 12.381309,-5.0000001e-8 11.929688,-5.0000001e-8 Z M 7.9557282,1.0260415 a 0.60594469,0.60594469 0 0 1 0.04427,0 0.60594469,0.60594469 0 0 1 0.604166,0.606771 0.60594469,0.60594469 0 0 1 -0.604166,0.6067708 0.60594469,0.60594469 0 0 1 -0.606771,-0.6067708 0.60594469,0.60594469 0 0 1 0.5625,-0.606771 z M 6.7213536,14.393229 h 2.5572916 c 0.161109,0 0.291667,0.127947 0.291667,0.289063 0,0.16111 -0.130547,0.291666 -0.291667,0.291666 H 6.7213536 c -0.16111,0 -0.2916667,-0.13056 -0.2916667,-0.291666 0,-0.16111 0.1305534,-0.289063 0.2916667,-0.289063 z"
+     id="path818"
+     style="fill:#d0d0d0;stroke-width:1" />
+</svg>

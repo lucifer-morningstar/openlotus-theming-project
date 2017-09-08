@@ -1,13 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="kr_comparedirs.svg"
+   inkscape:version="0.92+devel (9279f97481, 2017-09-04, custom)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     inkscape:document-rotation="0"
+     borderopacity="0.23921569"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview8"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:zoom="32.482718"
+     inkscape:cx="6.7975121"
+     inkscape:cy="10.975743"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#f2f2f2;
       }
       </style>
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4.5 2 A 1.500015 1.500015 0 0 0 3 3.5 A 1.500015 1.500015 0 0 0 4 4.9121094 L 4 11 C 4 12.105 4.895 13 6 13 L 7 13 L 7 14 L 9 12.5 L 7 11 L 7 12 L 6 12 C 5.448 12 5 11.552 5 11 L 5 4.9121094 A 1.500015 1.500015 0 0 0 6 3.5 A 1.500015 1.500015 0 0 0 4.5 2 z M 9 2 L 7 3.5 L 9 5 L 9 4 L 10 4 C 10.552 4 11 4.448 11 5 L 11 11.087891 A 1.500015 1.500015 0 0 0 10 12.5 A 1.500015 1.500015 0 0 0 11.5 14 A 1.500015 1.500015 0 0 0 13 12.5 A 1.500015 1.500015 0 0 0 12 11.087891 L 12 5 C 12 3.895 11.105 3 10 3 L 9 3 L 9 2 z M 4.5 3 A 0.5 0.5 0 0 1 5 3.5 A 0.5 0.5 0 0 1 4.5 4 A 0.5 0.5 0 0 1 4 3.5 A 0.5 0.5 0 0 1 4.5 3 z M 11.5 12 A 0.5 0.5 0 0 1 12 12.5 A 0.5 0.5 0 0 1 11.5 13 A 0.5 0.5 0 0 1 11 12.5 A 0.5 0.5 0 0 1 11.5 12 z "
-     class="ColorScheme-Text"
-     />
+  <g
+     id="g839"
+     inkscape:label="#kr_comparedirs">
+    <path
+       inkscape:label="#boundary"
+       id="rect833"
+       d="M 0,0 H 16 V 16 H 0 Z"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:2.6329999;stroke-linecap:square"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="path819"
+       d="m 8.7539062,1.9570312 -2,1.5 2,1.5 v -1 h 1 c 0.5520008,0 0.9999998,0.4480001 0.9999998,1 v 6.0761718 a 1.5294499,1.5294499 0 0 1 0.515625,-0.0918 1.5294499,1.5294499 0 0 1 0.484375,0.08008 V 4.9570312 c 0,-1.1049999 -0.894999,-1.9999999 -1.9999998,-2 h -1 z M 5,4.9238281 A 1.5294499,1.5294499 0 0 1 4.484375,5.015625 1.5294499,1.5294499 0 0 1 4,4.9355469 V 11 c 0,1.105 0.895,2 2,2 h 1 v 1 L 9,12.5 7,11 v 1 H 6 C 5.448,12 5,11.552 5,11 Z"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="path821"
+       d="M 4.484375,1.9570312 A 1.5294499,1.5294499 0 0 0 2.9550781,3.4863281 1.5294499,1.5294499 0 0 0 4.484375,5.015625 1.5294499,1.5294499 0 0 0 6.0136719,3.4863281 1.5294499,1.5294499 0 0 0 4.484375,1.9570312 Z m 6.787109,8.9843748 A 1.5294499,1.5294499 0 0 0 9.7402344,12.470703 1.5294499,1.5294499 0 0 0 11.271484,14 1.5294499,1.5294499 0 0 0 12.800781,12.470703 1.5294499,1.5294499 0 0 0 11.271484,10.941406 Z"
+       style="fill:#00ff00;fill-opacity:0.9735856;stroke-width:2.6329999;stroke-linecap:square"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

@@ -1,13 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 4 L 4 20 L 6 20 L 6 13 L 13 13 L 13 11 L 6 11 L 6 6 L 16 6 L 16 4 L 6 4 L 4 4 z M 17 15 L 17 17 L 15 17 L 15 18 L 17 18 L 17 20 L 18 20 L 18 18 L 20 18 L 20 17 L 18 17 L 18 15 L 17 15 z "
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.000002"
+   height="24"
+   viewBox="0 0 24.000002 24"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (9279f97481, 2017-09-04, custom)"
+   sodipodi:docname="list-add-font.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.58365"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="11.520375"
+     inkscape:cy="11.531052" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g829"
+     inkscape:label="#list-add-font"
+     transform="scale(1.5)"
+     style="stroke-width:0.66666669">
+    <path
+       style="fill:none;stroke:none;stroke-width:0.66666669"
+       d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       d="m 5.4159292,2.6548673 v 4.7168141 h 2.1858407 q 0.7522124,0 1.0973452,-0.3274335 Q 9.0530973,6.7079647 9.1681416,5.7256638 H 9.4955752 V 9.787611 H 9.1681416 Q 9.159292,9.088496 8.9823009,8.761062 8.8141593,8.433628 8.5044248,8.274336 8.2035398,8.106195 7.6017699,8.106195 H 5.4159292 v 3.769911 q 0,0.911505 0.1150443,1.20354 0.088496,0.221239 0.3716814,0.380531 0.3893805,0.212389 0.8141592,0.212389 H 7.1504424 V 14 H 2 v -0.327434 h 0.4247788 q 0.7433628,0 1.079646,-0.433628 0.2123894,-0.283185 0.2123894,-1.362832 V 4.1238939 q 0,-0.9115045 -0.1150443,-1.2035399 Q 3.5132743,2.6991151 3.238938,2.5398231 2.8584071,2.3274337 2.4247788,2.3274337 H 2 V 2 h 8.929204 l 0.115044,2.6371681 H 10.734513 Q 10.504425,3.7964602 10.19469,3.4070796 9.8938055,3.0088496 9.4424778,2.8318585 9,2.6548673 8.0619469,2.6548673 Z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.16519165px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';opacity:0.6;fill:#d0d0d0;stroke-width:0.66666669"
+       id="path822"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="rect816"
+       d="m 11.618164,10.1167 v 1.501464 h -1.501465 v 0.880371 h 1.501465 V 14 h 0.880371 V 12.498535 H 14 v -0.880371 h -1.501465 v -1.501465 z"
+       style="fill:#00ff00;stroke-width:1.7553333;stroke-linecap:square" />
+  </g>
 </svg>

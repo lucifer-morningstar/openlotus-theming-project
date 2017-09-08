@@ -1,1 +1,57 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg height="16" viewBox="0 0 4.2333333 4.2333333" width="16" xmlns="http://www.w3.org/2000/svg"><sodipodi:namedview/><metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type/><dc:title/></cc:Work></rdf:RDF></metadata><path d="m0 0v2.4921875h16v-2.4921875zm0 4.5019531v2.4921875h16v-2.4921875zm0 4.5039063v2.4921876h16v-2.4921876zm0 4.5019526v2.492188h8v-2.492188z" fill="#d0d0d0" stroke-width="1.3" transform="scale(.26458333)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   width="16"
+   version="1.1"
+   id="svg890"
+   sodipodi:docname="glyph-text-paragraph.svg"
+   inkscape:version="0.92+devel (039bd1db37, 2017-09-02, custom)">
+  <defs
+     id="defs892" />
+  <sodipodi:namedview
+     id="namedview884"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:zoom="45.9375"
+     inkscape:cx="7.9673469"
+     inkscape:cy="2.9332532"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg890"
+     pagecolor="#002466"
+     inkscape:pageopacity="0"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     bordercolor="#ffffff"
+     borderopacity="0.28235294" />
+  <metadata
+     id="metadata886">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 0,0 V 2.4921875 H 16 V 0 Z M 0,4.5019531 V 6.9941406 H 16 V 4.5019531 Z M 0,9.0058594 V 11.498047 H 16 V 9.0058594 Z M 0,13.507812 V 16 h 16 v -2.492188 z"
+     fill="#d0d0d0"
+     stroke-width="1.3"
+     transform="scale(0.26458333)"
+     id="path888"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccscc" />
+</svg>

@@ -1,13 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel (9279f97481, 2017-09-04, custom)"
+   sodipodi:docname="mail-mark-task.svg">
+  <defs
+     id="defs2">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#f2f2f2;
       }
       </style>
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 4 L 4 8 L 8 8 L 8 4 L 4 4 z M 9 4 L 9 5 L 21 5 L 21 4 L 9 4 z M 9 7 L 9 8 L 16 8 L 16 7 L 9 7 z M 4 10 L 4 14 L 8 14 L 8 10 L 4 10 z M 9 10 L 9 11 L 21 11 L 21 10 L 9 10 z M 9 13 L 9 14 L 13 14 L 13 13 L 9 13 z M 20.292969 13.613281 L 15.701172 18.205078 L 14.554688 17.058594 L 13.847656 17.765625 L 15.693359 19.613281 L 15.699219 19.605469 L 15.707031 19.613281 L 21 14.320312 L 20.292969 13.613281 z M 4 16 L 4 20 L 8 20 L 8 16 L 4 16 z "
-     class="ColorScheme-Text"
-     />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="17.854446"
+     inkscape:cx="7.8319747"
+     inkscape:cy="8.0000021"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g869"
+     inkscape:label="#mail-mark-task"
+     transform="scale(5.6692915)"
+     style="stroke-width:0.17638889">
+    <path
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0"
+       id="rect811"
+       d="M 0,0 H 4.2333332 V 4.2333332 H 0 Z"
+       style="fill:none;stroke-width:0.04489977;stroke-linecap:round" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="rect812"
+       d="M 0.52916665,0.52916665 V 1.0434763 H 0.86209206 V 1.4159341 H 0.52916665 V 1.9302438 H 0.86209206 V 2.3030892 H 0.52916665 V 2.8173989 H 0.86209206 V 3.1898568 H 0.52916665 V 3.7041665 H 0.98146461 1.3081888 3.5851817 c 0.06596,0 0.1189849,-0.053024 0.1189849,-0.1189849 V 0.64815165 c 0,-0.06596 -0.053025,-0.118985 -0.1189849,-0.118985 H 1.3081888 0.98146461 Z M 2.983668,1.4085702 3.2526437,1.6759958 C 2.832596,2.0919347 2.4123692,2.5073302 1.9926432,2.9235939 1.7411508,2.6818112 1.517471,2.4133414 1.2818339,2.1565866 L 1.5511972,1.8895486 1.997294,2.3844796 C 2.3260748,2.0592181 2.6548631,1.7338071 2.983668,1.4085702 Z"
+       style="opacity:1;fill:#00ff00;stroke-width:0.05812052" />
+  </g>
 </svg>

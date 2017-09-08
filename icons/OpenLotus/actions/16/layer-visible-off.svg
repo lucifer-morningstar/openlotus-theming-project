@@ -11,59 +11,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
-   viewBox="0 0 4.2333332 4.2333332"
+   viewBox="0 0 16 16"
    version="1.1"
    id="main"
-   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
-   sodipodi:docname="object-hidden.svg">
+   inkscape:version="0.92+devel (9279f97481, 2017-09-04, custom)"
+   sodipodi:docname="layer-visible-off.svg">
   <defs
-     id="ol-defs">
-    <style
-       id="current-color-scheme">      .ColorScheme-Text {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-Background {
-        color:#212121;
-        stop-color:#212121;
-      }
-      .ColorScheme-Highlight {
-        color:#0039a9;
-        stop-color:#0039a9;
-      }
-      .ColorScheme-ViewText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ViewBackground {
-        color:#19191b;
-        stop-color:#19191b;
-      }
-      .ColorScheme-ViewHover {
-        color:#005cc7;
-        stop-color:#005cc7;
-      }
-      .ColorScheme-ViewFocus{
-        color:#002466;
-        stop-color:#002466;
-      }
-      .ColorScheme-ButtonText {
-        color:#d0d0d0;
-        stop-color:#d0d0d0;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#232323;
-        stop-color:#232323;                             
-      }                                                 
-      .ColorScheme-ButtonHover {                        
-        color:#005cc7;                                  
-        stop-color:#005cc7;                             
-      }                                                 
-      .ColorScheme-ButtonFocus{                         
-        color:#0039a9;                                  
-        stop-color:#0039a9;                             
-      }</style>
-  </defs>
+     id="ol-defs" />
   <sodipodi:namedview
      id="base"
      pagecolor="#002466"
@@ -71,7 +25,7 @@
      borderopacity="0.30"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="40.551468"
+     inkscape:zoom="37.1673"
      inkscape:document-units="px"
      inkscape:current-layer="main"
      inkscape:document-rotation="0"
@@ -84,8 +38,8 @@
      inkscape:window-y="26"
      inkscape:window-maximized="1"
      units="px"
-     inkscape:cx="4.0666159"
-     inkscape:cy="7.9030552" />
+     inkscape:cx="7.9596419"
+     inkscape:cy="8" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -99,20 +53,19 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g848"
-     inkscape:label="#object-hidden">
+     id="g849"
+     inkscape:label="#layer-visible-off">
     <path
-       style="fill:none;stroke-width:0.20485653"
-       d="M -5.5e-8,-3e-8 H 4.2333333 V 4.2333332 H -5.5e-8 Z"
+       style="fill:none;stroke:none"
+       d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z"
        id="boundary"
        inkscape:label="#boundary"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;stroke-width:3.77952766;fill:#ff0000"
-       d="M 8,4.5683594 C 4.6865852,4.5683594 2,8 2,8 2,8 4.6865856,11.431641 8,11.431641 11.313414,11.431641 14,8 14,8 14,8 11.313415,4.568359 8,4.5683594 Z M 8,5.640625 A 2.358298,2.358298 0 0 1 10.359375,8 2.358298,2.358298 0 0 1 8,10.359375 2.358298,2.358298 0 0 1 5.640625,8 2.358298,2.358298 0 0 1 8,5.640625 Z"
-       transform="scale(0.26458333)"
-       id="path871"
-       inkscape:connector-curvature="0"
-       inkscape:label="#" />
+       inkscape:label="#"
+       id="path844"
+       d="M 8,4.5683594 C 4.686585,4.5683594 2,8 2,8 2,8 4.6865857,11.431641 8,11.431641 11.313414,11.431641 14,8 14,8 14,8 11.313415,4.5683594 8,4.5683594 Z M 8,5.640625 A 2.358298,2.358298 0 0 1 10.359375,8 2.358298,2.358298 0 0 1 8,10.359375 2.358298,2.358298 0 0 1 5.640625,8 2.358298,2.358298 0 0 1 8,5.640625 Z"
+       style="fill:#ff0000"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

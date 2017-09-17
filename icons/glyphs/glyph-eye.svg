@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
-   viewBox="0 0 16 16"
-   width="16"
+   height="12"
+   viewBox="0 0 12 12"
+   width="12"
    version="1.1"
    id="svg856"
    sodipodi:docname="glyph-eye.svg"
-   inkscape:version="0.92+devel (9279f97481, 2017-09-04, custom)">
+   inkscape:version="0.92+devel (1da36c2be7, 2017-09-15, custom)">
   <defs
      id="defs858" />
   <sodipodi:namedview
@@ -21,14 +21,20 @@
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:zoom="45.9375"
-     inkscape:cx="7.9673469"
+     inkscape:cx="7.8149659"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg856" />
+     inkscape:current-layer="svg856"
+     pagecolor="#002466"
+     inkscape:pageopacity="0"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     bordercolor="#ffffff"
+     borderopacity="0.23921569" />
   <metadata
      id="metadata852">
     <rdf:RDF>
@@ -41,9 +47,9 @@
     </rdf:RDF>
   </metadata>
   <path
-     d="M 8,3.4241708 C 3.5821139,3.4241708 0,8 0,8 0,8 3.5821143,12.575829 8,12.575829 12.417885,12.575829 16,8 16,8 16,8 12.417887,3.4241708 8,3.4241708 Z M 8,4.8554503 A 3.1443973,3.1443973 0 0 1 11.14455,7.9999999 3.1443973,3.1443973 0 0 1 8,11.14455 3.1443973,3.1443973 0 0 1 4.8554504,7.9999999 3.1443973,3.1443973 0 0 1 8,4.8554503 Z"
-     fill="#d0d0d0"
-     stroke-width=".15875"
-     id="path854"
-     inkscape:connector-curvature="0" />
+     d="m 6,2.567871 c -3.3134146,0 -6,3.4321289 -6,3.4321289 0,0 2.6865857,3.432129 6,3.432129 3.3134138,0 6,-3.432129 6,-3.432129 0,0 -2.6865847,-3.4321289 -6,-3.4321289 z M 6,3.6416015 A 2.358298,2.358298 0 0 1 8.3583983,5.9999999 2.358298,2.358298 0 0 1 6,8.3583981 2.358298,2.358298 0 0 1 3.6416016,5.9999999 2.358298,2.358298 0 0 1 6,3.6416015 Z"
+     id="path814"
+     inkscape:label="#"
+     inkscape:connector-curvature="0"
+     style="stroke-width:1;fill:#d0d0d0;stroke:none" />
 </svg>

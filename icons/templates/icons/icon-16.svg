@@ -8,12 +8,14 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="16"
-   viewBox="0 0 4.2333332 4.2333332"
+   viewBox="0 0 16 16"
    width="16"
    version="1.1"
    id="svg4"
    sodipodi:docname="icon-16.svg"
-   inkscape:version="0.92+devel (36a4db64c1, 2017-08-25, custom)">
+   inkscape:version="0.92+devel (f008c6912a, 2017-09-14, custom)">
+  <defs
+     id="defs8" />
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,12 +24,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs8" />
   <sodipodi:namedview
      pagecolor="#002466"
      bordercolor="#ffffff"
@@ -39,22 +39,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1027"
      id="namedview6"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:zoom="45.9375"
-     inkscape:cx="8"
+     inkscape:zoom="26.65625"
+     inkscape:cx="6.686987"
      inkscape:cy="8"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <path
-     d="M 0 0 H 4.2333332 V 4.2333332 H 0 Z"
-     fill="none"
-     stroke-linecap="round"
+     inkscape:connector-curvature="0"
+     inkscape:label="#boundary"
+     style="stroke:none"
+     id="path2"
      stroke-width=".25455"
-     id="path2" />
+     stroke-linecap="round"
+     fill="none"
+     d="M -1e-7,1.75e-7 H 16 V 16 H -1e-7 Z" />
 </svg>

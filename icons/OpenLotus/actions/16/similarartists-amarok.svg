@@ -1,22 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      </style>
-  </defs>
-  <path 
-        style="fill:currentColor;fill-opacity:1;stroke:none"
-        d="M 5.5 4 A 2.5 2.5 0 0 0 3 6.5 A 2.5 2.5 0 0 0 5.5 9 A 2.5 2.5 0 0 0 8 6.5 A 2.5 2.5 0 0 0 5.5 4 z M 5.5 10 A 3.499998 4 0 0 0 2 14 L 9 14 A 3.499998 4 0 0 0 5.5 10 z M 5.5 11 A 2.5 3 0 0 1 7.8535156 13 L 3.1464844 13 A 2.5 3 0 0 1 5.5 11 z "
-        class="ColorScheme-Text"
-        />
-  <path
-        style="fill:currentColor;fill-opacity:1;stroke:none"
-        d="M 11.5 2 A 2.5 2.5 0 0 0 9 4.5 A 2.5 2.5 0 0 0 11.5 7 A 2.5 2.5 0 0 0 14 4.5 A 2.5 2.5 0 0 0 11.5 2 z M 11.646484 8 A 3.499998 4 0 0 0 8.4921875 10.273438 A 4.5 5 0 0 1 9.6171875 12 L 15.150391 12 A 3.499998 4 0 0 0 11.646484 8 z M 11.646484 9 A 2.5 3 0 0 1 14 11 L 9.2929688 11 A 2.5 3 0 0 1 11.646484 9 z "
-        class="ColorScheme-Highlight"
-      />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (1da36c2be7, 2017-09-15, custom)"
+   sodipodi:docname="similarartists-amarok.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="37.1673"
+     inkscape:document-units="px"
+     inkscape:current-layer="g848"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="7.5022505"
+     inkscape:cy="8" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g848"
+     inkscape:label="#similarartists-amarok"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none"
+       d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="rect812"
+       d="M 3.199707,2 C 2.534907,2 2,2.5349071 2,3.199707 v 9.600586 C 2,13.465093 2.534907,14 3.199707,14 h 9.600586 C 13.465093,14 14,13.465093 14,12.800293 V 3.199707 C 14,2.5349071 13.465093,2 12.800293,2 Z M 6.2846679,4.4243164 C 7.0465814,4.425362 7.7197431,4.863453 8,5.5288086 8.2802578,4.863453 8.9534193,4.4254056 9.7153317,4.4243164 10.742532,4.4238871 11.577318,5.3470989 11.575684,6.1704102 11.571299,8.383272 10.608901,8.366081 8,11.575684 5.3911008,8.366081 4.428673,8.383272 4.4243164,6.1704102 4.4227063,5.3470989 5.2574682,4.4238871 6.2846679,4.4243164 Z"
+       style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:1" />
+  </g>
 </svg>

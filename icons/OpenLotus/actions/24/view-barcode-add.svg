@@ -1,14 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
-  <path
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 7 L 4 17 L 5 17 L 5 7 L 4 7 z M 6 7 L 6 14 L 7 14 L 7 7 L 6 7 z M 8 7 L 8 17 L 9 17 L 9 7 L 8 7 z M 10 7 L 10 17 L 12 17 L 12 7 L 10 7 z M 13 7 L 13 17 L 14 17 L 14 14 L 15 14 L 15 7 L 13 7 z M 16 7 L 16 12 L 17 12 L 17 7 L 16 7 z M 18 7 L 18 14 L 20 14 L 20 7 L 18 7 z M 17 15 L 17 17 L 15 17 L 15 18 L 17 18 L 17 20 L 18 20 L 18 18 L 20 18 L 20 17 L 18 17 L 18 15 L 17 15 z "
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   viewBox="0 0 24 24"
+   width="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="view-barcode-add.svg"
+   inkscape:version="0.92+devel (58ef38f81c, 2017-09-13, custom)">
+  <defs
+     id="defs8" />
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     inkscape:document-rotation="0"
+     borderopacity="0.13333333"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview6"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="45.9375"
+     inkscape:cx="11.479758"
+     inkscape:cy="7.6899795"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     id="g836"
+     inkscape:label="#view-barcode-add"
+     style="stroke:none;stroke-width:0.66666669"
+     transform="scale(1.5)">
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:label="#boundary"
+       style="stroke:none"
+       id="path2"
+       stroke-width=".25455"
+       stroke-linecap="round"
+       fill="none"
+       d="M 0,-4.9999999e-8 H 16 V 16 H 0 Z" />
+    <path
+       style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:0.66666669"
+       d="M 1.96875,2.7304688 V 12.730469 H 2.4863281 V 2.7304688 Z m 1.4902344,0 V 9.609375 H 3.9765625 V 2.7304688 Z m 1.5214844,0 V 12.730469 h 1.1875 V 2.7304688 Z m 2.1289062,0 V 12.730469 H 8.7773438 V 2.7304688 Z m 2.75,0 V 9.609375 H 10.3125 c 0.02101,-0.033102 0.04189,-0.065679 0.06445,-0.097656 v -6.78125 z m 1.480469,0 v 5.9824218 c 0.164624,-0.075511 0.337419,-0.1370005 0.519531,-0.1738281 V 2.7304688 Z m 1.441406,0 v 5.8046874 c 0.455658,0.085636 0.861891,0.3015748 1.1875,0.6054688 V 2.7304688 Z m 1.1875,9.9101562 c -0.0345,0.0322 -0.07302,0.0597 -0.109375,0.08984 h 0.109375 z"
+       id="path817"
+       inkscape:connector-curvature="0"
+       inkscape:label="#" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path843"
+       d="m 12.350336,8.4748724 a 2.4007194,2.4007194 0 0 0 -2.4003913,2.4003906 2.4007194,2.4007194 0 0 0 2.4003913,2.400391 2.4007194,2.4007194 0 0 0 2.400391,-2.400391 2.4007194,2.4007194 0 0 0 -2.400391,-2.4003906 z m -0.484375,0.7460937 h 0.96875 v 1.1699219 h 1.167969 v 0.96875 h -1.167969 v 1.169922 h -0.96875 v -1.169922 h -1.167969 v -0.96875 h 1.167969 z"
+       style="fill:#00ff00;stroke:none;stroke-width:0.66666669"
+       inkscape:label="#" />
+  </g>
 </svg>

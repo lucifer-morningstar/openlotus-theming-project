@@ -1,13 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-    <defs id="defs3051">
-        <style type="text/css" id="current-color-scheme">
-            .ColorScheme-Text {
-            color:#f2f2f2;
-            }
-        </style>
-    </defs>
-  <path
-      style="fill:currentColor;fill-opacity:1;stroke:none"
-      d="M 11 3 C 6.5876444 3 3 6.5876444 3 11 C 3 15.412356 6.5876444 19 11 19 C 15.412356 19 19 15.412356 19 11 C 19 6.5876444 15.412356 3 11 3 z M 11 4 C 14.871916 4 18 7.1280844 18 11 C 18 14.871916 14.871916 18 11 18 C 7.1280844 18 4 14.871916 4 11 C 4 7.1280844 7.1280844 4 11 4 z M 9.484375 6 A 0.50005 0.50005 0 0 0 9.0839844 6.2226562 L 7.0839844 9.2226562 A 0.50005 0.50005 0 1 0 7.9160156 9.7773438 L 9 8.1523438 L 9 14 A 0.50005 0.50005 0 1 0 10 14 L 10 6.5 A 0.50005 0.50005 0 0 0 9.484375 6 z M 12.492188 7.4921875 A 0.50005 0.50005 0 0 0 12 8 L 12 15.5 A 0.50005 0.50005 0 0 0 12.916016 15.777344 L 14.916016 12.777344 A 0.50005 0.50005 0 1 0 14.083984 12.222656 L 13 13.847656 L 13 8 A 0.50005 0.50005 0 0 0 12.492188 7.4921875 z "
-      class="ColorScheme-Text" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="torrents.svg"
+   inkscape:version="0.92+devel (58ef38f81c, 2017-09-13, custom)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     inkscape:document-rotation="0"
+     borderopacity="0.13333333"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview6"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="45.9375"
+     inkscape:cx="6.933333"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     id="g829"
+     inkscape:label="#torrents">
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:label="#boundary"
+       style="stroke:none"
+       id="path2"
+       stroke-width=".25455"
+       stroke-linecap="round"
+       fill="none"
+       d="M 0,-4.9999999e-8 H 16 V 16 H 0 Z" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:label="#"
+       id="path820"
+       d="M 8,2 A 6,6 0 0 0 2,8 6,6 0 0 0 8,14 6,6 0 0 0 14,8 6,6 0 0 0 8,2 Z M 6.0234375,4.2597656 H 7.3339844 V 8.4511719 11.740234 L 4.8867188,8.4511719 h 1.1367187 z m 2.6425781,0 2.4472654,3.2890625 H 9.9746094 V 11.740234 H 8.6660156 V 7.5488281 Z"
+       style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:1" />
+  </g>
 </svg>

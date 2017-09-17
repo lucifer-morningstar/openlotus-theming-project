@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15740 custom"
+   inkscape:version="0.92+devel (1c31310676, 2017-09-09, custom)"
    sodipodi:docname="node-type-smooth.svg">
   <defs
      id="ol-defs">
@@ -134,7 +134,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="27.533332"
-     inkscape:cx="8"
+     inkscape:cx="7.7457627"
      inkscape:cy="8.5703123"
      inkscape:document-units="px"
      inkscape:current-layer="g4319"
@@ -148,9 +148,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-page="true" />
   <metadata
@@ -161,7 +161,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -189,7 +189,7 @@
        height="2.9868741"
        width="2.9868741"
        id="rect4291"
-       style="opacity:1;fill:#00ff00;fill-opacity:0.69426419;stroke-width:0.97073406;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke-width:0.97073406;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
        inkscape:label="#3"
        id="rect4293"

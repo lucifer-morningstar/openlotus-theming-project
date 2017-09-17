@@ -7,13 +7,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg6"
    sodipodi:docname="markasblank.svg"
-   inkscape:version="0.92+devel (df5ad324d0, 2017-09-05, custom)"
-   width="22"
-   height="22">
+   inkscape:version="0.92+devel (58ef38f81c, 2017-09-13, custom)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -37,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1027"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="16.241359"
-     inkscape:cx="7.9346938"
+     inkscape:zoom="22.96875"
+     inkscape:cx="7.7823128"
      inkscape:cy="8"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
      borderlayer="true"
@@ -65,25 +63,24 @@
   <g
      id="g829"
      inkscape:label="#markasblank"
-     transform="scale(1.375)"
-     style="stroke-width:0.72727275">
+     style="stroke:none">
     <path
        inkscape:label="#boundary"
        id="rect823"
        d="M 0,0 H 16 V 16 H 0 Z"
-       style="fill:none;stroke:none;stroke-width:1.91490901;stroke-linecap:square"
+       style="fill:none;stroke:none;stroke-width:2.6329999;stroke-linecap:square"
        inkscape:connector-curvature="0" />
     <path
        inkscape:label="#"
        inkscape:connector-curvature="0"
        id="path820"
        d="M 2,2 V 14 H 3 5 V 13 H 3 V 3 H 5 V 2 H 3 Z m 9,0 v 1 h 2 v 10 h -2 v 1 h 2 1 V 2 h -1 z"
-       style="opacity:0.4;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.72727275" />
+       style="opacity:0.4;fill:#d0d0d0;fill-opacity:1;stroke:none" />
     <path
        inkscape:label="#"
        id="path4"
        d="m 4,10 v 1 1 h 8 v -1 -1 h -1 v 1 H 5 v -1 z"
-       style="opacity:0.859375;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.72727275"
+       style="opacity:0.859375;fill:#d0d0d0;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

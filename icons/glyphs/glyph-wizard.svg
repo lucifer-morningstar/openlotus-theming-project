@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (1da36c2be7, 2017-09-15, custom)"
+   sodipodi:docname="glyph-wizard.svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.28125"
+     inkscape:cx="7.4673008"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:1;stroke:none"
+     d="M 6 0 L 1.265625 11.255859 C 4.3194417 12.29619 7.4859202 12.200538 10.734375 11.255859 L 6 0 z M 6.2988281 4.5058594 L 6.6269531 5.5761719 L 7.6953125 5.9121094 L 6.7773438 6.5546875 L 6.7890625 7.6738281 L 5.8945312 7 L 4.8320312 7.3554688 L 5.1953125 6.296875 L 4.5292969 5.3984375 L 5.6484375 5.4160156 L 6.2988281 4.5058594 z M 4.3085938 8.4921875 L 4.8515625 9.171875 L 5.7167969 9.1113281 L 5.2382812 9.8378906 L 5.5664062 10.642578 L 4.7265625 10.412109 L 4.0585938 10.970703 L 4.0195312 10.101562 L 3.2832031 9.6425781 L 4.0976562 9.3359375 L 4.3085938 8.4921875 z M 8.0742188 8.890625 L 8.1601562 9.5117188 L 8.7167969 9.7910156 L 8.1542969 10.064453 L 8.0605469 10.681641 L 7.6289062 10.230469 L 7.0117188 10.332031 L 7.3066406 9.78125 L 7.0195312 9.2246094 L 7.6347656 9.3359375 L 8.0742188 8.890625 z "
+     id="path811"
+     inkscape:label="#" />
+</svg>

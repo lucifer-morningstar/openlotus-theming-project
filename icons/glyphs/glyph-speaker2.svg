@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (1da36c2be7, 2017-09-15, custom)"
+   sodipodi:docname="glyph-speaker2.svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.28125"
+     inkscape:cx="7.7336504"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke:none"
+     d="M 2.8007812 0 C 2.3575813 1.4802974e-16 2 0.35758125 2 0.80078125 L 2 11.199219 C 2 11.642419 2.3575812 12 2.8007812 12 L 9.1992188 12 C 9.6424188 12 10 11.642419 10 11.199219 L 10 0.80078125 C 10 0.35758125 9.6424188 0 9.1992188 0 L 2.8007812 0 z M 6 1.5449219 A 1.1307238 1.1307238 0 0 1 7.1308594 2.6757812 A 1.1307238 1.1307238 0 0 1 6 3.8066406 A 1.1307238 1.1307238 0 0 1 4.8691406 2.6757812 A 1.1307238 1.1307238 0 0 1 6 1.5449219 z M 5.9667969 2.2226562 A 0.45403225 0.45403225 0 0 0 5.5449219 2.6757812 A 0.45403225 0.45403225 0 0 0 6 3.1308594 A 0.45403225 0.45403225 0 0 0 6.4550781 2.6757812 A 0.45403225 0.45403225 0 0 0 6 2.2226562 A 0.45403225 0.45403225 0 0 0 5.9667969 2.2226562 z M 6 5.0175781 A 2.7184825 2.7184825 0 0 1 8.71875 7.7363281 A 2.7184825 2.7184825 0 0 1 6 10.455078 A 2.7184825 2.7184825 0 0 1 3.28125 7.7363281 A 2.7184825 2.7184825 0 0 1 6 5.0175781 z M 6 6.6445312 A 1.0915829 1.0915829 0 0 0 4.9082031 7.7363281 A 1.0915829 1.0915829 0 0 0 6 8.828125 A 1.0915829 1.0915829 0 0 0 7.0917969 7.7363281 A 1.0915829 1.0915829 0 0 0 6 6.6445312 z "
+     id="rect811" />
+</svg>

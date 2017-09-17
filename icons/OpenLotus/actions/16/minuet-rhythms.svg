@@ -15,7 +15,7 @@
    width="16"
    version="1.1"
    sodipodi:docname="minuet-rhythms.svg"
-   inkscape:version="0.92+devel (4754229fb9, 2017-09-06, custom)">
+   inkscape:version="0.92+devel (1c31310676, 2017-09-09, custom)">
   <sodipodi:namedview
      pagecolor="#002466"
      bordercolor="#ffffff"
@@ -27,18 +27,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1027"
      id="namedview8"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="45.9375"
-     inkscape:cx="5.3115646"
+     inkscape:cx="5.1591836"
      inkscape:cy="8"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3699"
+     inkscape:current-layer="g835"
      inkscape:snap-page="true"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="false" />
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,12 +66,17 @@
      id="g835"
      inkscape:label="#minuet-rhythms">
     <path
-       inkscape:label="#"
-       inkscape:connector-curvature="0"
-       d="m 5.3105499,2.2284998 v 2 5 h 1 v -5 H 13.31055 v 5 h 1 v -5 -2 z m -2.9141,7.3008 -0.7069998,0.7072002 1.4140998,1.414 -1.4140998,1.414 0.7069998,0.707 1.4141,-1.414 1.4141,1.414 0.707,-0.707 -1.4141,-1.414 1.4141,-1.414 -0.707,-0.7072002 -1.4141,1.4142002 z m 8.0001001,0 -0.7071001,0.7072002 1.4141001,1.414 -1.4141001,1.414 0.7071001,0.707 1.414,-1.414 1.414,1.414 0.707,-0.707 -1.414,-1.414 1.414,-1.414 -0.707,-0.7072002 -1.414,1.4142002 z"
        style="opacity:0.6;fill:#d0d0d0"
-       class="ColorScheme-Text"
-       id="path4303" />
+       d="m 5.3105499,2.2284998 v 2 5 h 1 v -5 H 13.31055 v 5 h 1 v -5 -2 z"
+       id="path819"
+       inkscape:connector-curvature="0"
+       inkscape:label="#" />
+    <path
+       style="opacity:1;fill:#00ff00"
+       d="M 2.3964844,9.5292969 1.6894531,10.236328 3.1035156,11.650391 1.6894531,13.064453 2.3964844,13.771484 3.8105469,12.357422 5.2246094,13.771484 5.9316406,13.064453 4.5175781,11.650391 5.9316406,10.236328 5.2246094,9.5292969 3.8105469,10.943359 Z m 7.9999996,0 -0.7070309,0.7070311 1.4140629,1.414063 -1.4140629,1.414062 0.7070309,0.707031 1.414063,-1.414062 1.414062,1.414062 0.707032,-0.707031 -1.414063,-1.414062 1.414063,-1.414063 -0.707032,-0.7070311 -1.414062,1.4140621 z"
+       id="path817"
+       inkscape:connector-curvature="0"
+       inkscape:label="#" />
     <path
        inkscape:label="#boundary"
        id="rect830"

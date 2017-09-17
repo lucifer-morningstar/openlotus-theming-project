@@ -1,27 +1,115 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="transform-affect-gradient.svg"
+   inkscape:version="0.92+devel (f008c6912a, 2017-09-14, custom)">
+  <defs
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient823">
+      <stop
+         style="stop-color:#d0d0d0;stop-opacity:1;"
+         offset="0"
+         id="stop819" />
+      <stop
+         style="stop-color:#d0d0d0;stop-opacity:0;"
+         offset="1"
+         id="stop821" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient823"
+       id="linearGradient843"
+       x1="-0.5"
+       y1="8"
+       x2="16.5"
+       y2="8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.71249997,0,0,0.71249997,2.2999998,2.3000003)" />
   </defs>
- <g transform="translate(-421.71-531.79)">
-  <path 
-     d="m 2,6 0,-3 11,0 0,8 -3,0 0,-5 z"
-      transform="translate(421.71 531.79)" 
-     style="fill:currentColor;fill-opacity:0.5;stroke:none" 
-     class="ColorScheme-Text"
-      />
-  <path 
-      d="m2 2v1h11v8h1v-8-1h-12m0 4v1h7v4h1v-4-1h-8" 
-      transform="translate(421.71 531.79)" 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     class="ColorScheme-Text"
-      />
-  <path 
-      d="m426.88 546.12l-.707-.707 1.621-1.621h-4.076v-1h4.076l-1.621-1.621.707-.707 2.828 2.828-.707.707z" 
-     style="fill:#1d99f3"
-      />
- </g>
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     inkscape:document-rotation="0"
+     borderopacity="0.13333333"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview6"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="22.96875"
+     inkscape:cx="8.8481976"
+     inkscape:cy="10.525131"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     id="g852"
+     inkscape:label="#transform-affect-gradient"
+     style="stroke-width:1">
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:label="#boundary"
+       style="stroke:none"
+       id="path2"
+       stroke-width=".25455"
+       stroke-linecap="round"
+       fill="none"
+       d="M 0,-4.9999999e-8 H 16 V 16 H 0 Z" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="rect812"
+       d="M 2.2999998,2.3000003 V 7.7105469 H 8.2894527 V 13.7 H 13.7 V 2.3000003 Z"
+       style="fill:url(#linearGradient843);fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:label="#"
+       inkscape:transform-center-x="-0.53890133"
+       d="m 6.9643948,10.900889 -3.2334076,1.866809 0,-3.7336174 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0"
+       sodipodi:r2="1.0778027"
+       sodipodi:r1="2.1556051"
+       sodipodi:cy="10.900889"
+       sodipodi:cx="4.8087897"
+       sodipodi:sides="3"
+       id="path847"
+       style="fill:#00ff00;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="star" />
+  </g>
 </svg>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (1c31310676, 2017-09-09, custom)"
+   sodipodi:docname="glyph-reader.svg">
+  <defs
+     id="defs853" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.28125"
+     inkscape:cx="7.7336504"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.99999988"
+     d="m 4.9993373,3.250847 c -1.9996435,0 -3.0202914,1.4997325 -3.9992867,1.4997325 -0.97902525,0 -0.99982165162,-0.4999108 -0.99982165162,-0.4999108 v 7.9985733 c 0,0 -0.0416919984,0.499911 0.99982165162,0.499911 1.0414842,0 1.9996432,-1.499732 3.9992867,-1.499732 1.9996434,0 2.999465,0.999821 2.999465,0.999821 0,0 0.9998215,-0.999821 2.9994657,-0.999821 1.999642,0 2.895313,1.499732 3.999286,1.499732 1.103974,0 0.999822,-0.499911 0.999822,-0.499911 V 4.3131575 c -0.03709,0.140575 -0.218711,0.437422 -0.999822,0.437422 -1.041484,0 -1.999644,-1.4997325 -3.999286,-1.4997325 -1.9996442,0 -2.9994657,0.9998217 -2.9994657,0.9998217 0,0 -0.9998216,-0.9998217 -2.999465,-0.9998217 z"
+     id="path819"
+     inkscape:label="#" />
+</svg>

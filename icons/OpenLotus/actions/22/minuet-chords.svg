@@ -15,7 +15,7 @@
    width="22"
    version="1.1"
    sodipodi:docname="minuet-chords.svg"
-   inkscape:version="0.92+devel (4754229fb9, 2017-09-06, custom)">
+   inkscape:version="0.92+devel (1c31310676, 2017-09-09, custom)">
   <sodipodi:namedview
      pagecolor="#002466"
      bordercolor="#ffffff"
@@ -27,16 +27,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1027"
      id="namedview8"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:zoom="45.9375"
-     inkscape:cx="8.3878365"
+     inkscape:zoom="22.96875"
+     inkscape:cx="8.2354555"
      inkscape:cy="6.224712"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4337" />
   <defs
@@ -74,13 +74,13 @@
        inkscape:connector-curvature="0"
        id="path841"
        d="m 8.9824219,1.0078125 v 1.7324219 a 2.0000927,2.0000927 0 0 0 -0.9335938,-0.2324219 2.0000927,2.0000927 0 0 0 -2,2 2.0000927,2.0000927 0 0 0 2,2 2.0000927,2.0000927 0 0 0 0.9335938,-0.2324219 v 0.46875 a 2.0000927,2.0000927 0 0 0 -0.9355469,-0.234375 2.0000927,2.0000927 0 0 0 -2,2 2.0000927,2.0000927 0 0 0 2,2.0000004 2.0000927,2.0000927 0 0 0 0.9355469,-0.232422 v 0.466797 a 2.0000927,2.0000927 0 0 0 -0.9355469,-0.234375 2.0000927,2.0000927 0 0 0 -2,2 2.0000927,2.0000927 0 0 0 2,2 2.0000927,2.0000927 0 0 0 1.9355469,-1.501954 2.0000927,2.0000927 0 0 0 0.064453,-0.498046 2.0000927,2.0000927 0 0 0 -0.064453,-0.494141 V 9.0097656 a 2.0000927,2.0000927 0 0 0 0.064453,-0.5 2.0000927,2.0000927 0 0 0 -0.064453,-0.4941406 v -3 A 2.0000927,2.0000927 0 0 0 10.048828,4.5078125 2.0000927,2.0000927 0 0 0 9.9824219,4.0058594 V 1.0078125 Z"
-       style="opacity:0.7;fill:#d0d0d0;fill-opacity:1;stroke-width:1.91490901;stroke-linecap:square"
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke-width:1.91490901;stroke-linecap:square"
        inkscape:label="#" />
     <path
        inkscape:connector-curvature="0"
        id="path843"
        d="m 2.0136719,4.0078125 v 1 h 4.0996093 a 2.0000927,2.0000927 0 0 1 -0.064453,-0.5 2.0000927,2.0000927 0 0 1 0.064453,-0.5 z m 7.96875,0 a 2.0000927,2.0000927 0 0 1 0.066406,0.5 2.0000927,2.0000927 0 0 1 -0.066406,0.5 h 4.0312501 v -1 z m -7.96875,4.0019531 v 1 h 4.0996093 a 2.0000927,2.0000927 0 0 1 -0.064453,-0.5 2.0000927,2.0000927 0 0 1 0.064453,-0.5 z m 7.96875,0 a 2.0000927,2.0000927 0 0 1 0.066406,0.5 2.0000927,2.0000927 0 0 1 -0.066406,0.5 h 4.0312501 v -1 z m -7.96875,3.9980464 v 1 h 4.0996093 a 2.0000927,2.0000927 0 0 1 -0.064453,-0.5 2.0000927,2.0000927 0 0 1 0.064453,-0.5 z m 7.96875,0 a 2.0000927,2.0000927 0 0 1 0.066406,0.5 2.0000927,2.0000927 0 0 1 -0.066406,0.5 h 4.0312501 v -1 z"
-       style="opacity:0.32999998;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1.91490901;stroke-linecap:square"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1.91490901;stroke-linecap:square"
        inkscape:label="#" />
   </g>
 </svg>

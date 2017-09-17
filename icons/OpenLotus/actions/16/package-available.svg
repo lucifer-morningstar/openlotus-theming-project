@@ -1,15 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
-  <g transform="translate(-421.71429,-531.79074)">
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="m 426.71429,533.79074 a 1,1 0 0 0 -1,1 l 0,2 -2,0 0,9 12,0 0,-9 -2,0 0,-2 a 1,1 0 0 0 -1,-1 l -6,0 z m 0,1 6,0 0,2 -6,0 0,-2 z m -2,3 10,0 0,7 -10,0 0,-7 z"
-     class="ColorScheme-Text"
-     /> 
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="package-available.svg"
+   inkscape:version="0.92+devel (1c31310676, 2017-09-09, custom)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     inkscape:document-rotation="0"
+     borderopacity="0.13333333"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview6"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="22.96875"
+     inkscape:cx="7.542857"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g851"
+     inkscape:snap-center="true"
+     inkscape:object-paths="true" />
+  <g
+     id="g851"
+     inkscape:label="#package-available">
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:label="#boundary"
+       style="stroke:none"
+       id="path2"
+       stroke-width=".25455"
+       stroke-linecap="round"
+       fill="none"
+       d="M 0,-4.9999999e-8 H 16 V 16 H 0 Z" />
+    <path
+       inkscape:label="#"
+       id="path841"
+       d="M 3.8925781,2.1835938 2,5.2441406 H 7.7695311 V 2.1835938 Z m 4.5507812,0 V 5.2441406 H 14 L 12.107422,2.1835938 Z M 2,5.9121094 V 14.183594 H 14 V 5.9121094 Z M 8.1074219,7.2773438 8.984375,9.0546875 10.947265,9.3398438 9.5273436,10.724609 9.8613281,12.677734 8.1074219,11.755859 6.3515625,12.677734 6.6875,10.724609 5.267578,9.3398438 7.2304686,9.0546875 Z"
+       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:1"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

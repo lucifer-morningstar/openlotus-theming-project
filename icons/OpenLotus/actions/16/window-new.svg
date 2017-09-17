@@ -13,7 +13,7 @@
    version="1.1"
    id="svg16"
    sodipodi:docname="window-new.svg"
-   inkscape:version="0.92+devel (4754229fb9, 2017-09-06, custom)">
+   inkscape:version="0.92+devel (1c31310676, 2017-09-09, custom)">
   <defs
      id="defs20" />
   <sodipodi:namedview
@@ -27,17 +27,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1027"
      id="namedview18"
      showgrid="false"
      borderlayer="true"
      inkscape:zoom="45.9375"
-     inkscape:cx="7.9673469"
+     inkscape:cx="7.8149659"
      inkscape:cy="8"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16" />
+     inkscape:current-layer="svg16"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -53,7 +54,8 @@
   <g
      transform="matrix(0.66666667,0,0,0.66666667,-1.333333,6.666667)"
      id="g14"
-     inkscape:label="#window-new">
+     inkscape:label="#window-new"
+     style="stroke:none">
     <path
        d="M 2,-10 H 26 V 14 H 2 Z"
        fill="none"
@@ -61,9 +63,10 @@
        stroke-width="3.272727"
        id="path4"
        inkscape:connector-curvature="0"
-       inkscape:label="#boundary" />
+       inkscape:label="#boundary"
+       style="stroke:none" />
     <path
-       style="stroke-linecap:square"
+       style="stroke:none;stroke-linecap:square"
        inkscape:connector-curvature="0"
        id="path6"
        stroke-width="2.7"
@@ -72,7 +75,7 @@
        d="M 4.9999999,-7 V 11 H 23 V -7 Z M 6.878662,-3.0559083 H 21.121338 V 9.4289559 H 6.878662 Z"
        inkscape:label="#" />
     <path
-       style="stroke-linecap:square"
+       style="stroke:none;stroke-linecap:square"
        inkscape:connector-curvature="0"
        id="path8"
        stroke-width="2.448403"
@@ -81,7 +84,7 @@
        d="M 6.878662,-3.0559083 V 9.4289559 H 21.121338 V -3.0559083 Z"
        inkscape:label="#" />
     <path
-       style="stroke-linecap:square"
+       style="stroke:none;stroke-linecap:square"
        inkscape:connector-curvature="0"
        id="path10"
        stroke-width="3.9495"

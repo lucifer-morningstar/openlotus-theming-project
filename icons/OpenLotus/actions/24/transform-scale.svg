@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
    height="24"
-   viewBox="0 0 6.3499997 6.3499997"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (7f48eea3d0, 2017-08-15, custom)"
+   inkscape:version="0.92+devel (1c31310676, 2017-09-09, custom)"
    sodipodi:docname="transform-scale.svg">
   <defs
      id="defs2">
@@ -72,8 +72,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="25.25"
-     inkscape:cx="7.7029705"
-     inkscape:cy="8.0000019"
+     inkscape:cx="7.3663369"
+     inkscape:cy="8.0000004"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -81,9 +81,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-page="true"
@@ -103,26 +103,25 @@
   <g
      id="g862"
      inkscape:label="#transform-scale"
-     transform="scale(1.5)">
+     style="stroke:none;stroke-width:0.17638889"
+     transform="scale(5.6692915)">
     <path
        inkscape:label="#boundary"
        inkscape:connector-curvature="0"
        id="rect811"
        d="M 0,0 H 4.2333332 V 4.2333332 H 0 Z"
-       style="fill:none;stroke-width:0.25454992;stroke-linecap:round" />
+       style="fill:none;stroke:none;stroke-width:0.04489977;stroke-linecap:round" />
     <path
        inkscape:label="#"
        id="path835"
-       transform="scale(0.26458333)"
-       d="M 0,0 V 3.5996094 H 3.5996094 V 0 Z M 12.400391,0 V 3.5996094 H 16 V 0 Z m -1.800782,10.599609 v 3.59961 h 3.59961 v -3.59961 z M 0,12.400391 V 16 h 3.5996094 v -3.599609 z"
-       style="fill:#00ff00;stroke-width:2.41322255"
+       d="M 0.52916665,0.52916665 V 1.243464 H 1.2434641 V 0.52916665 Z m 2.46070255,0 V 1.243464 H 3.7041666 V 0.52916665 Z M 2.6325264,2.6325264 V 3.346824 H 3.3468241 V 2.6325264 Z M 0.52916665,2.9898691 V 3.7041665 H 1.2434641 V 2.9898691 Z"
+       style="fill:#00ff00;stroke:none;stroke-width:0.08446803"
        inkscape:connector-curvature="0" />
     <path
        inkscape:label="#"
        id="rect837"
-       transform="scale(0.26458333)"
-       d="M 3.5996094,2.7734375 V 3.5996094 H 5.21875 V 2.7734375 Z m 0,0.8261719 H 2.7734375 V 5.21875 H 3.5996094 Z M 6.0214844,2.7734375 V 3.5996094 H 7.6015625 V 2.7734375 Z m 2.3769531,0 V 3.5996094 H 9.9804688 V 2.7734375 Z m 2.3828125,0 v 0.8261719 h 1.619141 V 2.7734375 Z m 1.619141,0.8261719 V 5.21875 h 0.826171 V 3.5996094 Z M 2.7734375,6.0195312 V 7.6015625 H 3.5996094 V 6.0195312 Z m 9.6269535,0 v 1.5820313 h 0.826171 V 6.0195312 Z M 2.7734375,8.3984375 V 9.9785156 H 3.5996094 V 8.3984375 Z m 9.6269535,0 v 1.5800781 h 0.826171 V 8.3984375 Z M 2.7734375,10.78125 v 1.619141 H 3.5996094 V 10.78125 Z m 0.84375,1.617188 v 0.826171 h 1.6191406 v -0.826171 z m 2.421875,0 v 0.826171 h 1.5800781 v -0.826171 z m 2.3769531,0 v 0.826171 h 1.5820313 v -0.826171 z m 6.7832034,0.002 v 2.798828 H 12.400391 V 16 H 16 v -3.599609 z"
-       style="opacity:0.6;fill:#d0d0d0;stroke-width:2.16700006"
+       d="M 1.2434641,1.0795206 V 1.243464 H 1.5647624 V 1.0795206 Z m 0,0.1639434 H 1.0795206 V 1.5647623 H 1.2434641 Z M 1.7240549,1.0795206 V 1.243464 H 2.0376017 V 1.0795206 Z m 0.4716767,0 V 1.243464 H 2.5096658 V 1.0795206 Z m 0.4728393,0 V 1.243464 H 2.9898692 V 1.0795206 Z M 2.9898692,1.243464 V 1.5647623 H 3.1538125 V 1.243464 Z M 1.0795206,1.7236673 V 2.0376016 H 1.2434641 V 1.7236673 Z m 1.9103486,0 V 2.0376016 H 3.1538125 V 1.7236673 Z M 1.0795206,2.1957315 V 2.5092782 H 1.2434641 V 2.1957315 Z m 1.9103486,0 V 2.5092782 H 3.1538125 V 2.1957315 Z M 1.0795206,2.6685708 V 2.9898691 H 1.2434641 V 2.6685708 Z M 1.2469523,2.9894815 V 3.1534248 H 1.5682504 V 2.9894815 Z m 0.4805907,0 V 3.1534248 H 2.0410899 V 2.9894815 Z m 0.4716766,0 V 3.1534248 H 2.513154 V 2.9894815 Z m 1.3460419,3.969e-4 V 3.5452708 H 2.9898692 V 3.7041665 H 3.7041666 V 2.9898691 Z"
+       style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:0.0758497"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

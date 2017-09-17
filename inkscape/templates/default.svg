@@ -9,13 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
    version="1.1"
    id="default16"
-   inkscape:version="0.92+devel (039bd1db37, 2017-09-02, custom)"
+   inkscape:version="0.92+devel (1da36c2be7, 2017-09-15, custom)"
    sodipodi:docname="default.svg">
+  <defs
+     id="defs5" />
   <sodipodi:namedview
      id="base"
      pagecolor="#002466"
@@ -27,15 +29,15 @@
      inkscape:cx="8"
      inkscape:cy="8"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="default16"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
      units="px" />
   <metadata

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (1da36c2be7, 2017-09-15, custom)"
+   sodipodi:docname="glyph-birthday-cake.svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="52.5625"
+     inkscape:cx="4.8006216"
+     inkscape:cy="6.8683011"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:1;stroke:none"
+     d="M 5.9863281 0 C 5.7431196 2.0801412 4.4598382 2.3182702 4.234375 3.4921875 C 3.926257 5.0964606 5.1206192 5.9648438 5.9863281 5.9648438 C 6.8520373 5.9648438 7.8164062 5.4384379 7.8164062 3.7910156 C 7.8164061 2.1435933 5.9863281 0 5.9863281 0 z M 4.9257812 6.5429688 L 4.9257812 7.8535156 L 2.609375 7.8535156 C 2.2882714 7.8535156 2.03125 8.11249 2.03125 8.4335938 L 2.03125 10.835938 L 2.03125 11.419922 L 2.03125 12 L 2.609375 12 L 9.390625 12 L 9.96875 12 L 9.96875 11.419922 L 9.96875 10.835938 L 9.96875 8.4335938 C 9.96875 8.11249 9.7117286 7.8535156 9.390625 7.8535156 L 7 7.8535156 L 7 6.5429688 L 4.9257812 6.5429688 z "
+     id="path811"
+     inkscape:label="#" />
+</svg>

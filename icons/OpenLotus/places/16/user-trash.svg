@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15690 custom"
+   inkscape:version="0.92+devel (1c31310676, 2017-09-09, custom)"
    sodipodi:docname="user-trash.svg">
   <defs
      id="ol-defs">
@@ -207,10 +207,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.46875"
-     inkscape:cx="8"
+     inkscape:cx="7.6884562"
      inkscape:cy="12.744623"
      inkscape:document-units="px"
-     inkscape:current-layer="g4267"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -221,9 +221,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-page="true" />
   <metadata
@@ -234,14 +234,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="g4267"
      inkscape:label="#user-trash-full"
-     style="fill:none"
+     style="fill:none;stroke:none"
      transform="translate(0,-6)">
     <rect
        inkscape:label="#boundary"
@@ -250,10 +250,10 @@
        height="16"
        width="16"
        id="rect4264"
-       style="vector-effect:none;fill:none;stroke-width:2.18181825;stroke-linecap:round"
+       style="vector-effect:none;fill:none;stroke-width:2.18181825;stroke-linecap:round;stroke:none"
        sodipodi:insensitive="true" />
     <path
-       inkscape:label="#glyph"
+       inkscape:label="#"
        sodipodi:nodetypes="ccccccccccccccccccc"
        inkscape:connector-curvature="0"
        id="rect4264-0"

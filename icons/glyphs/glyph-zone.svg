@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (342812bdbc, 2017-09-26, custom)"
+   sodipodi:docname="glyph-zone.svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.28125"
+     inkscape:cx="7.9429251"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:0.87423062;stroke-linecap:round;stroke-dasharray:0.87423062, 0.87423061999999996;stroke-dashoffset:0.15260001"
+     d="M 0 2.953125 L 0 9.0449219 L 0.56445312 9.0449219 L 0.56445312 6.0253906 L 0.56445312 2.953125 L 0 2.953125 z M 0.56445312 6.0253906 L 2.5917969 9.046875 L 2.5917969 3.0039062 L 0.56445312 6.0253906 z M 11.435547 2.953125 L 11.435547 6.0253906 L 11.435547 9.0449219 L 12 9.0449219 L 12 2.953125 L 11.435547 2.953125 z M 11.435547 6.0253906 L 9.4082031 3.0039062 L 9.4082031 9.046875 L 11.435547 6.0253906 z "
+     id="path813"
+     inkscape:label="#" />
+  <path
+     style="fill:#d0d0d0;stroke-width:0.69440836;stroke-linecap:round;stroke-dasharray:0.6944084, 0.69440840000000004;stroke-dashoffset:0.15260001"
+     d="M 3.5733774,3.0046792 H 8.4266226 V 9.0472488 H 3.5733774 Z"
+     id="rect841"
+     inkscape:label="#" />
+</svg>

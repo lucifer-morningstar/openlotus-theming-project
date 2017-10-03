@@ -1,13 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" d="M 11 3 C 6.568 3 3 6.568 3 11 C 3 15.432 6.568 19 11 19 C 15.432 19 19 15.432 19 11 C 19 6.568 15.432 3 11 3 z M 11 4 C 14.537216 4 17.438059 6.6006421 17.921875 10 L 4.078125 10 C 4.5619413 6.6006421 7.462784 4 11 4 z M 4.078125 12 L 17.921875 12 C 17.438059 15.399358 14.537216 18 11 18 C 7.462784 18 4.5619413 15.399358 4.078125 12 z " id="rect4148" 
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (42c84a5464, 2017-09-20, custom)"
+   sodipodi:docname="system-suspend.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269074" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g821"
+     inkscape:label="#system-suspend"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="path812"
+       d="M 10.997071,3 A 8,8 0 0 0 3.0732425,9.9667969 H 18.920899 A 8,8 0 0 0 10.997071,3 Z M 3.0673835,11.966797 A 8,8 0 0 0 10.997071,19 8,8 0 0 0 18.932618,11.966797 Z"
+       style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:1.35030031" />
+  </g>
 </svg>

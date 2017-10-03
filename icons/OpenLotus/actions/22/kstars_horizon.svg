@@ -1,19 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 11 3 A 8 8 0 0 0 3 11 A 8 8 0 0 0 11 19 A 8 8 0 0 0 19 11 A 8 8 0 0 0 11 3 z M 11 4 A 7 7 0 0 1 18 11 A 7 7 0 0 1 11 18 A 7 7 0 0 1 4 11 A 7 7 0 0 1 11 4 z "
-     class="ColorScheme-Text"
-     />
- <path 
-     style="fill:currentColor;fill-opacity:0.5;stroke:none" 
-     d="M 3.0351562 10.263672 C 3.0121295 10.508444 3.0003982 10.754148 3 11 C 3 15.418278 6.581722 19 11 19 C 15.418278 19 19 15.418278 19 11 C 18.9982 10.761936 18.985861 10.524069 18.962891 10.287109 C 18.568446 11.825601 15.121563 12.999925 11 13 C 6.8558354 12.999185 3.3993891 11.81172 3.0351562 10.263672 z "
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (980bacf4fd, 2017-09-27, custom)"
+   sodipodi:docname="kstars_horizon.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g839"
+     inkscape:label="#kstars_horizon"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:1.70132637;stroke-linecap:round;stroke-dashoffset:0.15256613;stroke:none"
+       d="m 10.9974,3 a 7.9999997,7.9999997 0 0 0 -7.9895828,7.778646 0.41494495,0.41494495 0 0 1 0.075521,0.239584 c 0,-0.0027 -0.00582,0.01605 0.057292,0.08333 0.063114,0.06728 0.1909656,0.162901 0.3749999,0.257812 0.3680688,0.189823 0.9555681,0.38144 1.6901042,0.541667 1.4690724,0.320453 3.5349158,0.523437 5.8177087,0.523437 2.282793,0 4.35124,-0.202984 5.820312,-0.523437 0.734536,-0.160227 1.322035,-0.351844 1.690105,-0.541667 0.184035,-0.09491 0.30928,-0.190533 0.372395,-0.257812 0.06311,-0.06728 0.05729,-0.08601 0.05729,-0.08333 A 0.41494495,0.41494495 0 0 1 18.992185,10.864583 7.9999997,7.9999997 0 0 0 10.997393,3 Z M 3.0781297,12.0625 A 7.9999997,7.9999997 0 0 0 10.9974,19 7.9999997,7.9999997 0 0 0 18.914067,12.096354 c -0.477533,0.246276 -1.115755,0.44499 -1.893229,0.614584 -1.55495,0.339185 -3.665686,0.54427 -5.997396,0.54427 -2.3317095,0 -4.4398418,-0.205085 -5.9947915,-0.54427 -0.7774749,-0.169594 -1.4156958,-0.368308 -1.8932292,-0.614584 -0.020805,-0.01067 -0.037067,-0.02295 -0.057292,-0.03385 z"
+       id="path817" />
+  </g>
 </svg>

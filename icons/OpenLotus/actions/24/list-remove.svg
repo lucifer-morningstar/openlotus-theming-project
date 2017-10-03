@@ -1,14 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-NegativeText {
-        color:#da4453;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.000002"
+   height="24"
+   viewBox="0 0 24.000002 24"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (9cbd9e9661, 2017-09-28, custom)"
+   sodipodi:docname="list-remove.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme">      .ColorScheme-NegativeText {
+        color:#ff0000;
       }
       </style>
   </defs>
-  <path
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 13 5 C 10.972402 5 9.12868 5.756694 7.71875 7 C 7.592511 7.11132 7.46272 7.22478 7.34375 7.34375 L 7 7.71875 C 5.756694 9.12868 5 10.972402 5 13 C 5 17.41828 8.58172 21 13 21 C 15.027598 21 16.87132 20.243306 18.28125 19 L 18.65625 18.65625 C 18.77522 18.53728 18.88868 18.407489 19 18.28125 C 20.243306 16.87132 21 15.027598 21 13 C 21 8.58172 17.41828 5 13 5 z M 13 6 C 16.86599 6 20 9.13401 20 13 C 20 14.75366 19.346785 16.334268 18.28125 17.5625 L 8.4375 7.71875 C 9.665731 6.653215 11.24634 6 13 6 z M 7.71875 8.4375 L 17.5625 18.28125 C 16.334268 19.346785 14.75366 20 13 20 C 9.13401 20 6 16.86599 6 13 C 6 11.24634 6.653215 9.665731 7.71875 8.4375 z "
-     class="ColorScheme-NegativeText"
-     />
+  <g
+     id="g886"
+     inkscape:label="#list-remove"
+     style="stroke:none"
+     transform="scale(1.5)">
+    <path
+       style="fill:none;stroke:none;stroke-width:0.72727275"
+       d="M 0,0 H 16.000001 V 16 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       style="color:#ff0000;opacity:1;fill:currentColor;stroke:none;stroke-width:0.5"
+       class="ColorScheme-NegativeText"
+       inkscape:connector-curvature="0"
+       id="path856"
+       d="M 4.0000027,5.5186403 6.4813587,7.9999983 4,10.481358 5.5176264,11.998985 7.998988,9.5176247 10.481357,11.999999 12,10.481358 9.5176281,7.9989844 11.998984,5.5176273 10.481357,4.0000013 8.0000014,6.4813583 5.5186427,4.0000013 Z" />
+  </g>
 </svg>

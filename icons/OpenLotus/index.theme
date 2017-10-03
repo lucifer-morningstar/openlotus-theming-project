@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=OpenLotus
-Comment=Default Plasma 5 Theme for Dark themes
+Comment=Simple Dark Icon Theme for Plasma/GTK
 DisplayDepth=32
 Inherits=hicolor
 Example=folder

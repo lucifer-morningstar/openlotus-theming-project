@@ -14,7 +14,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15698 custom"
+   inkscape:version="0.92+devel (9cbd9e9661, 2017-09-28, custom)"
    sodipodi:docname="media-playback-seek-forward.svg">
   <defs
      id="ol-defs">
@@ -71,9 +71,9 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.859375"
-     inkscape:cx="31.399413"
-     inkscape:cy="11.170575"
+     inkscape:zoom="13.081476"
+     inkscape:cx="16.621911"
+     inkscape:cy="12.794693"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -86,9 +86,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-page="true" />
   <metadata
@@ -104,21 +104,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4294">
+     id="g4295"
+     inkscape:label="#media-seek-forward"
+     style="stroke-width:1.375"
+     transform="scale(1.4545455)">
     <rect
        inkscape:label="#boundary"
        y="0"
        x="0"
-       height="32"
-       width="32"
+       height="22"
+       width="22"
        id="rect4264"
-       style="fill:none;fill-opacity:0.74651441;stroke-width:23.61599922;stroke-opacity:0.3596773"
+       style="vector-effect:none;fill:none;stroke-width:4.125;stroke-linecap:round"
        sodipodi:insensitive="true" />
     <path
+       style="opacity:0.6;fill:#ffffff;stroke-width:1.884884;stroke-linecap:round;stroke-linejoin:round"
+       d="M 2.951244,5 V 16.843855 L 10.984351,10.94506 V 17 l 8.064405,-5.921928 -8.064405,-5.9219274 v 5.7426514 z"
+       id="path4288"
        inkscape:connector-curvature="0"
-       style="opacity:0.6;fill:#ffffff;stroke-width:2.67636347;stroke-linecap:round;stroke-linejoin:round"
-       d="M 16,3.2 A 12.8,12.8 0 0 0 3.2,16 12.8,12.8 0 0 0 16,28.8 12.8,12.8 0 0 0 28.8,16 12.8,12.8 0 0 0 16,3.2 Z m -7.331818,3.2 9.584091,9.484091 V 6.4818182 L 27.868182,16 18.252273,25.518182 v -9.56591 l -9.584091,9.486364 z"
-       id="path4857"
        inkscape:label="#glyph" />
   </g>
 </svg>

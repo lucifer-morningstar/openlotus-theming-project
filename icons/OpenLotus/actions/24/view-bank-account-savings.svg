@@ -1,17 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      .ColorScheme-NegativeText {
-        color:#da4453;
-      }
-      </style>
-  </defs>
-  <path
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 4 L 4 5 L 4 20 L 5 20 L 11 20 L 11 19 L 5 19 L 5 5 L 19 5 L 19 13 L 20 13 L 20 5 L 20 4 L 5 4 L 4 4 z M 6 6 L 6 7 L 6 18 L 7 18 L 11 18 L 11 17 L 7 17 L 7 7 L 17 7 L 17 10 L 16 10 L 16 12 L 18 12 L 18 10 L 18 6 L 6 6 z M 10 10 C 8.892 10 8 10.892 8 12 C 8 13.108 8.892 14 10 14 C 11.108 14 12 13.108 12 12 C 12 10.892 11.108 10 10 10 z M 10 11 C 10.554 11 11 11.446 11 12 C 11 12.554 10.554 13 10 13 C 9.446 13 9 12.554 9 12 C 9 11.446 9.446 11 10 11 z M 12 14 L 12 20 L 20 20 L 20 14 L 12 14 z M 13 15 L 19 15 L 19 16 L 18 16 L 18 18 L 19 18 L 19 19 L 13 19 L 13 18 L 14 18 L 14 16 L 13 16 L 13 15 z M 16 16 C 15.446 16 15 16.446 15 17 C 15 17.554 15.446 18 16 18 C 16.554 18 17 17.554 17 17 C 17 16.446 16.554 16 16 16 z "
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.000002"
+   height="24"
+   viewBox="0 0 24.000002 24"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (9d04be7596, 2017-09-23, custom)"
+   sodipodi:docname="view-bank-account-savings.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269056" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g877"
+     inkscape:label="#view-bank-account-savings"
+     style="stroke:none;stroke-width:0.91666669"
+     transform="scale(1.0909091)">
+    <path
+       style="fill:none;stroke:none;stroke-width:0.91666669"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="path1387"
+       d="M 11,2.9589844 3,7.5820312 v 0.375 1.0019532 h 1 v 1 7.9999996 H 3 v 1 h 16 v -1 h -1 v -7.9999996 -1 h 1 v -1.0019532 -0.375 z m -0.04492,4.8574218 c 1.042643,0 1.826463,0.2284462 2.351563,0.6855469 0.528876,0.4571006 0.805587,1.0669841 0.832031,1.8300779 l -1.675781,0.07422 C 12.391115,9.9793672 12.236042,9.6733881 11.998047,9.4882812 11.76383,9.2993966 11.409712,9.2050781 10.9375,9.2050781 c -0.487322,0 -0.86876,0.1005636 -1.1445312,0.3007813 -0.1775518,0.1284415 -0.265625,0.3002966 -0.265625,0.5156246 0,0.19644 0.081829,0.364132 0.2480468,0.503907 0.2115508,0.177551 0.7250344,0.362025 1.5410154,0.554687 0.815982,0.192663 1.419492,0.393789 1.808594,0.601563 0.392881,0.203995 0.698863,0.48487 0.917969,0.84375 0.222884,0.355103 0.333984,0.795213 0.333984,1.320312 0,0.475989 -0.132045,0.922345 -0.396484,1.337891 -0.264438,0.415546 -0.63755,0.725693 -1.121094,0.929687 -0.483545,0.200218 -1.087054,0.298828 -1.808594,0.298828 -1.050198,0 -1.8570458,-0.241064 -2.4199216,-0.724609 C 8.067983,15.200178 7.7325998,14.491812 7.6230469,13.5625 l 1.6308593,-0.158203 c 0.09822,0.547765 0.2972657,0.950148 0.5957032,1.207031 0.3022156,0.256883 0.7087616,0.384766 1.2187496,0.384766 0.54021,0 0.946756,-0.113182 1.21875,-0.339844 0.275772,-0.230439 0.41211,-0.498694 0.41211,-0.804688 0,-0.196439 -0.05867,-0.362049 -0.175781,-0.498046 -0.113331,-0.139775 -0.312505,-0.261284 -0.59961,-0.363282 -0.19644,-0.068 -0.644877,-0.189507 -1.34375,-0.363281 C 9.6809876,12.404069 9.0501583,12.131522 8.6875,11.806641 8.1775115,11.34954 7.9238281,10.792084 7.9238281,10.134766 c 0,-0.423102 0.1174741,-0.8191112 0.3554688,-1.1855472 C 8.5210695,8.5790049 8.8668612,8.298131 9.3164062,8.1054688 9.7697292,7.9128065 10.316648,7.8164062 10.955078,7.8164062 Z"
+       style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.91666669"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

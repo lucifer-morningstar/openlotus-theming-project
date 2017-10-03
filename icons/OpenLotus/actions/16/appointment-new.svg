@@ -11,35 +11,35 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
-   viewBox="0 0 4.2333332 4.2333332"
+   viewBox="0 0 16 16"
    version="1.1"
-   id="svg8"
-   inkscape:version="0.92+devel (7f3bd2b258, 2017-08-07, custom)"
-   sodipodi:docname="appointment-new.svg">
+   id="main"
+   inkscape:version="0.92+devel (42c84a5464, 2017-09-20, custom)"
+   sodipodi:docname="tag-recents.svg">
   <defs
-     id="defs2" />
+     id="ol-defs" />
   <sodipodi:namedview
      id="base"
      pagecolor="#002466"
      bordercolor="#ffffff"
-     borderopacity="0.38039216"
+     borderopacity="0.30"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.854446"
-     inkscape:cx="7.9159873"
-     inkscape:cy="8"
+     inkscape:zoom="13.140625"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="main"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
-     units="px" />
+     units="px"
+     inkscape:cx="6.823088"
+     inkscape:cy="8.0269055" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,19 +53,21 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g839"
-     inkscape:label="#alarm-new">
+     id="g880"
+     inkscape:label="#tag-recents"
+     style="stroke:none;stroke-width:1.375"
+     transform="scale(0.72727273)">
     <path
+       style="fill:none;stroke:none;stroke-width:1.375"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
        inkscape:label="#boundary"
-       inkscape:connector-curvature="0"
-       id="rect811"
-       d="M 0,0 H 4.2333332 V 4.2333332 H 0 Z"
-       style="fill:none;stroke-width:0.25454992;stroke-linecap:round" />
+       inkscape:connector-curvature="0" />
     <path
        inkscape:label="#"
-       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.21309343"
-       d="m 2.1166666,0.52916668 a 0.23211916,0.2804313 0 0 0 -0.2320212,0.2799687 0.23211916,0.2804313 0 0 0 0.0011,0.024249 C 1.3719694,0.93941148 0.98797379,1.3917353 0.98797379,1.937828 v 0.879036 c 0,0.071254 -0.028425,0.1397514 -0.0788101,0.1901363 -0.050385,0.050385 -0.1183299,0.07881 -0.18958515,0.07881 -0.0668153,0 -0.12124627,0.05388 -0.12124627,0.1206951 0,0.066815 0.0544305,0.1212464 0.12124627,0.1212464 H 1.740252 A 0.37623098,0.37623098 0 0 0 2.1166666,3.7041665 0.37623098,0.37623098 0 0 0 2.4930812,3.3277519 h 1.0206735 c 0.066815,-3e-7 0.1212462,-0.054431 0.1212462,-0.1212464 0,-0.066815 -0.054431,-0.1206954 -0.1212462,-0.1206951 -0.071255,0 -0.1392003,-0.028425 -0.1895852,-0.07881 -0.050385,-0.050385 -0.07881,-0.1188816 -0.07881,-0.1901363 V 1.9378283 c 0,-0.5460927 -0.3839958,-0.99841652 -0.8977739,-1.10444362 a 0.23211916,0.2804313 0 0 0 0.0011,-0.024249 0.23211916,0.2804313 0 0 0 -0.2320215,-0.279969 z"
-       id="path815"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       id="path844"
+       d="M 4.7959928,3 3.0021672,4.7938256 3.9106344,11.108323 11.802312,19 18.997835,11.804477 11.106157,3.9128001 Z m 1.268099,1.871818 a 1.1779989,1.1779989 0 0 1 0.8145874,0.346633 1.1779989,1.1779989 0 0 1 0,1.662394 1.1779989,1.1779989 0 0 1 -1.6623939,0.00144 1.1779989,1.1779989 0 0 1 -0.00289,-1.6667269 1.1779989,1.1779989 0 0 1 0.8506951,-0.3437444 z m 5.6544502,3.479328 a 3.3209825,3.3209825 0 0 1 3.3219,3.320455 3.3209825,3.3209825 0 0 1 -3.3219,3.321899 3.3209825,3.3209825 0 0 1 -3.3204549,-3.321899 3.3209825,3.3209825 0 0 1 3.3204549,-3.320455 z m -0.039,0.55028 c -0.228497,0.01595 -0.405453,0.247711 -0.375518,0.472288 10e-4,0.862293 -0.0022,1.724508 0.0015,2.586748 0.01579,0.190714 0.182603,0.353996 0.37263,0.369742 l 1.818379,0.498285 c 0.272301,0.05148 0.542043,-0.227963 0.472287,-0.498285 -0.03843,-0.177587 -0.198822,-0.309705 -0.375519,-0.333634 l -1.458779,-0.389963 c -0.0013,-0.777433 0.003,-1.555188 -0.0015,-2.33255 -0.0184,-0.219149 -0.235513,-0.395015 -0.453511,-0.372631 z"
+       style="opacity:0.6;fill:#ffffff;stroke:none;stroke-width:1.375" />
   </g>
 </svg>

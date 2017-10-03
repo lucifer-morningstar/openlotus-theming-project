@@ -14,8 +14,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (260139f747, 2017-08-10, custom)"
-   sodipodi:docname="draw-eraser-delete-objects.svg">
+   inkscape:version="0.92+devel (5e751a51be, 2017-10-02, custom)"
+   sodipodi:docname="edit-delete.svg">
   <defs
      id="ol-defs">
     <style
@@ -69,13 +69,13 @@
      pagecolor="#002266"
      bordercolor="#ffffff"
      borderopacity="0.46666667"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="13.081476"
      inkscape:cx="16.507245"
-     inkscape:cy="12.794693"
+     inkscape:cy="12.794695"
      inkscape:document-units="px"
-     inkscape:current-layer="g4295"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -99,28 +99,26 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="g4295"
      inkscape:label="#edit-delete"
+     style="stroke:none"
      transform="scale(0.72727273)">
-    <rect
-       inkscape:label="#boundary"
-       y="0"
-       x="0"
-       height="22"
-       width="22"
-       id="rect4264"
-       style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
-       sodipodi:insensitive="true" />
     <path
-       style="opacity:1;fill:#ff0000;stroke-width:2.9877522;stroke-linejoin:round"
-       d="M 5.5000004,7.7000005 8.8000002,10.999999 5.4999999,14.3 7.7000001,16.5 10.999999,13.200002 14.299999,16.5 16.499997,14.3 13.2,11.000001 16.5,7.7000014 14.299999,5.5000009 11.000001,8.8 7.7000007,5.5 Z"
+       style="vector-effect:none;fill:none;stroke:none;stroke-width:3;stroke-linecap:round"
+       d="M 0,0 H 22 V 22 H 0 Z"
+       id="rect4264"
+       inkscape:connector-curvature="0"
+       inkscape:label="#boundary" />
+    <path
+       style="opacity:1;fill:#ff0000;stroke:none;stroke-width:3.25936651;stroke-linejoin:round"
+       d="M 4.9999995,7.4000005 8.5999999,10.999999 4.9999989,14.6 7.3999995,17 10.999999,13.400002 14.6,17 l 2.399998,-2.4 -3.599997,-3.599999 3.6,-3.5999995 L 14.6,5.0000009 11.000001,8.6 7.4000002,5 Z"
        id="rect4268"
        inkscape:connector-curvature="0"
-       inkscape:label="#glyph" />
+       inkscape:label="#" />
   </g>
 </svg>

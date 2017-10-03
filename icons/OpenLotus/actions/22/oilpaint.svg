@@ -1,15 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-    d="m 572.2358,586.12673 a 2.0001775,9.0008017 44.989465 0 0 -7.44473,5.09893 2.0001775,9.0008017 44.989465 0 0 -3.5427,4.11427 c 1.07597,0.3428 1.91461,1.1816 2.25728,2.258 a 2.0001775,9.0008017 44.989465 0 0 4.11296,-3.54387 2.0001775,9.0008017 44.989465 0 0 4.94884,-7.77933 2.0001775,9.0008017 44.989465 0 0 -0.33203,-0.14853 m -11.513,10.65853 c -3.99989,1.07227 -0.99997,3.6048 -3.99989,5.33453 3.99989,0 5.99982,-2.00186 5.99982,-3.3368 0,-0.66546 0.068,-1.88973 -1.99993,-2.0004"
-     transform="translate(-553.72253,-583.11926)"
-    class="ColorScheme-Text"
-    />  
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (342812bdbc, 2017-09-26, custom)"
+   sodipodi:docname="oilpaint.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g917"
+     inkscape:label="#oilpaint"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="path912"
+       d="m 15.472656,4.3203125 -2.546875,3.9199219 c 0.392589,0.196471 0.758338,0.4354026 1.076172,0.7285156 0.237385,0.218918 0.451467,0.4635466 0.634766,0.7285156 0.175711,0.254004 0.32341,0.5246634 0.441406,0.8046874 L 19,7.8476562 C 18.275823,5.7866763 16.984533,4.8383795 15.472656,4.3203125 Z m -4.644531,4.203125 C 9.8330164,8.5108306 8.793446,8.8823574 7.9296875,9.7949219 5.0597617,12.827012 8.0545771,14.226049 3,17.460938 c 0,0 5.464093,1.065561 9.197266,-1.494141 2.580126,-1.769098 2.956108,-4.112408 1.777343,-5.816406 C 13.827265,9.9373914 13.654787,9.7397309 13.458984,9.5605469 12.773676,8.9334019 11.823234,8.5360444 10.828125,8.5234375 Z"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:3.77952766;stroke:none"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

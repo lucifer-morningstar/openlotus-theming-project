@@ -1,14 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (342812bdbc, 2017-09-26, custom)"
+   sodipodi:docname="kstars_clines.svg">
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme"
+       type="text/css">
       .ColorScheme-Text {
         color:#f2f2f2;
       }
       </style>
   </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 16.279297 3 L 11.921875 10.359375 L 8.4570312 12.207031 L 5.4609375 13.394531 L 3 18.615234 L 3.8183594 19 L 6.1269531 14.103516 L 8.8378906 13.029297 L 12.132812 11.273438 L 14.988281 13.425781 L 19 8.0234375 L 16.279297 3 z M 16.244141 4.8378906 L 17.927734 7.9472656 L 14.804688 12.152344 L 12.804688 10.644531 L 16.244141 4.8378906 z "
-     class="ColorScheme-Text"
-     />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g831"
+     style="stroke:none"
+     inkscape:label="#kstars_clines">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="path826"
+       d="M 16.529297,2.53125 12.171875,9.890625 8.7070312,11.738281 5.7109375,12.925781 3.25,18.146484 4.0683594,18.53125 6.3769531,13.634766 9.0878906,12.560547 12.382812,10.804688 15.238281,12.957031 19.25,7.5546875 Z m -0.03516,1.8378906 1.683593,3.109375 -3.123046,4.2050784 -2,-1.507813 z"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

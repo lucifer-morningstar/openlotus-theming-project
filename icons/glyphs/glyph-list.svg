@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (42c84a5464, 2017-09-20, custom)"
+   sodipodi:docname="glyph-list.svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.28125"
+     inkscape:cx="7.9429251"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="opacity:1;fill:#d0d0d0;stroke-width:1.33000004;stroke:none"
+     d="M 1.5332031,0.42773438 A 1.5337929,1.5337929 0 0 0 0,1.9628906 1.5337929,1.5337929 0 0 0 1.5332031,3.4960938 1.5337929,1.5337929 0 0 0 3.0683594,1.9628906 1.5337929,1.5337929 0 0 0 1.5332031,0.42773438 Z m 3.125,0.96093752 V 2.5351562 H 12 V 1.3886719 Z m -3.125,3.078125 A 1.5337929,1.5337929 0 0 0 0,6 1.5337929,1.5337929 0 0 0 1.5332031,7.5332031 1.5337929,1.5337929 0 0 0 3.0683594,6 1.5337929,1.5337929 0 0 0 1.5332031,4.4667969 Z m 3.125,0.9589843 V 6.5722656 H 12 V 5.4257812 Z m -3.125,3.078125 A 1.5337929,1.5337929 0 0 0 0,10.037109 1.5337929,1.5337929 0 0 0 1.5332031,11.572266 1.5337929,1.5337929 0 0 0 3.0683594,10.037109 1.5337929,1.5337929 0 0 0 1.5332031,8.5039062 Z m 3.125,0.9589844 V 10.611328 H 12 V 9.4628906 Z"
+     id="path838"
+     inkscape:connector-curvature="0"
+     inkscape:label="#" />
+</svg>

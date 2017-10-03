@@ -1,88 +1,74 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
-   id="svg2"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   id="main"
+   inkscape:version="0.92+devel (327bdefa15, 2017-09-17, custom)"
    sodipodi:docname="charcoaltool.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.823088"
+     inkscape:cy="8.0269054" />
   <metadata
-     id="metadata10">
+     id="metadata5">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="708"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="21.454545"
-     inkscape:cx="8.8201203"
-     inkscape:cy="9.6895245"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs3051">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4153">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.45882353"
-         offset="0"
-         id="stop4155" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.05294118"
-         offset="1"
-         id="stop4157" />
-    </linearGradient>
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4153"
-       id="linearGradient4159"
-       x1="8.6864405"
-       y1="9.2288132"
-       x2="12.661017"
-       y2="13.144068"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <path
-     style="fill:currentColor;fill-opacity:1;stroke:none"
-     d="m 15.40625,3 -4,4 L 10.3125,8.09375 7,11.375 7,11.40625 6.3125,12.09375 3,15.375 3,17 l 2,2 1.625,0 3.96875,-4 1.125,-1.125 L 15,10.59375 15.71875,9.875 19,6.59375 19,5 17,3 15.40625,3 Z"
-     class="ColorScheme-Text"
-     id="path6" />
-  <path
-     inkscape:connector-curvature="0"
-     style="color:#f2f2f2;fill:url(#linearGradient4159);fill-opacity:1;stroke:none"
-     d="m 15.40625,3 -4,4 L 10.3125,8.09375 7,11.375 7,11.40625 6.3125,12.09375 3,15.375 3,17 l 2,2 1.625,0 3.96875,-4 1.125,-1.125 L 15,10.59375 15.71875,9.875 19,6.59375 19,5 17,3 15.40625,3 Z"
-     id="path6-3" />
+  <g
+     id="g839"
+     sodipodi:insensitive="true"
+     inkscape:label="#charcoaltool"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:1.79999995;stroke-dasharray:3.59999993, 1.79999997000000000;stroke-dashoffset:7.37999964"
+       d="m 17.311969,4.6880321 c 1.519212,1.519211 2.123164,3.361352 1.354154,4.130362 L 8.8183946,18.666123 C 8.0493852,19.43513 6.2072436,18.831178 4.6880328,17.311967 3.1688217,15.792757 2.5648683,13.950616 3.3338791,13.181608 L 13.181607,3.3338781 c 0.769011,-0.769009 2.611151,-0.165057 4.130362,1.354154 z"
+       id="rect812"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssss"
+       inkscape:label="#" />
+  </g>
 </svg>

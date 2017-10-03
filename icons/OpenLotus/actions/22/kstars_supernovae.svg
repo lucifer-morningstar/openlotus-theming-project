@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -7,72 +9,64 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
-   id="svg2"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   id="main"
+   inkscape:version="0.92+devel (342812bdbc, 2017-09-26, custom)"
    sodipodi:docname="kstars_supernovae.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="g817"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269054" />
   <metadata
-     id="metadata12">
+     id="metadata5">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="708"
-     id="namedview10"
-     showgrid="true"
-     inkscape:zoom="21.454545"
-     inkscape:cx="7.6795112"
-     inkscape:cy="12.007271"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4134" />
-  </sodipodi:namedview>
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      </style>
-  </defs>
-  <path
-     sodipodi:type="star"
-     style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path4136"
-     sodipodi:sides="4"
-     sodipodi:cx="11"
-     sodipodi:cy="11"
-     sodipodi:r1="9"
-     sodipodi:r2="2.8284271"
-     sodipodi:arg1="0"
-     sodipodi:arg2="0.78539816"
-     inkscape:flatsided="false"
-     inkscape:rounded="0"
-     inkscape:randomized="0"
-     d="M 20,11 13,13 11,20 9,13 2,11 9,9 11,2 13,9 Z" />
+  <g
+     id="g817"
+     inkscape:label="#kstars_supernovae"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="path812"
+       d="M 11.000001,19 9.3029445,12.697056 3.0000006,11 9.3029445,9.302944 11.000001,3 12.697057,9.302944 19.000001,11 12.697057,12.697056 Z"
+       style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:0.57340175;stroke-linecap:round;stroke-dasharray:0.57340175, 0.57340175;stroke-dashoffset:0.15260001" />
+  </g>
 </svg>

@@ -13,8 +13,8 @@
    viewBox="0 0 4.2333332 4.2333332"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel (260139f747, 2017-08-10, custom)"
-   sodipodi:docname="draw-circle.svg">
+   inkscape:version="0.92+devel (327bdefa15, 2017-09-17, custom)"
+   sodipodi:docname="choice-round.svg">
   <svg:defs
      id="defs2">
     <style
@@ -126,9 +126,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      units="px" />
   <svg:metadata
@@ -145,7 +145,7 @@
   </svg:metadata>
   <svg:g
      id="g825"
-     inkscape:label="#draw-circle">
+     inkscape:label="#choice-round">
     <svg:path
        inkscape:label="#boundary"
        inkscape:connector-curvature="0"

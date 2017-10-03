@@ -1,14 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-    d="m4 5c-.553998 0-1 .446002-1 1v2 3 6c0 .553998.446002 1 1 1h14c.553998 0 1-.446002 1-1v-11c0-.553998-.446002-1-1-1h-14m0 1h14v2h-14v-2m0 5h14v6h-14v-6m1 3v1h3v-1h-3m4 0v1h4v-1h-4"
-	class="ColorScheme-Text"
-    />  
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (342812bdbc, 2017-09-26, custom)"
+   sodipodi:docname="skrooge_credit_card.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g846"
+     style="stroke:none"
+     inkscape:label="#skrooge_credit_card">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="rect830"
+       d="m 4.013022,5.9322919 c -0.5613867,-2e-7 -1.0130208,0.4542382 -1.0130208,1.0156249 V 7.9583334 H 19.000001 V 6.9479168 c 0,-0.5613867 -0.451635,-1.0156249 -1.013022,-1.0156249 z M 3.0000012,9.9583334 v 5.0937496 c 0,0.561387 0.4516342,1.015625 1.0130208,1.015625 h 13.973957 c 0.561387,0 1.013022,-0.454238 1.013022,-1.015625 V 9.9583334 Z"
+       style="opacity:0.4;fill:#d0d0d0;stroke:none;stroke-width:1.01733327;stroke-linecap:round;stroke-dasharray:1.01733332, 1.01733332;stroke-dashoffset:0.15260001"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:label="#"
+       y="7.959219"
+       x="3.0000012"
+       height="2"
+       width="16"
+       id="rect833"
+       style="opacity:0.8;fill:#d0d0d0;stroke:none;stroke-width:0.89226037;stroke-linecap:round;stroke-dasharray:0.89226034, 0.89226034;stroke-dashoffset:0.15260001" />
+  </g>
 </svg>

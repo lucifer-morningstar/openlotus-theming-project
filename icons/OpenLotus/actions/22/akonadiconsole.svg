@@ -1,14 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-    d="M 3 3 L 3 4 L 3 15 L 3 16 L 3 19 L 4 19 L 6 19 L 14 19 L 18 19 L 19 19 L 19 4 L 19 3 L 3 3 z M 4 4 L 18 4 L 18 18 L 14 18 L 6 18 L 4 18 L 4 16 L 4 15 L 4 4 z M 6.7070312 7 L 6 7.7070312 L 7.7929688 9.5 L 6 11.292969 L 6.7070312 12 L 9 9.7070312 L 9.2070312 9.5 L 9 9.2929688 L 6.7070312 7 z M 10 10.998047 L 10 11.998047 L 14 11.998047 L 14 10.998047 L 10 10.998047 z "
-    class="ColorScheme-Text"
-    />  
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (327bdefa15, 2017-09-17, custom)"
+   sodipodi:docname="akonadiconsole.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="g839"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.4045386"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g839"
+     inkscape:label="#akonadiconsole"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-size:medium;font-family:Joystix;-inkscape-font-specification:Joystix;opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:0.33121794"
+       d="m 3.0000003,3 v 1.7838543 h 1.7656243 v 1.731771 h 1.783855 v 1.8020833 h 1.768229 v 1.7473954 h -1.768229 v 1.783855 H 4.7656246 V 13.58073 H 3.0000003 v 1.802083 H 6.5494796 V 13.58073 h 1.768229 V 11.848959 H 10.06771 v -1.783855 h 1.781249 V 8.3177086 H 10.06771 V 6.5156253 H 8.3177086 V 4.7838543 H 6.5494796 V 3 Z M 11.052084,17.197917 V 19 h 7.947918 v -1.802083 z"
+       id="path1378"
+       inkscape:label="#" />
+  </g>
 </svg>

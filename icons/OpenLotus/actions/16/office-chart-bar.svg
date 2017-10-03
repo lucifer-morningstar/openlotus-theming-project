@@ -13,7 +13,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="office-chart-bar.svg"
-   inkscape:version="0.92+devel (1c31310676, 2017-09-09, custom)">
+   inkscape:version="0.92+devel (9cbd9e9661, 2017-09-28, custom)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -45,8 +45,8 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="22.96875"
-     inkscape:cx="7.5428571"
-     inkscape:cy="8"
+     inkscape:cx="7.477551"
+     inkscape:cy="8.0000004"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -55,7 +55,8 @@
      inkscape:snap-intersection-paths="true" />
   <g
      id="g847"
-     inkscape:label="#office-chart-bar">
+     inkscape:label="#office-chart-bar"
+     style="stroke-width:0.72727275">
     <path
        inkscape:connector-curvature="0"
        inkscape:label="#boundary"
@@ -70,12 +71,12 @@
        inkscape:connector-curvature="0"
        id="rect812"
        d="M 2,1.9999998 V 13 14 H 3 14 V 13 H 3 V 1.9999998 Z"
-       style="opacity:0.5;fill:#d0d0d0;stroke:none;stroke-width:1.20000005" />
+       style="opacity:0.5;fill:#d0d0d0;stroke:none;stroke-width:0.87272727" />
     <path
        inkscape:label="#"
        id="rect820"
-       d="m 9.1503906,4.0878906 0,8.9121094 h 3.5625004 l 0,-8.9121094 z M 4.265625,6.5703125 V 13 h 3.5625 V 6.5703125 Z"
-       style="opacity:0.76404497;fill:#d0d0d0;stroke:none;stroke-width:1.20000005"
+       d="M 9.1503906,4.0878906 V 13 H 12.712891 V 4.0878906 Z M 4.265625,6.5703125 v 6.4237425 h 3.5625 V 6.5703125 Z"
+       style="opacity:0.76404497;fill:#d0d0d0;stroke:none;stroke-width:0.87272727"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
   </g>

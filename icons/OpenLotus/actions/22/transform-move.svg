@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
    height="22"
-   viewBox="0 0 5.8208331 5.8208331"
+   viewBox="0 0 22 22"
    version="1.1"
    id="main"
-   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
+   inkscape:version="0.92+devel (9cbd9e9661, 2017-09-28, custom)"
    sodipodi:docname="transform-move.svg">
   <defs
      id="ol-defs" />
@@ -25,9 +25,9 @@
      borderopacity="0.38039216"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="40.551468"
-     inkscape:cx="4.1775857"
-     inkscape:cy="7.903055"
+     inkscape:zoom="10.137867"
+     inkscape:cx="3.7337049"
+     inkscape:cy="8.3469359"
      inkscape:document-units="px"
      inkscape:current-layer="main"
      inkscape:document-rotation="0"
@@ -35,9 +35,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -55,7 +55,7 @@
   <g
      id="g847"
      inkscape:label="#transform-move"
-     transform="scale(1.375)"
+     transform="scale(5.1968506)"
      style="stroke-width:0.72727275">
     <path
        inkscape:connector-curvature="0"

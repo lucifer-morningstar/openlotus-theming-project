@@ -1,14 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 11 3 L 8 9 L 3 9 L 7 13 L 6 19 L 11 16 C 11 16 15.0109 13.0107 15 13 L 19 9 L 14 9 L 11 3 z M 18 11 L 17 12 L 12 17 L 12 18 L 12 19 L 14 19 L 15 18 L 19 14 L 20 13 L 18 11 z M 17.71875 12.6875 L 18.28125 13.28125 L 13.3125 18.28125 L 12.71875 17.6875 L 17.71875 12.6875 z "
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (9d04be7596, 2017-09-23, custom)"
+   sodipodi:docname="kdenlive-custom-effect.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="18.58365"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="18.985107"
+     inkscape:cy="1.1666955"
+     inkscape:snap-page="true"
+     inkscape:snap-center="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g877"
+     inkscape:label="#kdenlive-custom-effect"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:label="#"
+       id="rect812"
+       d="M 4.5996094,3 C 3.7132094,3 3,3.7132096 3,4.5996094 V 17.400391 C 3,18.286791 3.7132094,19 4.5996094,19 H 17.400391 C 18.286791,19 19,18.286791 19,17.400391 V 4.5996094 C 19,3.7132096 18.286791,3 17.400391,3 Z M 11,5.5625 12.765625,9.1425781 16.716797,9.7167969 13.857422,12.501953 14.533203,16.4375 11,14.580078 7.4667969,16.4375 8.1425781,12.501953 5.2832031,9.7167969 9.234375,9.1425781 Z"
+       style="opacity:0.6;fill:#d0d0d0;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       d="M 10.556833,9.6223683 10.41775,10.224847 c -0.11146,0.04613 -0.216758,0.10536 -0.313567,0.176381 l -0.6031104,-0.182703 -0.4431659,0.749779 0.464029,0.419775 c -0.0079,0.05849 -0.01209,0.117392 -0.01264,0.176382 5.5e-4,0.05899 0.0048,0.117892 0.01264,0.176382 l -0.464029,0.419775 0.4431659,0.749779 0.6037434,-0.182703 c 0.09651,0.07164 0.201598,0.131508 0.312935,0.178278 l 0.139083,0.600582 h 0.886332 l 0.139082,-0.602479 c 0.111461,-0.04613 0.216758,-0.10536 0.313568,-0.176381 l 0.60311,0.182703 0.443167,-0.749779 -0.464029,-0.419775 c 0.0079,-0.05849 0.01209,-0.117392 0.01264,-0.176382 -5.51e-4,-0.05899 -0.0048,-0.117892 -0.01264,-0.176382 l 0.464029,-0.419775 -0.443167,-0.749779 -0.603743,0.182703 C 11.798673,10.329588 11.693584,10.26972 11.582248,10.22295 L 11.443166,9.6223683 Z"
+       id="path814"
+       style="fill:#ffb900;stroke-width:0.32368219;stroke:none"
+       inkscape:label="#" />
+  </g>
 </svg>

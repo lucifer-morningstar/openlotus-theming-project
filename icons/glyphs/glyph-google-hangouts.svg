@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (327bdefa15, 2017-09-17, custom)"
+   sodipodi:docname="glyph-google-hangouts.svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.28125"
+     inkscape:cx="7.7336504"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1"
+     d="m 5.9999998,-1e-7 c -3.3136245,0 -6.00000041217178,2.0148 -5.999999812171778,4.5 C -1.2171777e-8,6.9471749 2.6070765,8.9337651 5.8505868,8.9941401 V 12 C 12.012902,8.4422251 12,6.1993499 12,4.4999999 c 0,-2.4852 -2.6863762,-4.5 -6.0000002,-4.5 z M 3.1948243,2.2983398 H 5.5063477 V 4.611328 h -0.00735 c 0.00488,0.05475 0.00735,0.1098024 0.00735,0.1655273 0,0.9475504 -0.7250356,1.7241423 -1.6508789,1.8076173 V 5.915039 C 4.4149679,5.834264 4.8457034,5.3587057 4.8457034,4.7768554 c 0,-0.05625 -0.00683,-0.1113774 -0.014648,-0.1655274 H 3.1948243 Z m 3.2988275,0 h 2.311524 V 4.611328 h -0.0074 c 0.0049,0.05475 0.0074,0.1098024 0.0074,0.1655273 0,0.9475504 -0.725035,1.7241423 -1.650879,1.8076173 V 5.915039 c 0.5595,-0.080775 0.990234,-0.5563333 0.990234,-1.1381836 0,-0.05625 -0.0053,-0.1113774 -0.01319,-0.1655274 h -1.637695 z"
+     id="path1383"
+     inkscape:connector-curvature="0" />
+</svg>

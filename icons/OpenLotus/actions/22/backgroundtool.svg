@@ -1,14 +1,97 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (327bdefa15, 2017-09-17, custom)"
+   sodipodi:docname="backgroundtool.svg">
+  <defs
+     id="ol-defs">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient849">
+      <stop
+         style="stop-color:#2c8cff;stop-opacity:1"
+         offset="0"
+         id="stop845" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="1"
+         id="stop847" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient849"
+       id="linearGradient851"
+       x1="3.0306416"
+       y1="3.0844998"
+       x2="19.000002"
+       y2="19"
+       gradientUnits="userSpaceOnUse" />
   </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 3 3.9941406 L 3 4.9941406 L 3 12.994141 L 3 13.994141 L 3.0117188 13.994141 L 3 14.005859 L 6.9921875 17.998047 L 7.0039062 17.998047 L 8.4101562 17.998047 L 10.001953 17.998047 L 10.001953 16.998047 L 9.0019531 16.998047 L 7.9980469 16.998047 L 7.9980469 12.998047 L 6.9980469 12.998047 L 3.9980469 12.998047 L 3.9980469 4.9980469 L 17.998047 4.9980469 L 17.998047 10 L 19.001953 10 C 19.002675 10.01886 19.003906 7.9934091 19.003906 4.9980469 L 19.003906 3.9980469 L 19 3.9980469 L 19 3.9941406 L 3 3.9941406 z M 17.001953 10 L 16.001953 11 L 11.001953 16 L 11.001953 17 L 11.001953 18 L 13.001953 18 L 14.001953 17 L 18.001953 13 L 19.001953 12 L 17.001953 10 z M 16.720703 11.6875 L 17.283203 12.28125 L 12.314453 17.28125 L 11.720703 16.6875 L 16.720703 11.6875 z "
-	 class="ColorScheme-Text"
-     />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.823088"
+     inkscape:cy="8.0269054"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g855"
+     style="stroke:none"
+     inkscape:label="#backgroundtool">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient851);fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-dasharray:3.59999992, 1.79999997000000000;stroke-dashoffset:7.37999964"
+       d="M 4.5989592,3 C 3.7125592,3 3.0000009,3.7125584 3.0000009,4.5989584 V 17.401042 C 3.0000009,18.287442 3.7125592,19 4.5989592,19 H 6.3151049 V 15.109375 C 7.2494766,13.230878 8.9250707,12.060059 10.755209,11.96875 A 2.3309474,2.3309474 0 0 1 8.6692715,9.6510419 2.3309474,2.3309474 0 0 1 11.000001,7.3203125 2.3309474,2.3309474 0 0 1 13.33073,9.6510419 2.3309474,2.3309474 0 0 1 11.213542,11.971354 c 1.858954,0.10004 3.552076,1.312101 4.471355,3.242188 V 19 h 1.716145 c 0.8864,0 1.598959,-0.712558 1.598959,-1.598958 V 4.5989584 C 19.000001,3.7125584 18.287442,3 17.401042,3 Z"
+       id="rect811"
+       inkscape:label="#" />
+  </g>
 </svg>

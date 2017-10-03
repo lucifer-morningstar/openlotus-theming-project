@@ -14,7 +14,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92+devel (9cbd9e9661, 2017-09-28, custom)"
    sodipodi:docname="layer-previous.svg">
   <defs
      id="ol-defs">
@@ -123,7 +123,7 @@
      borderopacity="0.46666667"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.46875"
+     inkscape:zoom="11.234375"
      inkscape:cx="8"
      inkscape:cy="12.744623"
      inkscape:document-units="px"
@@ -138,9 +138,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
      guidecolor="#f4ff00"
@@ -162,7 +162,7 @@
   <g
      id="layer-previous"
      inkscape:label="#switch_to_layer_above"
-     transform="matrix(1.5,0,0,-1.5,0,24)">
+     transform="matrix(-1.5,0,0,-1.5,24,24)">
     <rect
        style="vector-effect:none;fill:none;stroke-width:2.18181825;stroke-linecap:round"
        id="rect4264"

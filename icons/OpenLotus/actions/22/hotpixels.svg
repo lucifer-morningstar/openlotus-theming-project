@@ -1,18 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 3 3 L 3 19 L 19 19 L 19 3 L 3 3 z M 4 4 L 18 4 L 18 18 L 4 18 L 4 4 z "
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (9d04be7596, 2017-09-23, custom)"
+   sodipodi:docname="hotpixels.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="26.28125"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g843"
+     inkscape:label="#hotpixels"
+     style="stroke:none">
     <path
-     style="fill:#da4453;fill-opacity:1;stroke:none"
-     d="M 13 13 L 13 15 L 15 15 L 15 13 L 13 13 z "
-     />
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.6;stroke:none"
+       d="m 3.921876,3.4418947 c -0.510962,0 -0.9218751,0.4118894 -0.9218751,0.9228507 V 14.951269 c 0,0.510961 0.4109131,0.922851 0.9218751,0.922851 h 4.453125 v 1.155665 H 7.080078 c -0.384564,0 -0.693358,0.309771 -0.693358,0.694336 v 0.139648 c 0,0.384564 0.308794,0.694336 0.693358,0.694336 h 7.839844 c 0.384566,0 0.69336,-0.309772 0.69336,-0.694336 v -0.139648 c 0,-0.384565 -0.308794,-0.694336 -0.69336,-0.694336 H 13.625001 V 15.87412 h 4.452148 c 0.510963,0 0.922852,-0.41189 0.922852,-0.922851 V 4.3647454 c 0,-0.5109613 -0.411889,-0.9228507 -0.922852,-0.9228507 z m 1.40625,1.6376947 H 16.79297 c 0.340751,0 0.614258,0.2744826 0.614258,0.6152346 v 8.036718 c 0,0.340751 -0.273507,0.614258 -0.614258,0.614258 H 5.328126 c -0.34075,0 -0.615234,-0.273507 -0.615234,-0.614258 V 5.694824 c 0,-0.340752 0.274484,-0.6152346 0.615234,-0.6152346 z"
+       fill="#d0d0d0"
+       stroke-linecap="square"
+       stroke-width="1.491364"
+       id="path6"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect837"
+       d="m 14.227538,11.537727 h 1.902613 v 1.902614 h -1.902613 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

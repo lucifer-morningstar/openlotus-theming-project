@@ -1,1 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg height="22" viewBox="0 0 5.8208332 5.8208335" width="22" xmlns="http://www.w3.org/2000/svg"><sodipodi:namedview/><metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type/><dc:title/></cc:Work></rdf:RDF></metadata><path d="m2.9104166 0c-.3539457 1.2387583-1.2203544 2.3036955-1.6022924 3.1562672-.1336624.2534868-.216718.5379902-.216718.8455557 0 1.0077325.8112779 1.8190104 1.8190104 1.8190104 1.0077324 0 1.8190105-.8112779 1.8190105-1.8190104 0-.3075655-.083056-.5920689-.2167182-.8455557-.3819376-.8525717-1.2483504-1.9175089-1.6022923-3.1562672z" fill="#d0d0d0"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="12"
+   viewBox="0 0 12 12"
+   width="12"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="glyph-drop.svg"
+   inkscape:version="0.92+devel (327bdefa15, 2017-09-17, custom)">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     pagecolor="#002466"
+     inkscape:pageopacity="0"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     bordercolor="#ffffff"
+     borderopacity="0.30588235"
+     inkscape:zoom="35.458333"
+     inkscape:cx="6"
+     inkscape:cy="6"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 5.9999998,0 C 5.2703195,2.5537751 3.4841655,4.749207 2.6967772,6.506835 2.4212242,7.029414 2.25,7.615935 2.25,8.25 2.25,10.327502 3.9224984,12 5.9999998,12 8.0775009,12 9.7500001,10.327502 9.7500001,8.25 9.7500001,7.615935 9.5787751,7.029414 9.303222,6.506835 8.5158346,4.749207 6.7296721,2.5537751 5.9999998,0 Z"
+     fill="#d0d0d0"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="stroke-width:1" />
+</svg>

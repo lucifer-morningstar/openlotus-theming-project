@@ -13,9 +13,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="glyph-notebook.svg"
-   inkscape:version="0.92+devel (327bdefa15, 2017-09-17, custom)">
-  <defs
-     id="defs10" />
+   inkscape:version="0.92+devel (ad03eb3eed, 2017-10-01, custom)">
   <sodipodi:namedview
      id="namedview2"
      inkscape:document-rotation="0"
@@ -27,12 +25,12 @@
      bordercolor="#ffffff"
      borderopacity="0.36470588"
      inkscape:zoom="45.9375"
-     inkscape:cx="5.847619"
+     inkscape:cx="5.8149659"
      inkscape:cy="6"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
   <metadata
@@ -46,10 +44,12 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs10" />
   <path
-     d="M 0,0 V 0.8928711 H 0.5097656 V 3.5250977 H 0 v 1.158789 H 0.5097656 V 7.316113 H 0 v 1.158789 h 0.5097656 v 2.632227 H 0 V 12 H 1.7094727 2.9443359 11.550293 C 11.799592,12 12,11.799595 12,11.550293 V 0.449707 C 12,0.200407 11.799592,0 11.550293,0 H 2.9443359 1.7094727 Z"
+     d="M 0,0 V 0.8928711 H 1 V 3.5250977 H 0 v 1.158789 H 1 V 7.316113 H 0 v 1.158789 h 1 v 2.632227 H 0 V 12 H 1.7094727 2.9443359 11.550293 C 11.799592,12 12,11.799595 12,11.550293 V 0.449707 C 12,0.200407 11.799592,0 11.550293,0 H 2.9443359 1.7094727 Z"
      id="path6"
-     style="fill:#d0d0d0;stroke-width:0.26458335;stroke:none"
+     style="fill:#d0d0d0;stroke:none;stroke-width:0.26458335"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccssssccc" />
 </svg>

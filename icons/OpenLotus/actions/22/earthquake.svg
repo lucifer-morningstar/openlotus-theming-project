@@ -1,14 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-	d="m11 3c-4.418278 0-8 3.581722-8 8 0 4.418278 3.581722 8 8 8 4.418278 0 8-3.581722 8-8 0-4.418278-3.581722-8-8-8m3.273438 9.302734l3.501953-1.75.447265.894532-4.496094 2.248046-2.441406-6.509765-.958984 9.583984-3.513672-7.02539-2.554688 1.80664-.578125-.816406 3.507813-2.478516 2.486328 4.97461 1.080962-10.226638c0 0 3.519664 9.299329 3.518648 9.298903"
-    class="ColorScheme-Text"
-    />  
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (42c84a5464, 2017-09-20, custom)"
+   sodipodi:docname="earthquake.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g839"
+     inkscape:label="#earthquake"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:1"
+       d="m 5.132816,3.0000028 c -1.181867,0 -2.132812,0.950945 -2.132812,2.1328111 v 6.3958311 h 2.749999 l 1.078125,-1.458333 a 0.60005975,0.60005975 0 0 1 1.049479,0.161459 l 0.578125,1.679686 0.786457,-3.3984361 a 0.60005975,0.60005975 0 0 1 1.174479,0.02344 l 0.609375,3.1692701 0.723958,-4.6380191 a 0.60005975,0.60005975 0 0 1 0.554686,-0.505208 0.60005975,0.60005975 0 0 1 0.622396,0.458333 l 0.971354,4.0729151 0.492188,-0.619792 a 0.60005975,0.60005975 0 0 1 0.898437,-0.04688 l 1.083333,1.10677 h 2.627603 V 5.1328113 c 0,-1.1818662 -0.950945,-2.1328112 -2.132811,-2.1328112 z m 7.33333,7.2604132 -0.786458,5.039061 a 0.60005975,0.60005975 0 0 1 -1.182291,0.02084 l -0.723958,-3.77604 -0.619792,2.677081 a 0.60005975,0.60005975 0 0 1 -1.151041,0.05989 L 7.114585,11.700519 6.536462,12.484374 A 0.60005975,0.60005975 0 0 1 6.052086,12.729166 H 3.000004 v 4.138023 C 3.000004,18.049056 3.950949,19 5.132816,19 h 11.734371 c 1.181866,0 2.132811,-0.950944 2.132811,-2.132811 V 12.734378 H 16.119791 A 0.60005975,0.60005975 0 0 1 15.690103,12.55469 L 14.906249,11.752607 14.072916,12.80469 A 0.60005975,0.60005975 0 0 1 13.01823,12.570315 Z"
+       id="rect811"
+       inkscape:label="#" />
+  </g>
 </svg>

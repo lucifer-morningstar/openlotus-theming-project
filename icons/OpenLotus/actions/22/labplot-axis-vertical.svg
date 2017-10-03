@@ -1,14 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 3 L 4 17 L 3 17 L 3 18 L 4 18 L 4 19 L 5 19 L 5 18 L 19 18 L 19 17 L 5 17 L 5 13.333984 L 7 13.333984 L 7 12.333984 L 5 12.333984 L 5 4 L 7 4 L 7 3 L 5 3 L 4 3 z M 5.0078125 7.6660156 L 5.0078125 8.6660156 L 7.0078125 8.6660156 L 7.0078125 7.6660156 L 5.0078125 7.6660156 z "
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (9cbd9e9661, 2017-09-28, custom)"
+   sodipodi:docname="labplot-axis-vertical.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g846"
+     inkscape:label="#labplot-axis-vertical"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="rect811"
+       d="m 19,17.666667 1e-6,-1.333334 H 3.0000006 l 4e-7,1.333334 z"
+       style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:1.88933349;stroke-linecap:round;stroke-dashoffset:0.15256613" />
+    <path
+       inkscape:label="#"
+       id="path814"
+       d="M 6.9999993,15 H 5.6666684 l -7e-7,3.999999 -1.3333346,1e-6 9e-7,-16.0000002 1.3333331,1e-7 1.3333342,-2e-7 -1e-6,1.3333333 -1.3333329,-10e-8 -2e-7,1.3333331 h 1.3333331 l 1e-6,1.3333336 -1.3333347,1e-6 8e-7,1.3333325 1.3333329,10e-8 1e-6,1.3333331 H 5.6666679 L 5.6666672,11 h 1.3333341 v 1.333334 H 5.666668 l -2e-7,1.333332 1.3333325,-10e-7 z"
+       style="fill:#00ff00;stroke:none;stroke-width:1.88933349;stroke-linecap:round;stroke-dashoffset:0.15256613"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

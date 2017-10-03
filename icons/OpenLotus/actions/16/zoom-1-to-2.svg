@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15740 custom"
+   inkscape:version="0.92+devel (5e751a51be, 2017-10-02, custom)"
    sodipodi:docname="zoom-1-to-2.svg">
   <defs
      id="ol-defs">
@@ -131,7 +131,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.234375"
-     inkscape:cx="50.268336"
+     inkscape:cx="50.134817"
      inkscape:cy="5.2934511"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
@@ -145,9 +145,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-page="true" />
   <metadata
@@ -166,7 +166,7 @@
      id="g4302"
      inkscape:label="#zoom-1-to-2"
      transform="matrix(-1,0,0,1,16,0)"
-     style="stroke-width:1">
+     style="stroke:none;stroke-width:0.72727275">
     <rect
        inkscape:label="#boundary"
        y="0"
@@ -174,18 +174,18 @@
        height="16"
        width="16"
        id="rect4264"
-       style="vector-effect:none;fill:none;stroke-width:2.18181825;stroke-linecap:round" />
+       style="vector-effect:none;fill:none;stroke:none;stroke-width:1.58677685;stroke-linecap:round" />
     <path
        inkscape:label="#2"
        inkscape:connector-curvature="0"
        id="path4292"
        d="M 2,2.6660156 V 13.333984 H 6 V 2.6660156 Z m 9.333984,2.6679688 V 10.666016 H 14 V 5.3339844 Z"
-       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1" />
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.72727275" />
     <path
        inkscape:label="#1"
        inkscape:connector-curvature="0"
        id="path4290"
        d="M 7.1140166,4.8280336 V 11.171967 L 10.285983,7.9999999 Z"
-       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.99999994" />
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.72727269" />
   </g>
 </svg>

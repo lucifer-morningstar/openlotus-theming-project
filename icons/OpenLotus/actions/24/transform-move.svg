@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
    height="24"
-   viewBox="0 0 6.3499997 6.3499997"
+   viewBox="0 0 24 24"
    version="1.1"
    id="main"
-   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)"
+   inkscape:version="0.92+devel (9cbd9e9661, 2017-09-28, custom)"
    sodipodi:docname="transform-move.svg">
   <defs
      id="ol-defs" />
@@ -25,9 +25,9 @@
      borderopacity="0.38039216"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.337109"
-     inkscape:cx="16.041883"
-     inkscape:cy="15.909477"
+     inkscape:zoom="10.137867"
+     inkscape:cx="3.7337051"
+     inkscape:cy="8.3469356"
      inkscape:document-units="px"
      inkscape:current-layer="main"
      inkscape:document-rotation="0"
@@ -35,9 +35,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -55,25 +55,25 @@
   <g
      id="g847"
      inkscape:label="#transform-move"
-     transform="scale(1.5)"
-     style="stroke-width:0.66666669">
+     transform="scale(5.6692916)"
+     style="stroke-width:0.72727275">
     <path
        inkscape:connector-curvature="0"
        inkscape:label="#boundary"
        id="rect811"
        d="M 4.4595339e-8,4.4595335e-8 H 4.2333332 V 4.2333332 H 4.4595339e-8 Z"
-       style="fill:none;stroke-width:0.13657102" />
+       style="fill:none;stroke-width:0.14898656" />
     <path
        inkscape:label="#"
        id="path831"
        d="M 2.1166666,0.5291667 1.6314249,1.369813 H 2.6019082 Z M 1.369813,1.6314249 0.5291667,2.1166666 1.369813,2.6019082 Z m 1.4937072,0 V 2.6019082 L 3.7041665,2.1166666 Z M 1.6314249,2.8635202 2.1166666,3.7041665 2.6019082,2.8635202 Z"
-       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.3051528;stroke-linecap:square"
+       style="opacity:0.6;fill:#d0d0d0;stroke-width:0.33289397;stroke-linecap:square"
        inkscape:connector-curvature="0" />
     <path
        inkscape:label="#"
        inkscape:connector-curvature="0"
        id="path833"
        d="M 2.4914985,2.1166667 A 0.37483196,0.37483196 0 0 1 2.1166666,2.4914986 0.37483196,0.37483196 0 0 1 1.7418347,2.1166667 0.37483196,0.37483196 0 0 1 2.1166666,1.7418347 0.37483196,0.37483196 0 0 1 2.4914985,2.1166667 Z"
-       style="fill:#00ff00;stroke-width:0.30515277;stroke-linecap:square" />
+       style="fill:#00ff00;stroke-width:0.33289394;stroke-linecap:square" />
   </g>
 </svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (42c84a5464, 2017-09-20, custom)"
+   sodipodi:docname="glyph-certificate.svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="37.1673"
+     inkscape:cx="7.9429251"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke:none"
+     d="M 0.49414062 2 C 0.22044195 2 1.2231453e-17 2.220442 0 2.4941406 L 0 9.5058594 C -7.4014868e-17 9.779558 0.22044195 10 0.49414062 10 L 11.505859 10 C 11.779558 10 12 9.779558 12 9.5058594 L 12 2.4941406 C 12 2.220442 11.779558 2 11.505859 2 L 0.49414062 2 z M 3.5136719 3.2871094 C 4.3221389 3.2871094 4.9726562 3.9376269 4.9726562 4.7460938 L 4.9726562 5.3789062 L 5.7011719 5.3789062 L 5.7011719 8.7128906 L 1.3242188 8.7128906 L 1.3242188 5.3789062 L 2.0527344 5.3789062 L 2.0527344 4.7460938 C 2.0527344 3.9376269 2.705205 3.2871094 3.5136719 3.2871094 z M 3.5136719 4.0175781 C 3.1094387 4.0175781 2.7832031 4.3418604 2.7832031 4.7460938 L 2.7832031 5.3789062 L 4.2421875 5.3789062 L 4.2421875 4.7460938 C 4.2421875 4.3418604 3.9179048 4.0175781 3.5136719 4.0175781 z "
+     id="rect811"
+     inkscape:label="#" />
+</svg>

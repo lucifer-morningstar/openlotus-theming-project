@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (42c84a5464, 2017-09-20, custom)"
+   sodipodi:docname="glyph-google-chat.svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.28125"
+     inkscape:cx="7.9429251"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:0.99999994;stroke:none"
+     d="M 5.9993831,0.28985493 C 2.6855226,0.28985793 -3.1374491e-4,2.274949 2.550938e-7,4.722788 0.00130026,5.745179 0.58199226,6.636113 1.3580013,7.526364 L 5.0052419,11.710145 4.5649089,9.020043 C 5.0340512,9.107503 5.5155367,9.15249 5.9993831,9.154487 9.3132434,9.154484 12.000313,7.170626 12,4.722788 12.000313,2.274949 9.3132434,0.28985793 5.9993831,0.28985493 Z M 5.9241441,1.445575 c 0.4483926,0 0.8761112,0.09141 1.2667284,0.254086 L 6.8529138,2.516188 C 6.5670721,2.398386 6.2538226,2.332408 5.9241441,2.332408 c -1.3448451,0 -2.4249152,1.080069 -2.4249152,2.424915 0,1.344846 1.0800701,2.427382 2.4249152,2.427382 1.1917895,0 2.1732864,-0.851347 2.3817454,-1.980882 H 5.9241441 V 4.316991 h 2.3829787 0.893 0.00246 c 0.019362,0.144388 0.0333,0.290784 0.0333,0.440332 0,1.824068 -1.4876791,3.314215 -3.3117483,3.314215 -1.8240687,0 -3.3117484,-1.490147 -3.3117484,-3.314215 0,-1.824069 1.4876797,-3.311748 3.3117484,-3.311748 z"
+     id="path861"
+     inkscape:connector-curvature="0"
+     inkscape:label="#" />
+</svg>

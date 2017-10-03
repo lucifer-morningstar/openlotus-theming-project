@@ -14,7 +14,7 @@
    viewBox="0 0 22.000002 22"
    version="1.1"
    id="main"
-   inkscape:version="0.92+devel (1da36c2be7, 2017-09-15, custom)"
+   inkscape:version="0.92+devel (42c84a5464, 2017-09-20, custom)"
    sodipodi:docname="resource-calendar-child.svg">
   <defs
      id="ol-defs" />
@@ -33,9 +33,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      units="px"
      inkscape:cx="7.609872"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,7 +56,7 @@
      id="g866"
      inkscape:label="#resource-calendar-child"
      style="stroke:none;stroke-width:0.66666669"
-     transform="matrix(1.5,0,0,1.5,0,-1.9999999)">
+     transform="scale(1.375)">
     <path
        style="fill:none;stroke:none;stroke-width:0.66666669"
        d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z"

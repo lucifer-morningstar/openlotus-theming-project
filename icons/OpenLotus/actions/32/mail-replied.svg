@@ -1,14 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 5 5 L 5 9 L 2 13 L 2 16 L 3 16 L 3 14 L 5 14 L 5.7871094 14 L 16 19.570312 L 26.212891 14 L 27 14 L 29 14 L 29 26 L 14 26 L 14 27 L 30 27 L 30 26 L 30 13 L 27 9 L 27 5 L 5 5 z M 6 6 L 26 6 L 26 12.974609 L 16 18.429688 L 6 12.974609 L 6 6 z M 8 8 L 8 9 L 24 9 L 24 8 L 8 8 z M 8 11 L 8 12 L 17 12 L 17 11 L 8 11 z M 7 18.064453 L 2 22.013672 L 7 25.960938 L 7 23 L 13 23 L 13 21.025391 L 7 21.025391 L 7 18.064453 z "
-     class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32.000004"
+   height="32"
+   viewBox="0 0 32.000004 32"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (342812bdbc, 2017-09-26, custom)"
+   sodipodi:docname="mail-replied.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.4806386"
+     inkscape:cy="8.0269063" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g856"
+     inkscape:label="#mail-replied"
+     style="stroke:none"
+     transform="scale(1.4545455)">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="path817"
+       d="m 3.000001,9.828125 v 6.914063 1.058593 0.708985 C 3.000001,18.781017 3.2189838,19 3.4902354,19 H 18.509767 c 0.271252,0 0.490234,-0.218983 0.490234,-0.490234 V 17.800781 16.742188 9.828125 H 16.236329 L 11.007814,13.884766 5.7792979,9.828125 Z"
+       style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="rect819"
+       d="m 16.983094,3 c 0.290865,0 0.579995,0.2400771 0.523437,0.5253906 V 4.0292969 8.7402344 H 15.717469 L 11.164735,12.308594 6.6080937,8.7402344 H 4.5787967 V 4.0292969 3.5253906 C 4.5787967,3.2345254 4.8113697,3 5.1022347,3 Z M 13.33075,4.2246094 10.764344,6.625 13.33075,9.0253906 Z M 10.619813,4.2402344 8.0553597,6.640625 10.619813,9.0410156 Z"
+       style="fill:#ffb900;stroke:none;stroke-width:2.6329999;stroke-linecap:square"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

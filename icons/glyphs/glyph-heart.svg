@@ -1,1 +1,57 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg height="22" viewBox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg"><sodipodi:namedview/><metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type/><dc:title/></cc:Work></rdf:RDF></metadata><path d="m5.7225468.00000048c-3.1599747-.0013212-5.72749371 2.83873722-5.72253964 5.37148912.01348895 6.8074234 2.97423914 6.7548154 10.99999084 16.6285104 8.025756-9.873695 10.986507-9.821087 10.999995-16.6285104.005006-2.5327519-2.562565-5.37281012-5.722539-5.37148912-2.343872.00322-4.415298 1.34896612-5.277456 3.39579872-.862155-2.0468325-2.93358-3.39258202-5.2774512-3.39579872z" fill="#fff" stroke-linecap="square" stroke-width="1.371659"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="12"
+   viewBox="0 0 12 12"
+   width="12"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="glyph-heart.svg"
+   inkscape:version="0.92+devel (327bdefa15, 2017-09-17, custom)">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     pagecolor="#002466"
+     inkscape:pageopacity="0"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     bordercolor="#ffffff"
+     borderopacity="0.29019608"
+     inkscape:zoom="33.409091"
+     inkscape:cx="4.3544151"
+     inkscape:cy="6.8671425"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 3.1213892,2.5116453e-7 C 1.3977666,-7.2014884e-4 -0.00269831,1.5484023 3.9039042e-6,2.9299033 0.00736151,6.6430443 1.6223162,6.6143483 5.999999,12 10.377684,6.6143483 11.992639,6.6430443 11.999996,2.9299033 12.002727,1.5484023 10.602234,-7.2004884e-4 8.8786113,2.5116453e-7 7.6001357,0.00175725 6.470267,0.73580025 5.999999,1.8522543 5.5297326,0.73580025 4.3998644,0.00175525 3.1213892,2.5116453e-7 Z"
+     fill="#fff"
+     stroke-linecap="square"
+     stroke-width="1.371659"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="stroke:none;fill:#d0d0d0" />
+</svg>

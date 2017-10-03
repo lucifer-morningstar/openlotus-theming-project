@@ -1,18 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 3 3 L 3 5 L 3 6 L 3 19 L 10 19 L 10 18 L 4 18 L 4 7 L 18 7 L 18 12 L 19 12 L 19 3 L 17 3 L 17 5 L 15 5 L 15 3 L 12 3 L 12 5 L 10 5 L 10 3 L 7 3 L 7 5 L 5 5 L 5 3 L 3 3 z M 5 8 L 5 9 L 11 9 L 11 8 L 5 8 z M 5 11 L 5 12 L 11 12 L 11 11 L 5 11 z M 11 13 L 11 19 L 19 19 L 19 13 L 11 13 z M 12 14 L 18 14 L 18 15 L 17 15 L 17 17 L 18 17 L 18 18 L 12 18 L 12 17 L 13 17 L 13 15 L 12 15 L 12 14 z M 15 15 C 14.446 15 14 15.446 14 16 C 14 16.554 14.446 17 15 17 C 15.554 17 16 16.554 16 16 C 16 15.446 15.554 15 15 15 z "
-     class="ColorScheme-Text"
-     />
- <path 
-     style="fill:#da4453;fill-opacity:1;stroke:none" 
-     d="M 12 8 L 12 9 L 17 9 L 17 8 L 12 8 z "
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (9d04be7596, 2017-09-23, custom)"
+   sodipodi:docname="view-bank-account.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="19.340909"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="11.000001"
+     inkscape:cy="11" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g903"
+     inkscape:label="#view-bank-account"
+     style="stroke:none;stroke-width:1">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="path1387"
+       d="M 11,3 3,7.6230469 v 0.375 V 9 h 1 v 1 8 H 3 v 1 H 19 V 18 H 18 V 10 9 h 1 v -1.0019531 -0.375 z M 9.9511719,8.5332031 c 0.7113401,-0.051033 1.4426711,0.101749 2.1035161,0.4824219 1.524132,0.8779408 2.184097,2.691569 1.675781,4.304687 l 1.898437,1.09375 c 0.382989,0.22062 0.51434,0.70924 0.292969,1.091797 -0.221371,0.382558 -0.710547,0.513217 -1.09375,0.292969 l -1.902344,-1.091797 c -1.08956,1.175848 -2.859287,1.510596 -4.3417966,0.785157 -0.081001,-0.01024 -0.1597318,-0.03748 -0.2304688,-0.07813 -0.071407,-0.04091 -0.1337837,-0.09473 -0.1835937,-0.160156 V 15.25 C 6.5757458,14.179594 6.0262356,12.055304 7.0019531,10.369141 7.638572,9.2689818 8.7656043,8.6182581 9.9511719,8.5332031 Z m 0.2695311,1.4960939 a 2.1520445,2.1520445 0 0 0 -2.1523436,2.152344 2.1520445,2.1520445 0 0 0 2.1523436,2.152343 2.1520445,2.1520445 0 0 0 2.152344,-2.152343 2.1520445,2.1520445 0 0 0 -2.152344,-2.152344 z"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:1"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

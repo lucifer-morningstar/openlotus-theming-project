@@ -1,14 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#f2f2f2;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 3 L 4 4 L 4 5 L 3 5 L 3 8 L 4 8 L 4 14 L 3 14 L 3 17 L 4 17 L 4 19 L 5 19 L 6 19 L 6 18 L 5 18 L 5 4 L 18 4 L 18 6 L 19 6 L 19 4 L 19 3 L 4 3 z M 13 7 A 6 2 0 0 0 7 9 L 7 17 A 6 2 0 0 0 13 19 A 6 2 0 0 0 14 18.970703 L 14 17.978516 A 5 1 0 0 1 13 18 A 5 1 0 0 1 8 17 L 8 14.101562 A 6 2 0 0 0 13 15 A 6 2 0 0 0 14 14.96875 L 14 13.978516 A 5 1 0 0 1 13 14 A 5 1 0 0 1 8 13 L 8 10.101562 A 6 2 0 0 0 13 11 A 6 2 0 0 0 18 10.103516 L 18 13 L 19 13 L 19 9 A 6 2 0 0 0 13 7 z M 13 8 A 5 1 0 0 1 18 9 A 5 1 0 0 1 13 10 A 5 1 0 0 1 8 9 A 5 1 0 0 1 13 8 z M 17 14 L 17 16 L 15 16 L 15 17 L 17 17 L 17 19 L 18 19 L 18 17 L 20 17 L 20 16 L 18 16 L 18 14 L 17 14 z "
-	 class="ColorScheme-Text"
-     />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (ad03eb3eed, 2017-10-01, custom)"
+   sodipodi:docname="labplot-workbook-new.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="g834"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.4806386"
+     inkscape:cy="8.0269054">
+    <inkscape:grid
+       type="xygrid"
+       id="grid818" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g834"
+     inkscape:label="#labplot-workbook-new"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccsssscccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       inkscape:label="#"
+       id="path6"
+       d="M 3,3 V 4.1914062 H 4.3339844 V 7.6992188 H 3 v 1.546875 H 4.3339844 V 12.753906 H 3 v 1.546875 h 1.3339844 v 3.507813 H 3 V 19 H 5.2792969 6.9257812 18.400391 C 18.732789,19 19,18.732793 19,18.400391 V 3.5996094 C 19,3.2672094 18.732789,3 18.400391,3 H 6.9257812 5.2792969 Z m 8.34891,4.2212564 c 2.061698,4.6e-6 3.733472,0.3440865 3.735075,0.7687475 0.0027,0.4252944 -1.670301,0.7703651 -3.735075,0.7703695 C 9.284136,8.760369 7.6110878,8.4152983 7.6138345,7.9900039 7.6154382,7.5653429 9.2872121,7.221261 11.34891,7.2212564 Z m -3.7075044,1.175827 c 4.048e-4,0.4248395 1.6724984,0.7703741 3.7350754,0.7703694 2.062579,4.7e-6 3.734669,-0.3455299 3.735075,-0.7703694 v 2.5722236 c 4.75e-4,0.42497 -1.671874,0.770373 -3.735075,0.770369 -2.063199,4e-6 -3.7355443,-0.345399 -3.7350754,-0.770369 z m -0.012975,2.9793026 c 4.048e-4,0.424844 1.6724976,0.770374 3.7350754,0.770369 2.062578,5e-6 3.734667,-0.345525 3.735076,-0.770369 v 2.573844 c 4.76e-4,0.424971 -1.671876,0.768753 -3.735076,0.768748 -2.0631998,5e-6 -3.7355443,-0.343777 -3.7350754,-0.768748 z"
+       style="opacity:1;fill:#ffb900;stroke:none;stroke-width:0.35277781" />
+  </g>
 </svg>

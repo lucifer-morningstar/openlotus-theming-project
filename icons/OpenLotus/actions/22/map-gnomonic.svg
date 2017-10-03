@@ -1,14 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (9cbd9e9661, 2017-09-28, custom)"
+   sodipodi:docname="map-gnomonic.svg">
+  <defs
+     id="ol-defs">
+    <style
+       id="current-color-scheme"
+       type="text/css">
       .ColorScheme-Text {
         color:#f2f2f2;
       }
       </style>
   </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-    d="M 3 3 L 3 6 L 3 16 L 3 19 L 19 19 L 19 16 L 19 6 L 19 3 L 3 3 z M 4 4 L 8 4 L 8 8.7070312 A 7 3.0000024 0 0 1 4 6 L 4 4 z M 9 4 L 13 4 L 13 8.8730469 A 7 3.0000024 0 0 1 11 9 A 7 3.0000024 0 0 1 9 8.8730469 L 9 4 z M 14 4 L 18 4 L 18 6 A 7 3.0000024 0 0 1 14 8.7070312 L 14 4 z M 4 7.9277344 A 7.9999909 3.9999955 0 0 0 8 9.7050781 L 8 12.294922 A 7.9999909 3.9999955 0 0 0 4 14.072266 L 4 7.9277344 z M 18 7.9355469 L 18 14.064453 A 7.9999909 3.9999955 0 0 0 14 12.294922 L 14 9.7050781 A 7.9999909 3.9999955 0 0 0 18 7.9355469 z M 9 9.8671875 A 7.9999909 3.9999955 0 0 0 11 10 A 7.9999909 3.9999955 0 0 0 13 9.8691406 L 13 12.130859 A 7.9999909 3.9999955 0 0 0 11 12 A 7.9999909 3.9999955 0 0 0 9 12.132812 L 9 9.8671875 z M 11 13 A 7 3.0000024 0 0 1 13 13.126953 L 13 18 L 9 18 L 9 13.126953 A 7 3.0000024 0 0 1 11 13 z M 8 13.292969 L 8 18 L 4 18 L 4 16 A 7 3.0000024 0 0 1 8 13.292969 z M 14 13.292969 A 7 3.0000024 0 0 1 18 16 L 18 18 L 14 18 L 14 13.292969 z "
-    class="ColorScheme-Text"
-    />  
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g848"
+     inkscape:label="#map-gnomonic"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       inkscape:connector-curvature="0"
+       id="path842"
+       d="m 3,3 v 3 10 3 H 19 V 16 6 3 Z M 4,4 H 8 V 8.7070312 A 7,3.0000024 0 0 1 4,6 Z m 5,0 h 4 V 8.8730469 A 7,3.0000024 0 0 1 11,9 7,3.0000024 0 0 1 9,8.8730469 Z m 5,0 h 4 V 6 A 7,3.0000024 0 0 1 14,8.7070312 Z M 4,7.9277344 a 7.9999909,3.9999955 0 0 0 4,1.7773437 v 2.5898439 a 7.9999909,3.9999955 0 0 0 -4,1.777344 z m 14,0.00781 V 14.064453 A 7.9999909,3.9999955 0 0 0 14,12.294922 V 9.7050781 A 7.9999909,3.9999955 0 0 0 18,7.9355469 Z M 9,9.8671875 A 7.9999909,3.9999955 0 0 0 11,10 7.9999909,3.9999955 0 0 0 13,9.8691406 V 12.130859 A 7.9999909,3.9999955 0 0 0 11,12 7.9999909,3.9999955 0 0 0 9,12.132812 Z M 11,13 a 7,3.0000024 0 0 1 2,0.126953 V 18 H 9 V 13.126953 A 7,3.0000024 0 0 1 11,13 Z M 8,13.292969 V 18 H 4 v -2 a 7,3.0000024 0 0 1 4,-2.707031 z m 6,0 A 7,3.0000024 0 0 1 18,16 v 2 h -4 z"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke:none" />
+  </g>
 </svg>

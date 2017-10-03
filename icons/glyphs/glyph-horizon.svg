@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (980bacf4fd, 2017-09-27, custom)"
+   sodipodi:docname="glyph-horizon.svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.28125"
+     inkscape:cx="7.9429251"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:1.27599478;stroke-linecap:round;stroke-dashoffset:0.15256613"
+     d="M 6 0 A 6 6 0 0 0 0.0078125 5.8339844 A 0.31120872 0.31120872 0 0 1 0.064453125 6.0136719 C 0.064453122 6.0116584 0.060086289 6.0257126 0.10742188 6.0761719 C 0.15475746 6.1266311 0.25064607 6.1983479 0.38867188 6.2695312 C 0.66472347 6.411898 1.1053479 6.5556113 1.65625 6.6757812 C 2.7580543 6.9161214 4.3074369 7.0683594 6.0195312 7.0683594 C 7.7316257 7.0683594 9.2829608 6.9161214 10.384766 6.6757812 C 10.935668 6.5556112 11.376292 6.4118979 11.652344 6.2695312 C 11.79037 6.1983479 11.884305 6.1266311 11.931641 6.0761719 C 11.978976 6.0257126 11.974609 6.0116583 11.974609 6.0136719 A 0.31120872 0.31120872 0 0 1 11.996094 5.8984375 A 6 6 0 0 0 6 0 z M 0.060546875 6.796875 A 6 6 0 0 0 6 12 A 6 6 0 0 0 11.9375 6.8222656 C 11.57935 7.0069725 11.100684 7.1560083 10.517578 7.2832031 C 9.3513658 7.5375928 7.7683134 7.6914062 6.0195312 7.6914062 C 4.2707491 7.6914062 2.6896498 7.5375928 1.5234375 7.2832031 C 0.94033135 7.1560083 0.46166566 7.0069725 0.10351562 6.8222656 C 0.087911838 6.8142184 0.075715621 6.8050578 0.060546875 6.796875 z "
+     id="path817" />
+</svg>

@@ -14,7 +14,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel 15724 custom"
+   inkscape:version="0.92+devel (5e751a51be, 2017-10-02, custom)"
    sodipodi:docname="edit-delete.svg">
   <defs
      id="ol-defs">
@@ -69,13 +69,13 @@
      pagecolor="#002266"
      bordercolor="#ffffff"
      borderopacity="0.46666667"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="13.081476"
-     inkscape:cx="16.621911"
+     inkscape:cx="16.507245"
      inkscape:cy="12.794693"
      inkscape:document-units="px"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="g4295"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -86,9 +86,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-page="true" />
   <metadata
@@ -105,21 +105,19 @@
   </metadata>
   <g
      id="g4295"
-     inkscape:label="#edit-delete">
-    <rect
-       inkscape:label="#boundary"
-       y="0"
-       x="0"
-       height="22"
-       width="22"
-       id="rect4264"
-       style="vector-effect:none;fill:none;stroke-width:3;stroke-linecap:round"
-       sodipodi:insensitive="true" />
+     inkscape:label="#edit-delete"
+     style="stroke:none">
     <path
-       style="opacity:1;fill:#ff0000;stroke-width:3.25936651;stroke-linejoin:round"
+       style="vector-effect:none;fill:none;stroke:none;stroke-width:3;stroke-linecap:round"
+       d="M 0,0 H 22 V 22 H 0 Z"
+       id="rect4264"
+       inkscape:connector-curvature="0"
+       inkscape:label="#boundary" />
+    <path
+       style="opacity:1;fill:#ff0000;stroke:none;stroke-width:3.25936651;stroke-linejoin:round"
        d="M 4.9999995,7.4000005 8.5999999,10.999999 4.9999989,14.6 7.3999995,17 10.999999,13.400002 14.6,17 l 2.399998,-2.4 -3.599997,-3.599999 3.6,-3.5999995 L 14.6,5.0000009 11.000001,8.6 7.4000002,5 Z"
        id="rect4268"
        inkscape:connector-curvature="0"
-       inkscape:label="#glyph" />
+       inkscape:label="#" />
   </g>
 </svg>

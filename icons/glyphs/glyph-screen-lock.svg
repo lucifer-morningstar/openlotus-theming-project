@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="default16"
+   inkscape:version="0.92+devel (42c84a5464, 2017-09-20, custom)"
+   sodipodi:docname="glyph-screen-lock.svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.38039216"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.28125"
+     inkscape:cx="7.9429251"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="default16"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d0d0d0;stroke-width:0.90000004;stroke-linejoin:round;stroke-miterlimit:6.80000019;stroke:none"
+     d="M 6,0 C 2.6862915,0 0,2.6862915 0,6 0,9.3137085 2.6862915,12 6,12 9.3137085,12 12,9.3137085 12,6 12,2.6862915 9.3137085,0 6,0 Z m 0.015898,2.3796875 c 0.9897354,0 1.7866402,0.7969045 1.7866402,1.7866403 V 4.9405385 H 8.6958583 V 9.0216881 H 3.3359375 V 4.9405385 H 4.2292576 V 4.1663278 c 0,-0.9897358 0.796904,-1.7866403 1.7866403,-1.7866403 z m 0,0.8916659 c -0.4948681,0 -0.8933201,0.4001065 -0.8933201,0.8949744 V 4.9405385 H 6.909218 V 4.1663278 c 0,-0.4948679 -0.3984528,-0.8949744 -0.8933201,-0.8949744 z"
+     id="path811"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssccccccssssccss"
+     inkscape:label="#" />
+</svg>

@@ -13,7 +13,7 @@
    version="1.1"
    id="svg18"
    sodipodi:docname="snap-guideline.svg"
-   inkscape:version="0.92+devel (5451be0409, 2017-08-29, custom)">
+   inkscape:version="0.92+devel (42c84a5464, 2017-09-20, custom)">
   <defs
      id="defs20" />
   <sodipodi:namedview
@@ -27,14 +27,14 @@
      bordercolor="#ffffff"
      borderopacity="0.28627451"
      inkscape:zoom="45.9375"
-     inkscape:cx="7.9673469"
+     inkscape:cx="7.9346938"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg18" />
+     inkscape:current-layer="g16" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -49,7 +49,8 @@
   <g
      transform="scale(0.72727273)"
      id="g16"
-     inkscape:label="#snap-guideline">
+     inkscape:label="#snap-guideline"
+     style="stroke:none">
     <path
        d="M 0,0 H 22 V 22 H 0 Z"
        fill="none"
@@ -57,31 +58,36 @@
        stroke-width="3"
        id="path6"
        inkscape:connector-curvature="0"
-       inkscape:label="#boundary" />
+       inkscape:label="#boundary"
+       style="stroke:none" />
     <path
        d="M 6.0297032,3 V 19 H 7.1188115 V 3 Z M 16.821782,13.257425 V 19 h 1.089109 v -5.742575 z"
        fill="#d0d0d0"
        opacity=".6"
        id="path8"
        inkscape:connector-curvature="0"
-       inkscape:label="#" />
+       inkscape:label="#"
+       style="stroke:none" />
     <path
        d="M 3,4.1683168 V 8.524753 L 5.1782181,6.3465346 Z m 7.069307,0 -2.1782176,2.1782178 2.1782176,2.1782184 z"
        fill="#0f0"
        id="path10"
        inkscape:connector-curvature="0"
-       inkscape:label="#" />
+       inkscape:label="#"
+       style="stroke:none" />
     <path
        d="m 9.2772278,11.079208 v 1.089109 h 1.0891092 v -1.089109 z m 2.1782172,0 v 1.089109 h 1.089109 v -1.089109 z m 2.178218,0 v 1.089109 h 1.089109 v -1.089109 z"
        fill="#cf0"
        id="path12"
        inkscape:connector-curvature="0"
-       inkscape:label="#" />
+       inkscape:label="#"
+       style="stroke:none" />
     <path
        d="m 4.9405941,9.990099 v 3.267326 H 8.2079206 V 9.990099 Z m 10.7920789,0 v 3.267326 H 19 V 9.990099 Z"
        fill="#d0d0d0"
        id="path14"
        inkscape:connector-curvature="0"
-       inkscape:label="#" />
+       inkscape:label="#"
+       style="stroke:none" />
   </g>
 </svg>

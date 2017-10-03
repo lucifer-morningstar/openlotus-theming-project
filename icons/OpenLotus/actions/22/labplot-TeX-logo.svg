@@ -1,14 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (9cbd9e9661, 2017-09-28, custom)"
+   sodipodi:docname="labplot-TeX-logo.svg">
+  <defs
+     id="ol-defs">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#f2f2f2;
       }
       </style>
   </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 3 6.5 L 3 7.5 L 5.5 7.5 L 5.5 13.5 L 6.5 13.5 L 6.5 7.5 L 9 7.5 L 9 6.5 L 3 6.5 z M 14.394531 6.6953125 L 13.603516 7.3046875 L 15.869141 10.25 L 13.603516 13.195312 L 14.394531 13.804688 L 16.5 11.068359 L 18.603516 13.804688 L 19.394531 13.195312 L 17.128906 10.25 L 19.394531 7.3046875 L 18.603516 6.6953125 L 16.5 9.4316406 L 14.394531 6.6953125 z M 8 8.5 L 8 9.5 L 8 11 L 8 12 L 8 14.5 L 8 15.5 L 13 15.5 L 13 14.5 L 9 14.5 L 9 12.5 L 13 12.5 L 13 11.5 L 9 11.5 L 9 9.5 L 13 9.5 L 13 8.5 L 8 8.5 z "
-     class="ColorScheme-Text"
-     />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.5947884"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g841"
+     inkscape:label="#labplot-TeX-logo"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       style="opacity:0.6;fill:#d0d0d0;fill-opacity:1;stroke:none;stroke-width:0.97593516"
+       d="m 3.000001,6.6082918 v 0.9759353 h 2.4398373 v 5.8556099 h 0.975936 V 7.5842271 H 8.855612 V 6.6082918 Z m 11.120324,0.1906128 -0.77198,0.5947107 2.211103,2.8744347 -2.211103,2.874433 0.77198,0.59471 2.054801,-2.670478 2.052895,2.670478 0.77198,-0.59471 -2.211103,-2.874433 2.211103,-2.8744347 -0.77198,-0.5947107 -2.052895,2.6704788 z M 7.879677,8.5601623 V 9.5360974 11 v 0.975935 2.439838 0.975935 h 4.879676 V 14.415773 H 8.855612 v -1.95187 h 3.903741 V 11.487968 H 8.855612 V 9.5360974 h 3.903741 V 8.5601623 Z"
+       id="path846"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

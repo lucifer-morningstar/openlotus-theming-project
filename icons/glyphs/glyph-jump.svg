@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="22"
-   viewBox="0 0 22 22"
-   width="22"
+   height="12"
+   viewBox="0 0 12 12"
+   width="12"
    version="1.1"
    id="svg839"
    sodipodi:docname="glyph-jump.svg"
-   inkscape:version="0.92+devel (1c31310676, 2017-09-09, custom)">
+   inkscape:version="0.92+devel (42c84a5464, 2017-09-20, custom)">
   <defs
      id="defs841" />
   <sodipodi:namedview
@@ -27,17 +27,18 @@
      bordercolor="#ffffff"
      borderopacity="0.2627451"
      inkscape:zoom="20.48"
-     inkscape:cx="10.658203"
-     inkscape:cy="11"
+     inkscape:cx="-6.8059261"
+     inkscape:cy="0.74283695"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg839">
     <sodipodi:guide
        id="guide831"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       position="0.00034470344,-0.373047" />
   </sodipodi:namedview>
   <metadata
      id="metadata835">
@@ -51,7 +52,9 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#d0d0d0;stroke-width:1.20000005"
-     d="M 12.554688,0.37304688 17.277344,4.1464844 22,7.9179688 17.478516,11.929688 12.958984,15.939453 12.826172,10.748047 A 15.614714,14.802443 15 0 0 0.36914062,21.390625 15.614714,14.802443 15 0 0 0.3203125,21.626953 15.614714,14.802443 15 0 1 0.46875,15.011719 15.614714,14.802443 15 0 1 12.662109,4.4042969 Z"
-     id="rect843" />
+     style="fill:#d0d0d0;stroke-width:1.20000005;stroke:none"
+     d="M 6.8480925,0 9.4240463,2.130491 12,4.259879 9.5337748,6.524904 7.0686141,8.788826 6.9961721,5.857747 A 8.5608753,8.3146409 33.141362 0 0 0.20153419,11.866569 8.5608753,8.3146409 33.141362 0 0 0.17490109,12 8.5608753,8.3146409 33.141362 0 1 0.25586569,8.265025 8.5608753,8.3146409 33.141362 0 1 6.9066846,2.276052 Z"
+     id="rect843"
+     inkscape:connector-curvature="0"
+     inkscape:label="#" />
 </svg>

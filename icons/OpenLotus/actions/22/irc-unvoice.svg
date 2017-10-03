@@ -1,3 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
- <path d="m15 4l-12 3.417969v1.042969 4.539063.582031l1 .285157v2.132812.300781l6 1.699219v-1-1.423828l5 1.423828v-1.042969-10.914062-1.042969m-1 1.328125v10.34375l-10-2.847656v-4.648438l10-2.847656m-12 2.375l-1 .285156v.011719 1 3 1 .011719l1 .285156v-.296875-.746094-3.507812-.746094-.296875m14 2.296875v2h5v-2h-5m-11 4.152344l4 1.138672v1.425781l-4-1.132813v-1.43164" style="fill:#da4453"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.000002"
+   height="22"
+   viewBox="0 0 22.000002 22"
+   version="1.1"
+   id="main"
+   inkscape:version="0.92+devel (d86ea8daa7, 2017-09-19, custom)"
+   sodipodi:docname="irc-unvoice.svg">
+  <defs
+     id="ol-defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#002466"
+     bordercolor="#ffffff"
+     borderopacity="0.30"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.140625"
+     inkscape:document-units="px"
+     inkscape:current-layer="main"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:cx="6.823088"
+     inkscape:cy="8.0269054" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g849"
+     inkscape:label="#irc-unvoice"
+     style="stroke:none">
+    <path
+       style="fill:none;stroke:none;stroke-width:1"
+       d="M 0,0 H 22.000001 V 22 H 0 Z"
+       id="boundary"
+       inkscape:label="#boundary"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label="#"
+       id="path844"
+       d="M 19,3.9453125 7.2128906,8.3183594 v 5.3632816 l -1.5566406,4.125 H 8.0214844 L 9.2871094,14.449219 19,18.054688 Z M 3,8.4550781 V 13.775391 H 5.9296875 V 8.4550781 Z"
+       style="fill:#ff0000;stroke:none"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

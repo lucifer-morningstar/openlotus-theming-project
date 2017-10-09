@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32.000004" height="32" viewBox="0 0 32.000004 32" version="1.1" id="main" inkscape:version="0.92+devel (f318dbfe43, 2017-10-09, custom)" sodipodi:docname="kdenlive-hide-video-effects.svg">
+  <defs id="ol-defs" />
+  <sodipodi:namedview id="base" pagecolor="#002466" bordercolor="#ffffff" borderopacity="0.30" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:zoom="13.140625" inkscape:document-units="px" inkscape:current-layer="main" inkscape:document-rotation="0" showgrid="false" inkscape:showpageshadow="false" borderlayer="true" inkscape:window-width="1920" inkscape:window-height="1027" inkscape:window-x="0" inkscape:window-y="24" inkscape:window-maximized="1" units="px" inkscape:cx="6.5605627" inkscape:cy="8.0269057" />
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="g870" inkscape:label="#kdenlive-hide-video-effects" style="stroke:none;stroke-width:0.5" transform="scale(2)">
+    <path style="fill:none;stroke:none;stroke-width:0.5" d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z" id="boundary" inkscape:label="#boundary" inkscape:connector-curvature="0" />
+    <path inkscape:label="#" inkscape:connector-curvature="0" id="path829" d="M 3.1992188,2 C 2.5344186,2 2,2.5344187 2,3.1992188 V 12.800781 C 2,13.465581 2.5344186,14 3.1992188,14 H 12.800781 C 13.465581,14 14,13.465581 14,12.800781 V 3.1992188 C 14,2.5344187 13.465581,2 12.800781,2 Z M 3.21875,3.2480469 H 5.1269531 V 5.15625 H 3.21875 Z m 7.654297,0.019531 H 12.78125 V 5.175781 h -1.908203 z m -3.8281251,0.00586 H 8.9550781 V 5.1816406 H 7.0449219 Z M 8,5.7421875 C 10.179175,5.7421875 11.945312,8 11.945312,8 11.945312,8 10.179175,10.257812 8,10.257812 5.8208254,10.257813 4.0546875,8 4.0546875,8 4.0546875,8 5.8208248,5.7421875 8,5.7421875 Z M 3.21875,10.792969 h 1.9082031 v 1.908203 H 3.21875 Z m 7.654297,0.01953 h 1.908203 v 1.908203 h -1.908203 z m -3.8281251,0.0059 h 1.9101562 v 1.908203 H 7.0449219 Z" style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:0.5" />
+    <path inkscape:label="#" inkscape:connector-curvature="0" id="path864" d="M 8.0000001,6.4489225 A 1.5510116,1.5510116 0 0 1 9.551078,8.0000001 1.5510116,1.5510116 0 0 1 8.0000001,9.5510773 1.5510116,1.5510116 0 0 1 6.4489223,8.0000001 1.5510116,1.5510116 0 0 1 8.0000001,6.4489225 Z" style="fill:#ff0000;stroke:none;stroke-width:0.5" />
+  </g>
+</svg>

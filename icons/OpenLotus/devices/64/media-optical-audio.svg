@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="64.000008" height="64" viewBox="0 0 64.000008 64" version="1.1" id="main" inkscape:version="0.92+devel (8ef6761023, 2017-10-07, custom)" sodipodi:docname="media-optical-audio.svg">
+  <defs id="ol-defs" />
+  <sodipodi:namedview id="base" pagecolor="#002466" bordercolor="#ffffff" borderopacity="0.30" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:zoom="4.6459125" inkscape:document-units="px" inkscape:current-layer="main" inkscape:document-rotation="0" showgrid="false" inkscape:showpageshadow="false" borderlayer="true" inkscape:window-width="1920" inkscape:window-height="1029" inkscape:window-x="0" inkscape:window-y="22" inkscape:window-maximized="1" units="px" inkscape:cx="6.7489002" inkscape:cy="8.0269055" />
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="g886" inkscape:label="#media-optical-audio" style="stroke:none;stroke-width:0.25" transform="scale(4)">
+    <path style="fill:none;stroke:none;stroke-width:0.25" d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z" id="boundary" inkscape:label="#boundary" inkscape:connector-curvature="0" />
+    <path inkscape:label="#" inkscape:connector-curvature="0" id="path835" d="M 8,2 A 6.0000004,6.0000004 0 0 0 2,8 6.0000004,6.0000004 0 0 0 8,14 6.0000004,6.0000004 0 0 0 14,8 6.0000004,6.0000004 0 0 0 8,2 Z M 8,6.125 A 1.8750001,1.8750001 0 0 1 9.875,8 1.8750001,1.8750001 0 0 1 8,9.875 1.8750001,1.8750001 0 0 1 6.125,8 1.8750001,1.8750001 0 0 1 8,6.125 Z M 8,7.3671875 A 0.63382876,0.63382876 0 0 0 7.3671875,8 0.63382876,0.63382876 0 0 0 8,8.634277 0.63382876,0.63382876 0 0 0 8.6342773,8 0.63382876,0.63382876 0 0 0 8,7.3671875 Z M 7.1181641,10.182617 H 9.3623046 9.775391 V 11.008789 12.875 c 7e-7,0.42126 -0.3717509,0.769043 -0.8012699,0.769043 -0.4212585,0 -0.769043,-0.339524 -0.769043,-0.769043 1e-7,-0.421258 0.339524,-0.767579 0.769043,-0.767579 0.1404202,0 0.2725441,0.04085 0.3881836,0.106935 V 11.008789 H 7.53125 V 12.875 c 0,0.42126 -0.3717506,0.769043 -0.8012696,0.769043 -0.4212585,0 -0.7675781,-0.339524 -0.7675781,-0.769043 0,-0.421258 0.3380591,-0.767579 0.7675781,-0.767579 0.1404203,0 0.2725441,0.04085 0.3881837,0.106935 z" style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:0.25" />
+  </g>
+</svg>

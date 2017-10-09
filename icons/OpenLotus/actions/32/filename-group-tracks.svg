@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32.000004" height="32" viewBox="0 0 32.000004 32" version="1.1" id="main" inkscape:version="0.92+devel (d87c943c36, 2017-10-04, custom)" sodipodi:docname="filename-group-tracks.svg">
+  <defs id="ol-defs" />
+  <sodipodi:namedview id="base" pagecolor="#002466" bordercolor="#ffffff" borderopacity="0.30" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:zoom="18.58365" inkscape:document-units="px" inkscape:current-layer="main" inkscape:document-rotation="0" showgrid="false" inkscape:showpageshadow="false" borderlayer="true" inkscape:window-width="1920" inkscape:window-height="1029" inkscape:window-x="0" inkscape:window-y="22" inkscape:window-maximized="1" units="px" inkscape:cx="6.7489003" inkscape:cy="8.0269055" />
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="g843" inkscape:label="#filename-group-tracks" style="stroke:none;stroke-width:0.5" transform="scale(2)">
+    <path style="fill:none;stroke:none;stroke-width:0.5" d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z" id="boundary" inkscape:label="#boundary" inkscape:connector-curvature="0" />
+    <path inkscape:connector-curvature="0" inkscape:label="#" id="rect812" d="M 2.75,2 C 2.3345,2 2,2.3345 2,2.75 v 10.5 C 2,13.6655 2.3345,14 2.75,14 h 10.5 C 13.6655,14 14,13.6655 14,13.25 V 2.75 C 14,2.3345 13.6655,2 13.25,2 Z M 5.3618164,4.043457 H 6.6816406 V 5.3618164 H 9.3183594 V 4.043457 h 1.3198246 v 1.3183594 h 1.318359 V 6.6816406 H 10.638184 V 9.318359 h 1.318359 v 1.319825 h -1.318359 v 1.318359 H 9.3183594 V 10.638184 H 6.6816406 v 1.318359 H 5.3618164 V 10.638184 H 4.043457 V 9.318359 H 5.3618164 V 6.6816406 H 4.043457 V 5.3618164 H 5.3618164 Z M 6.6816406,6.6816406 V 9.318359 H 9.3183594 V 6.6816406 Z" style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:0.44999999" />
+  </g>
+</svg>

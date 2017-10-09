@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="24.000002" height="24" viewBox="0 0 24.000002 24" version="1.1" id="main" inkscape:version="0.92+devel (577a34f67d, 2017-10-05, custom)" sodipodi:docname="resetview.svg">
+  <defs id="ol-defs" />
+  <sodipodi:namedview id="base" pagecolor="#002466" bordercolor="#ffffff" borderopacity="0.30" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:zoom="18.58365" inkscape:document-units="px" inkscape:current-layer="main" inkscape:document-rotation="0" showgrid="false" inkscape:showpageshadow="false" borderlayer="true" inkscape:window-width="1920" inkscape:window-height="1029" inkscape:window-x="0" inkscape:window-y="22" inkscape:window-maximized="1" units="px" inkscape:cx="6.7489002" inkscape:cy="8.0269056" />
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="g839" inkscape:label="#resetview" transform="scale(1.5)" style="stroke-width:0.66666669">
+    <path style="fill:none;stroke:none;stroke-width:0.66666669" d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z" id="boundary" inkscape:label="#boundary" inkscape:connector-curvature="0" />
+    <path inkscape:label="#" inkscape:connector-curvature="0" style="opacity:0.6;fill:#d0d0d0;stroke-width:0.5999999" d="m 7.7898442,1.8000001 -1.318359,2.283203 h 0.818359 v 3.658204 h -5.089844 v 1.0000001 h 5.089844 V 13.8 h 1 V 8.7414072 H 11.916797 V 9.5597661 L 14.2,8.2414072 11.916797,6.9230471 v 0.81836 H 8.2898442 v -3.658204 h 0.818359 z" id="rect811" />
+  </g>
+</svg>

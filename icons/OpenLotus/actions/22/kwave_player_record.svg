@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="22.000002" height="22" viewBox="0 0 22.000002 22" version="1.1" id="main" inkscape:version="0.92+devel (f318dbfe43, 2017-10-09, custom)" sodipodi:docname="kwave_player_record.svg">
+  <defs id="ol-defs" />
+  <sodipodi:namedview id="base" pagecolor="#002466" bordercolor="#ffffff" borderopacity="0.30" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:zoom="18.58365" inkscape:document-units="px" inkscape:current-layer="main" inkscape:document-rotation="0" showgrid="false" inkscape:showpageshadow="false" borderlayer="true" inkscape:window-width="1920" inkscape:window-height="1027" inkscape:window-x="0" inkscape:window-y="24" inkscape:window-maximized="1" units="px" inkscape:cx="7.7713044" inkscape:cy="8.0000001" />
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="g817" inkscape:label="#kwave_player_record" style="stroke:none;stroke-width:0.72727275" transform="scale(1.375)">
+    <path style="fill:none;stroke:none;stroke-width:0.72727275" d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z" id="boundary" inkscape:label="#boundary" inkscape:connector-curvature="0" />
+    <path inkscape:label="#" inkscape:connector-curvature="0" id="path812" d="m 12,8 a 4,4 0 0 1 -3.9999999,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 A 4,4 0 0 1 12,8 Z" style="fill:#ff0000;stroke:none;stroke-width:1.91490901;stroke-linecap:square" />
+  </g>
+</svg>

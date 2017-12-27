@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="22.000002" height="22" viewBox="0 0 22.000002 22" version="1.1" id="main" inkscape:version="0.92+devel (f318dbfe43, 2017-10-09, custom)" sodipodi:docname="kipiplugin_youtube.svg">
+  <defs id="ol-defs" />
+  <sodipodi:namedview id="base" pagecolor="#002466" bordercolor="#ffffff" borderopacity="0.30" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:zoom="13.140625" inkscape:document-units="px" inkscape:current-layer="main" inkscape:document-rotation="0" showgrid="false" inkscape:showpageshadow="false" borderlayer="true" inkscape:window-width="1920" inkscape:window-height="1027" inkscape:window-x="0" inkscape:window-y="24" inkscape:window-maximized="1" units="px" inkscape:cx="6.7489002" inkscape:cy="8.0269055" />
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="g844" inkscape:label="#kipiplugin_youtube" style="stroke:none;stroke-width:0.72727275" transform="scale(1.375)">
+    <path style="fill:none;stroke:none;stroke-width:0.72727275" d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z" id="boundary" inkscape:label="#boundary" inkscape:connector-curvature="0" />
+    <path inkscape:label="#" inkscape:connector-curvature="0" d="M 3.6044819,4.183144 C 2.8516437,4.278365 2.4122026,4.8152047 2.2338374,5.5527807 c -0.3484649,1.440972 -0.2728152,3.398871 0,4.8416013 0.1409944,0.745622 0.6235113,1.236879 1.3706445,1.369636 2.7292175,0.484949 5.8647283,0.467864 8.7922811,0 0.749327,-0.119754 1.208863,-0.628027 1.369637,-1.369636 0.265189,-1.1049343 0.354555,-2.9563203 0,-4.8416013 -0.140253,-0.745763 -0.616111,-1.2800203 -1.369637,-1.3696367 -2.9971539,-0.4061638 -6.1848449,-0.4058234 -8.7922811,0 z m 2.6052323,1.3260987 4.3981568,2.538716 -4.3981568,2.5397243 z" fill="#fff" fill-opacity=".766265" stroke-linejoin="round" stroke-width=".79375" id="path835" style="opacity:0.6;stroke:none" />
+  </g>
+</svg>

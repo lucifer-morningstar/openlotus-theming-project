@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="main" inkscape:version="0.92+devel (f318dbfe43, 2017-10-09, custom)" sodipodi:docname="artikulate-sentence.svg">
+  <sodipodi:namedview id="base" pagecolor="#002466" bordercolor="#ffffff" borderopacity="0.30" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:zoom="37.1673" inkscape:document-units="px" inkscape:current-layer="main" inkscape:document-rotation="0" showgrid="false" inkscape:showpageshadow="false" borderlayer="true" inkscape:window-width="1920" inkscape:window-height="1027" inkscape:window-x="0" inkscape:window-y="24" inkscape:window-maximized="1" units="px" inkscape:cx="6.7489001" inkscape:cy="8.0269054" />
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="ol-defs" />
+  <g id="g850" inkscape:label="#artikulate-sentence" style="stroke:none">
+    <path style="fill:none;stroke:none" d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z" id="boundary" inkscape:label="#boundary" inkscape:connector-curvature="0" />
+    <path inkscape:label="#" inkscape:connector-curvature="0" id="path835" d="m 8,2.4599611 c -3.3133517,0 -5.9994954,1.8108735 -6,4.0449218 0.00251,1.1361312 0.7134447,2.2191881 1.9589844,2.984375 0.02738,0.03179 0.03036,0.049644 0.0625,0.083984 1.94612,2.8990491 6.0390626,3.9667971 6.0390626,3.9667971 C 8.5738984,12.197578 7.9798,11.373219 7.65625,10.538086 c 0.1143936,0.0061 0.229024,0.01003 0.34375,0.01172 3.313352,0 5.999496,-1.8108737 6,-4.0449221 C 13.999495,4.2708346 11.313352,2.4599611 8,2.4599611 Z m -2.8441406,1.878125 h 5.5437496 v 0.875 H 5.1558594 Z m 0,1.6472656 h 5.5437496 v 0.875 H 5.1558594 Z m 0,1.6472656 h 5.5437496 v 0.875 H 5.1558594 Z" style="opacity:0.6;fill:#d0d0d0;stroke:none" sodipodi:nodetypes="scccccccsccccccccccccccc" />
+  </g>
+</svg>

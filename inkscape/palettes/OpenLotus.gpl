@@ -1,0 +1,25 @@
+GIMP Palette
+Name: OpenLotus.gpl
+Columns: 1
+#
+0	36	102	Blueprint
+0	57	169	Selection
+0	92	199	Hover
+25	25	27	View-BackgroundNormal
+32	32	32	Button-BackgroundNormal
+69	69	69	View-BackgroundAlternate
+208	208	208	Text
+255	255	255	White
+128	0	128	Violet
+255	0	255	Fuchsia
+255	141	255	Pink
+0	128	0	Hunter-Green
+0	255	0	Green
+204	255	0	Chartreuse
+255	185	0	Orange
+255	102	0	Orange-Dark
+255	0	0	Red
+120	68	33	Brown-Light
+80	45	22	Brown-Dark
+0	0	0	Black
+255	255	255	White

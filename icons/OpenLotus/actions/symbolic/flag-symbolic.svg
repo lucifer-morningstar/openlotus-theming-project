@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="main" inkscape:version="0.92+devel (8a5208f4a8, 2017-10-10, custom)" sodipodi:docname="flag-symbolic.svg">
+  <sodipodi:namedview id="base" pagecolor="#002466" bordercolor="#ffffff" borderopacity="0.30" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:zoom="37.1673" inkscape:document-units="px" inkscape:current-layer="main" inkscape:document-rotation="0" showgrid="false" inkscape:showpageshadow="false" borderlayer="true" inkscape:window-width="1920" inkscape:window-height="1027" inkscape:window-x="0" inkscape:window-y="24" inkscape:window-maximized="1" units="px" inkscape:cx="6.3722249" inkscape:cy="8.0269054" />
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="ol-defs" />
+  <g id="g853" inkscape:label="#flag-symbolic" style="stroke:none">
+    <path style="fill:none;stroke:none" d="M -5.5000004e-8,-4.9999999e-8 H 16.000001 V 16 H -5.5000004e-8 Z" id="boundary" inkscape:label="#boundary" inkscape:connector-curvature="0" />
+    <path inkscape:label="#" style="opacity:0.6;fill:#d0d0d0;stroke:none;stroke-width:1.15470052" d="M 2.28125,3.2558594 V 11.923828 C 5.6078801,10.478723 8.9348091,9.0343063 12.261719,7.5898438 Z m 9.330078,5.3398437 -4.7128905,2.0449219 2.2695313,1.740234 C 9.9823315,11.119083 10.797506,9.8578284 11.611328,8.5957031 Z m 0.41211,0.5859375 -1.759766,2.7246094 4.017578,-1.744141 z" id="path886" inkscape:connector-curvature="0" />
+  </g>
+</svg>

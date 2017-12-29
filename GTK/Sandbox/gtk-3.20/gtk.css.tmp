@@ -196,7 +196,7 @@ headerbar .subtitle {
 
 assistant .sidebar {
   background-color: #eff0f1;
-  border-top: 1px solid #00ff00; }
+  border-top: 1px solid #616569; }
   assistant .sidebar:backdrop {
     background-color: #eff0f1;
     border-color: #2a2a2e; }
@@ -1997,11 +1997,11 @@ headerbar.selection-mode.suggested-action {
  **************/
 infobar {
   border-style: none;
-  border-bottom: 1px solid #00ff00;
+  border-bottom: 1px solid #616569;
   background-color: #31363b;
   background-image: none; }
   infobar:backdrop {
-    border-bottom: 1px solid #00ff00; }
+    border-bottom: 1px solid #616569; }
 
 .info,
 headerbar.selection-mode,
@@ -2491,7 +2491,7 @@ frame > border,
 
 actionbar > revealer > box {
   padding: 6px;
-  border-top: 1px solid #00ff00; }
+  border-top: 1px solid #616569; }
   actionbar > revealer > box:backdrop {
     border-color: #2a2a2e; }
 
@@ -2917,7 +2917,7 @@ scrolledwindow undershoot {
  ************/
 .path-bar {
   background-color: #31363b;
-  border-bottom: 1px solid #00ff00; }
+  border-bottom: 1px solid #616569; }
 
 .path-bar button {
   border-color: rgba(255, 255, 255, 0);
@@ -3056,40 +3056,43 @@ levelbar block.empty {
  ************/
 scale.fine-tune.trough {
   margin: 8px;
-  border-radius: 8px; }
+  border-radius: 8px; 
+}
 scale slider {
   min-width: 18px;
   min-height: 18px;
   background-color: #31363b;
   border: 1px solid #2a2a2e;
-  border-radius: 8px;
+  border-radius: 12px;
   box-shadow: none;
-  margin: -12px; }
-  scale slider:hover {
-    border-style: solid;
-    border-width: 2px;
-    border-color: #2a2a2e;
-    border-radius: 8px; }
-    scale slider:hover:backdrop {
-      background-color: #31363b;
-      border-color: #2a2a2e; }
-  scale slider:disabled {
-    border-style: solid;
-    border-radius: 8px;
+  margin: -12px;
+}
+scale slider:hover {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #2a2a2e;
+  border-radius: 12px; }
+scale slider:hover:backdrop {
+  background-color: #31363b;
+  border-color: #2a2a2e; }
+scale slider:disabled {
+  border-style: solid;
+  border-radius: 12px;
+  background-color: #31363b;
+  border-color: #2a2a2e; }
+scale slider:disabled:backdrop {
+  background-color: #31363b;
+  border-color: rgba(88, 92, 95, 0.35); }
+scale slider:active {
+  border: 2px solid #2a2a2e; }
+  border: 2px solid #2a2a2e; }
+scale slider:active:backdrop {
+  background-color: #31363b;
+  border-color: #2a2a2e; }
+scale slider:backdrop {
     background-color: #31363b;
     border-color: #2a2a2e; }
-    scale slider:disabled:backdrop {
-      background-color: #31363b;
-      border-color: rgba(88, 92, 95, 0.35); }
-  scale slider:active {
-    border: 2px solid #2a2a2e; }
-    border: 2px solid #2a2a2e; }
-    scale slider:active:backdrop {
-      background-color: #31363b;
-      border-color: #2a2a2e; }
-  scale slider:backdrop {
-    background-color: #31363b;
-    border-color: #2a2a2e; }
+    
 scale trough {
   min-width: 6px;
   min-height: 6px;
@@ -3520,7 +3523,7 @@ treeview.view {
   -GtkTreeView-tree-line-width: 1;
   -GtkTreeView-tree-line-pattern: '';
   -GtkTreeView-expander-size: 16;
-  border-left-color: #00ff00;
+  border-left-color: #616569;
   border-top-color: transparent; }
   treeview.view:selected {
     border-radius: 0; }
@@ -3546,7 +3549,7 @@ treeview.view {
   treeview.view.separator:backdrop {
     color: #616569; }
   treeview.view:backdrop {
-    border-left-color: #00ff00; }
+    border-left-color: #616569; }
   treeview.view:drop(active) {
     border-style: solid none;
     border-width: 1px;

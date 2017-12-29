@@ -3056,43 +3056,53 @@ levelbar block.empty {
  ************/
 scale.fine-tune.trough {
   margin: 8px;
-  border-radius: 8px; }
+  border-radius: 8px; 
+}
 scale slider {
   min-width: 18px;
   min-height: 18px;
-  background-color: #31363b;
-  border: 1px solid #2a2a2e;
-  border-radius: 8px;
+  background-color: #005cc7;
+  border: 1px solid #0039a9;
+  border-radius: 12px;
   box-shadow: none;
-  margin: -12px; }
-  scale slider:hover {
-    border-style: solid;
-    border-width: 2px;
-    border-color: #2a2a2e;
-    border-radius: 8px; }
-    scale slider:hover:backdrop {
-      background-color: #31363b;
-      border-color: #2a2a2e; }
-  scale slider:disabled {
-    border-style: solid;
-    border-radius: 8px;
-    background-color: #31363b;
-    border-color: #2a2a2e; }
-    scale slider:disabled:backdrop {
-      background-color: #31363b;
-      border-color: rgba(88, 92, 95, 0.35); }
-  scale slider:active {
-    border: 2px solid #2a2a2e; }
-    border: 2px solid #2a2a2e; }
-    scale slider:active:backdrop {
-      background-color: #31363b;
-      border-color: #2a2a2e; }
-  scale slider:backdrop {
-    background-color: #31363b;
-    border-color: #2a2a2e; }
+  margin: -12px;
+}
+scale slider:hover {
+  background-color: #0072f7;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #005cc7;
+  border-radius: 12px;    
+}
+scale slider:hover:backdrop {
+  background-color: #323239;
+  border-color: #2a2a2e;    
+}
+scale slider:disabled {
+  border-style: solid;
+  border-radius: 12px;
+  background-color: #424449;
+  border-color: #2a2a2e;    
+}
+scale slider:disabled:backdrop {
+  background-color: #323239;
+  border-color: rgba(88, 92, 95, 0.35);   
+}
+scale slider:active {
+  border: 2px solid #0039a9;    
+}
+scale slider:active:backdrop {
+  background-color: #323239;
+  border-color: #2a2a2e;     
+}
+scale slider:backdrop {
+    background-color: #323239;
+    border-color: #2a2a2e;    
+}
+    
 scale trough {
-  min-width: 6px;
-  min-height: 6px;
+  min-width: 8px;
+  min-height: 8px;
   margin: 9px;
   border: 0px solid;
   border-radius: 8px;
